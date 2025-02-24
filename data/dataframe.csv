@@ -1,0 +1,2 @@
+text_hash,text,audio_file,synthesis_time,voice_name,speaking_rate,pitch
+884650908637062659,"Ciao, come stai?",data/audio/884650908637062659.mp3,1.5108500929927686,it-IT-Wavenet-D,0.75,0

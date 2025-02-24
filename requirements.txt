@@ -1,0 +1,6 @@
+google-cloud-texttospeech
+pandas
+tqdm
+matplotlib
+numpy
+ipykernel
