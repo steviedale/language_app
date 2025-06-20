@@ -1,2 +1,8 @@
 text_hash,text,audio_file,synthesis_time,voice_name,speaking_rate,pitch
-884650908637062659,"Ciao, come stai?",data/audio/884650908637062659.mp3,1.5108500929927686,it-IT-Wavenet-D,0.75,0
+3b078a08-8201-5eee-a5df-b19d0b4aebe1,"Ciao, come stai?",data/audio/3b078a08-8201-5eee-a5df-b19d0b4aebe1.mp3,0.500140416,it-IT-Wavenet-D,0.5,0
+65ab337b-94fb-53b2-8309-597130861e84,"Ciao, come stai?",data/audio/65ab337b-94fb-53b2-8309-597130861e84.mp3,0.29748433399999996,it-IT-Wavenet-D,0.75,0
+8483293a-b41c-5a43-b594-5113e626fc0a,Quello laggiù,data/audio/8483293a-b41c-5a43-b594-5113e626fc0a.mp3,0.19561383300000035,it-IT-Wavenet-D,0.5,0
+f8de8966-2730-5b0d-9e70-744d0c84ebee,Quello laggiù,data/audio/f8de8966-2730-5b0d-9e70-744d0c84ebee.mp3,0.3905962920000001,it-IT-Wavenet-D,0.75,0
+67e7fafa-f2c8-5a94-be40-17c51baf648a,vorrei un tavolo per due vicino alla finestra,data/audio/67e7fafa-f2c8-5a94-be40-17c51baf648a.mp3,0.2109468339999978,it-IT-Wavenet-D,0.5,0
+392634f3-e8a9-5570-b37b-6f984cb7015e,vorrei un tavolo per due vicino alla finestra,data/audio/392634f3-e8a9-5570-b37b-6f984cb7015e.mp3,0.2551809169999899,it-IT-Wavenet-D,0.75,0
+69b1616c-ae79-5a21-a4a1-abd1bacc1aed,vorrei un tavolo per due vicino alla finestra,data/audio/69b1616c-ae79-5a21-a4a1-abd1bacc1aed.mp3,0.3509792499999662,it-IT-Wavenet-D,0.7,0
