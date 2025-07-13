@@ -1,0 +1,464 @@
+[
+  {
+    "english": {
+      "text": "the store / the shop",
+      "hash": "3a5cb1f8e4667329318af48f7b254006d24492d0c928d5e6b2404dc930794d9a",
+      "audio_file": "data/audio/3a5cb1f8e4667329318af48f7b254006d24492d0c928d5e6b2404dc930794d9a.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1776
+    },
+    "italian": {
+      "text": "il negozio",
+      "hash": "125bb51ee04302776673e333851d0d1cc928bb07f1cce7a085cbae312cc5bb7b",
+      "audio_file": "data/audio/125bb51ee04302776673e333851d0d1cc928bb07f1cce7a085cbae312cc5bb7b.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1344
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/0.mp3"
+  },
+  {
+    "english": {
+      "text": "a bakery",
+      "hash": "92b5a3090b6df2c35c96e79ebd5febb78407a7d632bda4334b35ed2dd1b1ae1a",
+      "audio_file": "data/audio/92b5a3090b6df2c35c96e79ebd5febb78407a7d632bda4334b35ed2dd1b1ae1a.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1128
+    },
+    "italian": {
+      "text": "un panificio / una panetteria",
+      "hash": "abfd151bcc7642eb14bf3df1d092423d8727b0395521eb0b333835a769c36db4",
+      "audio_file": "data/audio/abfd151bcc7642eb14bf3df1d092423d8727b0395521eb0b333835a769c36db4.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 3000
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/1.mp3"
+  },
+  {
+    "english": {
+      "text": "the butcher",
+      "hash": "3769e9bc138bccbd118eaaab08799e71c25d51655892d06f9847db92987bbdc6",
+      "audio_file": "data/audio/3769e9bc138bccbd118eaaab08799e71c25d51655892d06f9847db92987bbdc6.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1008
+    },
+    "italian": {
+      "text": "il macellaio",
+      "hash": "8af47ad7b5d51da74e306599c06ded472150c2a5bf8b27b5de29de3772f22fdd",
+      "audio_file": "data/audio/8af47ad7b5d51da74e306599c06ded472150c2a5bf8b27b5de29de3772f22fdd.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1512
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/2.mp3"
+  },
+  {
+    "english": {
+      "text": "a pharmacy",
+      "hash": "deb381728cf81e7bd0321106876ea2852010731f0f04f60cd7db6a05f9d5a87e",
+      "audio_file": "data/audio/deb381728cf81e7bd0321106876ea2852010731f0f04f60cd7db6a05f9d5a87e.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1200
+    },
+    "italian": {
+      "text": "una farmacia",
+      "hash": "779428afa38c813d32c5762834b66cc4800d0a11667e88778ef56e19beadeb48",
+      "audio_file": "data/audio/779428afa38c813d32c5762834b66cc4800d0a11667e88778ef56e19beadeb48.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1512
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/3.mp3"
+  },
+  {
+    "english": {
+      "text": "the supermarket",
+      "hash": "e2a18d2474b1bdd2a496704905fd5ea0b1ba972888e89d031eae1f8d9a0b2b47",
+      "audio_file": "data/audio/e2a18d2474b1bdd2a496704905fd5ea0b1ba972888e89d031eae1f8d9a0b2b47.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1224
+    },
+    "italian": {
+      "text": "il supermercato",
+      "hash": "7e80642b254ff759c8c966b2d3f43da01bfd0b49a8c4dc150bc5a3b3e47a8995",
+      "audio_file": "data/audio/7e80642b254ff759c8c966b2d3f43da01bfd0b49a8c4dc150bc5a3b3e47a8995.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1728
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/4.mp3"
+  },
+  {
+    "english": {
+      "text": "the pastry shop",
+      "hash": "c369f3dad897b2fc199aa5496dfb5bd9428239a7c2e15686028ada8ebe53c85c",
+      "audio_file": "data/audio/c369f3dad897b2fc199aa5496dfb5bd9428239a7c2e15686028ada8ebe53c85c.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1344
+    },
+    "italian": {
+      "text": "la pasticceria",
+      "hash": "9ddb1e6cd1dd458facbaa9648d35a3950697e2e0bf77bfbfc90f7a24fa125c66",
+      "audio_file": "data/audio/9ddb1e6cd1dd458facbaa9648d35a3950697e2e0bf77bfbfc90f7a24fa125c66.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1608
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/5.mp3"
+  },
+  {
+    "english": {
+      "text": "the office",
+      "hash": "09ac7dbe127ca1265fd44ad568bee70c1c451d69951afa5b33b1be05f159ea55",
+      "audio_file": "data/audio/09ac7dbe127ca1265fd44ad568bee70c1c451d69951afa5b33b1be05f159ea55.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1032
+    },
+    "italian": {
+      "text": "l'ufficio",
+      "hash": "03b7fc4d47496327db47cd25656458a292c7429ab9eed2c8fae93c27d0a20ddd",
+      "audio_file": "data/audio/03b7fc4d47496327db47cd25656458a292c7429ab9eed2c8fae93c27d0a20ddd.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1200
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/6.mp3"
+  },
+  {
+    "english": {
+      "text": "the post office",
+      "hash": "618e3c12c75a8916ed00e77915401b3c7a275cf26c244b0cced0bb69d42ab0df",
+      "audio_file": "data/audio/618e3c12c75a8916ed00e77915401b3c7a275cf26c244b0cced0bb69d42ab0df.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1320
+    },
+    "italian": {
+      "text": "l'ufficio postale / la posta",
+      "hash": "f6ce96238cd6fffb7f8ce2c7a135fa02ee3e4cae20c3848f90fb4a65226d6c27",
+      "audio_file": "data/audio/f6ce96238cd6fffb7f8ce2c7a135fa02ee3e4cae20c3848f90fb4a65226d6c27.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2808
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/7.mp3"
+  },
+  {
+    "english": {
+      "text": "a laundry",
+      "hash": "4143c06dba4255252841a0cbcd9e04aa615b7271f96693b7d5ae68382066f8b2",
+      "audio_file": "data/audio/4143c06dba4255252841a0cbcd9e04aa615b7271f96693b7d5ae68382066f8b2.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1056
+    },
+    "italian": {
+      "text": "una lavanderia",
+      "hash": "e5f78e3eddc61ef85a4466cc5e6148e53a4eaa53c9a60ecae64160d06af43d7b",
+      "audio_file": "data/audio/e5f78e3eddc61ef85a4466cc5e6148e53a4eaa53c9a60ecae64160d06af43d7b.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1536
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/8.mp3"
+  },
+  {
+    "english": {
+      "text": "the barber",
+      "hash": "361ff926579618fcd5f0373c31dd67ee8b11790d77cb402b326f26454cec85af",
+      "audio_file": "data/audio/361ff926579618fcd5f0373c31dd67ee8b11790d77cb402b326f26454cec85af.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1008
+    },
+    "italian": {
+      "text": "il barbiere",
+      "hash": "0266c949809439bd3da383b4e9986145204ab5be4d9556e3ddfe13b3f875be47",
+      "audio_file": "data/audio/0266c949809439bd3da383b4e9986145204ab5be4d9556e3ddfe13b3f875be47.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1272
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/9.mp3"
+  },
+  {
+    "english": {
+      "text": "the hair dresser",
+      "hash": "4030564cfa50ebe213e29bf641ab60b39224c83c7604b85fb208b6016e63a106",
+      "audio_file": "data/audio/4030564cfa50ebe213e29bf641ab60b39224c83c7604b85fb208b6016e63a106.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1248
+    },
+    "italian": {
+      "text": "il parrucchiere",
+      "hash": "ac69f8c31b0e67c3748b0e7a11d34514dc5e4a2d5a654f6a6253cfbae985fb3e",
+      "audio_file": "data/audio/ac69f8c31b0e67c3748b0e7a11d34514dc5e4a2d5a654f6a6253cfbae985fb3e.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1464
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/10.mp3"
+  },
+  {
+    "english": {
+      "text": "a beauty salon",
+      "hash": "2e9e7dcefdeccb18e1b7bf0aba9b600a93d75402d0a7091e2dad0db815c11e8a",
+      "audio_file": "data/audio/2e9e7dcefdeccb18e1b7bf0aba9b600a93d75402d0a7091e2dad0db815c11e8a.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1296
+    },
+    "italian": {
+      "text": "un salone di bellezza",
+      "hash": "252ccd888cc2e63f95d942f4bf45520ea70f04b7fef9ef49026925007dbc68dd",
+      "audio_file": "data/audio/252ccd888cc2e63f95d942f4bf45520ea70f04b7fef9ef49026925007dbc68dd.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1992
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/11.mp3"
+  },
+  {
+    "english": {
+      "text": "a book shop",
+      "hash": "a1f4217cb9ab2a0e488a780ac6c9fce03713a44fd9b62500644d5fff4bac2613",
+      "audio_file": "data/audio/a1f4217cb9ab2a0e488a780ac6c9fce03713a44fd9b62500644d5fff4bac2613.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1056
+    },
+    "italian": {
+      "text": "una libreria",
+      "hash": "8467124f9f9e655e1a7d691fc3e5da7e087ab6ef7e19bacb3dc01b628a3174f6",
+      "audio_file": "data/audio/8467124f9f9e655e1a7d691fc3e5da7e087ab6ef7e19bacb3dc01b628a3174f6.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1392
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/12.mp3"
+  },
+  {
+    "english": {
+      "text": "the department store",
+      "hash": "66e09cbf385c71ef8eda4dc61cab3418a23b4eb260923a1c142b3b53f0f3c1cf",
+      "audio_file": "data/audio/66e09cbf385c71ef8eda4dc61cab3418a23b4eb260923a1c142b3b53f0f3c1cf.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1464
+    },
+    "italian": {
+      "text": "il grande magazzino",
+      "hash": "ad232f7d8a20149b0e3c14caad382c63d0c1c1ba7915522e001edfe2316285f1",
+      "audio_file": "data/audio/ad232f7d8a20149b0e3c14caad382c63d0c1c1ba7915522e001edfe2316285f1.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1872
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/13.mp3"
+  },
+  {
+    "english": {
+      "text": "a market",
+      "hash": "8559d48d93e914d12d8af562bbaa1555d117b7f95bc44ecc559378690cf486cc",
+      "audio_file": "data/audio/8559d48d93e914d12d8af562bbaa1555d117b7f95bc44ecc559378690cf486cc.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 912
+    },
+    "italian": {
+      "text": "un mercato",
+      "hash": "fb9ab0264262d5b99235eb3820632f91ed714ae0e1dfab6ad9d75c6171c9feca",
+      "audio_file": "data/audio/fb9ab0264262d5b99235eb3820632f91ed714ae0e1dfab6ad9d75c6171c9feca.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1320
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/14.mp3"
+  },
+  {
+    "english": {
+      "text": "the police station",
+      "hash": "5f3b1cf7d6c456b1113e625507e9d990a4a5bd683f68232c07928f7cba4798d8",
+      "audio_file": "data/audio/5f3b1cf7d6c456b1113e625507e9d990a4a5bd683f68232c07928f7cba4798d8.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1320
+    },
+    "italian": {
+      "text": "la stazione di polizia",
+      "hash": "af4fe2f937912352b5abac79a2807ba11748830f09a4b7bd2f970ef7a0f16480",
+      "audio_file": "data/audio/af4fe2f937912352b5abac79a2807ba11748830f09a4b7bd2f970ef7a0f16480.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2136
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/15.mp3"
+  },
+  {
+    "english": {
+      "text": "a restaurant",
+      "hash": "334fc9f975b50f0e6be4184022c5c2ab42719cd75b490862689616370b28671f",
+      "audio_file": "data/audio/334fc9f975b50f0e6be4184022c5c2ab42719cd75b490862689616370b28671f.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1056
+    },
+    "italian": {
+      "text": "un ristorante",
+      "hash": "23d492c43fb4bd0115af9b3171f310cd7ce0dbbf373d4ce1a27f69657ae7e5ca",
+      "audio_file": "data/audio/23d492c43fb4bd0115af9b3171f310cd7ce0dbbf373d4ce1a27f69657ae7e5ca.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1488
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/16.mp3"
+  },
+  {
+    "english": {
+      "text": "the cafe / the coffee house",
+      "hash": "dd5bbcbb7a82b7d2cace6b4b4ce39daae1213dfa85f9d3920f1df0a2b7ff9803",
+      "audio_file": "data/audio/dd5bbcbb7a82b7d2cace6b4b4ce39daae1213dfa85f9d3920f1df0a2b7ff9803.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 2304
+    },
+    "italian": {
+      "text": "il caffè / il bar",
+      "hash": "35c9398bc6c44016f6ab61aa5873cdeb22ede212985bcc24e21255bc5374dbbf",
+      "audio_file": "data/audio/35c9398bc6c44016f6ab61aa5873cdeb22ede212985bcc24e21255bc5374dbbf.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1992
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/17.mp3"
+  },
+  {
+    "english": {
+      "text": "an agency",
+      "hash": "79dba08f159554c6909bd114d25f762f1fec6a4e518fb538faf707a0272d6c20",
+      "audio_file": "data/audio/79dba08f159554c6909bd114d25f762f1fec6a4e518fb538faf707a0272d6c20.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1200
+    },
+    "italian": {
+      "text": "un'agenzia",
+      "hash": "ca214ed39f7ccb8cecf666e3b49bdb84f4132c4b9a693c24ba9063e3f2df262f",
+      "audio_file": "data/audio/ca214ed39f7ccb8cecf666e3b49bdb84f4132c4b9a693c24ba9063e3f2df262f.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1344
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/18.mp3"
+  },
+  {
+    "english": {
+      "text": "a travel agency",
+      "hash": "5c8dbb66ca771dc6c5595625af97fc18522b96424c17068c3439e12cf9e3bb78",
+      "audio_file": "data/audio/5c8dbb66ca771dc6c5595625af97fc18522b96424c17068c3439e12cf9e3bb78.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1512
+    },
+    "italian": {
+      "text": "un'agenzia viaggi",
+      "hash": "502747c69607398a033d9e1956c5f79ed8a0072f96763dbe7ed8f155a10c066c",
+      "audio_file": "data/audio/502747c69607398a033d9e1956c5f79ed8a0072f96763dbe7ed8f155a10c066c.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1896
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/19.mp3"
+  },
+  {
+    "english": {
+      "text": "the deli",
+      "hash": "57243fc4bebb5a3449941757629c4448295db9528d1acd88935fee1edce5ab9f",
+      "audio_file": "data/audio/57243fc4bebb5a3449941757629c4448295db9528d1acd88935fee1edce5ab9f.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1008
+    },
+    "italian": {
+      "text": "la salumeria",
+      "hash": "b81548eb33fca40733ec4f07f12849e84f0ee9f723a44445d9d6288ddc48dabe",
+      "audio_file": "data/audio/b81548eb33fca40733ec4f07f12849e84f0ee9f723a44445d9d6288ddc48dabe.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1464
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/20.mp3"
+  },
+  {
+    "english": {
+      "text": "an ice cream parlor",
+      "hash": "af109b5ca2549b01bbb56ee13b9ead91274135c8fc4bf15f9da2dfea6833f051",
+      "audio_file": "data/audio/af109b5ca2549b01bbb56ee13b9ead91274135c8fc4bf15f9da2dfea6833f051.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1488
+    },
+    "italian": {
+      "text": "una gelateria",
+      "hash": "a74a100793972f7eeb5bc5eb76be25f317f2a123ce6c8b2a0eec4cf0d225872c",
+      "audio_file": "data/audio/a74a100793972f7eeb5bc5eb76be25f317f2a123ce6c8b2a0eec4cf0d225872c.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1560
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_18_shops/audio/21.mp3"
+  }
+]

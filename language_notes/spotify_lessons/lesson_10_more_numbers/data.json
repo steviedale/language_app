@@ -1,0 +1,212 @@
+[
+  {
+    "english": {
+      "text": "eleven",
+      "hash": "50196d690cbb951e24f4c546da5651fb257d1967819e1a7f1280bfddb2ef02fd",
+      "audio_file": "data/audio/50196d690cbb951e24f4c546da5651fb257d1967819e1a7f1280bfddb2ef02fd.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 840
+    },
+    "italian": {
+      "text": "undici",
+      "hash": "4ae439244d7cbfff700e9b308e1c370977e3755456a33f07161f23b2cb733e1a",
+      "audio_file": "data/audio/4ae439244d7cbfff700e9b308e1c370977e3755456a33f07161f23b2cb733e1a.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1080
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/0.mp3"
+  },
+  {
+    "english": {
+      "text": "twelve",
+      "hash": "7879ebc6249b1a250661d2b7d3eef474b0f3336948480e4f51f8b9920cb3e833",
+      "audio_file": "data/audio/7879ebc6249b1a250661d2b7d3eef474b0f3336948480e4f51f8b9920cb3e833.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 792
+    },
+    "italian": {
+      "text": "dodici",
+      "hash": "2739d7d824aec61b5a1c863a1f4be6857fdba701b2a8396cf71877dbd2e5d937",
+      "audio_file": "data/audio/2739d7d824aec61b5a1c863a1f4be6857fdba701b2a8396cf71877dbd2e5d937.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1152
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/1.mp3"
+  },
+  {
+    "english": {
+      "text": "thirteen",
+      "hash": "915c20eb8be37a41fb2d4dc0b03c8a72968881db21896d492af132b48e4ae560",
+      "audio_file": "data/audio/915c20eb8be37a41fb2d4dc0b03c8a72968881db21896d492af132b48e4ae560.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 936
+    },
+    "italian": {
+      "text": "tredici",
+      "hash": "183c58cc1ff26ed147737168016b284e11edeab29666fce9c36696ef60b6f843",
+      "audio_file": "data/audio/183c58cc1ff26ed147737168016b284e11edeab29666fce9c36696ef60b6f843.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1104
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/2.mp3"
+  },
+  {
+    "english": {
+      "text": "fourteen",
+      "hash": "18de3b0ffdda91cff186c6db380dfbdd5ac746d815776b1806fe41e6e34aa302",
+      "audio_file": "data/audio/18de3b0ffdda91cff186c6db380dfbdd5ac746d815776b1806fe41e6e34aa302.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 960
+    },
+    "italian": {
+      "text": "quattordici",
+      "hash": "b38070cc4d576124676e27b16f646c6aa491062bf300005606771b3ede9845d3",
+      "audio_file": "data/audio/b38070cc4d576124676e27b16f646c6aa491062bf300005606771b3ede9845d3.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1392
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/3.mp3"
+  },
+  {
+    "english": {
+      "text": "fifteen",
+      "hash": "3eedeece1428933585dbd121ec9dced6c2c988c87fea60742574fdac438a1490",
+      "audio_file": "data/audio/3eedeece1428933585dbd121ec9dced6c2c988c87fea60742574fdac438a1490.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 960
+    },
+    "italian": {
+      "text": "quindici",
+      "hash": "5a9d63a17164bd00086b056ead5e02171ea9b4fdc6386fa72b4cb76e112ef74d",
+      "audio_file": "data/audio/5a9d63a17164bd00086b056ead5e02171ea9b4fdc6386fa72b4cb76e112ef74d.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1152
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/4.mp3"
+  },
+  {
+    "english": {
+      "text": "sixteen",
+      "hash": "4730274bd22d48133a69d3130c68849265b1fc233097577c5e25ca8713b3a9be",
+      "audio_file": "data/audio/4730274bd22d48133a69d3130c68849265b1fc233097577c5e25ca8713b3a9be.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1032
+    },
+    "italian": {
+      "text": "sedici",
+      "hash": "812d9e91a200ba75265d355f227eeea02e29159c49d3b6f801c4eeaf248f074c",
+      "audio_file": "data/audio/812d9e91a200ba75265d355f227eeea02e29159c49d3b6f801c4eeaf248f074c.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1224
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/5.mp3"
+  },
+  {
+    "english": {
+      "text": "seventeen",
+      "hash": "0093de5b182a27917518d2e74dbbb9fc5c11606c29e39b254192585533ad2f69",
+      "audio_file": "data/audio/0093de5b182a27917518d2e74dbbb9fc5c11606c29e39b254192585533ad2f69.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1104
+    },
+    "italian": {
+      "text": "diciassette",
+      "hash": "0ff25a448e3030af5db772f1610a752c41463dc625acc90e2a66f28033850576",
+      "audio_file": "data/audio/0ff25a448e3030af5db772f1610a752c41463dc625acc90e2a66f28033850576.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1416
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/6.mp3"
+  },
+  {
+    "english": {
+      "text": "eighteen",
+      "hash": "d88011c196fbbb1514557ef6273d96cd5ac3f764cee34b6be97c19a185228ac7",
+      "audio_file": "data/audio/d88011c196fbbb1514557ef6273d96cd5ac3f764cee34b6be97c19a185228ac7.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 888
+    },
+    "italian": {
+      "text": "diciotto",
+      "hash": "7188fa98cdaa8d5e0a40de2f43b4f2458d5025685bfdd204826670cc62967ba8",
+      "audio_file": "data/audio/7188fa98cdaa8d5e0a40de2f43b4f2458d5025685bfdd204826670cc62967ba8.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1224
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/7.mp3"
+  },
+  {
+    "english": {
+      "text": "nineteen",
+      "hash": "bbc9b8ad0bcdaa464f8f8785d781e4bad75b50002c2eb1054f43055fe86ed2bc",
+      "audio_file": "data/audio/bbc9b8ad0bcdaa464f8f8785d781e4bad75b50002c2eb1054f43055fe86ed2bc.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 984
+    },
+    "italian": {
+      "text": "diciannove",
+      "hash": "ab4d2a0cf4cfcf57b094e8035b02288a312a8893684b412a217326380e08a17e",
+      "audio_file": "data/audio/ab4d2a0cf4cfcf57b094e8035b02288a312a8893684b412a217326380e08a17e.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1272
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/8.mp3"
+  },
+  {
+    "english": {
+      "text": "twenty",
+      "hash": "5c7e66cea6ed4a90b898ccc08f2b54e0ed62baaf17f6b8e388f2f5074fd91dd7",
+      "audio_file": "data/audio/5c7e66cea6ed4a90b898ccc08f2b54e0ed62baaf17f6b8e388f2f5074fd91dd7.mp3",
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 864
+    },
+    "italian": {
+      "text": "venti",
+      "hash": "65ef97cbb32f1fd1d9fca021b2990a58bb001b28af6586b4304a2f99a7201667",
+      "audio_file": "data/audio/65ef97cbb32f1fd1d9fca021b2990a58bb001b28af6586b4304a2f99a7201667.mp3",
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1056
+    },
+    "combined_audio_file": "language_notes/spotify_lessons/lesson_10_more_numbers/audio/9.mp3"
+  }
+]

@@ -1,0 +1,47 @@
+I'm creating a language learning app (learning Italian for English speakers). It is going to be a general tool that allows beginners to learn simple words and short phrases. However, I need to come up with a list of common words and phrases and more importantly find a way to organize them. For example, I would like to have a category of "questions" which would have "what", "where", "why", "which", "how". Maybe another category would be "nouns/places/cities" which would be three folders/sections deep with "milan", "rome", "venice". Another would be " 
+
+
+Subject Pronouns:
+Used as the subject (the person/thing doing the action) of a sentence.
+Singular: I, you, he, she, it
+Plural: we, they
+Examples: 
+    I like pizza.
+    THEY are my friends.
+
+Object Pronouns:
+Used as the object (the person/thing receiving the action) of a sentence.
+Singular: me, you, him, her, it
+Plural: us, them
+Examples:
+    Give it to ME.
+    I saw HER yesterday.
+    We talked to THEM.
+
+Possesive Pronouns:
+Show ownership or belonging.
+Singular: mine, yours, his, hers
+Plural: ours, theirs
+Examples:
+    This book is MINE.
+    That car is HERS.
+    The house is OURS.
+
+Possessive Adjectives (also called Determiners):
+These are similar to possessive pronouns but used before a noun.
+Singular: my, your, his, her, its
+Plural: our, your, their
+Examples:
+    That's MY dog.
+    This is THEIR house.
+    Where's YOUR phone.
+
+Reflexive Pronouns:
+Refer back to the subject of the sentence.
+Singular: myself, yourself, himself, herself, itself
+Plural: ourselves, yourselves, themselves
+Examples:
+    I made it MYSELF.
+    They built the house THEMSELVES.
+
+

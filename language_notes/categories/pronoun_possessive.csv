@@ -1,0 +1,33 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,possessive,mine,Belonging to me.,il mio,,singular,n/a,masculine,1,pronoun,n/a,This is mine.,,,definite
+pronoun,possessive,mine,Belonging to me.,la mia,,singular,n/a,feminine,1,pronoun,n/a,This is mine.,,,definite
+pronoun,possessive,mine,Belonging to me.,i miei,,plural,n/a,masculine,1,pronoun,n/a,This is mine.,,,definite
+pronoun,possessive,mine,Belonging to me.,le mie,,plural,n/a,feminine,1,pronoun,n/a,This is mine.,,,definite
+pronoun,possessive,yours (informal),Belonging to you (informal).,il tuo,,singular,n/a,masculine,1,pronoun,informal,This is yours (informal).,,,definite
+pronoun,possessive,yours (informal),Belonging to you (informal).,la tua,,singular,n/a,feminine,1,pronoun,n/a,This is yours (informal).,,,definite
+pronoun,possessive,yours (informal),Belonging to you (informal).,i tuoi,,plural,n/a,masculine,1,pronoun,informal,This is yours (informal).,,,definite
+pronoun,possessive,yours (informal),Belonging to you (informal).,le tue,,plural,n/a,feminine,1,pronoun,n/a,This is yours (informal).,,,definite
+pronoun,possessive,yours (formal),Belonging to you (formal).,il Suo,,singular,n/a,masculine,1,pronoun,formal,This is yours (formal).,,,definite
+pronoun,possessive,yours (formal),Belonging to you (formal).,la Sua,,singular,n/a,feminine,1,pronoun,n/a,This is yours (formal).,,,definite
+pronoun,possessive,yours (formal),Belonging to you (formal).,i Suoi,,plural,n/a,masculine,1,pronoun,formal,This is yours (formal).,,,definite
+pronoun,possessive,yours (formal),Belonging to you (formal).,le Sue,,plural,n/a,feminine,1,pronoun,n/a,This is yours (formal).,,,definite
+pronoun,possessive,his,Belonging to him.,il suo,,singular,n/a,masculine,1,pronoun,n/a,This is his.,,,definite
+pronoun,possessive,his,Belonging to him.,la sua,,singular,n/a,feminine,1,pronoun,n/a,This is his.,,,definite
+pronoun,possessive,his,Belonging to him.,i suoi,,plural,n/a,masculine,1,pronoun,n/a,This is his.,,,definite
+pronoun,possessive,his,Belonging to him.,le sue,,plural,n/a,feminine,1,pronoun,n/a,This is his.,,,definite
+pronoun,possessive,hers,Belonging to her.,il suo,,singular,n/a,masculine,1,pronoun,n/a,This is hers.,,,definite
+pronoun,possessive,hers,Belonging to her.,la sua,,singular,n/a,feminine,1,pronoun,n/a,This is hers.,,,definite
+pronoun,possessive,hers,Belonging to her.,i suoi,,plural,n/a,masculine,1,pronoun,n/a,This is hers.,,,definite
+pronoun,possessive,hers,Belonging to her.,le sue,,plural,n/a,feminine,1,pronoun,n/a,This is hers.,,,definite
+pronoun,possessive,ours,Belonging to us.,il nostro,,singular,n/a,masculine,1,pronoun,n/a,This is ours.,,,definite
+pronoun,possessive,ours,Belonging to us.,la nostra,,singular,n/a,feminine,1,pronoun,n/a,This is ours.,,,definite
+pronoun,possessive,ours,Belonging to us.,i nostri,,plural,n/a,masculine,1,pronoun,n/a,This is ours.,,,definite
+pronoun,possessive,ours,Belonging to us.,le nostre,,plural,n/a,feminine,1,pronoun,n/a,This is ours.,,,definite
+pronoun,possessive,yours (plural),Belonging to you all.,il vostro,,singular,n/a,masculine,1,pronoun,n/a,This is yours (plural).,,,definite
+pronoun,possessive,yours (plural),Belonging to you all.,la vostra,,singular,n/a,feminine,1,pronoun,n/a,This is yours (plural).,,,definite
+pronoun,possessive,yours (plural),Belonging to you all.,i vostri,,plural,n/a,masculine,1,pronoun,n/a,This is yours (plural).,,,definite
+pronoun,possessive,yours (plural),Belonging to you all.,le vostre,,plural,n/a,feminine,1,pronoun,n/a,This is yours (plural).,,,definite
+pronoun,possessive,theirs,Belonging to them.,il loro,,singular,n/a,masculine,1,pronoun,n/a,This is theirs.,,,definite
+pronoun,possessive,theirs,Belonging to them.,la loro,,singular,n/a,feminine,1,pronoun,n/a,This is theirs.,,,definite
+pronoun,possessive,theirs,Belonging to them.,i loro,,plural,n/a,masculine,1,pronoun,n/a,This is theirs.,,,definite
+pronoun,possessive,theirs,Belonging to them.,le loro,,plural,n/a,feminine,1,pronoun,n/a,This is theirs.,,,definite

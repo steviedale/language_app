@@ -1,0 +1,61 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+verb,travel,to travel,To go from one place to another.,viaggio,vyah-JAH-reh,n/a,present,n/a,1,verb,n/a,To travel during your trip.,,,n/a
+verb,travel,to travel,To go from one place to another.,ho viaggiato,vyah-JAH-reh,n/a,past,n/a,1,verb,n/a,To travel during your trip.,,,n/a
+verb,travel,to travel,To go from one place to another.,viaggerò,vyah-JAH-reh,n/a,future,n/a,1,verb,n/a,To travel during your trip.,,,n/a
+verb,travel,to leave,To go away from a place.,parto,par-TEE-reh,n/a,present,n/a,1,verb,n/a,To leave during your trip.,,,n/a
+verb,travel,to leave,To go away from a place.,sono partito/a,par-TEE-reh,n/a,past,n/a,1,verb,n/a,To leave during your trip.,,,n/a
+verb,travel,to leave,To go away from a place.,partirò,par-TEE-reh,n/a,future,n/a,1,verb,n/a,To leave during your trip.,,,n/a
+verb,travel,to arrive,To reach a destination.,arrivo,ahr-ree-VAH-reh,n/a,present,n/a,1,verb,n/a,To arrive during your trip.,,,n/a
+verb,travel,to arrive,To reach a destination.,sono arrivato/a,ahr-ree-VAH-reh,n/a,past,n/a,1,verb,n/a,To arrive during your trip.,,,n/a
+verb,travel,to arrive,To reach a destination.,arriverò,ahr-ree-VAH-reh,n/a,future,n/a,1,verb,n/a,To arrive during your trip.,,,n/a
+verb,travel,to fly,To travel by air.,volo,voh-LAH-reh,n/a,present,n/a,1,verb,n/a,To fly during your trip.,,,n/a
+verb,travel,to fly,To travel by air.,ho volato,voh-LAH-reh,n/a,past,n/a,1,verb,n/a,To fly during your trip.,,,n/a
+verb,travel,to fly,To travel by air.,volerò,voh-LAH-reh,n/a,future,n/a,1,verb,n/a,To fly during your trip.,,,n/a
+verb,travel,to drive,To operate a car or other vehicle.,guido,gwee-DAH-reh,n/a,present,n/a,1,verb,n/a,To drive during your trip.,,,n/a
+verb,travel,to drive,To operate a car or other vehicle.,ho guidato,gwee-DAH-reh,n/a,past,n/a,1,verb,n/a,To drive during your trip.,,,n/a
+verb,travel,to drive,To operate a car or other vehicle.,guiderò,gwee-DAH-reh,n/a,future,n/a,1,verb,n/a,To drive during your trip.,,,n/a
+verb,travel,to ride,To travel on or in a vehicle or animal.,vado in,ahn-DAH-reh een,n/a,present,n/a,1,verb,n/a,To ride during your trip.,,,n/a
+verb,travel,to ride,To travel on or in a vehicle or animal.,sono andato/a in,ahn-DAH-reh een,n/a,past,n/a,1,verb,n/a,To ride during your trip.,,,n/a
+verb,travel,to ride,To travel on or in a vehicle or animal.,andrò in,ahn-DAH-reh een,n/a,future,n/a,1,verb,n/a,To ride during your trip.,,,n/a
+verb,travel,to book,To reserve accommodations or tickets.,prenoto,preh-no-TAH-reh,n/a,present,n/a,1,verb,n/a,To book during your trip.,,,n/a
+verb,travel,to book,To reserve accommodations or tickets.,ho prenotato,preh-no-TAH-reh,n/a,past,n/a,1,verb,n/a,To book during your trip.,,,n/a
+verb,travel,to book,To reserve accommodations or tickets.,prenoterò,preh-no-TAH-reh,n/a,future,n/a,1,verb,n/a,To book during your trip.,,,n/a
+verb,travel,to pack,To put items into bags or suitcases.,faccio la valigia,FAH-reh lah vah-LEE-jah,n/a,present,n/a,1,verb,n/a,To pack during your trip.,,,n/a
+verb,travel,to pack,To put items into bags or suitcases.,ho fatto la valigia,FAH-reh lah vah-LEE-jah,n/a,past,n/a,1,verb,n/a,To pack during your trip.,,,n/a
+verb,travel,to pack,To put items into bags or suitcases.,farò la valigia,FAH-reh lah vah-LEE-jah,n/a,future,n/a,1,verb,n/a,To pack during your trip.,,,n/a
+verb,travel,to check in,To register at an airport or hotel.,faccio il check-in,FAH-reh eel chek-EEN,n/a,present,n/a,1,verb,n/a,To check in during your trip.,,,n/a
+verb,travel,to check in,To register at an airport or hotel.,ho fatto il check-in,FAH-reh eel chek-EEN,n/a,past,n/a,1,verb,n/a,To check in during your trip.,,,n/a
+verb,travel,to check in,To register at an airport or hotel.,farò il check-in,FAH-reh eel chek-EEN,n/a,future,n/a,1,verb,n/a,To check in during your trip.,,,n/a
+verb,travel,to check out,To leave and settle payment at a hotel.,faccio il check-out,FAH-reh eel chek-OWT,n/a,present,n/a,1,verb,n/a,To check out during your trip.,,,n/a
+verb,travel,to check out,To leave and settle payment at a hotel.,ho fatto il check-out,FAH-reh eel chek-OWT,n/a,past,n/a,1,verb,n/a,To check out during your trip.,,,n/a
+verb,travel,to check out,To leave and settle payment at a hotel.,farò il check-out,FAH-reh eel chek-OWT,n/a,future,n/a,1,verb,n/a,To check out during your trip.,,,n/a
+verb,travel,to wait,To stay in place until something happens.,aspetto,ahs-peht-TAH-reh,n/a,present,n/a,1,verb,n/a,To wait during your trip.,,,n/a
+verb,travel,to wait,To stay in place until something happens.,ho aspettato,ahs-peht-TAH-reh,n/a,past,n/a,1,verb,n/a,To wait during your trip.,,,n/a
+verb,travel,to wait,To stay in place until something happens.,aspetterò,ahs-peht-TAH-reh,n/a,future,n/a,1,verb,n/a,To wait during your trip.,,,n/a
+verb,travel,to ask for directions,To inquire how to get somewhere.,chiedo indicazioni,KYEH-deh-reh een-dee-kah-TSYOH-nee,n/a,present,n/a,1,verb,n/a,To ask for directions during your trip.,,,n/a
+verb,travel,to ask for directions,To inquire how to get somewhere.,ho chiesto indicazioni,KYEH-deh-reh een-dee-kah-TSYOH-nee,n/a,past,n/a,1,verb,n/a,To ask for directions during your trip.,,,n/a
+verb,travel,to ask for directions,To inquire how to get somewhere.,chiederò indicazioni,KYEH-deh-reh een-dee-kah-TSYOH-nee,n/a,future,n/a,1,verb,n/a,To ask for directions during your trip.,,,n/a
+verb,travel,to explore,To investigate a place thoroughly.,esploro,es-plo-RAH-reh,n/a,present,n/a,1,verb,n/a,To explore during your trip.,,,n/a
+verb,travel,to explore,To investigate a place thoroughly.,ho esplorato,es-plo-RAH-reh,n/a,past,n/a,1,verb,n/a,To explore during your trip.,,,n/a
+verb,travel,to explore,To investigate a place thoroughly.,esplorerò,es-plo-RAH-reh,n/a,future,n/a,1,verb,n/a,To explore during your trip.,,,n/a
+verb,travel,to walk,To move by putting one foot in front of the other.,cammino,kahm-mee-NAH-reh,n/a,present,n/a,1,verb,n/a,To walk during your trip.,,,n/a
+verb,travel,to walk,To move by putting one foot in front of the other.,ho camminato,kahm-mee-NAH-reh,n/a,past,n/a,1,verb,n/a,To walk during your trip.,,,n/a
+verb,travel,to walk,To move by putting one foot in front of the other.,camminerò,kahm-mee-NAH-reh,n/a,future,n/a,1,verb,n/a,To walk during your trip.,,,n/a
+verb,travel,to run,To move quickly by foot.,corro,KOR-reh-reh,n/a,present,n/a,1,verb,n/a,To run during your trip.,,,n/a
+verb,travel,to run,To move quickly by foot.,ho corso,KOR-reh-reh,n/a,past,n/a,1,verb,n/a,To run during your trip.,,,n/a
+verb,travel,to run,To move quickly by foot.,correrò,KOR-reh-reh,n/a,future,n/a,1,verb,n/a,To run during your trip.,,,n/a
+verb,travel,to cross,To go from one side to another.,attraverso,aht-trah-vehr-SAH-reh,n/a,present,n/a,1,verb,n/a,To cross during your trip.,,,n/a
+verb,travel,to cross,To go from one side to another.,ho attraversato,aht-trah-vehr-SAH-reh,n/a,past,n/a,1,verb,n/a,To cross during your trip.,,,n/a
+verb,travel,to cross,To go from one side to another.,attraverserò,aht-trah-vehr-SAH-reh,n/a,future,n/a,1,verb,n/a,To cross during your trip.,,,n/a
+verb,travel,to stay,"To remain in a place, like a hotel.",soggiorno,sohj-yor-NAH-reh,n/a,present,n/a,1,verb,n/a,To stay during your trip.,,,n/a
+verb,travel,to stay,"To remain in a place, like a hotel.",ho soggiornato,sohj-yor-NAH-reh,n/a,past,n/a,1,verb,n/a,To stay during your trip.,,,n/a
+verb,travel,to stay,"To remain in a place, like a hotel.",soggiornerò,sohj-yor-NAH-reh,n/a,future,n/a,1,verb,n/a,To stay during your trip.,,,n/a
+verb,travel,to lose,"To misplace something, like luggage.",perdo,PEHR-deh-reh,n/a,present,n/a,1,verb,n/a,To lose during your trip.,,,n/a
+verb,travel,to lose,"To misplace something, like luggage.",ho perso,PEHR-deh-reh,n/a,past,n/a,1,verb,n/a,To lose during your trip.,,,n/a
+verb,travel,to lose,"To misplace something, like luggage.",perderò,PEHR-deh-reh,n/a,future,n/a,1,verb,n/a,To lose during your trip.,,,n/a
+verb,travel,to find,To discover or recover something.,trovo,tro-VAH-reh,n/a,present,n/a,1,verb,n/a,To find during your trip.,,,n/a
+verb,travel,to find,To discover or recover something.,ho trovato,tro-VAH-reh,n/a,past,n/a,1,verb,n/a,To find during your trip.,,,n/a
+verb,travel,to find,To discover or recover something.,troverò,tro-VAH-reh,n/a,future,n/a,1,verb,n/a,To find during your trip.,,,n/a
+verb,travel,to show a passport,To present your passport for inspection.,mostro il passaporto,moh-STRAH-reh eel pahs-sah-POHR-toh,n/a,present,n/a,1,verb,n/a,To show a passport during your trip.,,,n/a
+verb,travel,to show a passport,To present your passport for inspection.,ho mostrato il passaporto,moh-STRAH-reh eel pahs-sah-POHR-toh,n/a,past,n/a,1,verb,n/a,To show a passport during your trip.,,,n/a
+verb,travel,to show a passport,To present your passport for inspection.,mostrerò il passaporto,moh-STRAH-reh eel pahs-sah-POHR-toh,n/a,future,n/a,1,verb,n/a,To show a passport during your trip.,,,n/a

@@ -1,0 +1,41 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+adjective,quality,good,Of high quality or standard.,buono,BWOH-noh,singular,n/a,masculine,1,adjective,n/a,This is a good product.,,,n/a
+adjective,quality,good,Of high quality or standard.,buona,BWOH-noh,singular,n/a,feminine,1,adjective,n/a,This is a good product.,,,n/a
+adjective,quality,good,Of high quality or standard.,buoni,BWOH-noh,plural,n/a,masculine,1,adjective,n/a,This is a good product.,,,n/a
+adjective,quality,good,Of high quality or standard.,buone,BWOH-noh,plural,n/a,feminine,1,adjective,n/a,This is a good product.,,,n/a
+adjective,quality,bad,Of poor quality or low standard.,cattivo,kaht-TEE-voh,singular,n/a,masculine,1,adjective,n/a,This is a bad product.,,,n/a
+adjective,quality,bad,Of poor quality or low standard.,cattiva,kaht-TEE-voh,singular,n/a,feminine,1,adjective,n/a,This is a bad product.,,,n/a
+adjective,quality,bad,Of poor quality or low standard.,cattivi,kaht-TEE-voh,plural,n/a,masculine,1,adjective,n/a,This is a bad product.,,,n/a
+adjective,quality,bad,Of poor quality or low standard.,cattive,kaht-TEE-voh,plural,n/a,feminine,1,adjective,n/a,This is a bad product.,,,n/a
+adjective,quality,excellent,Extremely good or outstanding.,eccellente,eh-chehl-LEHN-teh,singular,n/a,masculine,1,adjective,n/a,This is a excellent product.,,,n/a
+adjective,quality,excellent,Extremely good or outstanding.,eccellente,eh-chehl-LEHN-teh,singular,n/a,feminine,1,adjective,n/a,This is a excellent product.,,,n/a
+adjective,quality,excellent,Extremely good or outstanding.,eccellenti,eh-chehl-LEHN-teh,plural,n/a,masculine,1,adjective,n/a,This is a excellent product.,,,n/a
+adjective,quality,excellent,Extremely good or outstanding.,eccellenti,eh-chehl-LEHN-teh,plural,n/a,feminine,1,adjective,n/a,This is a excellent product.,,,n/a
+adjective,quality,poor,Lacking in quality or quantity.,scarso,SCAR-soh,singular,n/a,masculine,1,adjective,n/a,This is a poor product.,,,n/a
+adjective,quality,poor,Lacking in quality or quantity.,scarsa,SCAR-soh,singular,n/a,feminine,1,adjective,n/a,This is a poor product.,,,n/a
+adjective,quality,poor,Lacking in quality or quantity.,scarsi,SCAR-soh,plural,n/a,masculine,1,adjective,n/a,This is a poor product.,,,n/a
+adjective,quality,poor,Lacking in quality or quantity.,scarse,SCAR-soh,plural,n/a,feminine,1,adjective,n/a,This is a poor product.,,,n/a
+adjective,quality,perfect,Free from flaws or defects.,perfetto,pehr-FEHT-toh,singular,n/a,masculine,1,adjective,n/a,This is a perfect product.,,,n/a
+adjective,quality,perfect,Free from flaws or defects.,perfetta,pehr-FEHT-toh,singular,n/a,feminine,1,adjective,n/a,This is a perfect product.,,,n/a
+adjective,quality,perfect,Free from flaws or defects.,perfetti,pehr-FEHT-toh,plural,n/a,masculine,1,adjective,n/a,This is a perfect product.,,,n/a
+adjective,quality,perfect,Free from flaws or defects.,perfette,pehr-FEHT-toh,plural,n/a,feminine,1,adjective,n/a,This is a perfect product.,,,n/a
+adjective,quality,okay,Acceptable but not great.,discreto,dees-KREH-toh,singular,n/a,masculine,1,adjective,n/a,This is a okay product.,,,n/a
+adjective,quality,okay,Acceptable but not great.,discreta,dees-KREH-toh,singular,n/a,feminine,1,adjective,n/a,This is a okay product.,,,n/a
+adjective,quality,okay,Acceptable but not great.,discreti,dees-KREH-toh,plural,n/a,masculine,1,adjective,n/a,This is a okay product.,,,n/a
+adjective,quality,okay,Acceptable but not great.,discrete,dees-KREH-toh,plural,n/a,feminine,1,adjective,n/a,This is a okay product.,,,n/a
+adjective,quality,amazing,Causing great surprise or wonder.,fantastico,fahn-TAHS-tee-koh,singular,n/a,masculine,1,adjective,n/a,This is a amazing product.,,,n/a
+adjective,quality,amazing,Causing great surprise or wonder.,fantastica,fahn-TAHS-tee-koh,singular,n/a,feminine,1,adjective,n/a,This is a amazing product.,,,n/a
+adjective,quality,amazing,Causing great surprise or wonder.,fantastici,fahn-TAHS-tee-koh,plural,n/a,masculine,1,adjective,n/a,This is a amazing product.,,,n/a
+adjective,quality,amazing,Causing great surprise or wonder.,fantastiche,fahn-TAHS-tee-koh,plural,n/a,feminine,1,adjective,n/a,This is a amazing product.,,,n/a
+adjective,quality,awful,Extremely bad or unpleasant.,orribile,or-REE-bee-leh,singular,n/a,masculine,1,adjective,n/a,This is a awful product.,,,n/a
+adjective,quality,awful,Extremely bad or unpleasant.,orribile,or-REE-bee-leh,singular,n/a,feminine,1,adjective,n/a,This is a awful product.,,,n/a
+adjective,quality,awful,Extremely bad or unpleasant.,orribili,or-REE-bee-leh,plural,n/a,masculine,1,adjective,n/a,This is a awful product.,,,n/a
+adjective,quality,awful,Extremely bad or unpleasant.,orribili,or-REE-bee-leh,plural,n/a,feminine,1,adjective,n/a,This is a awful product.,,,n/a
+adjective,quality,decent,Acceptable and good enough.,decente,deh-CHEN-teh,singular,n/a,masculine,1,adjective,n/a,This is a decent product.,,,n/a
+adjective,quality,decent,Acceptable and good enough.,decente,deh-CHEN-teh,singular,n/a,feminine,1,adjective,n/a,This is a decent product.,,,n/a
+adjective,quality,decent,Acceptable and good enough.,decenti,deh-CHEN-teh,plural,n/a,masculine,1,adjective,n/a,This is a decent product.,,,n/a
+adjective,quality,decent,Acceptable and good enough.,decenti,deh-CHEN-teh,plural,n/a,feminine,1,adjective,n/a,This is a decent product.,,,n/a
+adjective,quality,terrible,Very bad or serious.,terribile,tehr-REE-bee-leh,singular,n/a,masculine,1,adjective,n/a,This is a terrible product.,,,n/a
+adjective,quality,terrible,Very bad or serious.,terribile,tehr-REE-bee-leh,singular,n/a,feminine,1,adjective,n/a,This is a terrible product.,,,n/a
+adjective,quality,terrible,Very bad or serious.,terribili,tehr-REE-bee-leh,plural,n/a,masculine,1,adjective,n/a,This is a terrible product.,,,n/a
+adjective,quality,terrible,Very bad or serious.,terribili,tehr-REE-bee-leh,plural,n/a,feminine,1,adjective,n/a,This is a terrible product.,,,n/a

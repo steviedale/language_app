@@ -1,0 +1,11 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,indefinite,someone,An unknown or unspecified person.,qualcuno,kwahl-KOO-noh,singular,n/a,n/a,1,pronoun,n/a,Someone is here.,,,n/a
+pronoun,indefinite,something,An unknown or unspecified thing.,qualcosa,kwahl-KOH-zah,singular,n/a,n/a,1,pronoun,n/a,Something is here.,,,n/a
+pronoun,indefinite,anyone,Any person at all.,chiunque,kee-OON-kweh,singular,n/a,n/a,2,pronoun,n/a,Anyone is here.,,,n/a
+pronoun,indefinite,anything,Any thing at all.,qualunque cosa,kwah-LOON-kweh KOH-zah,singular,n/a,n/a,2,pronoun,n/a,Anything is here.,,,n/a
+pronoun,indefinite,no one,Not a single person.,nessuno,neh-SOO-noh,singular,n/a,masculine,1,pronoun,n/a,No one is here.,,,n/a
+pronoun,indefinite,nothing,Not a single thing.,niente,NYEN-teh,singular,n/a,n/a,1,pronoun,n/a,Nothing is here.,,,n/a
+pronoun,indefinite,everyone,All people.,tutti,TOOT-tee,plural,n/a,masculine,1,pronoun,n/a,Everyone is here.,,,n/a
+pronoun,indefinite,everything,All things.,tutto,TOOT-toh,singular,n/a,masculine,1,pronoun,n/a,Everything is here.,,,n/a
+pronoun,indefinite,each,Each individual item or person.,ciascuno,chahs-KOO-noh,singular,n/a,masculine,2,pronoun,n/a,Each is here.,,,n/a
+pronoun,indefinite,several,More than a few but not many.,diversi,dee-VEHR-see,plural,n/a,masculine,2,pronoun,n/a,Several is here.,,,n/a

@@ -1,0 +1,10 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,reflexive,myself,Used when the subject and object are the same person (first person singular).,mi,mee,singular,n/a,n/a,1,pronoun,n/a,Myself wash every morning.,,,n/a
+pronoun,reflexive,yourself (informal),Used when the subject and object are the same person (second person informal).,ti,tee,singular,n/a,n/a,1,pronoun,informal,They wash yourself (informal).,,,n/a
+pronoun,reflexive,yourself (formal),Used when the subject and object are the same person (second person formal).,si,see,singular,n/a,feminine,1,pronoun,formal,They wash yourself (formal).,,,n/a
+pronoun,reflexive,himself,Used when the subject and object are the same male person.,si,see,singular,n/a,masculine,1,pronoun,n/a,They wash himself.,,,n/a
+pronoun,reflexive,herself,Used when the subject and object are the same female person.,si,see,singular,n/a,feminine,1,pronoun,n/a,They wash herself.,,,n/a
+pronoun,reflexive,ourselves,Used when the subject and object are the same group including the speaker.,ci,chee,plural,n/a,n/a,1,pronoun,n/a,They wash ourselves.,,,n/a
+pronoun,reflexive,yourselves,Used when the subject and object are the same group being addressed.,vi,vee,plural,n/a,n/a,1,pronoun,n/a,They wash yourselves.,,,n/a
+pronoun,reflexive,themselves (masculine or mixed),Used when the subject and object are the same group (masculine/mixed).,si,see,plural,n/a,masculine,1,pronoun,n/a,They wash themselves (masculine or mixed).,,,n/a
+pronoun,reflexive,themselves (feminine),Used when the subject and object are the same group (feminine).,si,see,plural,n/a,feminine,1,pronoun,n/a,They wash themselves (feminine).,,,n/a

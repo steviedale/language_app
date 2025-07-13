@@ -1,0 +1,507 @@
+samples = [
+  {
+    "english": {
+      "text": "I",
+      "hash": "4bb7150768ad3c5c3c3ca53675f1e5b501dbe521d224d4f2344b644c53a717d9",
+      "audio_file": require("./audio/individual/4bb7150768ad3c5c3c3ca53675f1e5b501dbe521d224d4f2344b644c53a717d9.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 696
+    },
+    "italian": {
+      "text": "io",
+      "hash": "8fa4483f63e89bcbbdd3e8f9e0ee25fbf32424ae59a00cb3417f653cf0fb46dc",
+      "audio_file": require("./audio/individual/8fa4483f63e89bcbbdd3e8f9e0ee25fbf32424ae59a00cb3417f653cf0fb46dc.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 744
+    },
+    "combined_audio_file": require("./audio/combined/0.mp3")
+  },
+  {
+    "english": {
+      "text": "you (familiar)",
+      "hash": "3e9906184781a121ab0c218c9d505070f5b387fcff60904088ab4469dd10a3c3",
+      "audio_file": require("./audio/individual/3e9906184781a121ab0c218c9d505070f5b387fcff60904088ab4469dd10a3c3.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1296
+    },
+    "italian": {
+      "text": "tu",
+      "hash": "6701f1e747b95a813a4401d864fa85683fc13fb908a737199e1d337fb35eb026",
+      "audio_file": require("./audio/individual/6701f1e747b95a813a4401d864fa85683fc13fb908a737199e1d337fb35eb026.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 576
+    },
+    "combined_audio_file": require("./audio/combined/1.mp3")
+  },
+  {
+    "english": {
+      "text": "you (polite)",
+      "hash": "b27e230877a9748f5e9694f12b32790125bb4f943b2f297bcdd353bec71ebfec",
+      "audio_file": require("./audio/individual/b27e230877a9748f5e9694f12b32790125bb4f943b2f297bcdd353bec71ebfec.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1152
+    },
+    "italian": {
+      "text": "Lei",
+      "hash": "9f7d92fe7c79cbd962531ab71d3278722722ae7de52f13c332e2fafce6c082fc",
+      "audio_file": require("./audio/individual/9f7d92fe7c79cbd962531ab71d3278722722ae7de52f13c332e2fafce6c082fc.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 792
+    },
+    "combined_audio_file": require("./audio/combined/2.mp3")
+  },
+  {
+    "english": {
+      "text": "he",
+      "hash": "b0b86518e7a89655e84f62cce379a4b8c8d48961a08a51d5487d50d79fcccb06",
+      "audio_file": require("./audio/individual/b0b86518e7a89655e84f62cce379a4b8c8d48961a08a51d5487d50d79fcccb06.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 672
+    },
+    "italian": {
+      "text": "lui",
+      "hash": "fa9a12e092870e6aad54a7709e2c588aa84a6098f2f0b0a4e2675170fdb14fe6",
+      "audio_file": require("./audio/individual/fa9a12e092870e6aad54a7709e2c588aa84a6098f2f0b0a4e2675170fdb14fe6.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 816
+    },
+    "combined_audio_file": require("./audio/combined/3.mp3")
+  },
+  {
+    "english": {
+      "text": "she",
+      "hash": "ae84fb0983d94dd046c2075c27ad06145a7c7016d64742b9519df36963c2a76f",
+      "audio_file": require("./audio/individual/ae84fb0983d94dd046c2075c27ad06145a7c7016d64742b9519df36963c2a76f.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 768
+    },
+    "italian": {
+      "text": "lei",
+      "hash": "16d9c7bf29df81cebbaf8acf914fa158ff64e82d66a92ff4dec0809bbd84af93",
+      "audio_file": require("./audio/individual/16d9c7bf29df81cebbaf8acf914fa158ff64e82d66a92ff4dec0809bbd84af93.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 792
+    },
+    "combined_audio_file": require("./audio/combined/4.mp3")
+  },
+  {
+    "english": {
+      "text": "this",
+      "hash": "1bd5438abb036741318e8f75544400fceacf4ff2948978eb13d1dd42adbc5876",
+      "audio_file": require("./audio/individual/1bd5438abb036741318e8f75544400fceacf4ff2948978eb13d1dd42adbc5876.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 744
+    },
+    "italian": {
+      "text": "questo / questa",
+      "hash": "4a9d4b630d78b016c3d76bd0bc17aa6003f746fb6ddc0e054f273cddfcae0df6",
+      "audio_file": require("./audio/individual/4a9d4b630d78b016c3d76bd0bc17aa6003f746fb6ddc0e054f273cddfcae0df6.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1824
+    },
+    "combined_audio_file": require("./audio/combined/5.mp3")
+  },
+  {
+    "english": {
+      "text": "we",
+      "hash": "7ee436a83b534b75209c241e3549eade2ad41cc170f01138ff247c163c1efcf9",
+      "audio_file": require("./audio/individual/7ee436a83b534b75209c241e3549eade2ad41cc170f01138ff247c163c1efcf9.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 696
+    },
+    "italian": {
+      "text": "noi",
+      "hash": "39a24be1abfad62e25242cce282058e1a715041fbfb51580db76a5a8e2a3952f",
+      "audio_file": require("./audio/individual/39a24be1abfad62e25242cce282058e1a715041fbfb51580db76a5a8e2a3952f.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 816
+    },
+    "combined_audio_file": require("./audio/combined/6.mp3")
+  },
+  {
+    "english": {
+      "text": "you (plural)",
+      "hash": "00d40d6ef1bb64db3b076f72f9f9c6cc8125d8bd78f0598d7295b99ae6777e08",
+      "audio_file": require("./audio/individual/00d40d6ef1bb64db3b076f72f9f9c6cc8125d8bd78f0598d7295b99ae6777e08.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1248
+    },
+    "italian": {
+      "text": "voi",
+      "hash": "36ca7fbc5fca6a3732ddb618d6ba63a2c6fe4f780119f86928f69ef8299c04eb",
+      "audio_file": require("./audio/individual/36ca7fbc5fca6a3732ddb618d6ba63a2c6fe4f780119f86928f69ef8299c04eb.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 816
+    },
+    "combined_audio_file": require("./audio/combined/7.mp3")
+  },
+  {
+    "english": {
+      "text": "they",
+      "hash": "79c554b2cc036c3a4090e60b00fe004add89c923387aeef8544eca3cf186acbe",
+      "audio_file": require("./audio/individual/79c554b2cc036c3a4090e60b00fe004add89c923387aeef8544eca3cf186acbe.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 672
+    },
+    "italian": {
+      "text": "loro",
+      "hash": "88b16336d375dc013cb258ef2dd1fa502932c35430b81d81e9fb118cb008ccce",
+      "audio_file": require("./audio/individual/88b16336d375dc013cb258ef2dd1fa502932c35430b81d81e9fb118cb008ccce.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 912
+    },
+    "combined_audio_file": require("./audio/combined/8.mp3")
+  },
+  {
+    "english": {
+      "text": "good morning / good day",
+      "hash": "8772dc42b147c47be718db4e21c22df28a222a98b06064ad4d787e0e87e6b6ab",
+      "audio_file": require("./audio/individual/8772dc42b147c47be718db4e21c22df28a222a98b06064ad4d787e0e87e6b6ab.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1896
+    },
+    "italian": {
+      "text": "buongiorno",
+      "hash": "fd67e6ccae9e22db52269397456a8cef1680ea88c2a17712f7b4f8ad134e9cc1",
+      "audio_file": require("./audio/individual/fd67e6ccae9e22db52269397456a8cef1680ea88c2a17712f7b4f8ad134e9cc1.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1248
+    },
+    "combined_audio_file": require("./audio/combined/9.mp3")
+  },
+  {
+    "english": {
+      "text": "good evening",
+      "hash": "a05428f4ab591535105af331c97a05296b4118693406d10eac6957d89512fdf7",
+      "audio_file": require("./audio/individual/a05428f4ab591535105af331c97a05296b4118693406d10eac6957d89512fdf7.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 936
+    },
+    "italian": {
+      "text": "buonasera",
+      "hash": "37cec6cd46974d816d08865d649126e608f4c30ef33e4abf9a8a0be78e564156",
+      "audio_file": require("./audio/individual/37cec6cd46974d816d08865d649126e608f4c30ef33e4abf9a8a0be78e564156.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1248
+    },
+    "combined_audio_file": require("./audio/combined/10.mp3")
+  },
+  {
+    "english": {
+      "text": "good night",
+      "hash": "304657a040e9a767bab7c9a1a1955b893ce606efcb8e2ffab551739095dbe3c4",
+      "audio_file": require("./audio/individual/304657a040e9a767bab7c9a1a1955b893ce606efcb8e2ffab551739095dbe3c4.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 888
+    },
+    "italian": {
+      "text": "buonanotte",
+      "hash": "68356f064e20ab8a157ec4063e4ecf20d660561ad45a0ffcb80bee9de937c6df",
+      "audio_file": require("./audio/individual/68356f064e20ab8a157ec4063e4ecf20d660561ad45a0ffcb80bee9de937c6df.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1272
+    },
+    "combined_audio_file": require("./audio/combined/11.mp3")
+  },
+  {
+    "english": {
+      "text": "goodbye",
+      "hash": "e913aaf8223b5f1caf24206c54db8c4cbb8cfa011e1ed68f015b726113d6a7c4",
+      "audio_file": require("./audio/individual/e913aaf8223b5f1caf24206c54db8c4cbb8cfa011e1ed68f015b726113d6a7c4.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 960
+    },
+    "italian": {
+      "text": "arrivederci",
+      "hash": "7b636134fd4e3063a39e8c595476f2d9161ea499ba6395a1064c69d974f55d45",
+      "audio_file": require("./audio/individual/7b636134fd4e3063a39e8c595476f2d9161ea499ba6395a1064c69d974f55d45.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1416
+    },
+    "combined_audio_file": require("./audio/combined/12.mp3")
+  },
+  {
+    "english": {
+      "text": "hello / goodbye",
+      "hash": "40bf41d4761eb8e042a87a2af72e00b9345d95f823d6482b77971b74b35fe972",
+      "audio_file": require("./audio/individual/40bf41d4761eb8e042a87a2af72e00b9345d95f823d6482b77971b74b35fe972.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1680
+    },
+    "italian": {
+      "text": "ciao",
+      "hash": "624f2dc295c38f3c5cfa2777ede45eeac9880de43018ec81d351b10c142ce93d",
+      "audio_file": require("./audio/individual/624f2dc295c38f3c5cfa2777ede45eeac9880de43018ec81d351b10c142ce93d.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 864
+    },
+    "combined_audio_file": require("./audio/combined/13.mp3")
+  },
+  {
+    "english": {
+      "text": "please",
+      "hash": "aac5728e89cc7438f4d7cf7922086087bf510953692a6db18930ead8916fd108",
+      "audio_file": require("./audio/individual/aac5728e89cc7438f4d7cf7922086087bf510953692a6db18930ead8916fd108.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 792
+    },
+    "italian": {
+      "text": "per favore / per piacere",
+      "hash": "de14b552e6f89cbb5b985cc86b598ceaa50a669a2042816d76e5ff9ddb78de72",
+      "audio_file": require("./audio/individual/de14b552e6f89cbb5b985cc86b598ceaa50a669a2042816d76e5ff9ddb78de72.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2520
+    },
+    "combined_audio_file": require("./audio/combined/14.mp3")
+  },
+  {
+    "english": {
+      "text": "thank you",
+      "hash": "1114ef2515f2b5cb8bd2a57b4549f2a77f61bf7e81031e8d81f2ad3183429bf5",
+      "audio_file": require("./audio/individual/1114ef2515f2b5cb8bd2a57b4549f2a77f61bf7e81031e8d81f2ad3183429bf5.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 816
+    },
+    "italian": {
+      "text": "grazie",
+      "hash": "5f237ffb3736c98d7a2137d9cf28d6125525a90cf8e9c89a5f910a6d1c8299a6",
+      "audio_file": require("./audio/individual/5f237ffb3736c98d7a2137d9cf28d6125525a90cf8e9c89a5f910a6d1c8299a6.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1080
+    },
+    "combined_audio_file": require("./audio/combined/15.mp3")
+  },
+  {
+    "english": {
+      "text": "you're welcome / please",
+      "hash": "bbb07e2d2bd6fe3c802d906818414ab466c76863cf034681a7d2f0b2b469cedc",
+      "audio_file": require("./audio/individual/bbb07e2d2bd6fe3c802d906818414ab466c76863cf034681a7d2f0b2b469cedc.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1488
+    },
+    "italian": {
+      "text": "prego",
+      "hash": "e7b75b9d349fc821d942984fcd684c659473e7f5356ac00bab0ef79ff1fe07f1",
+      "audio_file": require("./audio/individual/e7b75b9d349fc821d942984fcd684c659473e7f5356ac00bab0ef79ff1fe07f1.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 936
+    },
+    "combined_audio_file": require("./audio/combined/16.mp3")
+  },
+  {
+    "english": {
+      "text": "yes",
+      "hash": "3f41d6e5a1de803101a6d1299cc2d65e255088278b1f7f8409316d90bde32b53",
+      "audio_file": require("./audio/individual/3f41d6e5a1de803101a6d1299cc2d65e255088278b1f7f8409316d90bde32b53.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 792
+    },
+    "italian": {
+      "text": "sì",
+      "hash": "439fcfbc0b22a8df81302328b3792cdb61fcf8476097faba49aadf852ae69967",
+      "audio_file": require("./audio/individual/439fcfbc0b22a8df81302328b3792cdb61fcf8476097faba49aadf852ae69967.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 744
+    },
+    "combined_audio_file": require("./audio/combined/17.mp3")
+  },
+  {
+    "english": {
+      "text": "no",
+      "hash": "c24f3d15ed59dbde79ba3d54bccbefe2fba9c18e1d5a18b9616f970fbb96a98a",
+      "audio_file": require("./audio/individual/c24f3d15ed59dbde79ba3d54bccbefe2fba9c18e1d5a18b9616f970fbb96a98a.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 744
+    },
+    "italian": {
+      "text": "no",
+      "hash": "bec2c66ad48d36d947a590d3726a92cd044fbe102e15b3505565326d11df3fad",
+      "audio_file": require("./audio/individual/bec2c66ad48d36d947a590d3726a92cd044fbe102e15b3505565326d11df3fad.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 648
+    },
+    "combined_audio_file": require("./audio/combined/18.mp3")
+  },
+  {
+    "english": {
+      "text": "good",
+      "hash": "c325ef32ac85d437bd8af47129d87d085b693aac75bdd29b52bce5d4b20d0be9",
+      "audio_file": require("./audio/individual/c325ef32ac85d437bd8af47129d87d085b693aac75bdd29b52bce5d4b20d0be9.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 672
+    },
+    "italian": {
+      "text": "buono",
+      "hash": "4b62b2aa3e6b56c64a57961d99bab443434639706efec99cb54be6a61f761a8f",
+      "audio_file": require("./audio/individual/4b62b2aa3e6b56c64a57961d99bab443434639706efec99cb54be6a61f761a8f.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 960
+    },
+    "combined_audio_file": require("./audio/combined/19.mp3")
+  },
+  {
+    "english": {
+      "text": "bad",
+      "hash": "a6ced556a5ade07f0c04bbfa5d2d1a7702118a25cd054289be02280478b1da67",
+      "audio_file": require("./audio/individual/a6ced556a5ade07f0c04bbfa5d2d1a7702118a25cd054289be02280478b1da67.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 720
+    },
+    "italian": {
+      "text": "cativo",
+      "hash": "5eb04c3fb01fd14d641c2cb272e3db5d79017c897e932e33daf0d8e29deba564",
+      "audio_file": require("./audio/individual/5eb04c3fb01fd14d641c2cb272e3db5d79017c897e932e33daf0d8e29deba564.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1056
+    },
+    "combined_audio_file": require("./audio/combined/20.mp3")
+  },
+  {
+    "english": {
+      "text": "sir / mister",
+      "hash": "13e808dd0b7d8db591ed22c7e82eafd409ba7d18b9dccf4aa029e7191878c4f2",
+      "audio_file": require("./audio/individual/13e808dd0b7d8db591ed22c7e82eafd409ba7d18b9dccf4aa029e7191878c4f2.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1584
+    },
+    "italian": {
+      "text": "signore",
+      "hash": "14217f5897f445dda238de4099245f1386a993d18fe45b5eb02bf4e911d58904",
+      "audio_file": require("./audio/individual/14217f5897f445dda238de4099245f1386a993d18fe45b5eb02bf4e911d58904.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1176
+    },
+    "combined_audio_file": require("./audio/combined/21.mp3")
+  },
+  {
+    "english": {
+      "text": "madam / misses",
+      "hash": "ce31d024bf265df9662e246d5cc8920ac9440289afc003e3ac0272958f04caf5",
+      "audio_file": require("./audio/individual/ce31d024bf265df9662e246d5cc8920ac9440289afc003e3ac0272958f04caf5.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1440
+    },
+    "italian": {
+      "text": "signora",
+      "hash": "b9b3bf3e0b87b2d7eae73c63e959c949d4b71d1219ee6a23154c865af8cd4e88",
+      "audio_file": require("./audio/individual/b9b3bf3e0b87b2d7eae73c63e959c949d4b71d1219ee6a23154c865af8cd4e88.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1176
+    },
+    "combined_audio_file": require("./audio/combined/22.mp3")
+  },
+  {
+    "english": {
+      "text": "miss",
+      "hash": "19d57e0a8b9252e86728f8c015529e8ed5a02407daa69d50e6d0665030416337",
+      "audio_file": require("./audio/individual/19d57e0a8b9252e86728f8c015529e8ed5a02407daa69d50e6d0665030416337.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 768
+    },
+    "italian": {
+      "text": "signorina",
+      "hash": "c53f86eb50e0e2ddfa0144b1529706445c2f80c664a53fe2963da13ad0a4a298",
+      "audio_file": require("./audio/individual/c53f86eb50e0e2ddfa0144b1529706445c2f80c664a53fe2963da13ad0a4a298.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1296
+    },
+    "combined_audio_file": require("./audio/combined/23.mp3")
+  }
+];
+export default samples;

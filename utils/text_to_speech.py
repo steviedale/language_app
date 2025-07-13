@@ -4,6 +4,8 @@ import os
 import time
 # for guid generation
 import uuid
+import numpy as np
+import hashlib
 
 
 DATA_DIR = 'data'
@@ -12,11 +14,11 @@ SAVE_DIR = 'data/audio'
 DF_PATH = 'data/dataframe.csv'
 
 VOICES = {
-    'it': {
+    'italian': {
         'male': 'it-IT-Wavenet-D',
         'female': 'it-IT-Wavenet-C',
     },
-    'en': {
+    'english': {
         'male': 'en-US-Wavenet-D',
         'female': 'en-US-Wavenet-C',
     },
@@ -31,7 +33,7 @@ class TextToSpeech:
 
         if not os.path.exists(DF_PATH):
             self.df = pd.DataFrame(columns=[
-                'text_hash', 'text', 'audio_file', 'synthesis_time', 
+                'hash', 'text', 'audio_file', 'synthesis_time', 
                 'voice_name', 'speaking_rate', 'pitch'
             ])
         else:
@@ -45,29 +47,39 @@ class TextToSpeech:
     def __del__(self):
         self.save()
 
-    def synthesize(self, text, speaking_rate=0.75, voice_name="it-IT-Wavenet-D", pitch=0):
+    def synthesize(self, text, speaking_rate=0.75, voice_name="it-IT-Wavenet-D", pitch=0, verbose=False):
         self.voice.name = voice_name
         self.audio_config.speaking_rate = speaking_rate
         self.audio_config.pitch = pitch
-        synthesis_input = texttospeech.SynthesisInput(text=text)
 
         # hash text
-        guid = uuid.uuid5(uuid.NAMESPACE_DNS, str(hash(f"{text}{voice_name}{speaking_rate:.2f}{pitch}")))
+        param_str = f"{text}{voice_name}{speaking_rate:.2f}{pitch:.2f}"
+        hash_object = hashlib.sha256(param_str.encode('utf-8'))
+        hash_key = hash_object.hexdigest()
 
-        audio_file = f'{SAVE_DIR}/{guid}.mp3'
+        audio_file = f'{SAVE_DIR}/{hash_key}.mp3'
 
         # check if text already exists
-        if self.df[(self.df['text'] == text) & (self.df['speaking_rate'] == speaking_rate)].shape[0] > 0:
-            s_df = self.df[self.df['text'] == text]
-            assert(s_df.shape[0] == 1)
-            row = s_df.iloc[0]
-            assert(row['guid'] == guid)
+        match_df = self.df[self.df['hash'] == hash_key]
+        if len(match_df) > 0:
+            if verbose:
+                print("found in dataframe")
+            match_df = self.df[self.df['hash'] == hash_key]
+            row = match_df.iloc[0]
+            assert(len(match_df) == 1)
+            assert(row['text'] == text)
+            assert(row['speaking_rate'] == speaking_rate)
+            assert(row['pitch'] == pitch)
+            assert(row['voice_name'] == voice_name)
+            assert(row['hash'] == hash_key)
             assert(row['audio_file'] == audio_file)
 
         else:
-            print("synthesizing...")
+            if verbose:
+                print("synthesizing...")
             # Synthesize speech
             t0 = time.perf_counter()
+            synthesis_input = texttospeech.SynthesisInput(text=text)
             response = self.client.synthesize_speech(
                 input=synthesis_input, voice=self.voice, audio_config=self.audio_config)
             t1 = time.perf_counter()
@@ -78,10 +90,19 @@ class TextToSpeech:
                 out.write(response.audio_content) 
 
             # store in dataframe
-            self.df.loc[self.df.shape[0]] = [guid, text, audio_file, synthesis_time, voice_name, speaking_rate, pitch]
+            self.df.loc[self.df.shape[0]] = [
+                hash_key, text, audio_file, synthesis_time, voice_name, speaking_rate, pitch
+            ]
             row = self.df.iloc[-1]
-
-        return dict(row)
+        data = dict(row)
+        # convert np.float to float
+        # convert np.int to int
+        for k, v in data.items():
+            if type(v) is np.float64 or type(v) is np.float32 or type(v) is np.float16:
+                data[k] = float(v)
+            if type(v) is np.int64 or type(v) is np.int32 or type(v) is np.int16:
+                data[k] = int(v)
+        return data
 
     def save(self):
         self.df.to_csv(DF_PATH, index=False)
@@ -91,7 +112,8 @@ class TextToSpeech:
 if __name__ == '__main__':
     tts = TextToSpeech()
 
-    phrase = 'vorrei un tavolo per due vicino alla finestra'
-    ret = tts.synthesize(phrase, speaking_rate=0.7)
+    # phrase = 'vorrei un tavolo per due vicino alla finestra'
+    phrase = 'this is a test script that should hopefully take a few seconds to finish. Which will give me enought time to debug.'
+    ret = tts.synthesize(phrase, speaking_rate=1.0, voice_name='en-US-Wavenet-D', pitch=0.0, verbose=True)
 
     print(ret)

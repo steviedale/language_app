@@ -1,0 +1,10 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,subject,I,Used by a speaker to refer to himself or herself.,io,EE-oh,singular,n/a,n/a,1,pronoun,n/a,I am going to the store.,,,n/a
+pronoun,subject,you (informal),Used to refer to the person the speaker is addressing informally.,tu,too,singular,n/a,n/a,1,pronoun,informal,You (informal) are going to the store.,,,n/a
+pronoun,subject,you (formal),Used to refer to the person the speaker is addressing formally.,Lei,LAY,singular,n/a,feminine,1,pronoun,formal,You (formal) are going to the store.,,,n/a
+pronoun,subject,he,Used to refer to a male person or animal.,lui,LOO-ee,singular,n/a,masculine,1,pronoun,n/a,He are going to the store.,,,n/a
+pronoun,subject,she,Used to refer to a female person or animal.,lei,LAY,singular,n/a,feminine,1,pronoun,n/a,She are going to the store.,,,n/a
+pronoun,subject,we,Used to refer to the speaker and at least one other person.,noi,NOY,plural,n/a,n/a,1,pronoun,n/a,We are going to the store.,,,n/a
+pronoun,subject,you all,Used to refer to more than one person the speaker is addressing.,voi,VOY,plural,n/a,n/a,1,pronoun,n/a,You all are going to the store.,,,n/a
+pronoun,subject,they (masculine or mixed),Used to refer to a group of males or mixed gender.,loro,LOH-roh,plural,n/a,masculine,1,pronoun,n/a,They (masculine or mixed) are going to the store.,,,n/a
+pronoun,subject,they (feminine),Used to refer to a group of females.,loro,LOH-roh,plural,n/a,feminine,1,pronoun,n/a,They (feminine) are going to the store.,,,n/a

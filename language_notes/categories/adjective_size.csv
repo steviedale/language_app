@@ -1,0 +1,41 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+adjective,size,big,Of considerable size or extent.,grande,GRAHN-deh,singular,n/a,masculine,1,adjective,n/a,It is a big thing.,,,n/a
+adjective,size,big,Of considerable size or extent.,grande,GRAHN-deh,singular,n/a,feminine,1,adjective,n/a,It is a big thing.,,,n/a
+adjective,size,big,Of considerable size or extent.,grandi,GRAHN-deh,plural,n/a,masculine,1,adjective,n/a,It is a big thing.,,,n/a
+adjective,size,big,Of considerable size or extent.,grandi,GRAHN-deh,plural,n/a,feminine,1,adjective,n/a,It is a big thing.,,,n/a
+adjective,size,small,Of little size or extent.,piccolo,PEEK-koh-loh,singular,n/a,masculine,1,adjective,n/a,It is a small thing.,,,n/a
+adjective,size,small,Of little size or extent.,piccola,PEEK-koh-loh,singular,n/a,feminine,1,adjective,n/a,It is a small thing.,,,n/a
+adjective,size,small,Of little size or extent.,piccoli,PEEK-koh-loh,plural,n/a,masculine,1,adjective,n/a,It is a small thing.,,,n/a
+adjective,size,small,Of little size or extent.,piccole,PEEK-koh-loh,plural,n/a,feminine,1,adjective,n/a,It is a small thing.,,,n/a
+adjective,size,tall,Of great height.,alto,AHL-toh,singular,n/a,masculine,1,adjective,n/a,It is a tall thing.,,,n/a
+adjective,size,tall,Of great height.,alta,AHL-toh,singular,n/a,feminine,1,adjective,n/a,It is a tall thing.,,,n/a
+adjective,size,tall,Of great height.,alti,AHL-toh,plural,n/a,masculine,1,adjective,n/a,It is a tall thing.,,,n/a
+adjective,size,tall,Of great height.,alte,AHL-toh,plural,n/a,feminine,1,adjective,n/a,It is a tall thing.,,,n/a
+adjective,size,short,Of little height or length.,basso,BAHS-soh,singular,n/a,masculine,1,adjective,n/a,It is a short thing.,,,n/a
+adjective,size,short,Of little height or length.,bassa,BAHS-soh,singular,n/a,feminine,1,adjective,n/a,It is a short thing.,,,n/a
+adjective,size,short,Of little height or length.,bassi,BAHS-soh,plural,n/a,masculine,1,adjective,n/a,It is a short thing.,,,n/a
+adjective,size,short,Of little height or length.,basse,BAHS-soh,plural,n/a,feminine,1,adjective,n/a,It is a short thing.,,,n/a
+adjective,size,long,Of great length.,lungo,LOON-goh,singular,n/a,masculine,1,adjective,n/a,It is a long thing.,,,n/a
+adjective,size,long,Of great length.,lunga,LOON-goh,singular,n/a,feminine,1,adjective,n/a,It is a long thing.,,,n/a
+adjective,size,long,Of great length.,lunghi,LOON-goh,plural,n/a,masculine,1,adjective,n/a,It is a long thing.,,,n/a
+adjective,size,long,Of great length.,lunghe,LOON-goh,plural,n/a,feminine,1,adjective,n/a,It is a long thing.,,,n/a
+adjective,size,narrow,Of small width.,stretto,STREHT-toh,singular,n/a,masculine,1,adjective,n/a,It is a narrow thing.,,,n/a
+adjective,size,narrow,Of small width.,stretta,STREHT-toh,singular,n/a,feminine,1,adjective,n/a,It is a narrow thing.,,,n/a
+adjective,size,narrow,Of small width.,stretti,STREHT-toh,plural,n/a,masculine,1,adjective,n/a,It is a narrow thing.,,,n/a
+adjective,size,narrow,Of small width.,strette,STREHT-toh,plural,n/a,feminine,1,adjective,n/a,It is a narrow thing.,,,n/a
+adjective,size,wide,Of great width.,largo,LAR-goh,singular,n/a,masculine,1,adjective,n/a,It is a wide thing.,,,n/a
+adjective,size,wide,Of great width.,larga,LAR-goh,singular,n/a,feminine,1,adjective,n/a,It is a wide thing.,,,n/a
+adjective,size,wide,Of great width.,larghi,LAR-goh,plural,n/a,masculine,1,adjective,n/a,It is a wide thing.,,,n/a
+adjective,size,wide,Of great width.,larghe,LAR-goh,plural,n/a,feminine,1,adjective,n/a,It is a wide thing.,,,n/a
+adjective,size,huge,Extremely large.,enorme,eh-NOR-meh,singular,n/a,masculine,1,adjective,n/a,It is a huge thing.,,,n/a
+adjective,size,huge,Extremely large.,enorme,eh-NOR-meh,singular,n/a,feminine,1,adjective,n/a,It is a huge thing.,,,n/a
+adjective,size,huge,Extremely large.,enormi,eh-NOR-meh,plural,n/a,masculine,1,adjective,n/a,It is a huge thing.,,,n/a
+adjective,size,huge,Extremely large.,enormi,eh-NOR-meh,plural,n/a,feminine,1,adjective,n/a,It is a huge thing.,,,n/a
+adjective,size,tiny,Extremely small.,minuscolo,mee-NOOS-koh-loh,singular,n/a,masculine,1,adjective,n/a,It is a tiny thing.,,,n/a
+adjective,size,tiny,Extremely small.,minuscola,mee-NOOS-koh-loh,singular,n/a,feminine,1,adjective,n/a,It is a tiny thing.,,,n/a
+adjective,size,tiny,Extremely small.,minuscoli,mee-NOOS-koh-loh,plural,n/a,masculine,1,adjective,n/a,It is a tiny thing.,,,n/a
+adjective,size,tiny,Extremely small.,minuscole,mee-NOOS-koh-loh,plural,n/a,feminine,1,adjective,n/a,It is a tiny thing.,,,n/a
+adjective,size,gigantic,Very large and impressive.,gigantesco,jee-gahn-TES-koh,singular,n/a,masculine,1,adjective,n/a,It is a gigantic thing.,,,n/a
+adjective,size,gigantic,Very large and impressive.,gigantesca,jee-gahn-TES-koh,singular,n/a,feminine,1,adjective,n/a,It is a gigantic thing.,,,n/a
+adjective,size,gigantic,Very large and impressive.,giganteschi,jee-gahn-TES-koh,plural,n/a,masculine,1,adjective,n/a,It is a gigantic thing.,,,n/a
+adjective,size,gigantic,Very large and impressive.,gigantesche,jee-gahn-TES-koh,plural,n/a,feminine,1,adjective,n/a,It is a gigantic thing.,,,n/a

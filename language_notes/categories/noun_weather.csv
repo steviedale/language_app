@@ -1,0 +1,42 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+noun,weather,a weather,The state of the atmosphere.,il tempo,eel TEM-poh,singular,n/a,masculine,1,noun,n/a,The weather is strong today.,,,indefinite
+noun,weather,the weather,The state of the atmosphere.,il tempo,eel TEM-poh,singular,n/a,masculine,1,noun,n/a,The weather is strong today.,,,definite
+noun,weather,the weathers,The state of the atmosphere.,i tempi,ee TEM-pee,plural,n/a,masculine,1,noun,n/a,The weather is strong today.,,,definite
+noun,weather,a sun,The star at the center of our solar system.,il sole,eel SOH-leh,singular,n/a,masculine,1,noun,n/a,The sun is strong today.,,,indefinite
+noun,weather,the sun,The star at the center of our solar system.,il sole,eel SOH-leh,singular,n/a,masculine,1,noun,n/a,The sun is strong today.,,,definite
+noun,weather,the suns,The star at the center of our solar system.,i soli,ee SOH-lee,plural,n/a,masculine,1,noun,n/a,The sun is strong today.,,,definite
+noun,weather,a rain,Water that falls from the sky.,la pioggia,lah PYOHJ-jah,singular,n/a,feminine,1,noun,n/a,The rain is strong today.,,,indefinite
+noun,weather,the rain,Water that falls from the sky.,la pioggia,lah PYOHJ-jah,singular,n/a,feminine,1,noun,n/a,The rain is strong today.,,,definite
+noun,weather,the rains,Water that falls from the sky.,le piogge,leh PYOHJ-jeh,plural,n/a,feminine,1,noun,n/a,The rain is strong today.,,,definite
+noun,weather,a snow,Frozen water falling from the sky.,la neve,lah NEH-veh,singular,n/a,feminine,1,noun,n/a,The snow is strong today.,,,indefinite
+noun,weather,the snow,Frozen water falling from the sky.,la neve,lah NEH-veh,singular,n/a,feminine,1,noun,n/a,The snow is strong today.,,,definite
+noun,weather,the snows,Frozen water falling from the sky.,le nevi,leh NEH-vee,plural,n/a,feminine,1,noun,n/a,The snow is strong today.,,,definite
+noun,weather,a wind,Air in motion.,il vento,eel VEN-toh,singular,n/a,masculine,1,noun,n/a,The wind is strong today.,,,indefinite
+noun,weather,the wind,Air in motion.,il vento,eel VEN-toh,singular,n/a,masculine,1,noun,n/a,The wind is strong today.,,,definite
+noun,weather,the winds,Air in motion.,i venti,ee VEN-tee,plural,n/a,masculine,1,noun,n/a,The wind is strong today.,,,definite
+noun,weather,a storm,A violent weather condition.,una tempesta,OO-nah tem-PEHS-tah,singular,n/a,feminine,2,noun,n/a,The storm is strong today.,,,indefinite
+noun,weather,the storm,A violent weather condition.,la tempesta,lah tem-PEHS-tah,singular,n/a,feminine,2,noun,n/a,The storm is strong today.,,,definite
+noun,weather,the storms,A violent weather condition.,le tempeste,leh tem-PEHS-teh,plural,n/a,feminine,2,noun,n/a,The storm is strong today.,,,definite
+noun,weather,a cloud,A visible mass of water vapor.,una nuvola,OO-nah NOO-voh-lah,singular,n/a,feminine,1,noun,n/a,The cloud is strong today.,,,indefinite
+noun,weather,the cloud,A visible mass of water vapor.,la nuvola,lah NOO-voh-lah,singular,n/a,feminine,1,noun,n/a,The cloud is strong today.,,,definite
+noun,weather,the clouds,A visible mass of water vapor.,le nuvole,leh NOO-voh-leh,plural,n/a,feminine,1,noun,n/a,The cloud is strong today.,,,definite
+noun,weather,a fog,A thick cloud of tiny water droplets.,la nebbia,lah NEHB-byah,singular,n/a,feminine,2,noun,n/a,The fog is strong today.,,,indefinite
+noun,weather,the fog,A thick cloud of tiny water droplets.,la nebbia,lah NEHB-byah,singular,n/a,feminine,2,noun,n/a,The fog is strong today.,,,definite
+noun,weather,the fogs,A thick cloud of tiny water droplets.,le nebbie,leh NEHB-byeh,plural,n/a,feminine,2,noun,n/a,The fog is strong today.,,,definite
+noun,weather,a hail,Small balls of ice that fall like rain.,la grandine,lah GRAHN-dee-neh,singular,n/a,feminine,3,noun,n/a,The hail is strong today.,,,indefinite
+noun,weather,the hail,Small balls of ice that fall like rain.,la grandine,lah GRAHN-dee-neh,singular,n/a,feminine,3,noun,n/a,The hail is strong today.,,,definite
+noun,weather,the hails,Small balls of ice that fall like rain.,le grandini,leh GRAHN-dee-nee,plural,n/a,feminine,3,noun,n/a,The hail is strong today.,,,definite
+noun,weather,a lightning,A sudden flash of light in a storm.,un fulmine,oon FOOL-mee-neh,singular,n/a,masculine,2,noun,n/a,The lightning is strong today.,,,indefinite
+noun,weather,the lightning,A sudden flash of light in a storm.,il fulmine,eel FOOL-mee-neh,singular,n/a,masculine,2,noun,n/a,The lightning is strong today.,,,definite
+noun,weather,the lightnings,A sudden flash of light in a storm.,i fulmini,ee FOOL-mee-nee,plural,n/a,masculine,2,noun,n/a,The lightning is strong today.,,,definite
+noun,weather,a thunder,The sound from lightning.,un tuono,oon TWOH-noh,singular,n/a,masculine,2,noun,n/a,The thunder is strong today.,,,indefinite
+noun,weather,the thunder,The sound from lightning.,il tuono,eel TWOH-noh,singular,n/a,masculine,2,noun,n/a,The thunder is strong today.,,,definite
+noun,weather,the thunders,The sound from lightning.,i tuoni,ee TWOH-nee,plural,n/a,masculine,2,noun,n/a,The thunder is strong today.,,,definite
+noun,weather,a humidity,The amount of moisture in the air.,l'umidità,loo-mee-dee-TAH,singular,n/a,feminine,2,noun,n/a,The humidity is strong today.,,,indefinite
+noun,weather,the humidity,The amount of moisture in the air.,l'umidità,loo-mee-dee-TAH,singular,n/a,feminine,2,noun,n/a,The humidity is strong today.,,,definite
+noun,weather,a breeze,A light and gentle wind.,una brezza,OO-nah BREHT-tsah,singular,n/a,feminine,2,noun,n/a,The breeze is strong today.,,,indefinite
+noun,weather,the breeze,A light and gentle wind.,la brezza,lah BREHT-tsah,singular,n/a,feminine,2,noun,n/a,The breeze is strong today.,,,definite
+noun,weather,the breezes,A light and gentle wind.,le brezze,leh BREHT-tseh,plural,n/a,feminine,2,noun,n/a,The breeze is strong today.,,,definite
+noun,weather,a temperature,The degree of hotness or coldness.,una temperatura,OO-nah tem-peh-rah-TOO-rah,singular,n/a,feminine,1,noun,n/a,The temperature is strong today.,,,indefinite
+noun,weather,the temperature,The degree of hotness or coldness.,la temperatura,lah tem-peh-rah-TOO-rah,singular,n/a,feminine,1,noun,n/a,The temperature is strong today.,,,definite
+noun,weather,the temperatures,The degree of hotness or coldness.,le temperature,leh tem-peh-rah-TOO-reh,plural,n/a,feminine,1,noun,n/a,The temperature is strong today.,,,definite

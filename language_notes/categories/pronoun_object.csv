@@ -1,0 +1,10 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,object,me,Used as the object of a verb or preposition referring to the speaker.,mi,mee,singular,n/a,n/a,1,pronoun,n/a,He sees me.,,,n/a
+pronoun,object,you (informal),Used to refer to the person the speaker is addressing informally.,ti,tee,singular,n/a,n/a,1,pronoun,informal,He sees you (informal).,,,n/a
+pronoun,object,you (formal),Used to refer to the person the speaker is addressing formally.,La,lah,singular,n/a,feminine,1,pronoun,formal,He sees you (formal).,,,n/a
+pronoun,object,him,Used as the object referring to a male person or animal.,lo,loh,singular,n/a,masculine,1,pronoun,n/a,He sees him.,,,n/a
+pronoun,object,her,Used as the object referring to a female person or animal.,la,lah,singular,n/a,feminine,1,pronoun,n/a,He sees her.,,,n/a
+pronoun,object,us,Used to refer to the speaker and another person as the object.,ci,chee,plural,n/a,n/a,1,pronoun,n/a,He sees us.,,,n/a
+pronoun,object,you all,Used as the object to refer to multiple people being addressed.,vi,vee,plural,n/a,n/a,1,pronoun,n/a,He sees you all.,,,n/a
+pronoun,object,them (masculine or mixed),Used to refer to multiple people or things (masculine/mixed).,li,lee,plural,n/a,masculine,1,pronoun,n/a,He sees them (masculine or mixed).,,,n/a
+pronoun,object,them (feminine),Used to refer to multiple female people or things.,le,leh,plural,n/a,feminine,1,pronoun,n/a,He sees them (feminine).,,,n/a

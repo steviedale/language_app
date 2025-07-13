@@ -1,0 +1,61 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+verb,directions,to go,To move from one place to another.,vado,ahn-DAH-reh,n/a,present,n/a,1,verb,n/a,To go to your destination.,,,n/a
+verb,directions,to go,To move from one place to another.,sono andato/a,ahn-DAH-reh,n/a,past,n/a,1,verb,n/a,To go to your destination.,,,n/a
+verb,directions,to go,To move from one place to another.,andrò,ahn-DAH-reh,n/a,future,n/a,1,verb,n/a,To go to your destination.,,,n/a
+verb,directions,to come,To move toward the speaker.,vengo,veh-NEE-reh,n/a,present,n/a,1,verb,n/a,To come to your destination.,,,n/a
+verb,directions,to come,To move toward the speaker.,sono venuto/a,veh-NEE-reh,n/a,past,n/a,1,verb,n/a,To come to your destination.,,,n/a
+verb,directions,to come,To move toward the speaker.,verrò,veh-NEE-reh,n/a,future,n/a,1,verb,n/a,To come to your destination.,,,n/a
+verb,directions,to turn,To change direction.,giro,jee-RAH-reh,n/a,present,n/a,1,verb,n/a,To turn to your destination.,,,n/a
+verb,directions,to turn,To change direction.,ho girato,jee-RAH-reh,n/a,past,n/a,1,verb,n/a,To turn to your destination.,,,n/a
+verb,directions,to turn,To change direction.,girerò,jee-RAH-reh,n/a,future,n/a,1,verb,n/a,To turn to your destination.,,,n/a
+verb,directions,to continue,To proceed further.,continuo,kohn-tee-nwah-REH,n/a,present,n/a,1,verb,n/a,To continue to your destination.,,,n/a
+verb,directions,to continue,To proceed further.,ho continuato,kohn-tee-nwah-REH,n/a,past,n/a,1,verb,n/a,To continue to your destination.,,,n/a
+verb,directions,to continue,To proceed further.,continuerò,kohn-tee-nwah-REH,n/a,future,n/a,1,verb,n/a,To continue to your destination.,,,n/a
+verb,directions,to stop,To cease movement.,mi fermo,fehr-MAHR-see,n/a,present,n/a,1,verb,n/a,To stop to your destination.,,,n/a
+verb,directions,to stop,To cease movement.,mi sono fermato/a,fehr-MAHR-see,n/a,past,n/a,1,verb,n/a,To stop to your destination.,,,n/a
+verb,directions,to stop,To cease movement.,mi fermerò,fehr-MAHR-see,n/a,future,n/a,1,verb,n/a,To stop to your destination.,,,n/a
+verb,directions,to cross,To move across something.,attraverso,ah-tra-ver-SAH-reh,n/a,present,n/a,1,verb,n/a,To cross to your destination.,,,n/a
+verb,directions,to cross,To move across something.,ho attraversato,ah-tra-ver-SAH-reh,n/a,past,n/a,1,verb,n/a,To cross to your destination.,,,n/a
+verb,directions,to cross,To move across something.,attraverserò,ah-tra-ver-SAH-reh,n/a,future,n/a,1,verb,n/a,To cross to your destination.,,,n/a
+verb,directions,to follow,To move behind or after something.,seguo,seh-GWEE-reh,n/a,present,n/a,1,verb,n/a,To follow to your destination.,,,n/a
+verb,directions,to follow,To move behind or after something.,ho seguito,seh-GWEE-reh,n/a,past,n/a,1,verb,n/a,To follow to your destination.,,,n/a
+verb,directions,to follow,To move behind or after something.,seguirò,seh-GWEE-reh,n/a,future,n/a,1,verb,n/a,To follow to your destination.,,,n/a
+verb,directions,to walk,To move by foot.,cammino,kahm-mee-NAH-reh,n/a,present,n/a,1,verb,n/a,To walk to your destination.,,,n/a
+verb,directions,to walk,To move by foot.,ho camminato,kahm-mee-NAH-reh,n/a,past,n/a,1,verb,n/a,To walk to your destination.,,,n/a
+verb,directions,to walk,To move by foot.,camminerò,kahm-mee-NAH-reh,n/a,future,n/a,1,verb,n/a,To walk to your destination.,,,n/a
+verb,directions,to run,To move quickly by foot.,corro,KOR-reh-reh,n/a,present,n/a,1,verb,n/a,To run to your destination.,,,n/a
+verb,directions,to run,To move quickly by foot.,ho corso,KOR-reh-reh,n/a,past,n/a,1,verb,n/a,To run to your destination.,,,n/a
+verb,directions,to run,To move quickly by foot.,correrò,KOR-reh-reh,n/a,future,n/a,1,verb,n/a,To run to your destination.,,,n/a
+verb,directions,to exit,To go out of a place.,esco,oo-SHEE-reh,n/a,present,n/a,1,verb,n/a,To exit to your destination.,,,n/a
+verb,directions,to exit,To go out of a place.,sono uscito/a,oo-SHEE-reh,n/a,past,n/a,1,verb,n/a,To exit to your destination.,,,n/a
+verb,directions,to exit,To go out of a place.,uscirò,oo-SHEE-reh,n/a,future,n/a,1,verb,n/a,To exit to your destination.,,,n/a
+verb,directions,to enter,To go into a place.,entro,en-TRAH-reh,n/a,present,n/a,1,verb,n/a,To enter to your destination.,,,n/a
+verb,directions,to enter,To go into a place.,sono entrato/a,en-TRAH-reh,n/a,past,n/a,1,verb,n/a,To enter to your destination.,,,n/a
+verb,directions,to enter,To go into a place.,entrerò,en-TRAH-reh,n/a,future,n/a,1,verb,n/a,To enter to your destination.,,,n/a
+verb,directions,to find,To discover the location of something.,trovo,tro-VAH-reh,n/a,present,n/a,1,verb,n/a,To find to your destination.,,,n/a
+verb,directions,to find,To discover the location of something.,ho trovato,tro-VAH-reh,n/a,past,n/a,1,verb,n/a,To find to your destination.,,,n/a
+verb,directions,to find,To discover the location of something.,troverò,tro-VAH-reh,n/a,future,n/a,1,verb,n/a,To find to your destination.,,,n/a
+verb,directions,to lose,To fail to keep track of something.,perdo,PEHR-deh-reh,n/a,present,n/a,1,verb,n/a,To lose to your destination.,,,n/a
+verb,directions,to lose,To fail to keep track of something.,ho perso,PEHR-deh-reh,n/a,past,n/a,1,verb,n/a,To lose to your destination.,,,n/a
+verb,directions,to lose,To fail to keep track of something.,perderò,PEHR-deh-reh,n/a,future,n/a,1,verb,n/a,To lose to your destination.,,,n/a
+verb,directions,to pass,To move beyond something.,passo,pahs-SAH-reh,n/a,present,n/a,1,verb,n/a,To pass to your destination.,,,n/a
+verb,directions,to pass,To move beyond something.,ho passato,pahs-SAH-reh,n/a,past,n/a,1,verb,n/a,To pass to your destination.,,,n/a
+verb,directions,to pass,To move beyond something.,passerò,pahs-SAH-reh,n/a,future,n/a,1,verb,n/a,To pass to your destination.,,,n/a
+verb,directions,to stop (transitive),To stop something or someone.,fermo,fehr-MAH-reh,n/a,present,n/a,1,verb,n/a,To stop (transitive) to your destination.,,,n/a
+verb,directions,to stop (transitive),To stop something or someone.,ho fermato,fehr-MAH-reh,n/a,past,n/a,1,verb,n/a,To stop (transitive) to your destination.,,,n/a
+verb,directions,to stop (transitive),To stop something or someone.,fermerò,fehr-MAH-reh,n/a,future,n/a,1,verb,n/a,To stop (transitive) to your destination.,,,n/a
+verb,directions,to turn around,To reverse direction.,mi volto,vol-TAHR-see,n/a,present,n/a,1,verb,n/a,To turn around to your destination.,,,n/a
+verb,directions,to turn around,To reverse direction.,mi sono voltato/a,vol-TAHR-see,n/a,past,n/a,1,verb,n/a,To turn around to your destination.,,,n/a
+verb,directions,to turn around,To reverse direction.,mi volterò,vol-TAHR-see,n/a,future,n/a,1,verb,n/a,To turn around to your destination.,,,n/a
+verb,directions,to orient oneself,To determine one's position.,mi oriento,oh-ree-en-TAHR-see,n/a,present,n/a,1,verb,n/a,To orient oneself to your destination.,,,n/a
+verb,directions,to orient oneself,To determine one's position.,mi sono orientato/a,oh-ree-en-TAHR-see,n/a,past,n/a,1,verb,n/a,To orient oneself to your destination.,,,n/a
+verb,directions,to orient oneself,To determine one's position.,mi orienterò,oh-ree-en-TAHR-see,n/a,future,n/a,1,verb,n/a,To orient oneself to your destination.,,,n/a
+verb,directions,to ask (for directions),To request directional information.,chiedo,KYEH-deh-reh,n/a,present,n/a,1,verb,n/a,To ask (for directions) to your destination.,,,n/a
+verb,directions,to ask (for directions),To request directional information.,ho chiesto,KYEH-deh-reh,n/a,past,n/a,1,verb,n/a,To ask (for directions) to your destination.,,,n/a
+verb,directions,to ask (for directions),To request directional information.,chiederò,KYEH-deh-reh,n/a,future,n/a,1,verb,n/a,To ask (for directions) to your destination.,,,n/a
+verb,directions,to point,To indicate direction with a finger.,indico,een-dee-KAH-reh,n/a,present,n/a,1,verb,n/a,To point to your destination.,,,n/a
+verb,directions,to point,To indicate direction with a finger.,ho indicato,een-dee-KAH-reh,n/a,past,n/a,1,verb,n/a,To point to your destination.,,,n/a
+verb,directions,to point,To indicate direction with a finger.,indicherò,een-dee-KAH-reh,n/a,future,n/a,1,verb,n/a,To point to your destination.,,,n/a
+verb,directions,to reverse,To go back in the opposite direction.,faccio inversione,een-vehr-SYOH-neh,n/a,present,n/a,1,verb,n/a,To reverse to your destination.,,,n/a
+verb,directions,to reverse,To go back in the opposite direction.,ho fatto inversione,een-vehr-SYOH-neh,n/a,past,n/a,1,verb,n/a,To reverse to your destination.,,,n/a
+verb,directions,to reverse,To go back in the opposite direction.,farò inversione,een-vehr-SYOH-neh,n/a,future,n/a,1,verb,n/a,To reverse to your destination.,,,n/a

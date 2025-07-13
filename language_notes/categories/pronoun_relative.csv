@@ -1,0 +1,6 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,relative,who,Used to refer to people (as the subject of a clause).,che,keh,n/a,n/a,n/a,1,pronoun,n/a,The person who called is here.,,,n/a
+pronoun,relative,whom,Used to refer to people (as the object of a clause).,cui,koo-ee,n/a,n/a,n/a,2,pronoun,n/a,The person whom called is here.,,,n/a
+pronoun,relative,which,Used to refer to things or animals.,che,keh,n/a,n/a,n/a,1,pronoun,n/a,The person which called is here.,,,n/a
+pronoun,relative,that,Used to introduce a defining clause referring to a person or thing.,che,keh,n/a,n/a,n/a,1,pronoun,n/a,The person that called is here.,,,n/a
+pronoun,relative,whose,Used to show possession.,il cui / la cui,eel kwee / lah kwee,varies,n/a,varies,2,pronoun,n/a,The person whose called is here.,,,n/a

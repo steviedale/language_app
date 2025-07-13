@@ -1,0 +1,612 @@
+samples = [
+  {
+    "english": {
+      "text": "where is the train station",
+      "hash": "a6223b3532d0ce4d39474fe0714c4498128e1a8d83d71e7cebaf43649f35f886",
+      "audio_file": require("./audio/individual/a6223b3532d0ce4d39474fe0714c4498128e1a8d83d71e7cebaf43649f35f886.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1752
+    },
+    "italian": {
+      "text": "dov'è la stazione ferroviaria",
+      "hash": "6d42b7f600d1cf2c4c517ccc65b0a788c7f2b7e3430e4e1613fd2660c14d79f8",
+      "audio_file": require("./audio/individual/6d42b7f600d1cf2c4c517ccc65b0a788c7f2b7e3430e4e1613fd2660c14d79f8.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2448
+    },
+    "combined_audio_file": require("./audio/combined/0.mp3")
+  },
+  {
+    "english": {
+      "text": "to the train station please",
+      "hash": "062596bd9319186140261b1d44fdc39609f6acc886e6e482a9cf94e7310150db",
+      "audio_file": require("./audio/individual/062596bd9319186140261b1d44fdc39609f6acc886e6e482a9cf94e7310150db.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 2016
+    },
+    "italian": {
+      "text": "alla stazione ferroviaria per favore",
+      "hash": "4a37eb2041b248734e266431cd6a9135bfd0463028cba1b5fabb355c26d07ad6",
+      "audio_file": require("./audio/individual/4a37eb2041b248734e266431cd6a9135bfd0463028cba1b5fabb355c26d07ad6.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 3096
+    },
+    "combined_audio_file": require("./audio/combined/1.mp3")
+  },
+  {
+    "english": {
+      "text": "to the airport please",
+      "hash": "3ca1d6f159f9c6812b67cef1214073ea464ebb31baaa6dcb45f86ae09e699249",
+      "audio_file": require("./audio/individual/3ca1d6f159f9c6812b67cef1214073ea464ebb31baaa6dcb45f86ae09e699249.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1584
+    },
+    "italian": {
+      "text": "all'aeroporto per favore",
+      "hash": "d01b74bd1983481763df329ceb8752ed4dbf9f53cc8fe6390b52f23e5773f74f",
+      "audio_file": require("./audio/individual/d01b74bd1983481763df329ceb8752ed4dbf9f53cc8fe6390b52f23e5773f74f.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2184
+    },
+    "combined_audio_file": require("./audio/combined/2.mp3")
+  },
+  {
+    "english": {
+      "text": "I want a taxi",
+      "hash": "187e88d1b2cf72f924e9cb65293f5b937a33b6ad74ee5473ebcd0f78b7231897",
+      "audio_file": require("./audio/individual/187e88d1b2cf72f924e9cb65293f5b937a33b6ad74ee5473ebcd0f78b7231897.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1320
+    },
+    "italian": {
+      "text": "vorrei un taxi",
+      "hash": "c228b6e5f1f450739922b98c7c1c86a3567af5d94875eb0e778755712e712831",
+      "audio_file": require("./audio/individual/c228b6e5f1f450739922b98c7c1c86a3567af5d94875eb0e778755712e712831.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1704
+    },
+    "combined_audio_file": require("./audio/combined/3.mp3")
+  },
+  {
+    "english": {
+      "text": "I would like",
+      "hash": "4a61b76609c2ab876d0d957d24c10a08f08e401ed73a0f0a0b497c1cb361f46f",
+      "audio_file": require("./audio/individual/4a61b76609c2ab876d0d957d24c10a08f08e401ed73a0f0a0b497c1cb361f46f.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 936
+    },
+    "italian": {
+      "text": "vorrei",
+      "hash": "aa99c6b6e91b0351a15407a0b6c329a732e81a3bc1be0e244ca3cc9982d18a0c",
+      "audio_file": require("./audio/individual/aa99c6b6e91b0351a15407a0b6c329a732e81a3bc1be0e244ca3cc9982d18a0c.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1032
+    },
+    "combined_audio_file": require("./audio/combined/4.mp3")
+  },
+  {
+    "english": {
+      "text": "I would like a ticket",
+      "hash": "e5a4096a2811e03795eb7bc7e713e496e51e3023c2d5373777a43abdf8a150f6",
+      "audio_file": require("./audio/individual/e5a4096a2811e03795eb7bc7e713e496e51e3023c2d5373777a43abdf8a150f6.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1392
+    },
+    "italian": {
+      "text": "vorrei un biglietto",
+      "hash": "bf7bea9968f86c9c6f6ed357b36a730a461af1e838375d7ab2c104ff7c692611",
+      "audio_file": require("./audio/individual/bf7bea9968f86c9c6f6ed357b36a730a461af1e838375d7ab2c104ff7c692611.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1800
+    },
+    "combined_audio_file": require("./audio/combined/5.mp3")
+  },
+  {
+    "english": {
+      "text": "a ticket to / a ticket for",
+      "hash": "1f1df182b7c5230f5b78cbaca8308fb42af62b8ab67b1be0bd289483634088a4",
+      "audio_file": require("./audio/individual/1f1df182b7c5230f5b78cbaca8308fb42af62b8ab67b1be0bd289483634088a4.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 2256
+    },
+    "italian": {
+      "text": "un biglietto per",
+      "hash": "a49145e316eea726953f990eda9b2149602622ad50c1f64a2f0baddd62b11cbf",
+      "audio_file": require("./audio/individual/a49145e316eea726953f990eda9b2149602622ad50c1f64a2f0baddd62b11cbf.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1536
+    },
+    "combined_audio_file": require("./audio/combined/6.mp3")
+  },
+  {
+    "english": {
+      "text": "the train to Rome / the train for Rome",
+      "hash": "2aa5aac83334409f030dee14517d8dcb5f8778e7afaf18415e7d393b4137119b",
+      "audio_file": require("./audio/individual/2aa5aac83334409f030dee14517d8dcb5f8778e7afaf18415e7d393b4137119b.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 2640
+    },
+    "italian": {
+      "text": "il treno per Roma",
+      "hash": "ce6b7160777c9db8ed46b20183720b8e6df2eb07b80442ed35b772821ddc1065",
+      "audio_file": require("./audio/individual/ce6b7160777c9db8ed46b20183720b8e6df2eb07b80442ed35b772821ddc1065.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1656
+    },
+    "combined_audio_file": require("./audio/combined/7.mp3")
+  },
+  {
+    "english": {
+      "text": "the train from Naples",
+      "hash": "8c3329238522d8268a781b99d7d4a705473d7c48c24a6081aa6be45e6abed5dd",
+      "audio_file": require("./audio/individual/8c3329238522d8268a781b99d7d4a705473d7c48c24a6081aa6be45e6abed5dd.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1536
+    },
+    "italian": {
+      "text": "il treno da Napoli",
+      "hash": "43add7f29257c620fb85732090b1569f674932bd743c5d96db8677003932cad3",
+      "audio_file": require("./audio/individual/43add7f29257c620fb85732090b1569f674932bd743c5d96db8677003932cad3.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1704
+    },
+    "combined_audio_file": require("./audio/combined/8.mp3")
+  },
+  {
+    "english": {
+      "text": "the train from Naples to Rome",
+      "hash": "6e9dc334d5932429a634de7235eaabca40a2d04b6921ed570d4065d57c5959b8",
+      "audio_file": require("./audio/individual/6e9dc334d5932429a634de7235eaabca40a2d04b6921ed570d4065d57c5959b8.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 2016
+    },
+    "italian": {
+      "text": "il treno da Napoli a Roma",
+      "hash": "22eabab19d44adad17a4b34f8d5e469e86ed33b08bc53fd7e0c99f49817a682a",
+      "audio_file": require("./audio/individual/22eabab19d44adad17a4b34f8d5e469e86ed33b08bc53fd7e0c99f49817a682a.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2328
+    },
+    "combined_audio_file": require("./audio/combined/9.mp3")
+  },
+  {
+    "english": {
+      "text": "first",
+      "hash": "083fecccf5558a33ed5b86b1a886d3c29bbf16453363dbd80a19af201fd7811f",
+      "audio_file": require("./audio/individual/083fecccf5558a33ed5b86b1a886d3c29bbf16453363dbd80a19af201fd7811f.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 840
+    },
+    "italian": {
+      "text": "primo / prima",
+      "hash": "07596bb504170b60a0fd7735b3a0ed3837b9251e87f721b0720db904b708a3cb",
+      "audio_file": require("./audio/individual/07596bb504170b60a0fd7735b3a0ed3837b9251e87f721b0720db904b708a3cb.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1584
+    },
+    "combined_audio_file": require("./audio/combined/10.mp3")
+  },
+  {
+    "english": {
+      "text": "first class",
+      "hash": "eb18b216e79f4f2276ec0672c28e0011852bdae46f79e83b89f31248ccfac286",
+      "audio_file": require("./audio/individual/eb18b216e79f4f2276ec0672c28e0011852bdae46f79e83b89f31248ccfac286.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1320
+    },
+    "italian": {
+      "text": "prima classe",
+      "hash": "fe6aee91c39825c31c812cada3d3486e9e817cc01397f96514765465a8f06be9",
+      "audio_file": require("./audio/individual/fe6aee91c39825c31c812cada3d3486e9e817cc01397f96514765465a8f06be9.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1416
+    },
+    "combined_audio_file": require("./audio/combined/11.mp3")
+  },
+  {
+    "english": {
+      "text": "second class",
+      "hash": "8b547b7ac5fbf99aa708a201dbb5b91b26185f8830d03e664dc2df78ec42c280",
+      "audio_file": require("./audio/individual/8b547b7ac5fbf99aa708a201dbb5b91b26185f8830d03e664dc2df78ec42c280.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1344
+    },
+    "italian": {
+      "text": "seconda classe",
+      "hash": "4dab9033b36b526e43c29f5740e0b868a524f3ba68e1c7ed377ec078c2e621c4",
+      "audio_file": require("./audio/individual/4dab9033b36b526e43c29f5740e0b868a524f3ba68e1c7ed377ec078c2e621c4.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1680
+    },
+    "combined_audio_file": require("./audio/combined/12.mp3")
+  },
+  {
+    "english": {
+      "text": "a one way ticket",
+      "hash": "8a10735453123cd9d6aec7e1aa3b1be144e5985a609722904a29ae54d28a2b1a",
+      "audio_file": require("./audio/individual/8a10735453123cd9d6aec7e1aa3b1be144e5985a609722904a29ae54d28a2b1a.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1392
+    },
+    "italian": {
+      "text": "un biglietto di andata",
+      "hash": "4a34051a38e6dadcf3465aaa10d821d8a87d967029e59dfb93e972359f131cdc",
+      "audio_file": require("./audio/individual/4a34051a38e6dadcf3465aaa10d821d8a87d967029e59dfb93e972359f131cdc.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1944
+    },
+    "combined_audio_file": require("./audio/combined/13.mp3")
+  },
+  {
+    "english": {
+      "text": "round trip ticket",
+      "hash": "693b48bc06c3c04b0d9c650a64ec5d9c9bc5eae082ab5a9f16ab2f999b224564",
+      "audio_file": require("./audio/individual/693b48bc06c3c04b0d9c650a64ec5d9c9bc5eae082ab5a9f16ab2f999b224564.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1416
+    },
+    "italian": {
+      "text": "un biglietto di andata e ritorno",
+      "hash": "aaf4f2b3539bbf7a4564b3f2bb0ca9275503f9b0742dd43688bad20badd391d5",
+      "audio_file": require("./audio/individual/aaf4f2b3539bbf7a4564b3f2bb0ca9275503f9b0742dd43688bad20badd391d5.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2760
+    },
+    "combined_audio_file": require("./audio/combined/14.mp3")
+  },
+  {
+    "english": {
+      "text": "to smoke",
+      "hash": "8d1a19151185957fe67d7987d0b37420ae4c9ffaf32bb7779192e8af7ba46429",
+      "audio_file": require("./audio/individual/8d1a19151185957fe67d7987d0b37420ae4c9ffaf32bb7779192e8af7ba46429.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 936
+    },
+    "italian": {
+      "text": "fumare",
+      "hash": "2e86d904ec73ce42ab5f6611809c48a82cd7e002a6c228f67b3604bf8f9a4c82",
+      "audio_file": require("./audio/individual/2e86d904ec73ce42ab5f6611809c48a82cd7e002a6c228f67b3604bf8f9a4c82.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1080
+    },
+    "combined_audio_file": require("./audio/combined/15.mp3")
+  },
+  {
+    "english": {
+      "text": "no smoking",
+      "hash": "3c2a62a83b46b06174fbad4b0c296dad2c7f18cc52b14705cfc7207eb8f96d1b",
+      "audio_file": require("./audio/individual/3c2a62a83b46b06174fbad4b0c296dad2c7f18cc52b14705cfc7207eb8f96d1b.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1152
+    },
+    "italian": {
+      "text": "vietato fumare",
+      "hash": "27bf43c32e342d0035ea3c5595dc108fcf1fc76395b5818f5272821f29acc47b",
+      "audio_file": require("./audio/individual/27bf43c32e342d0035ea3c5595dc108fcf1fc76395b5818f5272821f29acc47b.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1656
+    },
+    "combined_audio_file": require("./audio/combined/16.mp3")
+  },
+  {
+    "english": {
+      "text": "non-smokers",
+      "hash": "d6ef63fc7acb4fa874ecd1d4ddf4a31dba88e70ea9a210c547dc61405b4659d3",
+      "audio_file": require("./audio/individual/d6ef63fc7acb4fa874ecd1d4ddf4a31dba88e70ea9a210c547dc61405b4659d3.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1368
+    },
+    "italian": {
+      "text": "non fumatori",
+      "hash": "369114925967dfaf2a3ceb81094ead3d56fd59f3c1a78342e137d4e980299fb3",
+      "audio_file": require("./audio/individual/369114925967dfaf2a3ceb81094ead3d56fd59f3c1a78342e137d4e980299fb3.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1464
+    },
+    "combined_audio_file": require("./audio/combined/17.mp3")
+  },
+  {
+    "english": {
+      "text": "at what time does the train leave",
+      "hash": "11c661a16337172f6679fc8b33d5772cca9583f28949b96cd336c556f2f346e6",
+      "audio_file": require("./audio/individual/11c661a16337172f6679fc8b33d5772cca9583f28949b96cd336c556f2f346e6.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1992
+    },
+    "italian": {
+      "text": "a che ora parte il treno",
+      "hash": "12d75d6216398a72db2464f47c30152bccda5465f6118eb12d491c49b9a92d7e",
+      "audio_file": require("./audio/individual/12d75d6216398a72db2464f47c30152bccda5465f6118eb12d491c49b9a92d7e.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2208
+    },
+    "combined_audio_file": require("./audio/combined/18.mp3")
+  },
+  {
+    "english": {
+      "text": "at what time does the train arrive",
+      "hash": "04ab648222c57d941e6572ac8458c4903207c3f536e7f443c9c2052c8836db7d",
+      "audio_file": require("./audio/individual/04ab648222c57d941e6572ac8458c4903207c3f536e7f443c9c2052c8836db7d.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 2088
+    },
+    "italian": {
+      "text": "a che ora arriva il treno",
+      "hash": "f3b4c18cd3aaec60942bf5175e0b7813489985c7b0e07121f1ef0cfe39dc5039",
+      "audio_file": require("./audio/individual/f3b4c18cd3aaec60942bf5175e0b7813489985c7b0e07121f1ef0cfe39dc5039.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2208
+    },
+    "combined_audio_file": require("./audio/combined/19.mp3")
+  },
+  {
+    "english": {
+      "text": "where is the bus to Milan",
+      "hash": "107ce62327a157b5898c86b4c7628e5041d5dda53e47f283ffc04ca0f12b45a5",
+      "audio_file": require("./audio/individual/107ce62327a157b5898c86b4c7628e5041d5dda53e47f283ffc04ca0f12b45a5.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1800
+    },
+    "italian": {
+      "text": "dov'è l'autobus per Milano",
+      "hash": "437d8241795b62ca0ff2ea4b727445e25b8866816567c5d48a6a3c716f572086",
+      "audio_file": require("./audio/individual/437d8241795b62ca0ff2ea4b727445e25b8866816567c5d48a6a3c716f572086.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 2280
+    },
+    "combined_audio_file": require("./audio/combined/20.mp3")
+  },
+  {
+    "english": {
+      "text": "which number",
+      "hash": "fc6e5a3509335c64a27f3022ba4c211285b752f53cd0093b52533b3140555264",
+      "audio_file": require("./audio/individual/fc6e5a3509335c64a27f3022ba4c211285b752f53cd0093b52533b3140555264.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1032
+    },
+    "italian": {
+      "text": "quale numero",
+      "hash": "f23c0b26a8aecbad32454f302d0a18427e1ae80342da6250d69b463dc7701c9f",
+      "audio_file": require("./audio/individual/f23c0b26a8aecbad32454f302d0a18427e1ae80342da6250d69b463dc7701c9f.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1320
+    },
+    "combined_audio_file": require("./audio/combined/21.mp3")
+  },
+  {
+    "english": {
+      "text": "which seat",
+      "hash": "14e29062c2e140b01e24627b665837efbde7864d2a5e751be5d53943ef042ab5",
+      "audio_file": require("./audio/individual/14e29062c2e140b01e24627b665837efbde7864d2a5e751be5d53943ef042ab5.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 960
+    },
+    "italian": {
+      "text": "quale posto",
+      "hash": "a4994e1bbac9f9cd082fe24b6c0709370045d931d4641a795e4eb7b3b3784623",
+      "audio_file": require("./audio/individual/a4994e1bbac9f9cd082fe24b6c0709370045d931d4641a795e4eb7b3b3784623.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1392
+    },
+    "combined_audio_file": require("./audio/combined/22.mp3")
+  },
+  {
+    "english": {
+      "text": "seat number five",
+      "hash": "4c984e02114110c9ba720bd85b6aca8bd86a7200c1785496493bb4acd5dc64c9",
+      "audio_file": require("./audio/individual/4c984e02114110c9ba720bd85b6aca8bd86a7200c1785496493bb4acd5dc64c9.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1416
+    },
+    "italian": {
+      "text": "posto numero cinque",
+      "hash": "adcf33dbfb1dbb8821688e880d622a406df7da9269a13b465ca96e1cd8e2b97e",
+      "audio_file": require("./audio/individual/adcf33dbfb1dbb8821688e880d622a406df7da9269a13b465ca96e1cd8e2b97e.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1944
+    },
+    "combined_audio_file": require("./audio/combined/23.mp3")
+  },
+  {
+    "english": {
+      "text": "a time table / a schedule",
+      "hash": "9a72fb768f97d74d3c0698d6c704ed70cdb53145bae3cf4a9844f4d74fb39924",
+      "audio_file": require("./audio/individual/9a72fb768f97d74d3c0698d6c704ed70cdb53145bae3cf4a9844f4d74fb39924.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 2232
+    },
+    "italian": {
+      "text": "un orario",
+      "hash": "8600941680dce6e51d2afeefd7f03c92aad30143d17d9467e43cee79fb54fdde",
+      "audio_file": require("./audio/individual/8600941680dce6e51d2afeefd7f03c92aad30143d17d9467e43cee79fb54fdde.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1272
+    },
+    "combined_audio_file": require("./audio/combined/24.mp3")
+  },
+  {
+    "english": {
+      "text": "the first train",
+      "hash": "bf97b0d133135a615a6ed7f93f52b55c062014c206f42e7e4e35f60b08dcb47c",
+      "audio_file": require("./audio/individual/bf97b0d133135a615a6ed7f93f52b55c062014c206f42e7e4e35f60b08dcb47c.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1224
+    },
+    "italian": {
+      "text": "il primo treno",
+      "hash": "12b71b8860efcb7f841173e5a12e5f0b15d6d79d1f95870dbb6a814e76958f92",
+      "audio_file": require("./audio/individual/12b71b8860efcb7f841173e5a12e5f0b15d6d79d1f95870dbb6a814e76958f92.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1488
+    },
+    "combined_audio_file": require("./audio/combined/25.mp3")
+  },
+  {
+    "english": {
+      "text": "the second train",
+      "hash": "238015edf9c14f6239a6cfc9e50eca6247574d18a6951363794793a1316282cc",
+      "audio_file": require("./audio/individual/238015edf9c14f6239a6cfc9e50eca6247574d18a6951363794793a1316282cc.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1272
+    },
+    "italian": {
+      "text": "il secondo treno",
+      "hash": "5334cef0898b4d3a81d8f3a7d6d3f0a912552c472d3d570baa735c292c9430e8",
+      "audio_file": require("./audio/individual/5334cef0898b4d3a81d8f3a7d6d3f0a912552c472d3d570baa735c292c9430e8.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1680
+    },
+    "combined_audio_file": require("./audio/combined/26.mp3")
+  },
+  {
+    "english": {
+      "text": "the next train",
+      "hash": "d0195169f7cc7d5f7d77e2d4c06dbf006a457900b4ea16cd1514f6e474ffead1",
+      "audio_file": require("./audio/individual/d0195169f7cc7d5f7d77e2d4c06dbf006a457900b4ea16cd1514f6e474ffead1.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1176
+    },
+    "italian": {
+      "text": "il prossimo treno",
+      "hash": "7368f535d096f34ea217eba318d2cd9e8f278da61cc5eb9bba2d72e954bbd2a6",
+      "audio_file": require("./audio/individual/7368f535d096f34ea217eba318d2cd9e8f278da61cc5eb9bba2d72e954bbd2a6.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1656
+    },
+    "combined_audio_file": require("./audio/combined/27.mp3")
+  },
+  {
+    "english": {
+      "text": "the last train",
+      "hash": "c128af8d22540d5c40c3732064702de7a74373f6eb59271fbdd92e564257b5aa",
+      "audio_file": require("./audio/individual/c128af8d22540d5c40c3732064702de7a74373f6eb59271fbdd92e564257b5aa.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 1224
+    },
+    "italian": {
+      "text": "l'ultimo treno",
+      "hash": "5a20f60793c9ab774ffbba8f782fc4303cda6e3c59cc5038ec537bc5212ea693",
+      "audio_file": require("./audio/individual/5a20f60793c9ab774ffbba8f782fc4303cda6e3c59cc5038ec537bc5212ea693.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1512
+    },
+    "combined_audio_file": require("./audio/combined/28.mp3")
+  }
+];
+export default samples;

@@ -1,0 +1,6 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,interrogative,who,Used to ask about a person.,chi,kee,n/a,n/a,n/a,1,pronoun,n/a,Who is it?,,,n/a
+pronoun,interrogative,what,Used to ask about something in general.,che cosa / cosa,keh KOH-zah / KOH-zah,n/a,n/a,n/a,1,pronoun,n/a,What is it?,,,n/a
+pronoun,interrogative,which,Used to ask about a choice between a limited set.,quale,KWAH-leh,varies,n/a,varies,1,pronoun,n/a,Which is it?,,,n/a
+pronoun,interrogative,whose,Used to ask about ownership.,di chi,dee kee,n/a,n/a,n/a,2,pronoun,n/a,Whose is it?,,,n/a
+pronoun,interrogative,whom,Formal variant of 'who' as an object.,chi,kee,n/a,n/a,n/a,3,pronoun,n/a,Whom is it?,,,n/a
