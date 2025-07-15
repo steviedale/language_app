@@ -1,0 +1,5 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,interrogative,who,interrogative pronoun asking about a person,chi,KEE,singular,n/a,n/a,1,pronoun,n/a,"Who is at the door?","Chi è alla porta?","chiunque",n/a
+pronoun,interrogative,what,interrogative pronoun asking about a thing,che cosa,KEH KOH-zah,singular,n/a,n/a,1,pronoun,n/a,"What is that?","Che cosa è quello?","cosa",n/a
+pronoun,interrogative,which (sing.),interrogative pronoun singular,quale,KWAH-leh,singular,n/a,n/a,1,pronoun,n/a,"Which do you prefer?","Quale preferisci?","che",n/a
+pronoun,interrogative,which (pl.),interrogative pronoun plural,quali,KWAH-lee,plural,n/a,n/a,1,pronoun,n/a,"Which are yours?","Quali sono i tuoi?","che",n/a

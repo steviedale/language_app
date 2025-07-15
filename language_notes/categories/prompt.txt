@@ -1,0 +1,31 @@
+I'm creating a language learning app (learning Italian for English speakers). It is going to be a general tool that allows beginners to learn simple words.  I will be creating different categories and sub categories. For example noun/places, noun/people, noun/animals, verb/shopping, verb/cooking, etc. I will be asking you to create csv files for each category/sub category. For each csv file I would like the following columns:  
+- the category 
+- the sub category 
+- the word/phrase in english 
+- a short definition of the word in English (in case the word is vague or ambiguous) 
+- the word/phrase in Italian 
+- Italian pronunciation
+- singular_plural: whether the word is plural or singular or not applicable 
+- tense: whether the word is past tense, present tense, not applicable, etc 
+- gender: whether the word is masculine, feminine, or not applicable 
+- commonness a number between 1 and 3 which indicates how common the word is. 
+- part_of_speech
+- formal_informal
+- example_sentence_en
+- example_sentence_it
+- related_words_it
+- article_type
+
+When we come across a word that has multiple possible tenses, singular/plural, masculine feminine, or other version, please provide each possible form of the word. Also for nouns, please include a version with "the" and a version with "a/an" (I think this will only be applicable for singular versions). Each version of the word will have it's own row. There will be duplicate definitions and other values, but that's okay.
+
+Clarifications:
+1. mark n/a where ever something is not applicable to that word
+2. use additional parts of speech
+3. please include all forms of common conjugations. Each form of a word should be its own row. Yes include infinitives.
+4. use phonetic pronunciation
+5. related words should be synonyms, only a 1 to 3 synonyms
+6. let's keep the example sentences pretty basic. Let's try to make the sentences as applicable as possible to something a person visiting Italy.
+7. each example sentence should be different. Please make sure the word used in the italian sentence is the same Italian word from that row.
+8. file name should be <category>_<sub_category>.csv.
+
+Let's start by creating a csv file for noun places. Please provide approximately 100 different types of words. Since we will be including a row for every form of the word, that means there will be several hundred rows total.

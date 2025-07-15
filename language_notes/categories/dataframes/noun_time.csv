@@ -1,0 +1,58 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+noun,time,the day,24-hour period,il giorno,eel JOR-noh,singular,n/a,masculine,1,noun,n/a,The day is sunny.,Il giorno è soleggiato.,giornata,definite
+noun,time,a day,24-hour period,un giorno,oon JOR-noh,singular,n/a,masculine,1,noun,n/a,A day in Rome is fantastic.,Un giorno a Roma è fantastico.,giornata,indefinite
+noun,time,the days,24-hour periods,i giorni,ee JOR-nee,plural,n/a,masculine,1,noun,n/a,The days are long in summer.,I giorni sono lunghi in estate.,giornate,definite
+noun,time,the week,7-day period,la settimana,lah seh-tee-MAH-nah,singular,n/a,feminine,1,noun,n/a,The week passes quickly.,La settimana passa velocemente.,ottava,definite
+noun,time,a week,7-day period,una settimana,OO-nah seh-tee-MAH-nah,singular,n/a,feminine,1,noun,n/a,We stayed for a week.,Siamo rimasti per una settimana.,ottava,indefinite
+noun,time,the weeks,7-day periods,le settimane,leh seh-tee-MAH-neh,plural,n/a,feminine,1,noun,n/a,The weeks before the trip were busy.,Le settimane prima del viaggio erano intense.,ottave,definite
+noun,time,the month,one of 12 calendar units,il mese,eel MEH-zeh,singular,n/a,masculine,1,noun,n/a,The month of May is warm.,Il mese di maggio è caldo.,mensile,definite
+noun,time,a month,one of 12 calendar units,un mese,oon MEH-zeh,singular,n/a,masculine,1,noun,n/a,I will be in Italy for a month.,Starò in Italia per un mese.,mensile,indefinite
+noun,time,the months,calendar units,i mesi,ee MEH-zee,plural,n/a,masculine,1,noun,n/a,The months fly by.,I mesi volano.,mensili,definite
+noun,time,the year,12-month period,l'anno,LAHN-noh,singular,n/a,masculine,1,noun,n/a,The year has just begun.,L'anno è appena iniziato.,annata,definite
+noun,time,a year,12-month period,un anno,oon AHN-noh,singular,n/a,masculine,1,noun,n/a,They traveled for a year.,Hanno viaggiato per un anno.,annata,indefinite
+noun,time,the years,12-month periods,gli anni,lyee AHN-nee,plural,n/a,masculine,1,noun,n/a,The years pass quickly.,Gli anni passano in fretta.,annate,definite
+noun,time,the morning,early part of day,la mattina,lah maht-TEE-nah,singular,n/a,feminine,1,noun,n/a,The morning is cool.,La mattina è fresca.,mattino,definite
+noun,time,a morning,early part of day,una mattina,OO-nah maht-TEE-nah,singular,n/a,feminine,1,noun,n/a,A morning walk helps.,Una mattina di passeggiata aiuta.,mattino,indefinite
+noun,time,the mornings,early parts of days,le mattine,leh maht-TEE-neh,plural,n/a,feminine,1,noun,n/a,The mornings are quiet here.,Le mattine sono tranquille qui.,mattini,definite
+noun,time,the afternoon,mid-day period,il pomeriggio,eel poh-meh-REED-joh,singular,n/a,masculine,1,noun,n/a,The afternoon feels hot.,Il pomeriggio è caldo.,tardo pomeriggio,definite
+noun,time,an afternoon,mid-day period,un pomeriggio,oon poh-meh-REED-joh,singular,n/a,masculine,1,noun,n/a,We spent an afternoon at the museum.,Abbiamo trascorso un pomeriggio al museo.,tardo pomeriggio,indefinite
+noun,time,the afternoons,mid-day periods,i pomeriggi,ee poh-meh-REED-jee,plural,n/a,masculine,1,noun,n/a,The afternoons are busy downtown.,I pomeriggi sono affollati in centro.,pomeriggi,definite
+noun,time,the evening,later part of day,la sera,lah SEH-rah,singular,n/a,feminine,1,noun,n/a,The evening breeze is pleasant.,La sera la brezza è piacevole.,serata,definite
+noun,time,an evening,later part of day,una sera,OO-nah SEH-rah,singular,n/a,feminine,1,noun,n/a,An evening stroll is relaxing.,Una sera a passeggio è rilassante.,serata,indefinite
+noun,time,the evenings,later parts of days,le sere,leh SEH-reh,plural,n/a,feminine,1,noun,n/a,The evenings are lively.,Le sere sono vivaci.,serate,definite
+noun,time,the night,period of darkness,la notte,lah NOT-teh,singular,n/a,feminine,1,noun,n/a,The night is quiet.,La notte è silenziosa.,nottata,definite
+noun,time,a night,period of darkness,una notte,OO-nah NOT-teh,singular,n/a,feminine,1,noun,n/a,We booked a night in Florence.,Abbiamo prenotato una notte a Firenze.,nottata,indefinite
+noun,time,the nights,periods of darkness,le notti,leh NOT-tee,plural,n/a,feminine,1,noun,n/a,The nights can be cold.,Le notti possono essere fredde.,nottate,definite
+noun,time,the weekend,SAT-SUN period,il fine settimana,eel FEE-neh seh-tee-MAH-nah,singular,n/a,masculine,1,noun,n/a,The weekend starts tomorrow.,Il fine settimana inizia domani.,weekend,definite
+noun,time,a weekend,SAT-SUN period,un fine settimana,oon FEE-neh seh-tee-MAH-nah,singular,n/a,masculine,1,noun,n/a,We planned a weekend in Venice.,Abbiamo programmato un fine settimana a Venezia.,weekend,indefinite
+noun,time,the weekends,SAT-SUN periods,i fine settimana,ee FEE-neh seh-tee-MAH-nah,plural,n/a,masculine,1,noun,n/a,The weekends are short.,I fine settimana sono brevi.,weekend,definite
+noun,time,the hour,60-minute period,l'ora,LOH-rah,singular,n/a,feminine,1,noun,n/a,The hour passes slowly.,L'ora passa lentamente.,momento,definite
+noun,time,an hour,60-minute period,un'ora,oon OH-rah,singular,n/a,feminine,1,noun,n/a,It takes an hour by train.,Ci vuole un'ora in treno.,momento,indefinite
+noun,time,the hours,60-minute periods,le ore,leh OH-reh,plural,n/a,feminine,1,noun,n/a,The hours of work are long.,Le ore di lavoro sono lunghe.,ore,definite
+noun,time,the minute,60-second period,il minuto,eel mee-NOO-toh,singular,n/a,masculine,1,noun,n/a,The minute goes fast.,Il minuto passa veloce.,istante,definite
+noun,time,a minute,60-second period,un minuto,oon mee-NOO-toh,singular,n/a,masculine,1,noun,n/a,Wait a minute please.,Aspetta un minuto per favore.,istante,indefinite
+noun,time,the minutes,60-second periods,i minuti,ee mee-NOO-tee,plural,n/a,masculine,1,noun,n/a,The minutes seemed endless.,I minuti sembravano infiniti.,istanti,definite
+noun,time,the second,base time unit,il secondo,eel seh-KON-doh,singular,n/a,masculine,1,noun,n/a,The second hand moves.,Il secondo si muove.,attimo,definite
+noun,time,a second,base time unit,un secondo,oon seh-KON-doh,singular,n/a,masculine,1,noun,n/a,Just a second!,Solo un secondo!,attimo,indefinite
+noun,time,the seconds,base time units,i secondi,ee seh-KON-dee,plural,n/a,masculine,1,noun,n/a,The seconds tick away.,I secondi scorrono.,attimi,definite
+noun,time,today,current day,oggi,OH-jee,singular,n/a,n/a,1,noun,n/a,Today is market day.,Oggi è giorno di mercato.,questo giorno,n/a
+noun,time,tomorrow,next day,domani,doh-MAH-nee,singular,n/a,n/a,1,noun,n/a,Tomorrow we leave for Naples.,Domani partiamo per Napoli.,giorno seguente,n/a
+noun,time,yesterday,previous day,ieri,YEH-ree,singular,n/a,n/a,1,noun,n/a,Yesterday was rainy.,Ieri è stato piovoso.,giorno precedente,n/a
+noun,time,the holiday,celebration day,la festa,lah FEHS-tah,singular,n/a,feminine,1,noun,n/a,The holiday is on Friday.,La festa è venerdì.,vacanza,definite
+noun,time,a holiday,celebration day,una festa,OO-nah FEHS-tah,singular,n/a,feminine,1,noun,n/a,They enjoyed a holiday in August.,Hanno goduto di una festa ad agosto.,vacanza,indefinite
+noun,time,the holidays,celebration days,le feste,leh FEHS-teh,plural,n/a,feminine,1,noun,n/a,The holidays are joyful.,Le feste sono gioiose.,vacanze,definite
+noun,time,the season,period of the year,la stagione,lah stah-JOH-neh,singular,n/a,feminine,2,noun,n/a,The season changes soon.,La stagione cambia presto.,periodo,definite
+noun,time,a season,period of the year,una stagione,OO-nah stah-JOH-neh,singular,n/a,feminine,2,noun,n/a,A season in Italy can teach a lot.,Una stagione in Italia può insegnare molto.,periodo,indefinite
+noun,time,the seasons,periods of the year,le stagioni,leh stah-JOH-nee,plural,n/a,feminine,2,noun,n/a,The seasons influence travel plans.,Le stagioni influenzano i viaggi.,periodi,definite
+noun,time,the spring,March-May period,la primavera,lah pree-mah-VEH-rah,singular,n/a,feminine,2,noun,n/a,The spring is colorful.,La primavera è colorata.,stagione primaverile,definite
+noun,time,a spring,March-May period,una primavera,OO-nah pree-mah-VEH-rah,singular,n/a,feminine,2,noun,n/a,They arrived in a spring full of flowers.,Sono arrivati in una primavera piena di fiori.,stagione primaverile,indefinite
+noun,time,the springs,March-May periods,le primavere,leh pree-mah-VEH-reh,plural,n/a,feminine,2,noun,n/a,The springs are mild.,Le primavere sono miti.,stagioni primaverili,definite
+noun,time,the summer,June-Aug period,l'estate,leh-STAH-teh,singular,n/a,feminine,2,noun,n/a,The summer is hot.,L'estate è calda.,stagione estiva,definite
+noun,time,a summer,June-Aug period,un'estate,oon eh-STAH-teh,singular,n/a,feminine,2,noun,n/a,We met during a summer in Puglia.,Ci siamo conosciuti durante un'estate in Puglia.,stagione estiva,indefinite
+noun,time,the summers,June-Aug periods,le estati,leh eh-STAH-tee,plural,n/a,feminine,2,noun,n/a,The summers bring tourists.,Le estati portano turisti.,stagioni estive,definite
+noun,time,the autumn,Sept-Nov period,l'autunno,lau-TOON-noh,singular,n/a,masculine,2,noun,n/a,The autumn is mild.,L'autunno è mite.,stagione autunnale,definite
+noun,time,an autumn,Sept-Nov period,un autunno,oon ow-TOON-noh,singular,n/a,masculine,2,noun,n/a,An autumn trip is peaceful.,Un autunno in viaggio è tranquillo.,stagione autunnale,indefinite
+noun,time,the autumns,Sept-Nov periods,gli autunni,lyee ow-TOON-nee,plural,n/a,masculine,2,noun,n/a,The autumns are short here.,Gli autunni sono brevi qui.,stagioni autunnali,definite
+noun,time,the winter,Dec-Feb period,l'inverno,leen-VER-noh,singular,n/a,masculine,2,noun,n/a,The winter is cold.,L'inverno è freddo.,stagione invernale,definite
+noun,time,a winter,Dec-Feb period,un inverno,oon een-VER-noh,singular,n/a,masculine,2,noun,n/a,They spent a winter in the Alps.,Hanno trascorso un inverno sulle Alpi.,stagione invernale,indefinite
+noun,time,the winters,Dec-Feb periods,gli inverni,lyee een-VER-nee,plural,n/a,masculine,2,noun,n/a,The winters bring snow.,Gli inverni portano neve.,stagioni invernali,definite

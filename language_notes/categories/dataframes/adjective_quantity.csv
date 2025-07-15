@@ -1,0 +1,20 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+adjective,quantity,many,a large number,molti,MOHL-tee,plural,n/a,masculine,1,adjective,n/a,There are many tourists.,Ci sono molti turisti.,"tanti, numerosi",n/a
+adjective,quantity,many,a large number,molte,MOHL-teh,plural,n/a,feminine,1,adjective,n/a,She bought many apples.,Lei ha comprato molte mele.,"tante, numerose",n/a
+adjective,quantity,few,a small number,pochi,POH-kee,plural,n/a,masculine,1,adjective,n/a,Few people speak English here.,Pochi parlano inglese qui.,"scarsi, limitati",n/a
+adjective,quantity,few,a small number,poche,POH-keh,plural,n/a,feminine,1,adjective,n/a,There are few cars in the street.,Ci sono poche macchine in strada.,"scarse, limitate",n/a
+adjective,quantity,some,an unspecified number or amount,alcuni,ahl-KOO-nee,plural,n/a,masculine,1,adjective,n/a,I met some friends.,Ho incontrato alcuni amici.,"qualche, certi",n/a
+adjective,quantity,some,an unspecified number or amount,alcune,ahl-KOO-neh,plural,n/a,feminine,1,adjective,n/a,She bought some postcards.,Ha comprato alcune cartoline.,"qualche, certe",n/a
+adjective,quantity,all,the entire quantity or amount,tutti,TOOT-tee,plural,n/a,masculine,1,adjective,n/a,All tickets are sold.,Tutti i biglietti sono venduti.,"ogni, interi",n/a
+adjective,quantity,all,the entire quantity or amount,tutte,TOOT-teh,plural,n/a,feminine,1,adjective,n/a,She visited all museums.,Lei ha visitato tutti i musei.,"ogni, intere",n/a
+adjective,quantity,enough,adequate amount,abbastanza,ahb-bah-STAHN-tsa,n/a,n/a,n/a,1,adjective,n/a,There is enough food.,C'è abbastanza cibo.,"sufficiente, adeguato",n/a
+adjective,quantity,little,small amount,poco,POH-koh,singular,n/a,masculine,1,adjective,n/a,There is little bread left.,C'è poco pane rimasto.,"scarso, minimo",n/a
+adjective,quantity,little,small amount,poca,POH-kah,singular,n/a,feminine,1,adjective,n/a,There is little water.,C'è poca acqua.,"scarsa, minima",n/a
+adjective,quantity,several,more than two but not many,diversi,dee-VEHR-see,plural,n/a,masculine,2,adjective,n/a,He visited several towns.,Ha visitato diverse città.,"parecchi, vari",n/a
+adjective,quantity,several,more than two but not many,diverse,dee-VEHR-seh,plural,n/a,feminine,2,adjective,n/a,She bought several books.,Lei ha comprato diversi libri.,"parecchie, varie",n/a
+adjective,quantity,numerous,a great number of,numerosi,noo-meh-ROH-see,plural,n/a,masculine,2,adjective,n/a,Numerous visitors arrived.,Numerosi visitatori sono arrivati.,"molti, tanti",n/a
+adjective,quantity,numerous,a great number of,numerose,noo-meh-ROH-seh,plural,n/a,feminine,2,adjective,n/a,There are numerous activities.,Ci sono numerose attività.,"molte, tante",n/a
+adjective,quantity,single,only one,singolo,SEEN-goh-loh,singular,n/a,masculine,2,adjective,n/a,He has a single ticket.,Ha un singolo biglietto.,"unico, solo",n/a
+adjective,quantity,single,only one,singola,SEEN-goh-lah,singular,n/a,feminine,2,adjective,n/a,She booked a single room.,Lei ha prenotato una stanza singola.,"unica, sola",n/a
+adjective,quantity,all,the entire quantity or amount,tutto,TOOT-toh,singular,n/a,masculine,1,adjective,n/a,He ate all the bread.,Ha mangiato tutto il pane.,"ogni, intero",n/a
+adjective,quantity,all,the entire quantity or amount,tutta,TOOT-tah,singular,n/a,feminine,1,adjective,n/a,She drank all the water.,Lei ha bevuto tutta l'acqua.,"ogni, intera",n/a

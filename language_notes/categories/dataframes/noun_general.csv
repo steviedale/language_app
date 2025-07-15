@@ -1,0 +1,57 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+noun,general,the house,building where people live,la casa,LA KAH-sah,singular,n/a,feminine,1,noun,n/a,The house is old.,La casa è vecchia.,abitazione,definite
+noun,general,a house,building where people live,una casa,OO-nah KAH-sah,singular,n/a,feminine,1,noun,n/a,We rented a house near the lake.,Abbiamo affittato una casa vicino al lago.,abitazione,indefinite
+noun,general,the houses,buildings where people live,le case,LEH KAH-seh,plural,n/a,feminine,1,noun,n/a,The houses are colorful.,Le case sono colorate.,abitazioni,definite
+noun,general,the apartment,individual living unit,l'appartamento,lah pahr-tah-MEN-toh,singular,n/a,masculine,1,noun,n/a,The apartment has a balcony.,L'appartamento ha un balcone.,alloggio,definite
+noun,general,an apartment,individual living unit,un appartamento,oon ah-pahr-tah-MEN-toh,singular,n/a,masculine,1,noun,n/a,They found an apartment downtown.,Hanno trovato un appartamento in centro.,alloggio,indefinite
+noun,general,the apartments,individual living units,gli appartamenti,lyee ah-pahr-tah-MEN-tee,plural,n/a,masculine,1,noun,n/a,The apartments face the park.,Gli appartamenti danno sul parco.,alloggi,definite
+noun,general,the room,space in a building,la stanza,LA STAN-tsah,singular,n/a,feminine,1,noun,n/a,The room is bright.,La stanza è luminosa.,camera,definite
+noun,general,a room,space in a building,una stanza,OO-nah STAN-tsah,singular,n/a,feminine,1,noun,n/a,I booked a room for two.,Ho prenotato una stanza per due.,camera,indefinite
+noun,general,the rooms,spaces in a building,le stanze,LEH STAN-tseh,plural,n/a,feminine,1,noun,n/a,The rooms are clean.,Le stanze sono pulite.,camere,definite
+noun,general,the bed,furniture for sleeping,il letto,EEL LET-toh,singular,n/a,masculine,1,noun,n/a,The bed is comfortable.,Il letto è comodo.,branda,definite
+noun,general,a bed,furniture for sleeping,un letto,OON LET-toh,singular,n/a,masculine,1,noun,n/a,We need a bed for the guest.,Ci serve un letto per l'ospite.,branda,indefinite
+noun,general,the beds,furniture for sleeping,i letti,EE LET-tee,plural,n/a,masculine,1,noun,n/a,The beds have clean sheets.,I letti hanno lenzuola pulite.,brande,definite
+noun,general,the table,furniture with flat top,il tavolo,EEL TAH-voh-loh,singular,n/a,masculine,1,noun,n/a,The table seats four.,Il tavolo ospita quattro persone.,tavola,definite
+noun,general,a table,furniture with flat top,un tavolo,OON TAH-voh-loh,singular,n/a,masculine,1,noun,n/a,We moved a table outside.,Abbiamo spostato un tavolo fuori.,tavola,indefinite
+noun,general,the tables,furniture with flat tops,i tavoli,EE TAH-voh-lee,plural,n/a,masculine,1,noun,n/a,The tables are reserved.,I tavoli sono riservati.,tavole,definite
+noun,general,the chair,seating furniture,la sedia,LA SEH-dyah,singular,n/a,feminine,1,noun,n/a,The chair is wooden.,La sedia è di legno.,seduta,definite
+noun,general,a chair,seating furniture,una sedia,OO-nah SEH-dyah,singular,n/a,feminine,1,noun,n/a,I need a chair please.,Mi serve una sedia per favore.,seduta,indefinite
+noun,general,the chairs,seating furniture,le sedie,LEH SEH-dyeh,plural,n/a,feminine,1,noun,n/a,The chairs are light.,Le sedie sono leggere.,sedute,definite
+noun,general,the door,entry panel,la porta,LA POR-tah,singular,n/a,feminine,1,noun,n/a,The door is open.,La porta è aperta.,portone,definite
+noun,general,a door,entry panel,una porta,OO-nah POR-tah,singular,n/a,feminine,1,noun,n/a,They installed a door today.,Hanno installato una porta oggi.,portone,indefinite
+noun,general,the doors,entry panels,le porte,LEH POR-teh,plural,n/a,feminine,1,noun,n/a,The doors close at midnight.,Le porte chiudono a mezzanotte.,portoni,definite
+noun,general,the window,glass opening,la finestra,LA fee-NEH-strah,singular,n/a,feminine,1,noun,n/a,The window overlooks the river.,La finestra dà sul fiume.,infisso,definite
+noun,general,a window,glass opening,una finestra,OO-nah fee-NEH-strah,singular,n/a,feminine,1,noun,n/a,She opened a window for air.,Ha aperto una finestra per far entrare aria.,infisso,indefinite
+noun,general,the windows,glass openings,le finestre,LEH fee-NEH-streh,plural,n/a,feminine,1,noun,n/a,The windows are large.,Le finestre sono grandi.,infissi,definite
+noun,general,the key,object that opens a lock,la chiave,LA KYAH-veh,singular,n/a,feminine,1,noun,n/a,The key is on the desk.,La chiave è sulla scrivania.,chiavetta,definite
+noun,general,a key,object that opens a lock,una chiave,OO-nah KYAH-veh,singular,n/a,feminine,1,noun,n/a,I lost a key yesterday.,Ho perso una chiave ieri.,chiavetta,indefinite
+noun,general,the keys,objects that open locks,le chiavi,LEH KYAH-vee,plural,n/a,feminine,1,noun,n/a,The keys jingle in the bag.,Le chiavi tintinnano nella borsa.,chiavette,definite
+noun,general,the phone,device for calls,il telefono,EEL teh-LEH-foh-noh,singular,n/a,masculine,1,noun,n/a,The phone is ringing.,Il telefono sta squillando.,cellulare,definite
+noun,general,a phone,device for calls,un telefono,OON teh-LEH-foh-noh,singular,n/a,masculine,1,noun,n/a,He bought a phone in Italy.,Ha comprato un telefono in Italia.,cellulare,indefinite
+noun,general,the phones,devices for calls,i telefoni,EE teh-LEH-foh-nee,plural,n/a,masculine,1,noun,n/a,The phones are charging.,I telefoni sono in carica.,cellulari,definite
+noun,general,the computer,electronic computing device,il computer,EEL kom-PYOO-ter,singular,n/a,masculine,1,noun,n/a,The computer is fast.,Il computer è veloce.,pc,definite
+noun,general,a computer,electronic computing device,un computer,OON kom-PYOO-ter,singular,n/a,masculine,1,noun,n/a,We need a computer for work.,Ci serve un computer per lavoro.,pc,indefinite
+noun,general,the computers,electronic computing devices,i computer,EE kom-PYOO-ter,plural,n/a,masculine,1,noun,n/a,The computers are new.,I computer sono nuovi.,pc,definite
+noun,general,the book,printed reading material,il libro,EEL LEE-broh,singular,n/a,masculine,1,noun,n/a,The book is interesting.,Il libro è interessante.,volume,definite
+noun,general,a book,printed reading material,un libro,OON LEE-broh,singular,n/a,masculine,1,noun,n/a,I’m reading a book in Italian.,Sto leggendo un libro in italiano.,volume,indefinite
+noun,general,the books,printed reading materials,i libri,EE LEE-bree,plural,n/a,masculine,1,noun,n/a,The books are on the shelf.,I libri sono sullo scaffale.,volumi,definite
+noun,general,the pen,writing instrument,la penna,LA PEN-nah,singular,n/a,feminine,1,noun,n/a,The pen is blue.,La penna è blu.,penna a sfera,definite
+noun,general,a pen,writing instrument,una penna,OO-nah PEN-nah,singular,n/a,feminine,1,noun,n/a,Could I borrow a pen?,Posso prendere in prestito una penna?,penna a sfera,indefinite
+noun,general,the pens,writing instruments,le penne,LEH PEN-neh,plural,n/a,feminine,1,noun,n/a,The pens are on the counter.,Le penne sono sul bancone.,penne a sfera,definite
+noun,general,the photo,picture taken by camera,la foto,LA FOH-toh,singular,n/a,feminine,1,noun,n/a,The photo is beautiful.,La foto è bellissima.,immagine,definite
+noun,general,a photo,picture taken by camera,una foto,OO-nah FOH-toh,singular,n/a,feminine,1,noun,n/a,I took a photo of the skyline.,Ho scattato una foto del panorama.,immagine,indefinite
+noun,general,the photos,pictures taken by camera,le foto,LEH FOH-toh,plural,n/a,feminine,1,noun,n/a,The photos are in the album.,Le foto sono nell'album.,immagini,definite
+noun,general,the map,diagram of area,la mappa,LA MAHP-pah,singular,n/a,feminine,1,noun,n/a,The map shows all streets.,La mappa mostra tutte le strade.,cartina,definite
+noun,general,a map,diagram of area,una mappa,OO-nah MAHP-pah,singular,n/a,feminine,1,noun,n/a,We bought a map at the kiosk.,Abbiamo comprato una mappa al chiosco.,cartina,indefinite
+noun,general,the maps,diagrams of areas,le mappe,LEH MAHP-peh,plural,n/a,feminine,1,noun,n/a,The maps are folded.,Le mappe sono piegate.,cartine,definite
+noun,general,the money,medium of exchange,il denaro,EEL deh-NAH-roh,singular,n/a,masculine,1,noun,n/a,The money is in the wallet.,Il denaro è nel portafoglio.,soldi,definite
+noun,general,money,medium of exchange,denaro,deh-NAH-roh,singular,n/a,masculine,1,noun,n/a,Money changes hands quickly.,Denaro passa di mano rapidamente.,soldi,n/a
+noun,general,the idea,thought or concept,l'idea,lee-DEH-ah,singular,n/a,feminine,1,noun,n/a,The idea sounds good.,L'idea sembra buona.,concetto,definite
+noun,general,an idea,thought or concept,un'idea,oo-NEH-ah,singular,n/a,feminine,1,noun,n/a,She had an idea for dinner.,Ha avuto un'idea per cena.,concetto,indefinite
+noun,general,the ideas,thoughts or concepts,le idee,leh EE-DEH-eh,plural,n/a,feminine,1,noun,n/a,The ideas are creative.,Le idee sono creative.,concetti,definite
+noun,general,the problem,difficulty or issue,il problema,EEL proh-BLEH-mah,singular,n/a,masculine,1,noun,n/a,The problem is simple.,Il problema è semplice.,questione,definite
+noun,general,a problem,difficulty or issue,un problema,OON proh-BLEH-mah,singular,n/a,masculine,1,noun,n/a,We have a problem with the room.,Abbiamo un problema con la stanza.,questione,indefinite
+noun,general,the problems,difficulties or issues,i problemi,EE proh-BLEH-mee,plural,n/a,masculine,1,noun,n/a,The problems are solved.,I problemi sono risolti.,questioni,definite
+noun,general,the thing,object or matter,la cosa,LA KOH-sah,singular,n/a,feminine,1,noun,n/a,The thing is broken.,La cosa è rotta.,oggetto,definite
+noun,general,a thing,object or matter,una cosa,OO-nah KOH-sah,singular,n/a,feminine,1,noun,n/a,Let me tell you a thing.,Lascia che ti dica una cosa.,oggetto,indefinite
+noun,general,the things,objects or matters,le cose,LEH KOH-seh,plural,n/a,feminine,1,noun,n/a,The things are in the bag.,Le cose sono nella borsa.,oggetti,definite

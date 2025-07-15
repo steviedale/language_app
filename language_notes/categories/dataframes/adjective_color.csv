@@ -1,0 +1,19 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+adjective,color,blue,Color of clear sky,blu,bloo,n/a,n/a,n/a,1,adjective,n/a,The ocean is blue today.,L'oceano è blu oggi.,"azzurro, celeste",n/a
+adjective,color,light blue,Pale blue color,azzurro,ahd-DZOOR-roh,singular,n/a,masculine,1,adjective,n/a,He bought a light blue shirt.,Ha comprato una camicia azzurra.,"blu, celeste",n/a
+adjective,color,light blue,Pale blue color,azzurra,ahd-DZOOR-rah,singular,n/a,feminine,1,adjective,n/a,She has a light blue skirt.,Lei ha una gonna azzurra.,"blu, celeste",n/a
+adjective,color,red,Color of blood or fire,rosso,ROHS-soh,singular,n/a,masculine,1,adjective,n/a,The car is red.,La macchina è rossa.,"scarlatto, cremisi",n/a
+adjective,color,red,Color of blood or fire,rossa,ROHS-sah,singular,n/a,feminine,1,adjective,n/a,She wears a red dress.,Lei indossa un vestito rosso.,"scarlatto, cremisi",n/a
+adjective,color,green,Color of grass or emeralds,verde,VEHR-deh,singular,n/a,n/a,1,adjective,n/a,The park is very green.,Il parco è molto verde.,"smeraldo, oliva",n/a
+adjective,color,yellow,Color of the sun or gold,giallo,JAH-loh,singular,n/a,masculine,1,adjective,n/a,The taxi is yellow.,Il taxi è giallo.,"dorato, ocra",n/a
+adjective,color,yellow,Color of the sun or gold,gialla,JAH-lah,singular,n/a,feminine,1,adjective,n/a,She picked a yellow flower.,Ha raccolto un fiore giallo.,"dorata, ocra",n/a
+adjective,color,black,The darkest color,nero,NEH-roh,singular,n/a,masculine,1,adjective,n/a,His shoes are black.,Le sue scarpe sono nere.,"scuro, carbone",n/a
+adjective,color,black,The darkest color,nera,NEH-rah,singular,n/a,feminine,1,adjective,n/a,The cat is black.,La gatta è nera.,"scura, carbone",n/a
+adjective,color,white,Color of milk or snow,bianco,BYAHN-koh,singular,n/a,masculine,1,adjective,n/a,He wore a white hat.,Indossava un cappello bianco.,"candido, latteo",n/a
+adjective,color,white,Color of milk or snow,bianca,BYAHN-kah,singular,n/a,feminine,1,adjective,n/a,She chose a white shirt.,Ha scelto una camicia bianca.,"candida, lattea",n/a
+adjective,color,purple,Color between red and blue,viola,VYOH-lah,singular,n/a,n/a,2,adjective,n/a,Her scarf is purple.,La sua sciarpa è viola.,"porpora, lilla",n/a
+adjective,color,pink,Pale red color,rosa,ROH-zah,singular,n/a,n/a,2,adjective,n/a,She loves pink roses.,Lei ama le rose rosa.,"rosato, fucsia",n/a
+adjective,color,orange,Color between red and yellow,arancione,ah-rahn-CHOH-neh,singular,n/a,n/a,2,adjective,n/a,The sunset is orange.,Il tramonto è arancione.,"ambra, mandarino",n/a
+adjective,color,gray,Color between black and white,grigio,GREE-joh,singular,n/a,masculine,2,adjective,n/a,He bought gray pants.,Ha comprato dei pantaloni grigi.,"cenere, piombo",n/a
+adjective,color,gray,Color between black and white,grigia,GREE-jah,singular,n/a,feminine,2,adjective,n/a,The skirt is gray.,La gonna è grigia.,"cenere, piombo",n/a
+adjective,color,brown,Color of chocolate or wood,marrone,mahr-ROH-neh,singular,n/a,n/a,2,adjective,n/a,The chair is brown.,La sedia è marrone.,"castano, bruno",n/a

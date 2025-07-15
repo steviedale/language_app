@@ -1,0 +1,10 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,object,me,first-person direct-object pronoun,mi,MEE,singular,n/a,n/a,1,pronoun,n/a,"Can you help me?","Mi puoi aiutare?","me",n/a
+pronoun,object,you (informal sing.),second-person direct-object pronoun,ti,TEE,singular,n/a,n/a,1,pronoun,informal,"I see you.","Ti vedo.","te",n/a
+pronoun,object,him,third-person masculine direct-object pronoun,lo,LOH,singular,n/a,masculine,1,pronoun,n/a,"I know him.","Lo conosco.","egli",n/a
+pronoun,object,her,third-person feminine direct-object pronoun,la,LAH,singular,n/a,feminine,1,pronoun,n/a,"I see her.","La vedo.","ella",n/a
+pronoun,object,us,first-person plural direct-object pronoun,ci,CEE,plural,n/a,n/a,1,pronoun,n/a,"He invites us.","Ci invita.","noi",n/a
+pronoun,object,you (plural),second-person plural direct-object pronoun,vi,VEE,plural,n/a,n/a,1,pronoun,n/a,"I will call you tomorrow.","Vi chiamerò domani.","voi",n/a
+pronoun,object,them (masc.),third-person masculine plural direct-object pronoun,li,LEE,plural,n/a,masculine,1,pronoun,n/a,"I have met them.","Li ho incontrati.","essi",n/a
+pronoun,object,them (fem.),third-person feminine plural direct-object pronoun,le,LEH,plural,n/a,feminine,1,pronoun,n/a,"I have seen them.","Le ho viste.","esse",n/a
+pronoun,object,to him,indirect-object pronoun meaning “to him/her”,gli,LYEE,singular,n/a,masculine,1,pronoun,n/a,"I gave him the ticket.","Gli ho dato il biglietto.","a lui",n/a

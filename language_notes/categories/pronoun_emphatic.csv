@@ -1,9 +1,0 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-pronoun,emphatic,me,Used for emphasis or after prepositions.,me,meh,singular,n/a,n/a,1,pronoun,n/a,It's for me.,,,n/a
-pronoun,emphatic,you (informal),Used for emphasis or after prepositions.,te,teh,singular,n/a,n/a,1,pronoun,informal,It's for you (informal).,,,n/a
-pronoun,emphatic,you (formal),Used for emphasis or after prepositions.,Lei,lay,singular,n/a,feminine,1,pronoun,formal,It's for you (formal).,,,n/a
-pronoun,emphatic,him,Used for emphasis or after prepositions.,lui,LOO-ee,singular,n/a,masculine,1,pronoun,n/a,It's for him.,,,n/a
-pronoun,emphatic,her,Used for emphasis or after prepositions.,lei,lay,singular,n/a,feminine,1,pronoun,n/a,It's for her.,,,n/a
-pronoun,emphatic,us,Used for emphasis or after prepositions.,noi,noy,plural,n/a,n/a,1,pronoun,n/a,It's for us.,,,n/a
-pronoun,emphatic,you all,Used for emphasis or after prepositions.,voi,voy,plural,n/a,n/a,1,pronoun,n/a,It's for you all.,,,n/a
-pronoun,emphatic,them,Used for emphasis or after prepositions.,loro,LOH-roh,plural,n/a,n/a,1,pronoun,n/a,It's for them.,,,n/a

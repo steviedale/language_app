@@ -1,0 +1,69 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+adjective,size,big,of considerable size,grande,GRAHN-deh,singular,n/a,n/a,1,adjective,n/a,The museum is big.,Il museo è grande.,"enorme, grosso",n/a
+adjective,size,big,of considerable size,grandi,GRAHN-dee,plural,n/a,n/a,1,adjective,n/a,The squares are big.,Le piazze sono grandi.,"enorme, grosso",n/a
+adjective,size,small,of little size,piccolo,PEE-koh-loh,singular,n/a,masculine,1,adjective,n/a,The park is small.,Il parco è piccolo.,"minuscolo, minuto",n/a
+adjective,size,small,of little size,piccola,PEE-koh-lah,singular,n/a,feminine,1,adjective,n/a,The room is small.,La stanza è piccola.,"minuscolo, minuto",n/a
+adjective,size,small,of little size,piccoli,PEE-koh-lee,plural,n/a,masculine,1,adjective,n/a,The apartments are small.,Gli appartamenti sono piccoli.,"minuscolo, minuto",n/a
+adjective,size,small,of little size,piccole,PEE-koh-leh,plural,n/a,feminine,1,adjective,n/a,The streets are small.,Le strade sono piccole.,"minuscolo, minuto",n/a
+adjective,size,tall,of great height,alto,AHL-toh,singular,n/a,masculine,1,adjective,n/a,The tree is tall.,L'albero è alto.,elevato,n/a
+adjective,size,tall,of great height,alta,AHL-tah,singular,n/a,feminine,1,adjective,n/a,The tower is tall.,La torre è alta.,elevato,n/a
+adjective,size,tall,of great height,alti,AHL-tee,plural,n/a,masculine,1,adjective,n/a,The buildings are tall.,Gli edifici sono alti.,elevato,n/a
+adjective,size,tall,of great height,alte,AHL-teh,plural,n/a,feminine,1,adjective,n/a,The mountains are tall.,Le montagne sono alte.,elevato,n/a
+adjective,size,short (height),of little height,basso,BAH-ssoh,singular,n/a,masculine,1,adjective,n/a,The wall is short.,Il muro è basso.,corto,n/a
+adjective,size,short (height),of little height,bassa,BAH-ssah,singular,n/a,feminine,1,adjective,n/a,The chair is short.,La sedia è bassa.,corto,n/a
+adjective,size,short (height),of little height,bassi,BAH-ssee,plural,n/a,masculine,1,adjective,n/a,The fences are short.,I recinti sono bassi.,corto,n/a
+adjective,size,short (height),of little height,basse,BAH-sseh,plural,n/a,feminine,1,adjective,n/a,The tables are short.,Le tavole sono basse.,corto,n/a
+adjective,size,long,extending great length,lungo,LOON-goh,singular,n/a,masculine,1,adjective,n/a,The corridor is long.,Il corridoio è lungo.,esteso,n/a
+adjective,size,long,extending great length,lunga,LOON-gah,singular,n/a,feminine,1,adjective,n/a,The road is long.,La strada è lunga.,esteso,n/a
+adjective,size,long,extending great length,lunghi,LOON-ghee,plural,n/a,masculine,1,adjective,n/a,The rivers are long.,I fiumi sono lunghi.,esteso,n/a
+adjective,size,long,extending great length,lunghe,LOON-geh,plural,n/a,feminine,1,adjective,n/a,The nights are long.,Le notti sono lunghe.,esteso,n/a
+adjective,size,wide,extending great width,largo,LAHR-goh,singular,n/a,masculine,2,adjective,n/a,The avenue is wide.,Il viale è largo.,ampio,n/a
+adjective,size,wide,extending great width,larga,LAHR-gah,singular,n/a,feminine,2,adjective,n/a,The plaza is wide.,La piazza è larga.,ampio,n/a
+adjective,size,wide,extending great width,larghi,LAHR-ghee,plural,n/a,masculine,2,adjective,n/a,The corridors are wide.,I corridoi sono larghi.,ampio,n/a
+adjective,size,wide,extending great width,larghe,LAHR-geh,plural,n/a,feminine,2,adjective,n/a,The streets are wide.,Le strade sono larghe.,ampio,n/a
+adjective,size,narrow,of limited width,stretto,STREHT-toh,singular,n/a,masculine,2,adjective,n/a,The alley is narrow.,Il vicolo è stretto.,angusto,n/a
+adjective,size,narrow,of limited width,stretta,STREHT-tah,singular,n/a,feminine,2,adjective,n/a,The door is narrow.,La porta è stretta.,angusto,n/a
+adjective,size,narrow,of limited width,stretti,STREHT-tee,plural,n/a,masculine,2,adjective,n/a,The paths are narrow.,I sentieri sono stretti.,angusto,n/a
+adjective,size,narrow,of limited width,strette,STREHT-teh,plural,n/a,feminine,2,adjective,n/a,The roads are narrow.,Le strade sono strette.,angusto,n/a
+adjective,size,huge,extremely large,enorme,eh-NOR-meh,singular,n/a,n/a,2,adjective,n/a,The stadium is huge.,Lo stadio è enorme.,gigantesco,n/a
+adjective,size,huge,extremely large,enormi,eh-NOR-mee,plural,n/a,n/a,2,adjective,n/a,The rooms are huge.,Le stanze sono enormi.,gigantesco,n/a
+adjective,size,tiny,extremely small,minuscolo,mee-NOOS-koh-loh,singular,n/a,masculine,2,adjective,n/a,The insect is tiny.,L'insetto è minuscolo.,piccino,n/a
+adjective,size,tiny,extremely small,minuscola,mee-NOOS-koh-lah,singular,n/a,feminine,2,adjective,n/a,The coin is tiny.,La moneta è minuscola.,piccino,n/a
+adjective,size,tiny,extremely small,minuscoli,mee-NOOS-koh-lee,plural,n/a,masculine,2,adjective,n/a,The buttons are tiny.,I bottoni sono minuscoli.,piccino,n/a
+adjective,size,tiny,extremely small,minuscole,mee-NOOS-koh-leh,plural,n/a,feminine,2,adjective,n/a,The houses are tiny.,Le case sono minuscole.,piccino,n/a
+adjective,size,thick,having large distance between sides,spesso,SPES-soh,singular,n/a,masculine,2,adjective,n/a,The wall is thick.,Il muro è spesso.,denso,n/a
+adjective,size,thick,having large distance between sides,spessa,SPES-sah,singular,n/a,feminine,2,adjective,n/a,The blanket is thick.,La coperta è spessa.,denso,n/a
+adjective,size,thick,having large distance between sides,spessi,SPES-see,plural,n/a,masculine,2,adjective,n/a,The carpets are thick.,I tappeti sono spessi.,denso,n/a
+adjective,size,thick,having large distance between sides,spesse,SPES-seh,plural,n/a,feminine,2,adjective,n/a,The jackets are thick.,Le giacche sono spesse.,denso,n/a
+adjective,size,thin,having little distance between sides,sottile,soh-TEE-leh,singular,n/a,n/a,1,adjective,n/a,The glass is thin.,Il bicchiere è sottile.,fine,n/a
+adjective,size,thin,having little distance between sides,sottili,soh-TEE-lee,plural,n/a,n/a,1,adjective,n/a,The slices are thin.,Le fette sono sottili.,fine,n/a
+adjective,size,gigantic,extremely large or extensive,gigantesco,jee-gan-TES-koh,singular,n/a,masculine,3,adjective,n/a,The dinosaur is gigantic.,Il dinosauro è gigantesco.,enorme,n/a
+adjective,size,gigantic,extremely large or extensive,gigantesca,jee-gan-TES-kah,singular,n/a,feminine,3,adjective,n/a,The fortress is gigantic.,La fortezza è gigantesca.,enorme,n/a
+adjective,size,gigantic,extremely large or extensive,giganteschi,jee-gan-TES-kee,plural,n/a,masculine,3,adjective,n/a,The palaces are gigantic.,I palazzi sono giganteschi.,enorme,n/a
+adjective,size,gigantic,extremely large or extensive,gigantesche,jee-gan-TES-keh,plural,n/a,feminine,3,adjective,n/a,The waves are gigantic.,Le onde sono gigantesche.,enorme,n/a
+adjective,size,massive,large and heavy,massiccio,mah-SIC-cho,singular,n/a,masculine,3,adjective,n/a,The door is massive.,Il portone è massiccio.,pesante,n/a
+adjective,size,massive,large and heavy,massiccia,mah-SIC-chah,singular,n/a,feminine,3,adjective,n/a,The statue is massive.,La statua è massiccia.,pesante,n/a
+adjective,size,massive,large and heavy,massicci,mah-SIC-chee,plural,n/a,masculine,3,adjective,n/a,The walls are massive.,I muri sono massicci.,pesante,n/a
+adjective,size,massive,large and heavy,massicce,mah-SIC-cheh,plural,n/a,feminine,3,adjective,n/a,The columns are massive.,Le colonne sono massicce.,pesante,n/a
+adjective,size,petite,very small and delicate,minuto,mee-NOO-toh,singular,n/a,masculine,3,adjective,n/a,The watch is petite.,L'orologio è minuto.,piccolo,n/a
+adjective,size,petite,very small and delicate,minuta,mee-NOO-tah,singular,n/a,feminine,3,adjective,n/a,The flower is petite.,La rosa è minuta.,piccolo,n/a
+adjective,size,petite,very small and delicate,minuti,mee-NOO-tee,plural,n/a,masculine,3,adjective,n/a,The details are petite.,I dettagli sono minuti.,piccolo,n/a
+adjective,size,petite,very small and delicate,minute,mee-NOO-teh,plural,n/a,feminine,3,adjective,n/a,The letters are petite.,Le lettere sono minute.,piccolo,n/a
+adjective,size,compact,closely packed together,compatto,com-PAHT-toh,singular,n/a,masculine,3,adjective,n/a,The computer is compact.,Il computer è compatto.,denso,n/a
+adjective,size,compact,closely packed together,compatta,com-PAHT-tah,singular,n/a,feminine,3,adjective,n/a,The car is compact.,L'auto è compatta.,denso,n/a
+adjective,size,compact,closely packed together,compatti,com-PAHT-tee,plural,n/a,masculine,3,adjective,n/a,The laptops are compact.,I laptop sono compatti.,denso,n/a
+adjective,size,compact,closely packed together,compatte,com-PAHT-teh,plural,n/a,feminine,3,adjective,n/a,The bags are compact.,Le borse sono compatte.,denso,n/a
+adjective,size,bulky,large and difficult to handle,ingombrante,een-gom-BRAHN-teh,singular,n/a,n/a,3,adjective,n/a,The luggage is bulky.,Il bagaglio è ingombrante.,voluminoso,n/a
+adjective,size,bulky,large and difficult to handle,ingombranti,een-gom-BRAHN-tee,plural,n/a,n/a,3,adjective,n/a,The sofas are bulky.,I divani sono ingombranti.,voluminoso,n/a
+adjective,size,ample,spacious or roomy,ampio,AHM-pyoh,singular,n/a,masculine,2,adjective,n/a,The garden is ample.,Il giardino è ampio.,largo,n/a
+adjective,size,ample,spacious or roomy,ampia,AHM-pyah,singular,n/a,feminine,2,adjective,n/a,The hall is ample.,La sala è ampia.,largo,n/a
+adjective,size,ample,spacious or roomy,ampi,AHM-pee,plural,n/a,masculine,2,adjective,n/a,The rooms are ample.,I locali sono ampi.,largo,n/a
+adjective,size,ample,spacious or roomy,ampie,AHM-pyeh,plural,n/a,feminine,2,adjective,n/a,The beaches are ample.,Le spiagge sono ampie.,largo,n/a
+adjective,size,vast,very great in size or extent,vasto,VAH-stoh,singular,n/a,masculine,3,adjective,n/a,The desert is vast.,Il deserto è vasto.,enorme,n/a
+adjective,size,vast,very great in size or extent,vasta,VAH-stah,singular,n/a,feminine,3,adjective,n/a,The plain is vast.,La pianura è vasta.,enorme,n/a
+adjective,size,vast,very great in size or extent,vasti,VAH-stee,plural,n/a,masculine,3,adjective,n/a,The fields are vast.,I campi sono vasti.,enorme,n/a
+adjective,size,vast,very great in size or extent,vaste,VAH-steh,plural,n/a,feminine,3,adjective,n/a,The areas are vast.,Le zone sono vaste.,enorme,n/a
+adjective,size,microscopic,extremely small; visible only with a microscope,microscopico,mee-kroh-SKO-pee-koh,singular,n/a,masculine,3,adjective,n/a,The organism is microscopic.,L'organismo è microscopico.,minuscolo,n/a
+adjective,size,microscopic,extremely small; visible only with a microscope,microscopica,mee-kroh-SKO-pee-kah,singular,n/a,feminine,3,adjective,n/a,The cell is microscopic.,La cellula è microscopica.,minuscolo,n/a
+adjective,size,microscopic,extremely small; visible only with a microscope,microscopici,mee-kroh-SKO-pee-chee,plural,n/a,masculine,3,adjective,n/a,The bacteria are microscopic.,I batteri sono microscopici.,minuscolo,n/a
+adjective,size,microscopic,extremely small; visible only with a microscope,microscopiche,mee-kroh-SKO-pee-keh,plural,n/a,feminine,3,adjective,n/a,The fibers are microscopic.,Le fibre sono microscopiche.,minuscolo,n/a

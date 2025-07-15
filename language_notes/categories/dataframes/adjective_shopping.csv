@@ -1,0 +1,19 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+adjective,shopping,new,recently made or obtained,nuovo,NWOH-voh,singular,n/a,masculine,1,adjective,n/a,He bought a new jacket.,Ha comprato una giacca nuova.,"recente, moderno",n/a
+adjective,shopping,new,recently made or obtained,nuova,NWOH-vah,singular,n/a,feminine,1,adjective,n/a,She has a new dress.,Lei ha un vestito nuovo.,"recente, moderna",n/a
+adjective,shopping,old,existing for a long time,vecchio,VEHK-kee-oh,singular,n/a,masculine,1,adjective,n/a,The market sells old books.,Il mercato vende libri vecchi.,"antico, datato",n/a
+adjective,shopping,old,existing for a long time,vecchia,VEHK-kee-ah,singular,n/a,feminine,1,adjective,n/a,She likes old furniture.,Le piace la mobilia vecchia.,"antica, datata",n/a
+adjective,shopping,used,previously owned or utilized,usato,oo-ZAH-toh,singular,n/a,masculine,1,adjective,n/a,I bought a used bicycle.,Ho comprato una bicicletta usata.,"seconda mano, consumato",n/a
+adjective,shopping,used,previously owned or utilized,usata,oo-ZAH-tah,singular,n/a,feminine,1,adjective,n/a,She found a used dress.,Lei ha trovato un vestito usato.,"seconda mano, consumata",n/a
+adjective,shopping,fashionable,currently popular in style,alla moda,AH-lah MOH-dah,n/a,n/a,n/a,2,adjective,n/a,His shoes are fashionable.,Le sue scarpe sono alla moda.,"moderno, trendy",n/a
+adjective,shopping,trendy,very fashionable or up to date,trendy,TREHN-dee,n/a,n/a,n/a,2,adjective,n/a,The café is trendy.,Il caffè è trendy.,"alla moda, moderno",n/a
+adjective,shopping,out of style,no longer fashionable,fuori moda,FWOH-ree MOH-dah,n/a,n/a,n/a,2,adjective,n/a,That coat is out of style.,Quel cappotto è fuori moda.,"superato, antiquato",n/a
+adjective,shopping,comfortable,pleasant to wear or use,comodo,KOH-moh-doh,singular,n/a,masculine,1,adjective,n/a,These shoes are comfortable.,Queste scarpe sono comode.,"accogliente, pratico",n/a
+adjective,shopping,comfortable,pleasant to wear or use,comoda,KOH-moh-dah,singular,n/a,feminine,1,adjective,n/a,The chair is comfortable.,La sedia è comoda.,"accogliente, pratica",n/a
+adjective,shopping,uncomfortable,not pleasant to wear or use,scomodo,SKOH-moh-doh,singular,n/a,masculine,2,adjective,n/a,His boots are uncomfortable.,I suoi stivali sono scomodi.,"disagevole, fastidioso",n/a
+adjective,shopping,uncomfortable,not pleasant to wear or use,scomoda,SKOH-moh-dah,singular,n/a,feminine,2,adjective,n/a,The sofa is uncomfortable.,Il divano è scomodo.,"disagevole, fastidiosa",n/a
+adjective,shopping,broken,damaged or not working,rotto,ROHT-toh,singular,n/a,masculine,2,adjective,n/a,The phone is broken.,Il telefono è rotto.,"guasto, danneggiato",n/a
+adjective,shopping,broken,damaged or not working,rotta,ROHT-tah,singular,n/a,feminine,2,adjective,n/a,Her suitcase is broken.,La sua valigia è rotta.,"guasta, danneggiata",n/a
+adjective,shopping,available,able to be bought or used,disponibile,dee-spoh-NEE-bee-leh,n/a,n/a,n/a,2,adjective,n/a,The product is available.,Il prodotto è disponibile.,"libero, reperibile",n/a
+adjective,shopping,sold out,completely sold,esaurito,eh-zah-oo-REE-toh,singular,n/a,masculine,2,adjective,n/a,The concert is sold out.,Il concerto è esaurito.,"terminato, finito",n/a
+adjective,shopping,sold out,completely sold,esaurita,eh-zah-oo-REE-tah,singular,n/a,feminine,2,adjective,n/a,Tickets are sold out.,I biglietti sono esauriti.,"terminata, finita",n/a

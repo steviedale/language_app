@@ -1,0 +1,51 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+noun,weather,the sun,star that warms Earth,il sole,eel SOH-leh,singular,n/a,masculine,1,noun,n/a,The sun is bright today.,Il sole è brillante oggi.,astro,definite
+noun,weather,sun,star that warms Earth,sole,SOH-leh,singular,n/a,masculine,1,noun,n/a,Sun sets late in summer.,Sole tramonta tardi in estate.,astro,n/a
+noun,weather,the moon,natural satellite of Earth,la luna,LOO-nah,singular,n/a,feminine,1,noun,n/a,The moon lights up the night.,La luna illumina la notte.,astro,definite
+noun,weather,moon,natural satellite of Earth,luna,LOO-nah,singular,n/a,feminine,1,noun,n/a,Moon rises over the hills.,Luna sorge sulle colline.,astro,n/a
+noun,weather,the sky,expanse above Earth,il cielo,CHEH-loh,singular,n/a,masculine,1,noun,n/a,The sky is clear.,Il cielo è sereno.,firmamento,definite
+noun,weather,sky,expanse above Earth,cielo,CHEH-loh,singular,n/a,masculine,1,noun,n/a,Sky turns pink at sunset.,Cielo diventa rosa al tramonto.,firmamento,n/a
+noun,weather,the cloud,visible mass of water vapor,la nuvola,NOO-voh-lah,singular,n/a,feminine,1,noun,n/a,The cloud covers the sun.,La nuvola copre il sole.,nube,definite
+noun,weather,a cloud,visible mass of water vapor,una nuvola,OO-nah NOO-voh-lah,singular,n/a,feminine,1,noun,n/a,A cloud crosses the sky.,Una nuvola attraversa il cielo.,nube,indefinite
+noun,weather,the clouds,visible masses of water vapor,le nuvole,NOO-voh-leh,plural,n/a,feminine,1,noun,n/a,The clouds move fast.,Le nuvole si muovono veloci.,nubi,definite
+noun,weather,the rain,water falling from the sky,la pioggia,PYOHJ-jah,singular,n/a,feminine,1,noun,n/a,The rain is heavy.,La pioggia è intensa.,acquazzone,definite
+noun,weather,rain,water falling from the sky,pioggia,PYOHJ-jah,singular,n/a,feminine,1,noun,n/a,Rain cools the air.,Pioggia rinfresca l'aria.,acquazzone,n/a
+noun,weather,the snow,frozen precipitation,la neve,NEH-veh,singular,n/a,feminine,1,noun,n/a,The snow covers the streets.,La neve copre le strade.,nevicata,definite
+noun,weather,snow,frozen precipitation,neve,NEH-veh,singular,n/a,feminine,1,noun,n/a,Snow falls softly.,Neve cade piano.,nevicata,n/a
+noun,weather,the wind,air in motion,il vento,VEN-toh,singular,n/a,masculine,1,noun,n/a,The wind is strong.,Il vento è forte.,burrasca,definite
+noun,weather,wind,air in motion,vento,VEN-toh,singular,n/a,masculine,1,noun,n/a,Wind shakes the trees.,Vento scuote gli alberi.,burrasca,n/a
+noun,weather,the storm,violent weather with rain and wind,la tempesta,tem-PEH-stah,singular,n/a,feminine,2,noun,n/a,The storm is approaching.,La tempesta si avvicina.,burrasca,definite
+noun,weather,a storm,violent weather with rain and wind,una tempesta,OO-nah tem-PEH-stah,singular,n/a,feminine,2,noun,n/a,We drove through a storm.,Abbiamo guidato attraverso una tempesta.,burrasca,indefinite
+noun,weather,the storms,violent weather events,le tempeste,tem-PEH-steh,plural,n/a,feminine,2,noun,n/a,The storms cause delays.,Le tempeste causano ritardi.,burrasche,definite
+noun,weather,the thunder,sound during a storm,il tuono,TWOH-noh,singular,n/a,masculine,1,noun,n/a,The thunder is loud.,Il tuono è forte.,fragore,definite
+noun,weather,thunder,sound during a storm,tuono,TWOH-noh,singular,n/a,masculine,1,noun,n/a,Thunder echoes in the valley.,Tuono riecheggia nella valle.,fragore,n/a
+noun,weather,the lightning,flash during a storm,il fulmine,FOOL-mee-neh,singular,n/a,masculine,1,noun,n/a,The lightning is bright.,Il fulmine è luminoso.,lampo,definite
+noun,weather,lightning,flash during a storm,fulmine,FOOL-mee-neh,singular,n/a,masculine,1,noun,n/a,Lightning strikes a tree.,Fulmine colpisce un albero.,lampo,n/a
+noun,weather,the fog,thick low cloud,la nebbia,NEHB-byah,singular,n/a,feminine,1,noun,n/a,The fog is thick.,La nebbia è fitta.,bruma,definite
+noun,weather,fog,thick low cloud,nebbia,NEHB-byah,singular,n/a,feminine,1,noun,n/a,Fog covers the road.,Nebbia copre la strada.,bruma,n/a
+noun,weather,the mist,light fog,la foschia,FOHS-KEE-ah,singular,n/a,feminine,2,noun,n/a,The mist rises from the river.,La foschia sale dal fiume.,caligine,definite
+noun,weather,mist,light fog,foschia,FOHS-KEE-ah,singular,n/a,feminine,2,noun,n/a,Mist softens the view.,Foschia attenua la vista.,caligine,n/a
+noun,weather,the drizzle,very light rain,la pioggerella,PYOHJ-jeh-REL-lah,singular,n/a,feminine,2,noun,n/a,The drizzle is gentle.,La pioggerella è leggera.,pioggia leggera,definite
+noun,weather,drizzle,very light rain,pioggerella,PYOHJ-jeh-REL-lah,singular,n/a,feminine,2,noun,n/a,Drizzle dampens the pavement.,Pioggerella bagna il marciapiede.,pioggia leggera,n/a
+noun,weather,the hail,frozen rain pellets,la grandine,GRAN-dee-neh,singular,n/a,feminine,2,noun,n/a,The hail damages cars.,La grandine danneggia le auto.,chicchi di ghiaccio,definite
+noun,weather,hail,frozen rain pellets,grandine,GRAN-dee-neh,singular,n/a,feminine,2,noun,n/a,Hail falls suddenly.,Grandine cade all'improvviso.,chicchi di ghiaccio,n/a
+noun,weather,the breeze,light wind,la brezza,BRET-tsah,singular,n/a,feminine,1,noun,n/a,The breeze is cool.,La brezza è fresca.,venticello,definite
+noun,weather,a breeze,light wind,una brezza,OO-nah BRET-tsah,singular,n/a,feminine,1,noun,n/a,A breeze moves the curtains.,Una brezza muove le tende.,venticello,indefinite
+noun,weather,the breezes,light winds,le brezze,BRET-tseh,plural,n/a,feminine,1,noun,n/a,The breezes smell of the sea.,Le brezze sanno di mare.,venticelli,definite
+noun,weather,the rainbow,colored arc in the sky,l'arcobaleno,ar-koh-bah-LEH-noh,singular,n/a,masculine,2,noun,n/a,The rainbow appears after the rain.,L'arcobaleno appare dopo la pioggia.,iride,definite
+noun,weather,a rainbow,colored arc in the sky,un arcobaleno,oon ar-koh-bah-LEH-noh,singular,n/a,masculine,2,noun,n/a,We saw a rainbow above the hills.,Abbiamo visto un arcobaleno sopra le colline.,iride,indefinite
+noun,weather,the rainbows,colored arcs in the sky,gli arcobaleni,ar-koh-bah-LEH-nee,plural,n/a,masculine,2,noun,n/a,The rainbows light up the sky.,Gli arcobaleni illuminano il cielo.,iridi,definite
+noun,weather,the ice,frozen water,il ghiaccio,GYAH-choh,singular,n/a,masculine,1,noun,n/a,The ice is slippery.,Il ghiaccio è scivoloso.,gelo,definite
+noun,weather,ice,frozen water,ghiaccio,GYAH-choh,singular,n/a,masculine,1,noun,n/a,Ice cracks underfoot.,Ghiaccio scricchiola sotto i piedi.,gelo,n/a
+noun,weather,the heat,high temperature,il caldo,KAHL-doh,singular,n/a,masculine,1,noun,n/a,The heat is intense.,Il caldo è intenso.,calura,definite
+noun,weather,heat,high temperature,caldo,KAHL-doh,singular,n/a,masculine,1,noun,n/a,Heat fills the city.,Caldo avvolge la città.,calura,n/a
+noun,weather,the cold,low temperature,il freddo,FRED-doh,singular,n/a,masculine,1,noun,n/a,The cold bites my hands.,Il freddo morde le mani.,gelo,definite
+noun,weather,cold,low temperature,freddo,FRED-doh,singular,n/a,masculine,1,noun,n/a,Cold keeps people inside.,Freddo tiene la gente in casa.,gelo,n/a
+noun,weather,the humidity,moisture in the air,l'umidità,oo-mee-dee-TAH,singular,n/a,feminine,2,noun,n/a,The humidity is high.,L'umidità è alta.,umidore,definite
+noun,weather,humidity,moisture in the air,umidità,oo-mee-dee-TAH,singular,n/a,feminine,2,noun,n/a,Humidity sticks to the skin.,Umidità si attacca alla pelle.,umidore,n/a
+noun,weather,the temperature,degree of heat,la temperatura,tem-peh-rah-TOO-rah,singular,n/a,feminine,1,noun,n/a,The temperature is thirty degrees.,La temperatura è di trenta gradi.,grado termico,definite
+noun,weather,the temperatures,degrees of heat,le temperature,tem-peh-rah-TOO-reh,plural,n/a,feminine,1,noun,n/a,The temperatures drop at night.,Le temperature scendono di notte.,gradi termici,definite
+noun,weather,the weather,current atmospheric conditions,il tempo,TEM-poh,singular,n/a,masculine,1,noun,n/a,The weather is good today.,Il tempo è bello oggi.,clima,definite
+noun,weather,weather,current atmospheric conditions,tempo,TEM-poh,singular,n/a,masculine,1,noun,n/a,Weather changes fast in the mountains.,Tempo cambia rapidamente in montagna.,clima,n/a
+noun,weather,the climate,long-term weather pattern,il clima,KLEE-mah,singular,n/a,masculine,2,noun,n/a,The climate is mild.,Il clima è mite.,atmosfera,definite
+noun,weather,climate,long-term weather pattern,clima,KLEE-mah,singular,n/a,masculine,2,noun,n/a,Climate varies by region.,Clima varia per regione.,atmosfera,n/a

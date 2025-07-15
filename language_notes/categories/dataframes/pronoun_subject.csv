@@ -1,0 +1,9 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+pronoun,subject,I,first-person singular subject pronoun,io,EE-oh,singular,n/a,n/a,1,pronoun,n/a,"I speak a little Italian.","Io parlo un po' di italiano.","me",n/a
+pronoun,subject,you (informal sing.),second-person singular subject pronoun,tu,TOO,singular,n/a,n/a,1,pronoun,informal,"You are very kind.","Tu sei molto gentile.","te",n/a
+pronoun,subject_formal,you (formal sing.),polite singular form of “you”,Lei,LAY-ee,singular,n/a,n/a,1,pronoun,formal,"Do you need help, sir?","Lei ha bisogno di aiuto, signore?","ella",n/a
+pronoun,subject,he,third-person masculine singular subject pronoun,lui,LOO-ee,singular,n/a,masculine,1,pronoun,n/a,"He is at the hotel.","Lui è in hotel.","egli",n/a
+pronoun,subject,she,third-person feminine singular subject pronoun,lei,LAY-ee,singular,n/a,feminine,1,pronoun,n/a,"She likes coffee.","Lei ama il caffè.","ella",n/a
+pronoun,subject,we,first-person plural subject pronoun,noi,NOY,plural,n/a,n/a,1,pronoun,n/a,"We are tourists.","Noi siamo turisti.","ci",n/a
+pronoun,subject,you (plural),second-person plural subject pronoun,voi,VOY,plural,n/a,n/a,1,pronoun,n/a,"You are friends.","Voi siete amici.","vi",n/a
+pronoun,subject,they,third-person plural subject pronoun,loro,LOH-roh,plural,n/a,n/a,1,pronoun,n/a,"They are waiting outside.","Loro stanno aspettando fuori.","essi",n/a

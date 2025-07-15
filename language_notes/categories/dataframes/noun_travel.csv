@@ -1,0 +1,60 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+noun,travel,the ticket,travel document for transit,il biglietto,eel bee-LYEHT-toh,singular,n/a,masculine,1,noun,n/a,The ticket costs ten euros.,Il biglietto costa dieci euro.,pass,definite
+noun,travel,a ticket,travel document for transit,un biglietto,oon bee-LYEHT-toh,singular,n/a,masculine,1,noun,n/a,I bought a ticket online.,Ho comprato un biglietto online.,pass,indefinite
+noun,travel,the tickets,travel documents for transit,i biglietti,ee bee-LYEHT-tee,plural,n/a,masculine,1,noun,n/a,The tickets are sold out.,I biglietti sono esauriti.,pass,definite
+noun,travel,the passport,official travel identity document,il passaporto,eel pahs-sah-POR-toh,singular,n/a,masculine,1,noun,n/a,The passport is valid for ten years.,Il passaporto è valido per dieci anni.,documento,definite
+noun,travel,a passport,official travel identity document,un passaporto,oon pahs-sah-POR-toh,singular,n/a,masculine,1,noun,n/a,I forgot a passport at home.,Ho dimenticato un passaporto a casa.,documento,indefinite
+noun,travel,the passports,official travel identity documents,i passaporti,ee pahs-sah-POR-tee,plural,n/a,masculine,1,noun,n/a,The passports are ready.,I passaporti sono pronti.,documenti,definite
+noun,travel,the visa,permit to enter a country,il visto,eel VEE-stoh,singular,n/a,masculine,2,noun,n/a,The visa is required for entry.,Il visto è necessario per l'ingresso.,permesso,definite
+noun,travel,a visa,permit to enter a country,un visto,oon VEE-stoh,singular,n/a,masculine,2,noun,n/a,She applied for a visa yesterday.,Ha richiesto un visto ieri.,permesso,indefinite
+noun,travel,the visas,permits to enter a country,i visti,ee VEE-stee,plural,n/a,masculine,2,noun,n/a,The visas will arrive next week.,I visti arriveranno la prossima settimana.,permessi,definite
+noun,travel,the reservation,booking made in advance,la prenotazione,lah preh-noh-tah-TSYOH-neh,singular,n/a,feminine,1,noun,n/a,The reservation is under my name.,La prenotazione è a mio nome.,booking,definite
+noun,travel,a reservation,booking made in advance,una prenotazione,OO-nah preh-noh-tah-TSYOH-neh,singular,n/a,feminine,1,noun,n/a,We made a reservation online.,Abbiamo fatto una prenotazione online.,booking,indefinite
+noun,travel,the reservations,bookings made in advance,le prenotazioni,leh preh-noh-tah-TSYOH-nee,plural,n/a,feminine,1,noun,n/a,The reservations were confirmed.,Le prenotazioni sono state confermate.,prenotazioni,definite
+noun,travel,the trip,act of traveling,il viaggio,eel vyahj-JOH,singular,n/a,masculine,1,noun,n/a,The trip starts tomorrow.,Il viaggio inizia domani.,gita,definite
+noun,travel,a trip,act of traveling,un viaggio,oon vyahj-JOH,singular,n/a,masculine,1,noun,n/a,We planned a trip to Sicily.,Abbiamo pianificato un viaggio in Sicilia.,gita,indefinite
+noun,travel,the trips,acts of traveling,i viaggi,ee vyahj-JEE,plural,n/a,masculine,1,noun,n/a,The trips were unforgettable.,I viaggi sono stati indimenticabili.,gite,definite
+noun,travel,the vacation,period of leisure travel,la vacanza,lah vah-KAHN-tsah,singular,n/a,feminine,1,noun,n/a,The vacation is in August.,La vacanza è ad agosto.,ferie,definite
+noun,travel,a vacation,period of leisure travel,una vacanza,OO-nah vah-KAHN-tsah,singular,n/a,feminine,1,noun,n/a,They booked a vacation by the sea.,Hanno prenotato una vacanza al mare.,ferie,indefinite
+noun,travel,the vacations,periods of leisure travel,le vacanze,leh vah-KAHN-tseh,plural,n/a,feminine,1,noun,n/a,The vacations are over.,Le vacanze sono finite.,ferie,definite
+noun,travel,the map,diagram of an area,la mappa,lah MAHP-pah,singular,n/a,feminine,1,noun,n/a,The map shows all the streets.,La mappa mostra tutte le strade.,cartina,definite
+noun,travel,a map,diagram of an area,una mappa,OO-nah MAHP-pah,singular,n/a,feminine,1,noun,n/a,I need a map of the city.,Ho bisogno di una mappa della città.,cartina,indefinite
+noun,travel,the maps,diagrams of areas,le mappe,leh MAHP-peh,plural,n/a,feminine,1,noun,n/a,The maps are on the table.,Le mappe sono sul tavolo.,cartine,definite
+noun,travel,the guidebook,book with travel info,la guida,lah GWEE-dah,singular,n/a,feminine,2,noun,n/a,The guidebook is very useful.,La guida è molto utile.,manuale,definite
+noun,travel,a guidebook,book with travel info,una guida,OO-nah GWEE-dah,singular,n/a,feminine,2,noun,n/a,We bought a guidebook at the station.,Abbiamo comprato una guida alla stazione.,manuale,indefinite
+noun,travel,the guidebooks,books with travel info,le guide,leh GWEE-deh,plural,n/a,feminine,2,noun,n/a,The guidebooks cover many regions.,Le guide coprono molte regioni.,manuali,definite
+noun,travel,the tour,organized visit,il tour,eel TOOR,singular,n/a,masculine,2,noun,n/a,The tour begins at nine.,Il tour inizia alle nove.,giro,definite
+noun,travel,a tour,organized visit,un tour,oon TOOR,singular,n/a,masculine,2,noun,n/a,We booked a tour of the Colosseum.,Abbiamo prenotato un tour del Colosseo.,giro,indefinite
+noun,travel,the tours,organized visits,i tour,ee TOOR,plural,n/a,masculine,2,noun,n/a,The tours last two hours.,I tour durano due ore.,giri,definite
+noun,travel,the bus,public passenger vehicle,l'autobus,lah OW-toh-boos,singular,n/a,masculine,1,noun,n/a,The bus is late.,L'autobus è in ritardo.,pullman,definite
+noun,travel,a bus,public passenger vehicle,un autobus,oon OW-toh-boos,singular,n/a,masculine,1,noun,n/a,I am waiting for a bus.,Aspetto un autobus.,pullman,indefinite
+noun,travel,the buses,public passenger vehicles,gli autobus,lyee OW-toh-boos,plural,n/a,masculine,1,noun,n/a,The buses stop here.,Gli autobus si fermano qui.,pullman,definite
+noun,travel,the train,rail passenger vehicle,il treno,eel TREH-noh,singular,n/a,masculine,1,noun,n/a,The train leaves at six.,Il treno parte alle sei.,convoglio,definite
+noun,travel,a train,rail passenger vehicle,un treno,oon TREH-noh,singular,n/a,masculine,1,noun,n/a,We bought tickets for a train.,Abbiamo comprato biglietti per un treno.,convoglio,indefinite
+noun,travel,the trains,rail passenger vehicles,i treni,ee TREH-nee,plural,n/a,masculine,1,noun,n/a,The trains are fast in Italy.,I treni sono veloci in Italia.,convogli,definite
+noun,travel,the plane,aircraft,l'aereo,lah ah-EH-reh-oh,singular,n/a,masculine,1,noun,n/a,The plane is boarding now.,L'aereo sta imbarcando ora.,velivolo,definite
+noun,travel,a plane,aircraft,un aereo,oon ah-EH-reh-oh,singular,n/a,masculine,1,noun,n/a,She saw a plane in the sky.,Ha visto un aereo nel cielo.,velivolo,indefinite
+noun,travel,the planes,aircraft,gli aerei,lyee ah-EH-reh-ee,plural,n/a,masculine,1,noun,n/a,The planes fly daily.,Gli aerei volano ogni giorno.,velivoli,definite
+noun,travel,the car,private motor vehicle,l'auto,lah OW-toh,singular,n/a,feminine,1,noun,n/a,The car is parked outside.,L'auto è parcheggiata fuori.,macchina,definite
+noun,travel,a car,private motor vehicle,un'auto,oon OW-toh,singular,n/a,feminine,1,noun,n/a,He rented a car for two days.,Ha noleggiato un'auto per due giorni.,macchina,indefinite
+noun,travel,the cars,private motor vehicles,le auto,leh OW-toh,plural,n/a,feminine,1,noun,n/a,The cars are small in the city.,Le auto sono piccole in città.,macchine,definite
+noun,travel,the taxi,paid transport vehicle,il taxi,eel TAHK-see,singular,n/a,masculine,1,noun,n/a,The taxi is here.,Il taxi è qui.,tassì,definite
+noun,travel,a taxi,paid transport vehicle,un taxi,oon TAHK-see,singular,n/a,masculine,1,noun,n/a,We need a taxi to the airport.,Ci serve un taxi per l'aeroporto.,tassì,indefinite
+noun,travel,the taxis,paid transport vehicles,i taxi,ee TAHK-see,plural,n/a,masculine,1,noun,n/a,The taxis are expensive tonight.,I taxi sono costosi stasera.,tassì,definite
+noun,travel,the suitcase,travel case for clothes,la valigia,lah vah-LEE-jah,singular,n/a,feminine,1,noun,n/a,The suitcase is heavy.,La valigia è pesante.,bagaglio,definite
+noun,travel,a suitcase,travel case for clothes,una valigia,OO-nah vah-LEE-jah,singular,n/a,feminine,1,noun,n/a,I packed a suitcase for the trip.,Ho preparato una valigia per il viaggio.,bagaglio,indefinite
+noun,travel,the suitcases,travel cases for clothes,le valigie,leh vah-LEE-jeh,plural,n/a,feminine,1,noun,n/a,The suitcases are on the belt.,Le valigie sono sul nastro.,bagagli,definite
+noun,travel,the backpack,bag carried on back,lo zaino,loh ZAI-noh,singular,n/a,masculine,1,noun,n/a,The backpack feels light.,Lo zaino è leggero.,sacca,definite
+noun,travel,a backpack,bag carried on back,uno zaino,OO-noh ZAI-noh,singular,n/a,masculine,1,noun,n/a,She bought a backpack yesterday.,Ha comprato uno zaino ieri.,sacca,indefinite
+noun,travel,the backpacks,bags carried on back,gli zaini,lyee ZAI-nee,plural,n/a,masculine,1,noun,n/a,The backpacks look new.,Gli zaini sembrano nuovi.,sacche,definite
+noun,travel,the seat,place to sit,il posto,eel POHS-toh,singular,n/a,masculine,1,noun,n/a,The seat is comfortable.,Il posto è comodo.,sedile,definite
+noun,travel,a seat,place to sit,un posto,oon POHS-toh,singular,n/a,masculine,1,noun,n/a,I chose a seat by the window.,Ho scelto un posto vicino al finestrino.,sedile,indefinite
+noun,travel,the seats,places to sit,i posti,ee POHS-tee,plural,n/a,masculine,1,noun,n/a,The seats are reserved.,I posti sono riservati.,sedili,definite
+noun,travel,the gate,airport departure exit,il gate,eel GEYT,singular,n/a,masculine,2,noun,n/a,The gate is open.,Il gate è aperto.,uscita,definite
+noun,travel,a gate,airport departure exit,un gate,oon GEYT,singular,n/a,masculine,2,noun,n/a,We are waiting at a gate.,Stiamo aspettando a un gate.,uscita,indefinite
+noun,travel,the gates,airport departure exits,i gate,ee GEYT,plural,n/a,masculine,2,noun,n/a,The gates close soon.,I gate chiudono presto.,uscite,definite
+noun,travel,the boarding pass,flight access document,la carta d'imbarco,lah KAR-tah deem-BAR-koh,singular,n/a,feminine,2,noun,n/a,The boarding pass is on your phone.,La carta d'imbarco è sul tuo telefono.,pass,definite
+noun,travel,a boarding pass,flight access document,una carta d'imbarco,OO-nah KAR-tah deem-BAR-koh,singular,n/a,feminine,2,noun,n/a,I printed a boarding pass.,Ho stampato una carta d'imbarco.,pass,indefinite
+noun,travel,the boarding passes,flight access documents,le carte d'imbarco,leh KAR-teh deem-BAR-koh,plural,n/a,feminine,2,noun,n/a,The boarding passes are ready.,Le carte d'imbarco sono pronte.,pass,definite
+noun,travel,the luggage,bags and suitcases,il bagaglio,eel bah-GAHL-yoh,singular,n/a,masculine,1,noun,n/a,The luggage is on the trolley.,Il bagaglio è sul carrello.,valigia,definite
+noun,travel,luggage,bags and suitcases,bagaglio,bah-GAHL-yoh,singular,n/a,masculine,1,noun,n/a,Luggage must be checked in.,Bagaglio deve essere registrato.,valigie,n/a

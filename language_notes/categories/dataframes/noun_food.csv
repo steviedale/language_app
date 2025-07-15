@@ -1,0 +1,60 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+noun,food,the bread,staple baked food,il pane,EEL PAH-neh,singular,n/a,masculine,1,noun,n/a,The bread is fresh today.,Il pane è fresco oggi.,pagnotta,definite
+noun,food,bread,staple baked food,pane,PAH-neh,singular,n/a,masculine,1,noun,n/a,Bread tastes great with olive oil.,Pane è ottimo con l'olio d'oliva.,pagnotta,n/a
+noun,food,the sandwich,filled bread snack,il panino,EEL pah-NEE-noh,singular,n/a,masculine,1,noun,n/a,The sandwich comes with chips.,Il panino viene con le patatine.,tramezzino,definite
+noun,food,a sandwich,filled bread snack,un panino,OON pah-NEE-noh,singular,n/a,masculine,1,noun,n/a,I ordered a sandwich at the bar.,Ho ordinato un panino al bar.,tramezzino,indefinite
+noun,food,the sandwiches,filled bread snacks,i panini,EE pah-NEE-nee,plural,n/a,masculine,1,noun,n/a,The sandwiches are ready to go.,I panini sono pronti da portar via.,tramezzini,definite
+noun,food,the pizza,famous Italian flatbread,la pizza,LA PEET-tsah,singular,n/a,feminine,1,noun,n/a,The pizza smells delicious.,La pizza profuma di buono.,margherita,definite
+noun,food,a pizza,famous Italian flatbread,una pizza,OO-nah PEET-tsah,singular,n/a,feminine,1,noun,n/a,We shared a pizza for lunch.,Abbiamo diviso una pizza a pranzo.,margherita,indefinite
+noun,food,the pizzas,famous Italian flatbreads,le pizze,LEH PEET-tseh,plural,n/a,feminine,1,noun,n/a,The pizzas arrive quickly here.,Le pizze arrivano rapidamente qui.,margherite,definite
+noun,food,pasta,Italian noodle dish,pasta,PAHS-tah,singular,n/a,feminine,1,noun,n/a,Pasta is popular worldwide.,Pasta è famosa in tutto il mondo.,spaghetti,n/a
+noun,food,the pasta,Italian noodle dish,la pasta,LA PAHS-tah,singular,n/a,feminine,1,noun,n/a,The pasta is al dente.,La pasta è al dente.,spaghetti,definite
+noun,food,the cheese,aged milk product,il formaggio,EEL for-MAHJ-joh,singular,n/a,masculine,1,noun,n/a,The cheese is very tasty.,Il formaggio è molto saporito.,cacio,definite
+noun,food,cheese,aged milk product,formaggio,for-MAHJ-joh,singular,n/a,masculine,1,noun,n/a,Cheese pairs well with wine.,Formaggio si abbina bene al vino.,cacio,n/a
+noun,food,the water,drinking liquid,l'acqua,LAHK-kwah,singular,n/a,feminine,1,noun,n/a,The water is cold.,L'acqua è fredda.,acqua naturale,definite
+noun,food,water,drinking liquid,acqua,AHK-kwah,singular,n/a,feminine,1,noun,n/a,Water is essential.,Acqua è essenziale.,acqua naturale,n/a
+noun,food,the coffee,caffeinated drink,il caffè,EEL kah-FEH,singular,n/a,masculine,1,noun,n/a,The coffee smells strong.,Il caffè ha un aroma intenso.,espresso,definite
+noun,food,coffee,caffeinated drink,caffè,kah-FEH,singular,n/a,masculine,1,noun,n/a,Coffee wakes me up.,Caffè mi sveglia.,espresso,n/a
+noun,food,the apple,round sweet fruit,la mela,LA MEH-lah,singular,n/a,feminine,1,noun,n/a,The apple is crunchy.,La mela è croccante.,frutto,definite
+noun,food,an apple,round sweet fruit,una mela,OO-nah MEH-lah,singular,n/a,feminine,1,noun,n/a,I bought an apple at the market.,Ho comprato una mela al mercato.,frutto,indefinite
+noun,food,the apples,round sweet fruits,le mele,LEH MEH-leh,plural,n/a,feminine,1,noun,n/a,The apples are ripe.,Le mele sono mature.,frutti,definite
+noun,food,the banana,long yellow fruit,la banana,LA bah-NAH-nah,singular,n/a,feminine,1,noun,n/a,The banana is sweet.,La banana è dolce.,frutto,definite
+noun,food,a banana,long yellow fruit,una banana,OO-nah bah-NAH-nah,singular,n/a,feminine,1,noun,n/a,He ate a banana after jogging.,Ha mangiato una banana dopo la corsa.,frutto,indefinite
+noun,food,the bananas,long yellow fruits,le banane,LEH bah-NAH-neh,plural,n/a,feminine,1,noun,n/a,The bananas are on the counter.,Le banane sono sul bancone.,frutti,definite
+noun,food,the orange,citrus fruit,l'arancia,LAH-RAHN-chah,singular,n/a,feminine,1,noun,n/a,The orange is juicy.,L'arancia è succosa.,agrume,definite
+noun,food,an orange,citrus fruit,un'arancia,OO-nah RAHN-chah,singular,n/a,feminine,1,noun,n/a,I peeled an orange.,Ho sbucciato un'arancia.,agrume,indefinite
+noun,food,the oranges,citrus fruits,le arance,LEH ah-RAHN-cheh,plural,n/a,feminine,1,noun,n/a,The oranges come from Sicily.,Le arance vengono dalla Sicilia.,agrumi,definite
+noun,food,the carrot,orange root vegetable,la carota,LA kah-ROH-tah,singular,n/a,feminine,1,noun,n/a,The carrot is crunchy.,La carota è croccante.,ortaggio,definite
+noun,food,a carrot,orange root vegetable,una carota,OO-nah kah-ROH-tah,singular,n/a,feminine,1,noun,n/a,He sliced a carrot.,Ha tagliato una carota.,ortaggio,indefinite
+noun,food,the carrots,orange root vegetables,le carote,LEH kah-ROH-teh,plural,n/a,feminine,1,noun,n/a,The carrots are in the soup.,Le carote sono nella zuppa.,ortaggi,definite
+noun,food,the tomato,red fruit vegetable,il pomodoro,EEL poh-moh-DOH-roh,singular,n/a,masculine,1,noun,n/a,The tomato is fresh.,Il pomodoro è fresco.,pomo,definite
+noun,food,a tomato,red fruit vegetable,un pomodoro,OON poh-moh-DOH-roh,singular,n/a,masculine,1,noun,n/a,I added a tomato to the salad.,Ho aggiunto un pomodoro all'insalata.,pomo,indefinite
+noun,food,the tomatoes,red fruit vegetables,i pomodori,EE poh-moh-DOH-ree,plural,n/a,masculine,1,noun,n/a,The tomatoes are ripe.,I pomodori sono maturi.,pomi,definite
+noun,food,the salad,mixed raw vegetables,l'insalata,LIN-sah-LAH-tah,singular,n/a,feminine,1,noun,n/a,The salad is fresh.,L'insalata è fresca.,misticanza,definite
+noun,food,a salad,mixed raw vegetables,un'insalata,OON in-sah-LAH-tah,singular,n/a,feminine,1,noun,n/a,She ordered a salad.,Ha ordinato un'insalata.,misticanza,indefinite
+noun,food,the salads,mixed raw vegetables,le insalate,LEH in-sah-LAH-teh,plural,n/a,feminine,1,noun,n/a,The salads come with bread.,Le insalate arrivano con il pane.,misticanze,definite
+noun,food,the soup,hot liquid dish,la zuppa,LA ZOOP-pah,singular,n/a,feminine,1,noun,n/a,The soup is warm.,La zuppa è calda.,minestra,definite
+noun,food,a soup,hot liquid dish,una zuppa,OO-nah ZOOP-pah,singular,n/a,feminine,1,noun,n/a,We shared a soup.,Abbiamo condiviso una zuppa.,minestra,indefinite
+noun,food,the steak,grilled beef slice,la bistecca,LA bee-STEHK-kah,singular,n/a,feminine,2,noun,n/a,The steak is medium rare.,La bistecca è a cottura media.,carne,definite
+noun,food,a steak,grilled beef slice,una bistecca,OO-nah bee-STEHK-kah,singular,n/a,feminine,2,noun,n/a,He cooked a steak for dinner.,Ha cucinato una bistecca per cena.,carne,indefinite
+noun,food,the steaks,grilled beef slices,le bistecche,LEH bee-STEHK-keh,plural,n/a,feminine,2,noun,n/a,The steaks rest on the plate.,Le bistecche riposano nel piatto.,carni,definite
+noun,food,fish,edible seafood,pesce,PEH-sheh,singular,n/a,masculine,1,noun,n/a,Fish is common on menus.,Pesce è comune nei menu.,pescato,n/a
+noun,food,the fish,edible seafood,il pesce,EEL PEH-sheh,singular,n/a,masculine,1,noun,n/a,The fish is grilled.,Il pesce è alla griglia.,pescato,definite
+noun,food,chicken,poultry meat,pollo,POHL-loh,singular,n/a,masculine,1,noun,n/a,Chicken tastes great with herbs.,Pollo è ottimo con le erbe.,gallina,n/a
+noun,food,the chicken,poultry meat,il pollo,EEL POHL-loh,singular,n/a,masculine,1,noun,n/a,The chicken is roasted.,Il pollo è arrosto.,gallina,definite
+noun,food,rice,staple grain,riso,REE-zoh,singular,n/a,masculine,1,noun,n/a,Rice cooks in fifteen minutes.,Riso cuoce in quindici minuti.,risotto,n/a
+noun,food,the rice,staple grain,il riso,EEL REE-zoh,singular,n/a,masculine,1,noun,n/a,The rice is fluffy.,Il riso è soffice.,risotto,definite
+noun,food,the egg,oval food from bird,l'uovo,LOO-oh-voh,singular,n/a,masculine,1,noun,n/a,The egg is boiled.,L'uovo è sodo.,uovo,definite
+noun,food,an egg,oval food from bird,un uovo,OON OO-oh-voh,singular,n/a,masculine,1,noun,n/a,I cracked an egg.,Ho rotto un uovo.,uovo,indefinite
+noun,food,the eggs,oval foods from birds,le uova,LEH WOH-vah,plural,n/a,feminine,1,noun,n/a,The eggs are fresh today.,Le uova sono fresche oggi.,uova,definite
+noun,food,the ice cream,frozen sweet dessert,il gelato,EEL jeh-LAH-toh,singular,n/a,masculine,1,noun,n/a,The ice cream melts fast.,Il gelato si scioglie in fretta.,crema,definite
+noun,food,an ice cream,frozen sweet dessert,un gelato,OON jeh-LAH-toh,singular,n/a,masculine,1,noun,n/a,I'd like an ice cream please.,Vorrei un gelato per favore.,crema,indefinite
+noun,food,the ice creams,frozen sweet desserts,i gelati,EE jeh-LAH-tee,plural,n/a,masculine,1,noun,n/a,The ice creams come in many flavors.,I gelati hanno molti gusti.,creme,definite
+noun,food,the wine,alcoholic grape drink,il vino,EEL VEE-noh,singular,n/a,masculine,1,noun,n/a,The wine is from Tuscany.,Il vino è toscano.,rosso,definite
+noun,food,wine,alcoholic grape drink,vino,VEE-noh,singular,n/a,masculine,1,noun,n/a,Wine pairs well with cheese.,Vino si abbina al formaggio.,rosso,n/a
+noun,food,the beer,fermented barley drink,la birra,LA BEER-rah,singular,n/a,feminine,1,noun,n/a,The beer is cold.,La birra è fredda.,bionda,definite
+noun,food,beer,fermented barley drink,birra,BEER-rah,singular,n/a,feminine,1,noun,n/a,Beer is popular in summer.,Birra è popolare in estate.,bionda,n/a
+noun,food,the butter,dairy spread,il burro,EEL BOOR-roh,singular,n/a,masculine,1,noun,n/a,The butter is soft.,Il burro è morbido.,margarina,definite
+noun,food,butter,dairy spread,burro,BOOR-roh,singular,n/a,masculine,1,noun,n/a,Butter melts quickly.,Burro si scioglie rapidamente.,margarina,n/a
+noun,food,the olive oil,oil from olives,l'olio d'oliva,LOH-lyoh doh-LEE-vah,singular,n/a,masculine,1,noun,n/a,The olive oil is extra virgin.,L'olio d'oliva è extravergine.,olio EVO,definite
+noun,food,olive oil,oil from olives,olio d'oliva,OH-lyoh doh-LEE-vah,singular,n/a,masculine,1,noun,n/a,Olive oil enhances flavor.,Olio d'oliva esalta il sapore.,olio EVO,n/a

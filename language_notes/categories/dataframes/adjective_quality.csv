@@ -1,0 +1,17 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+adjective,quality,good,high quality or satisfactory,buono,BWOH-noh,singular,n/a,masculine,1,adjective,n/a,The wine is good.,Il vino è buono.,"positivo, ottimo",n/a
+adjective,quality,good,high quality or satisfactory,buona,BWOH-nah,singular,n/a,feminine,1,adjective,n/a,She made a good cake.,Lei ha fatto una buona torta.,"positiva, ottima",n/a
+adjective,quality,bad,low quality or unsatisfactory,cattivo,kaht-TEE-voh,singular,n/a,masculine,1,adjective,n/a,The wine is bad.,Il vino è cattivo.,"negativo, pessimo",n/a
+adjective,quality,bad,low quality or unsatisfactory,cattiva,kaht-TEE-vah,singular,n/a,feminine,1,adjective,n/a,She had a bad experience.,Lei ha avuto una cattiva esperienza.,"negativa, pessima",n/a
+adjective,quality,excellent,extremely good,eccellente,eh-chehl-LEHN-teh,n/a,n/a,n/a,1,adjective,n/a,The service was excellent.,Il servizio era eccellente.,"ottimo, superiore",n/a
+adjective,quality,terrible,extremely bad,terribile,tehr-REE-bee-leh,n/a,n/a,n/a,1,adjective,n/a,The food was terrible.,Il cibo era terribile.,"orribile, pessimo",n/a
+adjective,quality,perfect,without faults,perfetto,pehr-FEHT-toh,singular,n/a,masculine,2,adjective,n/a,The weather is perfect.,Il tempo è perfetto.,"ideale, impeccabile",n/a
+adjective,quality,perfect,without faults,perfetta,pehr-FEHT-tah,singular,n/a,feminine,2,adjective,n/a,She cooked a perfect meal.,Lei ha cucinato un pasto perfetto.,"ideale, impeccabile",n/a
+adjective,quality,poor,below acceptable standard,scarso,SKAHR-soh,singular,n/a,masculine,2,adjective,n/a,The hotel had poor service.,L'hotel aveva un servizio scarso.,"insufficiente, basso",n/a
+adjective,quality,poor,below acceptable standard,scarsa,SKAHR-sah,singular,n/a,feminine,2,adjective,n/a,The quality is poor.,La qualità è scarsa.,"insufficiente, bassa",n/a
+adjective,quality,average,moderate or ordinary quality,medio,MEH-dyoh,singular,n/a,masculine,2,adjective,n/a,The restaurant was average.,Il ristorante era medio.,"moderato, comune",n/a
+adjective,quality,average,moderate or ordinary quality,media,MEH-dyah,singular,n/a,feminine,2,adjective,n/a,The food was average.,La cucina era media.,"moderata, comune",n/a
+adjective,quality,authentic,genuine or original,autentico,ow-TEHN-tee-koh,singular,n/a,masculine,2,adjective,n/a,This dish is authentic.,Questo piatto è autentico.,"genuino, originale",n/a
+adjective,quality,authentic,genuine or original,autentica,ow-TEHN-tee-kah,singular,n/a,feminine,2,adjective,n/a,She bought an authentic handbag.,Ha comprato una borsa autentica.,"genuina, originale",n/a
+adjective,quality,fake,not genuine or imitation,falso,FAHL-soh,singular,n/a,masculine,2,adjective,n/a,This watch is fake.,Questo orologio è falso.,"imitato, contraffatto",n/a
+adjective,quality,fake,not genuine or imitation,falsa,FAHL-sah,singular,n/a,feminine,2,adjective,n/a,She has a fake necklace.,Lei ha una collana falsa.,"imitata, contraffatta",n/a

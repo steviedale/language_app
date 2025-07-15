@@ -1,0 +1,55 @@
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
+noun,people,the man,adult male person,l'uomo,loo-OH-moh,singular,n/a,masculine,1,noun,n/a,The man is waiting at the station.,L'uomo aspetta alla stazione.,maschio,definite
+noun,people,a man,adult male person,un uomo,oon WOH-moh,singular,n/a,masculine,1,noun,n/a,I see a man in the park.,Vedo un uomo nel parco.,maschio,indefinite
+noun,people,the men,adult male persons,gli uomini,lyee WOH-mee-nee,plural,n/a,masculine,1,noun,n/a,The men are talking.,Gli uomini parlano.,maschi,definite
+noun,people,the woman,adult female person,la donna,lah DON-nah,singular,n/a,feminine,1,noun,n/a,The woman is reading a book.,La donna legge un libro.,femmina,definite
+noun,people,a woman,adult female person,una donna,OO-nah DON-nah,singular,n/a,feminine,1,noun,n/a,A woman is buying bread.,Una donna compra il pane.,femmina,indefinite
+noun,people,the women,adult female persons,le donne,leh DON-neh,plural,n/a,feminine,1,noun,n/a,The women are walking.,Le donne camminano.,femmine,definite
+noun,people,the child,young person,il bambino,eel bam-BEE-noh,singular,n/a,masculine,1,noun,n/a,The child is sleeping.,Il bambino dorme.,ragazzo,definite
+noun,people,a child,young person,un bambino,oon bam-BEE-noh,singular,n/a,masculine,1,noun,n/a,A child plays with the ball.,Un bambino gioca con la palla.,ragazzo,indefinite
+noun,people,the children,young persons,i bambini,ee bam-BEE-nee,plural,n/a,masculine,1,noun,n/a,The children are laughing.,I bambini ridono.,ragazzi,definite
+noun,people,the boy,young male person,il ragazzo,eel rah-GAHT-tsoh,singular,n/a,masculine,1,noun,n/a,The boy eats gelato.,Il ragazzo mangia il gelato.,bambino,definite
+noun,people,a boy,young male person,un ragazzo,oon rah-GAHT-tsoh,singular,n/a,masculine,1,noun,n/a,A boy plays soccer in the square.,Un ragazzo gioca a calcio in piazza.,bambino,indefinite
+noun,people,the boys,young male persons,i ragazzi,ee rah-GAHT-tsee,plural,n/a,masculine,1,noun,n/a,The boys run to the beach.,I ragazzi corrono alla spiaggia.,bambini,definite
+noun,people,the girl,young female person,la ragazza,lah rah-GAHT-tsah,singular,n/a,feminine,1,noun,n/a,The girl drinks water.,La ragazza beve acqua.,bambina,definite
+noun,people,a girl,young female person,una ragazza,OO-nah rah-GAHT-tsah,singular,n/a,feminine,1,noun,n/a,I met a girl.,Ho incontrato una ragazza.,bambina,indefinite
+noun,people,the girls,young female persons,le ragazze,leh rah-GAHT-tseh,plural,n/a,feminine,1,noun,n/a,The girls study Italian.,Le ragazze studiano italiano.,giovani,definite
+noun,people,the friend,person you know well,l'amico,lah-MEE-koh,singular,n/a,masculine,1,noun,n/a,The friend is here.,L'amico è qui.,compagno,definite
+noun,people,a friend,person you know well,un amico,oon ah-MEE-koh,singular,n/a,masculine,1,noun,n/a,I have a friend in Rome.,Ho un amico a Roma.,compagno,indefinite
+noun,people,the friends,persons you know well,gli amici,lyee ah-MEE-chee,plural,n/a,masculine,1,noun,n/a,The friends arrive tomorrow.,Gli amici arrivano domani.,compagni,definite
+noun,people,the friend,person you know well,l'amica,lah-MEE-kah,singular,n/a,feminine,1,noun,n/a,The friend is waiting.,L'amica sta aspettando.,compagna,definite
+noun,people,a friend,person you know well,un'amica,oo-nah-MEE-kah,singular,n/a,feminine,1,noun,n/a,She is a friend of mine.,È un'amica mia.,compagna,indefinite
+noun,people,the friends,persons you know well,le amiche,leh ah-MEE-keh,plural,n/a,feminine,1,noun,n/a,The friends are travelling.,Le amiche stanno viaggiando.,compagne,definite
+noun,people,the tourist,visitor to a place,il turista,eel too-REE-stah,singular,n/a,masculine,2,noun,n/a,The tourist takes photos.,Il turista scatta foto.,viaggiatore,definite
+noun,people,a tourist,visitor to a place,un turista,oon too-REE-stah,singular,n/a,masculine,2,noun,n/a,A tourist is asking for directions.,Un turista chiede indicazioni.,viaggiatore,indefinite
+noun,people,the tourists,visitors,i turisti,ee too-REE-stee,plural,n/a,masculine,2,noun,n/a,The tourists are at the museum.,I turisti sono al museo.,viaggiatori,definite
+noun,people,the tourist,visitor,la turista,lah too-REE-stah,singular,n/a,feminine,2,noun,n/a,The tourist needs a ticket.,La turista ha bisogno di un biglietto.,viaggiatrice,definite
+noun,people,a tourist,visitor,una turista,OO-nah too-REE-stah,singular,n/a,feminine,2,noun,n/a,A tourist is buying gelato.,Una turista compra il gelato.,viaggiatrice,indefinite
+noun,people,the tourists,visitors,le turiste,leh too-REE-steh,plural,n/a,feminine,2,noun,n/a,The tourists are on the bus.,Le turiste sono sull'autobus.,viaggiatrici,definite
+noun,people,the doctor,medical professional,il dottore,eel doht-TOH-reh,singular,n/a,masculine,1,noun,n/a,The doctor is busy.,Il dottore è occupato.,medico,definite
+noun,people,a doctor,medical professional,un dottore,oon doht-TOH-reh,singular,n/a,masculine,1,noun,n/a,I need a doctor.,Ho bisogno di un dottore.,medico,indefinite
+noun,people,the doctors,medical professionals,i dottori,ee doht-TOH-ree,plural,n/a,masculine,1,noun,n/a,The doctors are in the hospital.,I dottori sono in ospedale.,medici,definite
+noun,people,the doctor,medical professional,la dottoressa,lah doht-toh-REHS-sah,singular,n/a,feminine,1,noun,n/a,The doctor will help you.,La dottoressa ti aiuterà.,medica,definite
+noun,people,a doctor,medical professional,una dottoressa,OO-nah doht-toh-REHS-sah,singular,n/a,feminine,1,noun,n/a,We found a doctor.,Abbiamo trovato una dottoressa.,medica,indefinite
+noun,people,the doctors,medical professionals,le dottoresse,leh doht-toh-REHS-seh,plural,n/a,feminine,1,noun,n/a,The doctors are speaking.,Le dottoresse stanno parlando.,mediche,definite
+noun,people,the waiter,restaurant server,il cameriere,eel kah-meh-RYEH-reh,singular,n/a,masculine,2,noun,n/a,The waiter brings the menu.,Il cameriere porta il menù.,servitore,definite
+noun,people,a waiter,restaurant server,un cameriere,oon kah-meh-RYEH-reh,singular,n/a,masculine,2,noun,n/a,I spoke to a waiter.,Ho parlato con un cameriere.,servitore,indefinite
+noun,people,the waiters,restaurant servers,i camerieri,ee kah-meh-RYEH-ree,plural,n/a,masculine,2,noun,n/a,The waiters are working.,I camerieri stanno lavorando.,servitori,definite
+noun,people,the waitress,restaurant server,la cameriera,lah kah-meh-RYEH-rah,singular,n/a,feminine,2,noun,n/a,The waitress smiles.,La cameriera sorride.,servitrice,definite
+noun,people,a waitress,restaurant server,una cameriera,OO-nah kah-meh-RYEH-rah,singular,n/a,feminine,2,noun,n/a,We need a waitress.,Abbiamo bisogno di una cameriera.,servitrice,indefinite
+noun,people,the waitresses,restaurant servers,le cameriere,leh kah-meh-RYEH-reh,plural,n/a,feminine,2,noun,n/a,The waitresses clean tables.,Le cameriere puliscono i tavoli.,servitrici,definite
+noun,people,the student,learner,lo studente,loh stoo-DEN-teh,singular,n/a,masculine,1,noun,n/a,The student studies.,Lo studente studia.,alunno,definite
+noun,people,a student,learner,uno studente,OO-noh stoo-DEN-teh,singular,n/a,masculine,1,noun,n/a,I am a student.,Sono uno studente.,alunno,indefinite
+noun,people,the students,learners,gli studenti,lyee stoo-DEN-tee,plural,n/a,masculine,1,noun,n/a,The students arrive early.,Gli studenti arrivano presto.,alunni,definite
+noun,people,the student,learner,la studentessa,lah stoo-den-TES-sah,singular,n/a,feminine,1,noun,n/a,The student takes notes.,La studentessa prende appunti.,alunna,definite
+noun,people,a student,learner,una studentessa,OO-nah stoo-den-TES-sah,singular,n/a,feminine,1,noun,n/a,She is a student.,Lei è una studentessa.,alunna,indefinite
+noun,people,the students,learners,le studentesse,leh stoo-den-TES-seh,plural,n/a,feminine,1,noun,n/a,The students are in class.,Le studentesse sono in classe.,alunne,definite
+noun,people,the police officer,law-enforcement agent,il poliziotto,eel poh-lee-TSYOT-toh,singular,n/a,masculine,2,noun,n/a,The police officer helps.,Il poliziotto aiuta.,agente,definite
+noun,people,a police officer,law-enforcement agent,un poliziotto,oon poh-lee-TSYOT-toh,singular,n/a,masculine,2,noun,n/a,I called a police officer.,Ho chiamato un poliziotto.,agente,indefinite
+noun,people,the police officers,law-enforcement agents,i poliziotti,ee poh-lee-TSYOT-tee,plural,n/a,masculine,2,noun,n/a,The police officers arrive.,I poliziotti arrivano.,agenti,definite
+noun,people,the nurse,health-care worker,l'infermiere,leen-fehr-MYEH-reh,singular,n/a,masculine,2,noun,n/a,The nurse checks the patient.,L'infermiere controlla il paziente.,paramedico,definite
+noun,people,a nurse,health-care worker,un infermiere,oon een-fehr-MYEH-reh,singular,n/a,masculine,2,noun,n/a,We need a nurse.,Abbiamo bisogno di un infermiere.,paramedico,indefinite
+noun,people,the nurses,health-care workers,gli infermieri,lyee een-fehr-MYEH-ree,plural,n/a,masculine,2,noun,n/a,The nurses are busy.,Gli infermieri sono occupati.,paramedici,definite
+noun,people,the singer,vocalist,il cantante,eel kahn-TAN-teh,singular,n/a,masculine,3,noun,n/a,The singer performs tonight.,Il cantante si esibisce stasera.,musicista,definite
+noun,people,a singer,vocalist,un cantante,oon kahn-TAN-teh,singular,n/a,masculine,3,noun,n/a,I met a singer.,Ho incontrato un cantante.,musicista,indefinite
+noun,people,the singers,vocalists,i cantanti,ee kahn-TAN-tee,plural,n/a,masculine,3,noun,n/a,The singers rehearse.,I cantanti provano.,musicisti,definite
