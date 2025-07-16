@@ -1,3 +1,4 @@
 venv
 mobile_app
 old/
+.DS_Store
