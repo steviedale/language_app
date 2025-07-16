@@ -1058,209 +1058,794 @@ pronoun,relative,that/which,relative pronoun joining clauses,che,KEH,,,,1,pronou
 pronoun,relative,which/whom,relative pronoun used after a preposition,cui,KOO-ee,,,,1,pronoun,,The hotel in which we stayed.,L'hotel in cui abbiamo soggiornato.,il quale,,cui
 pronoun,subject,I,first-person singular subject pronoun,io,EE-oh,singular,,,1,pronoun,,I speak a little Italian.,Io parlo un po' di italiano.,me,,iare
 pronoun,subject,you,second-person singular subject pronoun,tu,TOO,singular,,,1,pronoun,informal,You are very kind.,Tu sei molto gentile.,te,,tu
-pronoun,subject,you,polite singular form of “you”,Lei,LAY-ee,singular,,,1,pronoun,formal,"Do you need help, sir?","Lei ha bisogno di aiuto, signore?",ella,,Lei
 pronoun,subject,he,third-person masculine singular subject pronoun,lui,LOO-ee,singular,,masculine,1,pronoun,,He is at the hotel.,Lui è in hotel.,egli,,lui
 pronoun,subject,she,third-person feminine singular subject pronoun,lei,LAY-ee,singular,,feminine,1,pronoun,,She likes coffee.,Lei ama il caffè.,ella,,lei
 pronoun,subject,we,first-person plural subject pronoun,noi,NOY,plural,,,1,pronoun,,We are tourists.,Noi siamo turisti.,ci,,noi
 pronoun,subject,you,second-person plural subject pronoun,voi,VOY,plural,,,1,pronoun,,You are friends.,Voi siete amici.,vi,,voi
 pronoun,subject,they,third-person plural subject pronoun,loro,LOH-roh,plural,,,1,pronoun,,They are waiting outside.,Loro stanno aspettando fuori.,essi,,loro
-verb,emotions,to love,strong positive feeling,amare,ah-MAH-reh,,infinitive,,1,verb,,It’s easy to love Italy.,È facile amare l’Italia.,adorare,,amare
-verb,emotions,I love,first-person present,amo,AH-moh,,present_1sg,,1,verb,,I love this city.,Amo questa città.,adoro,,amare
-verb,emotions,I loved,past completed action,ho amato,oh ah-MAH-toh,,past_1sg,,1,verb,,I loved the concert yesterday.,Ho amato il concerto ieri.,ho adorato,,amare
-verb,emotions,loving,ongoing action,amando,ah-MAN-doh,,gerund,,1,verb,,Loving new places is natural.,Amando posti nuovi è naturale.,adorando,,amare
-verb,emotions,to like/appreciate,find pleasant,apprezzare,ah-PRET-tsah-reh,,infinitive,,1,verb,,You will like Italian food.,Amerai apprezzare il cibo italiano.,gradire,,apprezzare
-verb,emotions,I like/appreciate,first-person present,apprezzo,ah-PRET-tsoh,,present_1sg,,1,verb,,I appreciate good coffee.,Apprezzo il buon caffè.,gradisco,,apprezzare
-verb,emotions,I appreciated,past completed action,ho apprezzato,oh ah-PRET-tsah-toh,,past_1sg,,1,verb,,I appreciated your help.,Ho apprezzato il tuo aiuto.,ho gradito,,apprezzare
-verb,emotions,appreciating,ongoing action,apprezzando,ah-PRET-tsan-doh,,gerund,,1,verb,,Appreciating art takes time.,Apprezzando l’arte ci vuole tempo.,gradendo,,apprezzare
-verb,emotions,to feel,experience emotion,sentire,sen-TEE-reh,,infinitive,,1,verb,,You may feel tired after travel.,Potresti sentire stanchezza dopo il viaggio.,provare,,sentire
-verb,emotions,I feel,first-person present,sento,SEN-toh,,present_1sg,,1,verb,,I feel happy today.,Sento felicità oggi.,provo,,sentire
-verb,emotions,I felt,past completed action,ho sentito,oh sen-TEE-toh,,past_1sg,,1,verb,,I felt cold last night.,Ho sentito freddo ieri notte.,ho provato,,sentire
-verb,emotions,feeling,ongoing action,sentendo,sen-TEN-doh,,gerund,,1,verb,,Feeling relaxed helps.,Sentendo relax si sta meglio.,provando,,sentire
-verb,emotions,to hope,desire positive outcome,sperare,speh-RAH-reh,,infinitive,,1,verb,,I hope for sunshine.,Spero che ci sia il sole.,augurarsi,,sperare
-verb,emotions,I hope,first-person present,spero,SPEH-roh,,present_1sg,,1,verb,,I hope everything is fine.,Spero che vada tutto bene.,mi auguro,,sperare
-verb,emotions,I hoped,past completed action,ho sperato,oh speh-RAH-toh,,past_1sg,,1,verb,,I hoped for a table outside.,Ho sperato in un tavolo fuori.,ho auspicato,,sperare
-verb,emotions,hoping,ongoing action,sperando,speh-RAN-doh,,gerund,,1,verb,,Hoping helps you stay positive.,Sperando si resta positivi.,augurandosi,,sperare
-verb,emotions,to fear,feel afraid,temere,teh-MEH-reh,,infinitive,,1,verb,,Don’t fear the narrow streets.,Non temere i vicoli.,avere paura,,temere
-verb,emotions,I fear,first-person present,temo,TEH-moh,,present_1sg,,1,verb,,I fear delays.,Temo ritardi.,ho paura,,temere
-verb,emotions,I feared,past completed action,ho temuto,oh teh-MOO-toh,,past_1sg,,1,verb,,I feared bad weather yesterday.,Ho temuto il maltempo ieri.,ho avuto paura,,temere
-verb,emotions,fearing,ongoing action,temendo,teh-MEN-doh,,gerund,,1,verb,,Fearing mistakes slows progress.,Temendo errori si rallenta.,avendo paura,,temere
-verb,emotions,to worry,feel concern,preoccuparsi,preh-ohk-koo-PAHR-see,,infinitive,,1,verb,,Try not to worry about traffic.,Cerca di non preoccuparti del traffico.,ansiare,,preoccuparsi
-verb,emotions,I worry,first-person present,mi preoccupo,mee preh-OHK-koo-poh,,present_1sg,,1,verb,,I worry about missing the train.,Mi preoccupo di perdere il treno.,mi ansio,,preoccuparsi
-verb,emotions,I worried,past completed action,mi sono preoccupato,mee SOH-no preh-ohk-koo-PAH-toh,,past_1sg,,1,verb,,I worried yesterday evening.,Mi sono preoccupato ieri sera.,mi sono ansiato,,preoccupare
-verb,emotions,worrying,ongoing action,preoccupandomi,preh-ohk-koo-PAN-doh-mee,,gerund,,1,verb,,Worrying doesn’t help.,Preoccupandomi non aiuta.,ansiandomi,,preoccupandomare
-verb,emotions,to relax,become calm,rilassarsi,ree-lahs-SAHR-see,,infinitive,,1,verb,,You can relax at the spa.,Puoi rilassarti alla spa.,distendersi,,rilassarsi
-verb,emotions,I relax,first-person present,mi rilasso,mee ree-LAHS-soh,,present_1sg,,1,verb,,I relax after dinner.,Mi rilasso dopo cena.,mi distendo,,rilassarsi
-verb,emotions,I relaxed,past completed action,mi sono rilassato,mee SOH-no ree-lahs-SA-toh,,past_1sg,,1,verb,,I relaxed on the beach.,Mi sono rilassato in spiaggia.,mi sono disteso,,rilassare
-verb,emotions,relaxing,ongoing action,rilassandomi,ree-lahs-SAN-doh-mee,,gerund,,1,verb,,Relaxing helps reduce stress.,Rilassandomi riduco lo stress.,distendendomi,,rilassandomare
-verb,emotions,to smile,express happiness,sorridere,sohr-REE-deh-reh,,infinitive,,1,verb,,Remember to smile in photos.,Ricorda di sorridere nelle foto.,ridere,,sorridere
-verb,emotions,I smile,first-person present,sorrido,sohr-REE-doh,,present_1sg,,1,verb,,I smile at new friends.,Sorrido ai nuovi amici.,rido,,sorridere
-verb,emotions,I smiled,past completed action,ho sorriso,oh sohr-REE-zoh,,past_1sg,,1,verb,,I smiled all day.,Ho sorriso tutto il giorno.,ho riso,,sorrisare
-verb,emotions,smiling,ongoing action,sorridendo,sohr-ree-DEN-doh,,gerund,,1,verb,,Smiling makes people happy.,Sorridendo si rende felici.,ridendo,,sorridere
-verb,emotions,to cry,shed tears,piangere,PEE-ahn-jeh-reh,,infinitive,,1,verb,,Try not to cry in public.,Cerca di non piangere in pubblico.,singhiozzare,,piangere
-verb,emotions,I cry,first-person present,piango,PYAHN-goh,,present_1sg,,1,verb,,I cry during sad movies.,Piango durante i film tristi.,singhiozzo,,piangere
-verb,emotions,I cried,past completed action,ho pianto,oh PYAHN-toh,,past_1sg,,1,verb,,I cried last night.,Ho pianto ieri notte.,ho singhiozzato,,piantare
-verb,emotions,crying,ongoing action,piangendo,pee-ahn-JEN-doh,,gerund,,1,verb,,Crying can bring relief.,Piangendo ci si sfoga.,singhiozzando,,piangere
-verb,emotions,to enjoy oneself,have fun,divertirsi,dee-vehr-TEER-see,,infinitive,,1,verb,,You should enjoy yourself tonight.,Dovresti divertirti stasera.,svagarsi,,divertirsi
-verb,emotions,I enjoy myself,first-person present,mi diverto,mee dee-VER-toh,,present_1sg,,1,verb,,I enjoy myself at parties.,Mi diverto alle feste.,mi svago,,divertare
-verb,emotions,I enjoyed myself,past completed action,mi sono divertito,mee SOH-no dee-vehr-TEE-toh,,past_1sg,,1,verb,,I enjoyed myself yesterday.,Mi sono divertito ieri.,mi sono svagato,,divertire
-verb,emotions,enjoying oneself,ongoing action,divertendomi,dee-ver-TEN-doh-mee,,gerund,,1,verb,,Enjoying oneself is important.,Divertendomi mi sento vivo.,svagandomi,,divertendomare
-verb,shopping,to buy,purchase goods,comprare,kohm-PRAH-reh,,infinitive,,1,verb,,I want to buy a souvenir.,Voglio comprare un souvenir.,acquistare,,comprare
-verb,shopping,I buy,first-person present,compro,KOHM-proh,,present_1sg,,1,verb,,I buy fruit at the market.,Compro frutta al mercato.,acquisto,,comprare
-verb,shopping,I bought,past completed action,ho comprato,oh kohm-PRAH-toh,,past_1sg,,1,verb,,I bought tickets yesterday.,Ho comprato i biglietti ieri.,ho acquistato,,comprare
-verb,shopping,buying,ongoing action,comprando,kohm-PRAHN-doh,,gerund,,1,verb,,Buying local products saves money.,Comprando prodotti locali si risparmia.,acquistando,,comprare
-verb,shopping,to pay,hand over money,pagare,pah-GAH-reh,,infinitive,,1,verb,,You can pay with card.,Puoi pagare con la carta.,sal­dare,,pagare
-verb,shopping,I pay,first-person present,pago,PAH-goh,,present_1sg,,1,verb,,I pay at the register.,Pago alla cassa.,saldo,,pagare
-verb,shopping,I paid,past completed action,ho pagato,oh pah-GAH-toh,,past_1sg,,1,verb,,I paid the bill already.,Ho pagato il conto già.,ho saldato,,pagare
-verb,shopping,paying,ongoing action,pagando,pah-GAN-doh,,gerund,,1,verb,,Paying in cash is faster.,Pagando in contanti è più veloce.,saldando,,pagare
-verb,shopping,to try on,put clothing on to test,provare,proh-VAH-reh,,infinitive,,1,verb,,May I try on this jacket?,Posso provare questa giacca?,testare,,provare
-verb,shopping,I try on,first-person present,provo,PROH-voh,,present_1sg,,1,verb,,I try on the shoes.,Provo le scarpe.,testo,,provare
-verb,shopping,I tried on,past completed action,ho provato,oh proh-VAH-toh,,past_1sg,,1,verb,,I tried on three sizes.,Ho provato tre taglie.,ho testato,,provare
-verb,shopping,trying on,ongoing action,provando,proh-VAN-doh,,gerund,,1,verb,,Trying on clothes takes time.,Provando i vestiti si perde tempo.,testando,,provare
-verb,shopping,to cost,have a price,costare,koh-STAHR-eh,,infinitive,,1,verb,,How much does it cost?,Quanto costa?,valere,,costare
-verb,shopping,I cost,first-person present,costo,KOH-stoh,,present_1sg,,1,verb,,I cost nothing to enter.,Costo niente per entrare.,valgo,,costare
-verb,shopping,I costed,past completed action,sono costato,SOH-no koh-STA-toh,,past_1sg,,1,verb,,The item I bought costed less online.,L’articolo che ho comprato è costato meno online.,sono valso,,costare
-verb,shopping,costing,ongoing action,costando,koh-STAN-doh,,gerund,,1,verb,,Costing too much I skipped it.,Costando troppo l’ho lasciato.,valendo,,costare
-verb,shopping,to choose,select something,scegliere,SHEL-lyeh-reh,,infinitive,,1,verb,,Choose your favorite flavor.,Scegli il tuo gusto preferito.,selezionare,,scegliere
-verb,shopping,I choose,first-person present,scelgo,SHEL-goh,,present_1sg,,1,verb,,I choose local wines.,Scelgo vini locali.,seleziono,,scegliere
-verb,shopping,I chose,past completed action,ho scelto,oh SHEL-toh,,past_1sg,,1,verb,,I chose the blue scarf.,Ho scelto la sciarpa blu.,ho selezionato,,sceltare
-verb,shopping,choosing,ongoing action,scegliendo,shel-YEN-doh,,gerund,,1,verb,,Choosing takes me a while.,Scegliendo ci metto un po’.,selezionando,,scegliere
-verb,shopping,to exchange,swap an item,cambiare,kahm-BYAH-reh,,infinitive,,1,verb,,You can exchange within 30 days.,Puoi cambiare entro 30 giorni.,sostituire,,cambiare
-verb,shopping,I exchange,first-person present,cambio,KAHM-byoh,,present_1sg,,1,verb,,I exchange the size.,Cambio la taglia.,sostituisco,,cambiare
-verb,shopping,I exchanged,past completed action,ho cambiato,oh kahm-BYAH-toh,,past_1sg,,1,verb,,I exchanged the shoes yesterday.,Ho cambiato le scarpe ieri.,ho sostituito,,cambiare
-verb,shopping,exchanging,ongoing action,cambiando,kahm-BYAN-doh,,gerund,,1,verb,,Exchanging is easy here.,Cambiando qui è facile.,sostituendo,,cambiare
-verb,shopping,to measure,check size,misurare,mee-zoo-RAH-reh,,infinitive,,1,verb,,Please measure my waist.,Per favore misurami la vita.,verificare,,misurare
-verb,shopping,I measure,first-person present,misuro,mee-ZOO-roh,,present_1sg,,1,verb,,I measure the fabric.,Misuro il tessuto.,verifico,,misurare
-verb,shopping,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,,past_1sg,,1,verb,,I measured the ring size.,Ho misurato la misura dell’anello.,ho verificato,,misurare
-verb,shopping,measuring,ongoing action,misurando,mee-zoo-RAN-doh,,gerund,,1,verb,,Measuring saves return trips.,Misurando si evitano resi.,verificando,,misurare
-verb,shopping,to return,bring back/reimburse,restituire,reh-stee-too-EE-reh,,infinitive,,1,verb,,I want to return this item.,Voglio restituire questo articolo.,rendere,,restituire
-verb,shopping,I return,first-person present,restituisco,reh-stee-too-EES-koh,,present_1sg,,1,verb,,I return defective goods.,Restituisco merce difettosa.,rendo,,restituire
-verb,shopping,I returned,past completed action,ho restituito,oh reh-stee-too-EE-toh,,past_1sg,,1,verb,,I returned the shirt yesterday.,Ho restituito la camicia ieri.,ho reso,,restituire
-verb,shopping,returning,ongoing action,restituendo,reh-stee-too-EN-doh,,gerund,,1,verb,,Returning items needs the receipt.,Restituendo serve lo scontrino.,rendendo,,restituire
-verb,shopping,to sell,give goods for money,vendere,VEN-deh-reh,,infinitive,,1,verb,,They sell fresh cheese.,Vendono formaggio fresco.,commercializzare,,vendere
-verb,shopping,I sell,first-person present,vendo,VEN-doh,,present_1sg,,1,verb,,I sell postcards in the shop.,Vendo cartoline in negozio.,commercializzo,,vendere
-verb,shopping,I sold,past completed action,ho venduto,oh ven-DOO-toh,,past_1sg,,1,verb,,I sold my old camera.,Ho venduto la mia vecchia macchina fotografica.,ho commercializzato,,vendere
-verb,shopping,selling,ongoing action,vendendo,ven-DEN-doh,,gerund,,1,verb,,Selling souvenirs is fun.,Vendendo souvenir ci si diverte.,commercializzando,,vendere
-verb,shopping,to ask for,request,richiedere,ree-kyeh-DEH-reh,,infinitive,,1,verb,,You can ask for a discount.,Puoi richiedere uno sconto.,chiedere,,richiedere
-verb,shopping,I ask for,first-person present,richiedo,ree-KYEH-doh,,present_1sg,,1,verb,,I ask for a bag.,Richiedo una borsa.,chiedo,,richiedere
-verb,shopping,I asked for,past completed action,ho richiesto,oh ree-KYEH-stoh,,past_1sg,,1,verb,,I asked for a receipt.,Ho richiesto uno scontrino.,ho chiesto,,richiestare
-verb,shopping,asking for,ongoing action,richiedendo,ree-kyeh-DEN-doh,,gerund,,1,verb,,Asking for help is easy.,Richiedendo aiuto è facile.,chiedendo,,richiedere
 verb,directions,to turn,change direction,girare,jee-RAH-reh,,infinitive,,1,,,To reach the museum, you have to turn left.,Per raggiungere il museo devi girare a sinistra.,,girare
 verb,directions,I turn,first-person present,giro,JEE-roh,,present_1sg,,1,,,I turn right at the traffic light.,Giro a destra al semaforo.,svolto,,girare
+verb,directions,you turn,second-person plural present,girate,jee-RAH-teh,,present_2pl,,1,,,You turn at the next corner.,Girate al prossimo angolo.,svoltate,,girare
+verb,directions,you (plural) turn,second-person plural present,girate,jee-RAH-teh,,present_2pl,,1,,,You turn at the next corner.,Girate al prossimo angolo.,svoltate,,girare
+verb,directions,she turns,third-person singular present,gira,JEE-rah,,present_3sg,,1,,,She turns left at the intersection.,Gira a sinistra all'incrocio.,si volta,,girare
+verb,directions,he turns,third-person singular present,gira,JEE-rah,,present_3sg,,1,,,He turns right at the traffic light.,Gira a destra al semaforo.,si volta,,girare
+verb,directions,we turn,first-person plural present,giriamo,jee-RYAH-mo,,present_1pl,,1,,,We turn at the intersection.,Giriamo all'incrocio.,svoltiamo,,girare
+verb,directions,they turn,third-person plural present,girano,JEE-rah-noh,,present_3pl,,1,,,They turn around the corner.,Girano all'angolo.,si voltano,,girare
 verb,directions,I turned,past completed action,ho girato,oh jee-RAH-toh,,past_1sg,,1,,,I turned too early yesterday.,Ho girato troppo presto ieri.,ho svoltato,,girare
+verb,directions,you turned,past completed action,hai girato,AH-ee jee-RAH-toh,,past_2sg,,1,,,You turned at the traffic light.,Hai girato al semaforo.,ti sei voltato,,girare
+verb,directions,she turned,past completed action,ha girato,AH-ah jee-RAH-toh,,past_3sg,,1,,,She turned left at the corner.,Ha girato a sinistra all'angolo.,si è voltata,,girare
+verb,directions,he turned,past completed action,ha girato,AH-ah jee-RAH-toh,,past_3sg,,1,,,He turned right at the intersection.,Ha girato a destra all'incrocio.,si è voltato,,girare
+verb,directions,we turned,past completed action,abbiamo girato,ah-BBYAH-mo jee-RAH-toh,,past_1pl,,1,,,We turned at the corner.,Abbiamo girato all'angolo.,abbiamo svoltato,,girare
+verb,directions,they turned,past completed action,sono girati,SOH-noh jee-RAH-tee,,past_3pl,,1,,,They turned around the block.,Sono girati intorno all'isolato.,si sono voltati,,girare
+verb,directions,you (plural) turned,past completed action,vi siete girati,VEE see-EH-teh jee-RAH-tee,,past_2pl,,1,,,You turned at the intersection.,Vi siete girati all'incrocio.,vi siete voltati,,girare
 verb,directions,turning,ongoing action,girando,jee-RAN-doh,,gerund,,1,,,Turning here you’ll see the river.,Girando qui vedrai il fiume.,svoltando,,girare
 verb,directions,to go,move from one place to another,andare,ahn-DAH-reh,,infinitive,,1,,,You can go straight for two blocks.,Puoi andare dritto per due isolati.,muoversi,,andare
-verb,directions,I go,first-person present,vado,VAH-doh,,present_1sg,,1,,,I go to the station every day.,Vado alla stazione ogni giorno.,mi muovo,,andare
-verb,directions,I went,past completed action,sono andato,SOH-noh ahn-DAH-toh,,past_1sg,,1,,,I went by foot last night.,Sono andato a piedi ieri sera.,mi sono mosso,,andare
-verb,directions,going,ongoing action,andando,ahn-DAN-doh,,gerund,,1,,,Going straight you’ll reach the sea.,Andando sempre dritto arrivi al mare.,muovendosi,,andare
+verb,directions,I go,move from one place to another,vado,VAH-doh,,present_1sg,,1,,,I go to the station every day.,Vado alla stazione ogni giorno.,mi muovo,,andare
+verb,directions,you go,move from one place to another,vai,VAH-ee,,present_2sg,,1,,,You go to the store now.,Vai al negozio adesso.,ti muovi,,andare
+verb,directions,you (plural) go,move from one place to another,andate,ahn-DAH-teh,,present_2pl,,1,,,You go to the museum tomorrow.,Andate al museo domani.,vi muovete,,andare
+verb,directions,she goes,move from one place to another,va,VAH,,present_3sg,,1,,,She goes to the library in the afternoon.,Va in biblioteca nel pomeriggio.,si muove,,andare
+verb,directions,he goes,move from one place to another,va,VAH,,present_3sg,,1,,,He goes to the gym in the evening.,Va in palestra la sera.,si muove,,andare
+verb,directions,we go,move from one place to another,noi andiamo,NOY ahn-DYAH-mo,,present_1pl,,1,,,We go to the cinema tonight.,Noi andiamo al cinema stasera.,ci muoviamo,,andare
+verb,directions,they go,move from one place to another,vanno,VAHN-noh,,present_3pl,,1,,,They go to the park every weekend.,Vanno al parco ogni fine settimana.,si muovono,,andare
+verb,directions,I went,move from one place to another,sono andato,SOH-noh ahn-DAH-toh,,past_1sg,,1,,,I went by foot last night.,Sono andato a piedi ieri sera.,mi sono mosso,,andare
+verb,directions,you went,move from one place to another,sei andato,SEH-ee ahn-DAH-toh,,past_2sg,,1,,,You went to the party last week.,Sei andato alla festa la settimana scorsa.,ti sei mosso,,andare
+verb,directions,she went,move from one place to another,è andata,EH ahn-DAH-tah,,past_3sg,,1,,,She went to the concert last night.,È andata al concerto ieri sera.,si è mossa,,andare
+verb,directions,he went,move from one place to another,è andato,EH ahn-DAH-toh,,past_3sg,,1,,,He went to the meeting yesterday.,È andato alla riunione ieri.,si è mosso,,andare
+verb,directions,we went,move from one place to another,siamo andati,SEE-ah-mo ahn-DAH-tee,,past_1pl,,1,,,We went to the market.,Siamo andati al mercato.,ci siamo mossi,,andare
+verb,directions,they went,move from one place to another,sono andati,SOH-noh ahn-DAH-tee,,past_3pl,,1,,,They went to the beach.,Sono andati alla spiaggia.,si sono mossi,,andare
+verb,directions,you (plural) went,move from one place to another,vi siete andati,VEE see-EH-teh ahn-DAH-tee,,past_2pl,,1,,,You went to the concert.,Vi siete andati al concerto.,vi siete mossi,,andare
+verb,directions,going,move from one place to another,andando,ahn-DAN-doh,,gerund,,1,,,Going straight you’ll reach the sea.,Andando sempre dritto arrivi al mare.,muovendosi,,andare
 verb,directions,to continue,carry on in same direction,continuare,con-tee-nu-AH-reh,,infinitive,,1,,,Continue until you see the arch.,Continua finché vedi l'arco.,proseguire,,continuare
 verb,directions,I continue,first-person present,continuo,con-TEE-nuoh,,present_1sg,,1,,,I continue along this street.,Continuo lungo questa strada.,proseguo,,continuare
+verb,directions,you continue,second-person singular present,continui,con-TEE-nu-ee,,present_2sg,,1,,,You continue to the next intersection.,Continui al prossimo incrocio.,prosegui,,continuare
+verb,directions,you (plural) continue,second-person plural present,continuate,con-TEE-nu-AH-teh,,present_2pl,,1,,,You continue along the path.,Continuate lungo il sentiero.,proseguite,,continuare
+verb,directions,she continues,third-person singular present,continua,con-TEE-nu-ah,,present_3sg,,1,,,She continues to the next street.,Continua alla prossima strada.,prosegue,,continuare
+verb,directions,he continues,third-person singular present,continua,con-TEE-nu-ah,,present_3sg,,1,,,He continues to the next corner.,Continua al prossimo angolo.,prosegue,,continuare
+verb,directions,we continue,first-person plural present,continuiamo,con-TEE-nu-YAH-moh,,present_1pl,,1,,,We continue towards the park.,Continuiamo verso il parco.,proseguiamo,,continuare
+verb,directions,they continue,third-person plural present,continuano,con-TEE-nu-ah-noh,,present_3pl,,1,,,They continue to the next village.,Continuano al prossimo villaggio.,proseguono,,continuare
 verb,directions,I continued,past completed action,ho continuato,oh con-tee-nu-AH-toh,,past_1sg,,1,,,I continued after the bridge.,Ho continuato dopo il ponte.,ho proseguito,,oh
+verb,directions,you continued,past completed action,hai continuato,AH-ee con-tee-nu-AH-toh,,past_2sg,,1,,,You continued to the end of the street.,Hai continuato fino alla fine della strada.,ti sei proseguito,,continuare
+verb,directions,she continued,past completed action,ha continuato,AH-ah con-tee-nu-AH-toh,,past_3sg,,1,,,She continued to the next town.,Ha continuato al prossimo paese.,si è proseguita,,continuare
+verb,directions,he continued,past completed action,ha continuato,AH-ah con-tee-nu-AH-toh,,past_3sg,,1,,,He continued to the next intersection.,Ha continuato al prossimo incrocio.,si è proseguito,,continuare
+verb,directions,we continued,past completed action,abbiamo continuato,ah-BBYAH-mo con-tee-nu-AH-toh,,past_1pl,,1,,,We continued along the river.,Abbiamo continuato lungo il fiume.,abbiamo proseguito,,continuare
+verb,directions,they continued,past completed action,hanno continuato,AHN-no con-tee-nu-AH-toh,,past_3pl,,1,,,They continued to the next town.,Hanno continuato fino al prossimo paese.,hanno proseguito,,continuare
+verb,directions,you (plural) continued,past completed action,vi siete continuati,VEE see-EH-teh con-tee-nu-AH-tee,,past_2pl,,1,,,You continued to the end of the road.,Vi siete continuati fino alla fine della strada.,vi siete proseguiti,,continuare
 verb,directions,continuing,ongoing action,continuando,con-tee-nu-AN-doh,,gerund,,1,,,Continuing you’ll reach the piazza.,Continuando arrivi in piazza.,proseguendo,,continuando
 verb,directions,to cross,go from one side to other,attraversare,ah-tra-ver-SAH-reh,,infinitive,,1,,,Cross the street at the zebra crossing.,Attraversa la strada sulle strisce.,passare,,attraversare
 verb,directions,I cross,first-person present,attraverso,ah-tra-VER-soh,,present_1sg,,1,,,I cross the square every morning.,Attraverso la piazza ogni mattina.,passo,,attraversare
+verb,directions,you cross,second-person singular present,attraversi,ah-tra-VER-see,,present_2sg,,1,,,You cross the street carefully.,Attraversi la strada con attenzione.,passi,,attraversare
+verb,directions,you (plural) cross,second-person plural present,attraversate,ah-tra-ver-ZAH-teh,,present_2pl,,1,,,You cross the bridge at noon.,Attraversate il ponte a mezzogiorno.,passate,,attraversare
+verb,directions,she crosses,third-person singular present,attraversa,ah-tra-VER-sah,,present_3sg,,1,,,She crosses the road quickly.,Attraversa la strada velocemente.,passa,,attraversare
+verb,directions,he crosses,third-person singular present,attraversa,ah-tra-VER-sah,,present_3sg,,1,,,He crosses the square every day.,Attraversa la piazza ogni giorno.,passa,,attraversare
+verb,directions,we cross,first-person plural present,attraversiamo,ah-tra-ver-ZYAH-mo,,present_1pl,,1,,,We cross the river together.,Attraversiamo il fiume insieme.,passiamo,,attraversare
+verb,directions,they cross,third-person plural present,attraversano,ah-tra-VER-zah-noh,,present_3pl,,1,,,They cross the road carefully.,Attraversano la strada con attenzione.,passano,,attraversare
 verb,directions,I crossed,past completed action,ho attraversato,oh ah-tra-ver-SAH-toh,,past_1sg,,1,,,I crossed the bridge yesterday.,Ho attraversato il ponte ieri.,ho passato,,oh
+verb,directions,you crossed,past completed action,hai attraversato,AH-ee ah-tra-ver-SAH-toh,,past_2sg,,1,,,You crossed the street last week.,Hai attraversato la strada la settimana scorsa.,ti sei passato,,attraversare
+verb,directions,she crossed,past completed action,ha attraversato,AH-ah ah-tra-ver-SAH-toh,,past_3sg,,1,,,She crossed the square this morning.,Ha attraversato la piazza questa mattina.,si è passata,,attraversare
+verb,directions,he crossed,past completed action,ha attraversato,AH-ah ah-tra-ver-SAH-toh,,past_3sg,,1,,,He crossed the road yesterday.,Ha attraversato la strada ieri.,si è passato,,attraversare
+verb,directions,we crossed,past completed action,abbiamo attraversato,ah-BBYAH-mo ah-tra-ver-SAH-toh,,past_1pl,,1,,,We crossed the square last week.,Abbiamo attraversato la piazza la settimana scorsa.,abbiamo passato,,attraversare
+verb,directions,they crossed,past completed action,hanno attraversato,AHN-no ah-tra-ver-SAH-toh,,past_3pl,,1,,,They crossed the road carefully.,Hanno attraversato la strada con attenzione.,hanno passato,,attraversare
+verb,directions,you (plural) crossed,past completed action,vi siete attraversati,VEE see-EH-teh ah-tra-ver-SAH-tee,,past_2pl,,1,,,You crossed the park yesterday.,Vi siete attraversati il parco ieri.,vi siete passati,,attraversare
 verb,directions,crossing,ongoing action,attraversando,ah-tra-ver-SAN-doh,,gerund,,1,,,Crossing the park you’ll save time.,Attraversando il parco risparmi tempo.,passando,,attraversando
 verb,directions,to stop,cease movement,fermarsi,fehr-MAHR-see,,infinitive,,1,,,Remember to stop at the sign.,Ricorda di fermarti al cartello.,arrestarsi,,fermarsi
-verb,directions,I stop,first-person present,mi fermo,mee FEHR-moh,,present_1sg,,1,,,I stop in front of the church.,Mi fermo davanti alla chiesa.,mi arresto,,meare
-verb,directions,I stopped,past completed action,mi sono fermato,mee SOH-no fehr-MAH-toh,,past_1sg,,1,,,I stopped here last time.,Mi sono fermato qui l'ultima volta.,mi sono arrestato,,meare
-verb,directions,stopping,ongoing action,fermandomi,fehr-MAN-doh-mee,,gerund,,1,,,Stopping often lets you rest.,Fermandomi spesso riesco a riposare.,arrestandomi,,fermandomi
+verb,directions,I stop,first-person present,mi fermo,mee FEHR-moh,,present_1sg,,1,,,I stop in front of the church.,Mi fermo davanti alla chiesa.,mi arresto,,fermarsi
+verb,directions,you stop,second-person singular present,ti fermi,tee FEHR-mee,,present_2sg,,1,,,You stop at the traffic light.,Ti fermi al semaforo.,ti arresti,,fermarsi
+verb,directions,you (plural) stop,second-person plural present,vi fermate,VEE fehr-MAH-teh,,present_2pl,,1,,,You stop at the traffic light.,Vi fermate al semaforo.,vi arrestate,,fermarsi
+verb,directions,she stops,third-person singular present,si ferma,SEE FEHR-mah,,present_3sg,,1,,,She stops at the corner.,Si ferma all'angolo.,si arresta,,fermarsi
+verb,directions,he stops,third-person singular present,si ferma,SEE FEHR-mah,,present_3sg,,1,,,He stops at the bus stop.,Si ferma alla fermata dell'autobus.,si arresta,,fermarsi
+verb,directions,we stop,first-person plural present,ci fermiamo,chee fehr-MYAH-mo,,present_1pl,,1,,,We stop at the corner.,Ci fermiamo all'angolo.,ci arresteremo,,fermarsi
+verb,directions,they stop,third-person plural present,si fermano,SEE fehr-MAH-noh,,present_3pl,,1,,,They stop at the bus stop.,Si fermano alla fermata dell'autobus.,si arrestano,,fermarsi
+verb,directions,I stopped,past completed action,mi sono fermato,SOH-no fehr-MAH-toh,,past_1sg,,1,,,I stopped at the bus stop.,Mi sono fermato alla fermata dell'autobus.,mi sono arrestato,,fermarsi
+verb,directions,you stopped,past completed action,ti sei fermato,SEH-ee fehr-MAH-toh,,past_2sg,,1,,,You stopped at the traffic light.,Ti sei fermato al semaforo.,ti sei arrestato,,fermarsi
+verb,directions,she stopped,past completed action,si è fermata,SEH eh fehr-MAH-tah,,past_3sg,,1,,,She stopped at the corner.,Si è fermata all'angolo.,si è arrestata,,fermarsi
+verb,directions,he stopped,past completed action,si è fermato,SEH eh fehr-MAH-toh,,past_3sg,,1,,,He stopped at the bus stop.,Si è fermato alla fermata dell'autobus.,si è arrestato,,fermarsi
+verb,directions,we stopped,past completed action,ci siamo fermati,SEE-ah-mo fehr-MAH-tee,,past_1pl,,1,,,We stopped at the fountain.,Ci siamo fermati alla fontana.,ci siamo arrestati,,fermarsi
+verb,directions,they stopped,past completed action,si sono fermati,SEE-soh-no fehr-MAH-tee,,past_3pl,,1,,,They stopped at the entrance.,Si sono fermati all'ingresso.,si sono arrestati,,fermarsi
+verb,directions,you (plural) stopped,past completed action,vi siete fermati,VEE see-EH-teh fehr-MAH-tee,,past_2pl,,1,,,You stopped at the traffic light.,Vi siete fermati al semaforo.,vi siete arrestati,,fermarsi
+verb,directions,stopping,ongoing action,fermandomi,fehr-MAN-doh-mee,,gerund,,1,,,Stopping often lets you rest.,Fermandomi spesso riesco a riposare.,arrestandomi,,fermarsi
 verb,directions,to follow,move behind/follow route,seguire,seh-GWEE-reh,,infinitive,,1,,,Please follow the main road.,Per favore segui la strada principale.,percorre,,seguire
 verb,directions,I follow,first-person present,seguo,SEH-gwoh,,present_1sg,,1,,,I follow the map carefully.,Seguo la mappa con attenzione.,percorro,,seguare
+verb,directions,you follow,second-person singular present,segui,SEH-gwee,,present_2sg,,1,,,You follow the signs to the museum.,Segui i cartelli per il museo.,percorri,,seguire
+verb,directions,you (plural) follow,second-person plural present,seguite,seh-GWEE-teh,,present_2pl,,1,,,You follow the signs to the museum.,Seguite i cartelli per il museo.,percorrete,,seguire
+verb,directions,she follows,third-person singular present,segue,SEH-gweh,,present_3sg,,1,,,She follows the instructions carefully.,Segue le istruzioni con attenzione.,percorre,,seguire
+verb,directions,he follows,third-person singular present,segue,SEH-gweh,,present_3sg,,1,,,He follows the path through the forest.,Segue il sentiero attraverso la foresta.,percorre,,seguire
+verb,directions,we follow,first-person plural present,seguiamo,seh-GWEE-ah-mo,,present_1pl,,1,,,We follow the path through the forest.,Seguiamo il sentiero attraverso la foresta.,percorriamo,,seguire
+verb,directions,they follow,third-person plural present,seguono,SEH-gwoh-noh,,present_3pl,,1,,,They follow the instructions carefully.,Seguono le istruzioni con attenzione.,percorrono,,seguire
 verb,directions,I followed,past completed action,ho seguito,oh seh-GWEE-toh,,past_1sg,,1,,,I followed your instructions.,Ho seguito le tue indicazioni.,ho percorso,,oh
+verb,directions,you followed,past completed action,hai seguito,AH-ee seh-GWEE-toh,,past_2sg,,1,,,You followed the path to the lake.,Hai seguito il sentiero fino al lago.,ti sei percorso,,seguire
+verb,directions,she followed,past completed action,ha seguito,AH-ah seh-GWEE-toh,,past_3sg,,1,,,She followed the signs to the museum.,Ha seguito i cartelli per il museo.,si è percorsa,,seguire
+verb,directions,he followed,past completed action,ha seguito,AH-ah seh-GWEE-toh,,past_3sg,,1,,,He followed the instructions carefully.,Ha seguito le istruzioni con attenzione.,si è percorso,,seguire
+verb,directions,we followed,past completed action,abbiamo seguito,ah-BBYAH-mo seh-GWEE-toh,,past_1pl,,1,,,We followed the river yesterday.,Abbiamo seguito il fiume ieri.,abbiamo percorso,,seguire
+verb,directions,they followed,past completed action,hanno seguito,AHN-no seh-GWEE-toh,,past_3pl,,1,,,They followed the path to the lake.,Hanno seguito il sentiero fino al lago.,hanno percorso,,seguire
+verb,directions,you (plural) followed,past completed action,vi siete seguiti,VEE see-EH-teh seh-GWEE-tee,,past_2pl,,1,,,You followed the road signs.,Vi siete seguiti i segnali stradali.,vi siete percorsi,,seguire
 verb,directions,following,ongoing action,seguendo,seh-GWEN-doh,,gerund,,1,,,Following the river you’ll find the mill.,Seguendo il fiume trovi il mulino.,percorrendo,,seguendo
 verb,directions,to pass,go by something,oltrepassare,ol-treh-pah-SAH-reh,,infinitive,,2,,,Pass the tower and turn right.,Oltrepassa la torre e gira a destra.,superare,,oltrepassare
 verb,directions,I pass,first-person present,oltrepasso,ol-treh-PAH-ssoh,,present_1sg,,2,,,I pass the pharmacy every day.,Oltrepasso la farmacia ogni giorno.,supero,,oltrepassare
+verb,directions,you pass,second-person singular present,oltrepassi,ol-treh-PAH-see,,present_2sg,,2,,,You pass the bakery on the left.,Oltrepassi la panetteria a sinistra.,superi,,oltrepassare
+verb,directions,she passes,third-person singular present,oltrepassa,ol-treh-PAH-sah,,present_3sg,,2,,,She passes the post office every day.,Oltrepassa l'ufficio postale ogni giorno.,supera,,oltrepassare
+verb,directions,he passes,third-person singular present,oltrepassa,ol-treh-PAH-sah,,present_3sg,,2,,,He passes the supermarket on the way.,Oltrepassa il supermercato per strada.,supera,,oltrepassare
+verb,directions,you (plural) pass,second-person plural present,oltrepassate,ol-treh-pah-SAH-teh,,present_2pl,,2,,,You pass the bakery on the left.,Oltrepassate la panetteria a sinistra.,superate,,oltrepassare
+verb,directions,we pass,first-person plural present,oltrepassiamo,ol-treh-pah-SYAH-mo,,present_1pl,,2,,,We pass the supermarket on the way.,Oltrepassiamo il supermercato per strada.,superiamo,,oltrepassare
+verb,directions,they pass,third-person plural present,oltrepassano,ol-treh-PAH-zah-noh,,present_3pl,,2,,,They pass the post office every week.,Oltrepassano l'ufficio postale ogni settimana.,superano,,oltrepassare
 verb,directions,I passed,past completed action,ho oltrepassato,oh ol-treh-pah-SAH-toh,,past_1sg,,2,,,I passed the square yesterday.,Ho oltrepassato la piazza ieri.,ho superato,,oh
+verb,directions,you passed,past completed action,hai oltrepassato,AH-ee ol-treh-pah-SAH-toh,,past_2sg,,2,,,You passed the bakery last week.,Hai oltrepassato la panetteria la settimana scorsa.,ti sei superato,,oltrepassare
+verb,directions,she passed,past completed action,ha oltrepassato,AH-ah ol-treh-pah-SAH-toh,,past_3sg,,2,,,She passed the pharmacy this morning.,Ha oltrepassato la farmacia questa mattina.,si è superata,,oltrepassare
+verb,directions,he passed,past completed action,ha oltrepassato,AH-ah ol-treh-pah-SAH-toh,,past_3sg,,2,,,He passed the post office yesterday.,Ha oltrepassato l'ufficio postale ieri.,si è superato,,oltrepassare
+verb,directions,we followed,past completed action,abbiamo oltrepassato,ah-BBYAH-mo ol-treh-pah-SAH-toh,,past_1pl,,2,,,We passed the bridge last week.,Abbiamo oltrepassato il ponte la settimana scorsa.,abbiamo superato,,oltrepassare
+verb,directions,they passed,past completed action,hanno oltrepassato,AHN-no ol-treh-pah-SAH-toh,,past_3pl,,2,,,They passed the police station.,Hanno oltrepassato la stazione di polizia.,hanno superato,,oltrepassare
+verb,directions,you (plural) passed,past completed action,vi siete oltrepassati,VEE see-EH-teh ol-treh-pah-SAH-tee,,past_2pl,,2,,,You passed the restaurant yesterday.,Vi siete oltrepassati il ristorante ieri.,vi siete superati,,oltrepassare
 verb,directions,passing,ongoing action,oltrepassando,ol-treh-pah-SAN-doh,,gerund,,2,,,Passing the park you’ll see the lake.,Oltrepassando il parco vedrai il lago.,superando,,oltrepassando
 verb,directions,to enter,go inside,entrare,en-TRAH-reh,,infinitive,,1,,,Enter through the side door.,Entra dalla porta laterale.,accedere,,entrare
 verb,directions,I enter,first-person present,entro,EN-troh,,present_1sg,,1,,,I enter the museum at ten.,Entro al museo alle dieci.,accedo,,entrare
+verb,directions,you enter,second-person singular present,entri,EN-tree,,present_2sg,,1,,,You enter the building from the front.,Entri nell'edificio dalla parte anteriore.,accedi,,entrare
+verb,directions,she enters,third-person singular present,entra,EN-trah,,present_3sg,,1,,,She enters the library at eight.,Entra in biblioteca alle otto.,accede,,entrare
+verb,directions,he enters,third-person singular present,entra,EN-trah,,present_3sg,,1,,,He enters the office at nine.,Entra nell'ufficio alle nove.,accede,,entrare
+verb,directions,you (plural) enter,second-person plural present,entrate,en-TRAH-teh,,present_2pl,,1,,,You enter the building from the front.,Entrate nell'edificio dalla parte anteriore.,accedete,,entrare
+verb,directions,we enter,first-person plural present,entriamo,en-TRYAH-mo,,present_1pl,,1,,,We enter the restaurant at eight.,Entriamo al ristorante alle otto.,accediamo,,entrare
+verb,directions,they enter,third-person plural present,entrano,EN-trah-noh,,present_3pl,,1,,,They enter the concert hall together.,Entrano insieme nella sala da concerto.,accedono,,entrare
 verb,directions,I entered,past completed action,sono entrato,SOH-no en-TRAH-toh,,past_1sg,,1,,,I entered the station quickly.,Sono entrato in stazione in fretta.,sono acceduto,,soh-nare
+verb,directions,you entered,past completed action,seI entrato,SEH-ee en-TRAH-toh,,past_2sg,,1,,,You entered the exhibition yesterday.,Sei entrato nell'esposizione ieri.,ti sei acceduto,,entrare
+verb,directions,she entered,past completed action,è entrata,EH en-TRAH-tah,,past_3sg,,1,,,She entered the museum at ten.,È entrata al museo alle dieci.,si è acceduta,,entrare
+verb,directions,he entered,past completed action,è entrato,EH en-TRAH-toh,,past_3sg,,1,,,He entered the office at nine.,È entrato nell'ufficio alle nove.,si è acceduto,,entrare
+verb,directions,we entered,past completed action,siamo entrati,SEE-ah-mo en-TRAH-tee,,past_1pl,,1,,,We entered the exhibition yesterday.,Siamo entrati nell'esposizione ieri.,ci siamo acceduti,,entrare
+verb,directions,they entered,past completed action,sono entrati,SOH-noh en-TRAH-tee,,past_3pl,,1,,,They entered the building at noon.,Sono entrati nell'edificio a mezzogiorno.,si sono acceduti,,entrare
+verb,directions,you (plural) entered,past completed action,vi siete entrati,VEE see-EH-teh en-TRAH-tee,,past_2pl,,1,,,You entered the club last night.,Vi siete entrati nel club ieri sera.,vi siete acceduti,,entrare
 verb,directions,entering,ongoing action,entrando,en-TRAN-doh,,gerund,,1,,,Entering you’ll see the ticket desk.,Entrando vedrai la biglietteria.,accedendo,,entrando
 verb,directions,to exit,go out,uscire,oo-SHEE-reh,,infinitive,,1,,,Exit at the next stop.,Esci alla prossima fermata.,uscir fuori,,uscire
 verb,directions,I exit,first-person present,esco,EH-skoh,,present_1sg,,1,,,I exit the metro here.,Esco qui dalla metro.,vado fuori,,escare
+verb,directions,you exit,second-person singular present,esci,EH-shee,,present_2sg,,1,,,You exit the building at the back.,Esci dall'edificio sul retro.,vai fuori,,uscire
+verb,directions,she exits,third-person singular present,esce,EH-sheh,,present_3sg,,1,,,She exits the cinema at midnight.,Esce dal cinema a mezzanotte.,va fuori,,uscire
+verb,directions,he exits,third-person singular present,esce,EH-sheh,,present_3sg,,1,,,He exits the bus at the next stop.,Esce dall'autobus alla prossima fermata.,va fuori,,uscire
+verb,directions,you (plural) exit,second-person plural present,uscite,oo-SHEE-teh,,present_2pl,,1,,,You exit the building at the back.,Uscite dall'edificio sul retro.,andate fuori,,uscire
+verb,directions,we exit,first-person plural present,usciamo,oo-SHYA-mo,,present_1pl,,1,,,We exit the cinema at midnight.,Usciamo dal cinema a mezzanotte.,andiamo fuori,,uscire
+verb,directions,they exit,third-person plural present,escono,EH-skoh-noh,,present_3pl,,1,,,They exit the bus at the next stop.,Escono dall'autobus alla prossima fermata.,vanno fuori,,uscire
 verb,directions,I exited,past completed action,sono uscito,SOH-no oo-SHEE-toh,,past_1sg,,1,,,I exited on the wrong side.,Sono uscito dal lato sbagliato.,sono andato fuori,,soh-nare
+verb,directions,you exited,past completed action,sei uscito,SEH-ee oo-SHEE-toh,,past_2sg,,1,,,You exited the train at the last station.,Sei uscito dal treno all'ultima stazione.,ti sei andato fuori,,uscire
+verb,directions,she exited,past completed action,è uscita,EH oo-SHEE-tah,,past_3sg,,1,,,She exited the club last night.,È uscita dal club ieri sera.,si è andata fuori,,uscire
+verb,directions,he exited,past completed action,è uscito,EH oo-SHEE-toh,,past_3sg,,1,,,He exited the bus at the next stop.,È uscito dall'autobus alla prossima fermata.,si è andato fuori,,uscire
+verb,directions,we exited,past completed action,siamo usciti,SEE-ah-mo oo-SHEE-tee,,past_1pl,,1,,,We exited the train at the last station.,Siamo usciti dal treno all'ultima stazione.,ci siamo andati fuori,,uscire
+verb,directions,they exited,past completed action,sono usciti,SOH-noh oo-SHEE-tee,,past_3pl,,1,,,They exited the building at noon.,Sono usciti dall'edificio a mezzogiorno.,si sono andati fuori,,uscire
+verb,directions,you (plural) exited,past completed action,vi siete usciti,VEE see-EH-teh oo-SHEE-tee,,past_2pl,,1,,,You exited the club last night.,Vi siete usciti dal club ieri sera.,vi siete andati fuori,,uscire
 verb,directions,exiting,ongoing action,uscendo,oo-SHEN-doh,,gerund,,1,,,Exiting you’ll find the taxi rank.,Uscendo troverai i taxi.,andando fuori,,uscendo
 verb,directions,to look for,search,cercare,cher-KAH-reh,,infinitive,,1,,,We need to look for the sign.,Dobbiamo cercare il cartello.,ricercare,,cercare
 verb,directions,I look for,first-person present,cerco,CHER-koh,,present_1sg,,1,,,I look for the right street.,Cerco la strada giusta.,ricerco,,cercare
+verb,directions,you look for,second-person singular present,cerca,CHER-kah,,present_2sg,,1,,,You look for the bus stop.,Cerchi la fermata dell'autobus.,ricerchi,,cercare
+verb,directions,she looks for,third-person singular present,cerca,CHER-kah,,present_3sg,,1,,,She looks for the nearest pharmacy.,Cerca la farmacia più vicina.,ricerca,,cercare
+verb,directions,he looks for,third-person singular present,cerca,CHER-kah,,present_3sg,,1,,,He looks for the nearest hotel.,Cerca l'hotel più vicino.,ricerca,,cercare
+verb,directions,you (plural) look for,second-person plural present,cercate,cher-KAH-teh,,present_2pl,,1,,,You look for the bus stop.,Cercate la fermata dell'autobus.,ricercate,,cercare
+verb,directions,we look for,first-person plural present,cercamos,cher-KAH-moos,,present_1pl,,1,,,We look for the nearest hotel.,Cerchiamo l'hotel più vicino.,ricerchiamo,,cercare
+verb,directions,they look for,third-person plural present,cercano,CHER-kah-noh,,present_3pl,,1,,,They look for the nearest pharmacy.,Cercano la farmacia più vicina.,ricercano,,cercare
 verb,directions,I looked for,past completed action,ho cercato,oh cher-KAH-toh,,past_1sg,,1,,,I looked for the hotel yesterday.,Ho cercato l'hotel ieri.,ho ricercato,,oh
+verb,directions,you looked for,past completed action,hai cercato,AH-ee cher-KAH-toh,,past_2sg,,1,,,You looked for the bus stop last week.,Hai cercato la fermata dell'autobus la settimana scorsa.,ti sei ricercato,,cercare
+verb,directions,she looked for,past completed action,ha cercato,AH-ah cher-KAH-toh,,past_3sg,,1,,,She looked for the nearest pharmacy.,Ha cercato la farmacia più vicina.,si è ricercata,,cercare
+verb,directions,he looked for,past completed action,ha cercato,AH-ah cher-KAH-toh,,past_3sg,,1,,,He looked for the nearest hotel.,Ha cercato l'hotel più vicino.,si è ricercato,,cercare
+verb,directions,we looked for,past completed action,abbiamo cercato,ah-BBYAH-mo cher-KAH-toh,,past_1pl,,1,,,We looked for the restaurant last night.,Abbiamo cercato il ristorante ieri sera.,abbiamo ricercato,,cercare
+verb,directions,they looked for,past completed action,hanno cercato,AHN-no cher-KAH-toh,,past_3pl,,1,,,They looked for the museum.,Hanno cercato il museo.,hanno ricercato,,cercare
+verb,directions,you (plural) looked for,past completed action,vi siete cercati,VEE see-EH-teh cher-KAH-tee,,past_2pl,,1,,,You looked for the church.,Vi siete cercati la chiesa.,vi siete ricercati,,cercare
 verb,directions,looking for,ongoing action,cercando,cher-KAN-doh,,gerund,,1,,,Looking for the church we got lost.,Cercando la chiesa ci siamo persi.,ricercando,,cercando
+verb,emotions,to love,strong positive feeling,amare,ah-MAH-reh,,infinitive,,1,verb,,It’s easy to love Italy.,È facile amare l’Italia.,adorare,,amare
+verb,emotions,I love,first-person present,amo,AH-moh,,present_1sg,,1,verb,,I love this city.,Amo questa città.,adoro,,amare
+verb,emotions,you love,second-person present,ami,AH-mee,,present_2sg,,1,verb,,You love the mountains.,Ami le montagne.,adori,,amare
+verb,emotions,you (plural) love,second-person present,amate,ah-MAH-teh,,present_2pl,,1,verb,,You love the mountains.,Amate le montagne.,adorate,,amare
+verb,emotions,he loves,third-person singular,ama,AH-mah,,present_3sg_masc,,1,verb,,He loves the beach.,Ama la spiaggia.,adora,,amare
+verb,emotions,she loves,third-person singular,ama,AH-mah,,present_3sg_fem,,1,verb,,She loves the music here.,Ama la musica qui.,adora,,amare
+verb,emotions,we love,first-person plural,amiamo,ah-MYAH-moh,,present_1pl,,1,verb,,We love the sea.,Amiamo il mare.,adoriamo,,amare
+verb,emotions,they love,third-person plural,amano,AH-mah-noh,,present_3pl,,1,verb,,They love the food here.,Amano il cibo qui.,adorano,,amare
+verb,emotions,I loved,past completed action,ho amato,oh ah-MAH-toh,,past_1sg,,1,verb,,I loved the concert yesterday.,Ho amato il concerto ieri.,ho adorato,,amare
+verb,emotions,you loved,past completed action,hai amato,ah-ee ah-MAH-toh,,past_2sg,,1,verb,,You loved the book.,Hai amato il libro.,hai adorato,,amare
+verb,emotions,you (plural) loved,past completed action,avete amato,ah-VEH-teh ah-MAH-toh,,past_2pl,,1,verb,,You loved the movie.,Avete amato il film.,avete adorato,,amare
+verb,emotions,he loved,past completed action,ha amato,ah-AH-mah-toh,,past_3sg_masc,,1,verb,,He loved the opera.,Ha amato l'opera.,ha adorato,,amare
+verb,emotions,she loved,past completed action,ha amato,ah-AH-mah-toh,,past_3sg_fem,,1,verb,,She loved the painting.,Ha amato il dipinto.,ha adorato,,amare
+verb,emotions,we loved,past completed action,abbiamo amato,ah-BBYAH-mo ah-MAH-toh,,past_1pl,,1,verb,,We loved the museum.,Abbiamo amato il museo.,abbiamo adorato,,amare
+verb,emotions,they loved,past completed action,hanno amato,AHN-noh ah-MAH-toh,,past_3pl,,1,verb,,They loved the exhibition.,Hanno amato la mostra.,hanno adorato,,amare
+verb,emotions,loving,ongoing action,amando,ah-MAN-doh,,gerund,,1,verb,,Loving new places is natural.,Amando posti nuovi è naturale.,adorando,,amare
+verb,emotions,to like/appreciate,find pleasant,apprezzare,ah-PRET-tsah-reh,,infinitive,,1,verb,,You will like Italian food.,Amerai apprezzare il cibo italiano.,gradire,,apprezzare
+verb,emotions,I like/appreciate,first-person present,apprezzo,ah-PRET-tsoh,,present_1sg,,1,verb,,I appreciate good coffee.,Apprezzo il buon caffè.,gradisco,,apprezzare
+verb,emotions,you like/appreciate,second-person present,apprezzi,ah-PRET-tsee,,present_2sg,,1,verb,,You appreciate the view.,Apprezzi la vista.,gradisci,,apprezzare
+verb,emotions,you (plural) like/appreciate,second-person present,apprezzate,ah-PRET-tsah-teh,,present_2pl,,1,verb,,You appreciate the view.,Apprezzate la vista.,gradite,,apprezzare
+verb,emotions,he likes/appreciates,third-person singular,apprezza,ah-PRET-tsah,,present_3sg_masc,,1,verb,,He appreciates the culture.,Apprezza la cultura.,gradisce,,apprezzare
+verb,emotions,she likes/appreciates,third-person singular,apprezza,ah-PRET-tsah,,present_3sg_fem,,1,verb,,She appreciates the culture.,Apprezza la cultura.,gradisce,,apprezzare
+verb,emotions,we like/appreciate,first-person plural,apprezziamo,ah-PRET-tsyah-moh,,present_1pl,,1,verb,,We appreciate the art.,Apprezziamo l'arte.,gradiamo,,apprezzare
+verb,emotions,they like/appreciate,third-person plural,apprezzano,ah-PRET-tsah-noh,,present_3pl,,1,verb,,They appreciate the art.,Apprezzano l'arte.,gradiscono,,apprezzare
+verb,emotions,I liked/appreciated,past completed action,ho apprezzato,oh ah-PRET-tsah-toh,,past_1sg,,1,verb,,I appreciated your help.,Ho apprezzato il tuo aiuto.,ho gradito,,apprezzare
+verb,emotions,you liked/appreciated,past completed action,hai apprezzato,ah-ee ah-PRET-tsah-toh,,past_2sg,,1,verb,,You appreciated the gesture.,Hai apprezzato il gesto.,hai gradito,,apprezzare
+verb,emotions,you (plural) liked/appreciated,past completed action,avete apprezzato,ah-VEH-teh ah-PRET-tsah-toh,,past_2pl,,1,verb,,You appreciated the gesture.,Avete apprezzato il gesto.,avete gradito,,apprezzare
+verb,emotions,he liked/appreciated,past completed action,ha apprezzato,ah-AH-PRET-tsah-toh,,past_3sg_masc,,1,verb,,He appreciated the gesture.,Ha apprezzato il gesto.,ha gradito,,apprezzare
+verb,emotions,she liked/appreciated,past completed action,ha apprezzato,ah-AH-PRET-tsah-toh,,past_3sg_fem,,1,verb,,She appreciated the gesture.,Ha apprezzato il gesto.,ha gradito,,apprezzare
+verb,emotions,we liked/appreciated,past completed action,abbiamo apprezzato,ah-BBYAH-mo ah-PRET-tsah-toh,,past_1pl,,1,verb,,We appreciated the service.,Abbiamo apprezzato il servizio.,abbiamo gradito,,apprezzare
+verb,emotions,they liked/appreciated,past completed action,hanno apprezzato,AHN-noh ah-PRET-tsah-toh,,past_3pl,,1,verb,,They appreciated the service.,Hanno apprezzato il servizio.,hanno gradito,,apprezzare
+verb,emotions,appreciating,ongoing action,apprezzando,ah-PRET-tsan-doh,,gerund,,1,verb,,Appreciating art takes time.,Apprezzando l’arte ci vuole tempo.,gradendo,,apprezzare
+verb,emotions,to feel,experience emotion,sentire,sen-TEE-reh,,infinitive,,1,verb,,You may feel tired after travel.,Potresti sentire stanchezza dopo il viaggio.,provare,,sentire
+verb,emotions,I feel,first-person present,sento,SEN-toh,,present_1sg,,1,verb,,I feel happy today.,Sento felicità oggi.,provo,,sentire
+verb,emotions,you feel,second-person present,senti,SEN-tee,,present_2sg,,1,verb,,You feel excited about the trip.,Senti eccitazione per il viaggio.,provi,,sentire
+verb,emotions,you (plural) feel,second-person present,sentite,sen-TEE-teh,,present_2pl,,1,verb,,You feel excited about the trip.,Sentite eccitazione per il viaggio.,provate,,sentire
+verb,emotions,he feels,third-person singular,sente,SEN-teh,,present_3sg_masc,,1,verb,,He feels relaxed here.,Sente rilassamento qui.,prova,,sentire
+verb,emotions,she feels,third-person singular,sente,SEN-teh,,present_3sg_fem,,1,verb,,She feels relaxed here.,Sente rilassamento qui.,prova,,sentire
+verb,emotions,we feel,first-person plural,sentiamo,sen-TYAH-mo,,present_1pl,,1,verb,,We feel grateful for the experience.,Sentiamo gratitudine per l'esperienza.,proviamo,,sentire
+verb,emotions,they feel,third-person plural,sentono,SEN-toh-noh,,present_3pl,,1,verb,,They feel joy in the moment.,Sentono gioia nel momento.,provano,,sentire
+verb,emotions,I felt,past completed action,ho sentito,oh sen-TEE-toh,,past_1sg,,1,verb,,I felt cold last night.,Ho sentito freddo ieri notte.,ho provato,,sentire
+verb,emotions,you felt,past completed action,hai sentito,ah-ee sen-TEE-toh,,past_2sg,,1,verb,,You felt tired after the hike.,Hai sentito stanchezza dopo l'escursione.,hai provato,,sentire
+verb,emotions,you (plural) felt,past completed action,avete sentito,ah-VEH-teh sen-TEE-toh,,past_2pl,,1,verb,,You felt tired after the hike.,Avete sentito stanchezza dopo l'escursione.,avete provato,,sentire
+verb,emotions,he felt,past completed action,ha sentito,ah-AH sen-TEE-toh,,past_3sg_masc,,1,verb,,He felt happy yesterday.,Ha sentito felicità ieri.,ha provato,,sentire
+verb,emotions,she felt,past completed action,ha sentito,ah-AH sen-TEE-toh,,past_3sg_fem,,1,verb,,She felt happy yesterday.,Ha sentito felicità ieri.,ha provato,,sentire
+verb,emotions,we felt,past completed action,abbiamo sentito,ah-BBYAH-mo sen-TEE-toh,,past_1pl,,1,verb,,We felt excitement before the event.,Abbiamo sentito eccitazione prima dell'evento.,abbiamo provato,,sentire
+verb,emotions,they felt,past completed action,hanno sentito,AHN-noh sen-TEE-toh,,past_3pl,,1,verb,,They felt excitement before the event.,Hanno sentito eccitazione prima dell'evento.,hanno provato,,sentire
+verb,emotions,feeling,ongoing action,sentendo,sen-TEN-doh,,gerund,,1,verb,,Feeling relaxed helps.,Sentendo relax si sta meglio.,provando,,sentire
+verb,emotions,to hope,desire positive outcome,sperare,speh-RAH-reh,,infinitive,,1,verb,,I hope for sunshine.,Spero che ci sia il sole.,augurarsi,,sperare
+verb,emotions,I hope,first-person present,spero,SPEH-roh,,present_1sg,,1,verb,,I hope everything is fine.,Spero che vada tutto bene.,mi auguro,,sperare
+verb,emotions,you hope,second-person present,speri,SPEH-ree,,present_2sg,,1,verb,,You hope for a good meal.,Speri in un buon pasto.,ti auguri,,sperare
+verb,emotions,you (plural) hope,second-person present,sperate,SPEH-rah-teh,,present_2pl,,1,verb,,You hope for a good meal.,Sperate in un buon pasto.,vi augurate,,sperare
+verb,emotions,he hopes,third-person singular,spera,SPEH-rah,,present_3sg_masc,,1,verb,,He hopes for a good vacation.,Spera in una buona vacanza.,augura,,sperare
+verb,emotions,she hopes,third-person singular,spera,SPEH-rah,,present_3sg_fem,,1,verb,,She hopes for a good vacation.,Spera in una buona vacanza.,augura,,sperare
+verb,emotions,we hope,first-person plural,speriamo,SPEH-ree-ah-moh,,present_1pl,,1,verb,,We hope for a good time.,Speriamo di divertirci.,ci auguriamo,,sperare
+verb,emotions,they hope,third-person plural,sperano,SPEH-rah-noh,,present_3pl,,1,verb,,They hope for a good time.,Sperano di divertirsi.,si augurano,,sperare
+verb,emotions,I hoped,past completed action,ho sperato,oh speh-RAH-toh,,past_1sg,,1,verb,,I hoped for a sunny day.,Ho sperato in una giornata di sole.,mi sono augurato,,sperare
+verb,emotions,you hoped,past completed action,hai sperato,ah-ee speh-RAH-toh,,past_2sg,,1,verb,,You hoped for a sunny day.,Hai sperato in una giornata di sole.,ti sei augurato,,sperare
+verb,emotions,you (plural) hoped,past completed action,avete sperato,ah-VEH-teh speh-RAH-toh,,past_2pl,,1,verb,,You hoped for a sunny day.,Avete sperato in una giornata di sole.,vi siete augurati,,sperare
+verb,emotions,he hoped,past completed action,ha sperato,ah-AH speh-RAH-toh,,past_3sg_masc,,1,verb,,He hoped for a sunny day.,Ha sperato in una giornata di sole.,si è augurato,,sperare
+verb,emotions,she hoped,past completed action,ha sperato,ah-AH speh-RAH-toh,,past_3sg_fem,,1,verb,,She hoped for a sunny day.,Ha sperato in una giornata di sole.,si è augurata,,sperare
+verb,emotions,we hoped,past completed action,abbiamo sperato,ah-BBYAH-mo speh-RAH-toh,,past_1pl,,1,verb,,We hoped for a sunny day.,Abbiamo sperato in una giornata di sole.,ci siamo augurati,,sperare
+verb,emotions,they hoped,past completed action,hanno sperato,AHN-noh speh-RAH-toh,,past_3pl,,1,verb,,They hoped for a sunny day.,Hanno sperato in una giornata di sole.,si sono augurati,,sperare
+verb,emotions,hoping,ongoing action,sperando,speh-RAN-doh,,gerund,,1,verb,,Hoping helps you stay positive.,Sperando si resta positivi.,augurandosi,,sperare
+verb,emotions,to fear,feel afraid,temere,teh-MEH-reh,,infinitive,,1,verb,,Don’t fear the narrow streets.,Non temere i vicoli.,avere paura,,temere
+verb,emotions,I fear,first-person present,temo,TEH-moh,,present_1sg,,1,verb,,I fear delays.,Temo ritardi.,ho paura,,temere
+verb,emotions,you fear,second-person present,temi,TEH-mee,,present_2sg,,1,verb,,You fear the dark.,Temi il buio.,hai paura,,temere
+verb,emotions,you (plural) fear,second-person present,temete,teh-MEH-teh,,present_2pl,,1,verb,,You fear the dark.,Temete il buio.,avete paura,,temere
+verb,emotions,he fears,third-person singular,teme,TEH-meh,,present_3sg_masc,,1,verb,,He fears the storm.,Teme la tempesta.,ha paura,,temere
+verb,emotions,she fears,third-person singular,teme,TEH-meh,,present_3sg_fem,,1,verb,,She fears the storm.,Teme la tempesta.,ha paura,,temere
+verb,emotions,we fear,first-person plural,temiamo,teh-MYAH-mo,,present_1pl,,1,verb,,We fear the worst.,Temiamo il peggio.,abbiamo paura,,temere
+verb,emotions,they fear,third-person plural,temono,TEH-moh-noh,,present_3pl,,1,verb,,They fear the worst.,Temono il peggio.,hanno paura,,temere
+verb,emotions,I feared,past completed action,ho temuto,oh teh-MOO-toh,,past_1sg,,1,verb,,I feared bad weather yesterday.,Ho temuto il maltempo ieri.,ho avuto paura,,temere
+verb,emotions,you feared,past completed action,hai temuto,ah-ee teh-MOO-toh,,past_2sg,,1,verb,,You feared the worst.,Hai temuto il peggio.,hai avuto paura,,temere
+verb,emotions,you (plural) feared,past completed action,avete temuto,ah-VEH-teh teh-MOO-toh,,past_2pl,,1,verb,,You feared the worst.,Avete temuto il peggio.,avete avuto paura,,temere
+verb,emotions,he feared,past completed action,ha temuto,ah-AH teh-MOO-toh,,past_3sg_masc,,1,verb,,He feared the storm.,Ha temuto la tempesta.,ha avuto paura,,temere
+verb,emotions,she feared,past completed action,ha temuto,ah-AH teh-MOO-toh,,past_3sg_fem,,1,verb,,She feared the storm.,Ha temuto la tempesta.,ha avuto paura,,temere
+verb,emotions,we feared,past completed action,abbiamo temuto,ah-BBYAH-mo teh-MOO-toh,,past_1pl,,1,verb,,We feared the worst.,Abbiamo temuto il peggio.,abbiamo avuto paura,,temere
+verb,emotions,they feared,past completed action,hanno temuto,AHN-noh teh-MOO-toh,,past_3pl,,1,verb,,They feared the worst.,Hanno temuto il peggio.,hanno avuto paura,,temere
+verb,emotions,fearing,ongoing action,temendo,teh-MEN-doh,,gerund,,1,verb,,Fearing mistakes slows progress.,Temendo errori si rallenta.,avendo paura,,temere
+verb,emotions,to worry,feel concern,preoccuparsi,preh-ohk-koo-PAHR-see,,infinitive,,1,verb,,Try not to worry about traffic.,Cerca di non preoccuparti del traffico.,ansiare,,preoccuparsi
+verb,emotions,I worry,first-person present,mi preoccupo,mee preh-OHK-koo-poh,,present_1sg,,1,verb,,I worry about missing the train.,Mi preoccupo di perdere il treno.,mi ansio,,preoccuparsi
+verb,emotions,you worry,second-person present,ti preoccupi,tee preh-OHK-koo-pee,,present_2sg,,1,verb,,You worry about the weather.,Ti preoccupi del tempo.,ti ansii,,preoccuparsi
+verb,emotions,you (plural) worry,second-person present,vi preoccupate,vee preh-OHK-koo-pah-teh,,present_2pl,,1,verb,,You worry about the weather.,Vi preoccupate del tempo.,vi ansiate,,preoccuparsi
+verb,emotions,he worries,third-person singular,si preoccupa,see preh-OHK-koo-pah,,present_3sg_masc,,1,verb,,He worries about the exam.,Si preoccupa dell'esame.,si ansia,,preoccuparsi
+verb,emotions,she worries,third-person singular,si preoccupa,see preh-OHK-koo-pah,,present_3sg_fem,,1,verb,,She worries about the exam.,Si preoccupa dell'esame.,si ansia,,preoccuparsi
+verb,emotions,we worry,first-person plural,ci preoccupiamo,chee preh-OHK-koo-PYAH-mo,,present_1pl,,1,verb,,We worry about the future.,Ci preoccupiamo del futuro.,ci ansiamo,,preoccuparsi
+verb,emotions,they worry,third-person plural,si preoccupano,see preh-OHK-koo-pah-noh,,present_3pl,,1,verb,,They worry about the future.,Si preoccupano del futuro.,si ansiano,,preoccuparsi
+verb,emotions,I worried,past completed action,mi sono preoccupato,mee SOH-no preh-ohk-koo-PAH-toh,,past_1sg,,1,verb,,I worried yesterday evening.,Mi sono preoccupato ieri sera.,mi sono ansiato,,preoccupare
+verb,emotions,you worried,past completed action,ti sei preoccupato,tee SAY-ee preh-ohk-koo-PAH-toh,,past_2sg,,1,verb,,You worried about the exam.,Ti sei preoccupato dell'esame.,ti sei ansiato,,preoccupare
+verb,emotions,you (plural) worried,past completed action,vi siete preoccupati,vee SEE-teh preh-ohk-koo-PAH-tee,,past_2pl,,1,verb,,You worried about the exam.,Vi siete preoccupati dell'esame.,vi siete ansiati,,preoccupare
+verb,emotions,he worried,past completed action,si è preoccupato,see EH preh-ohk-koo-PAH-toh,,past_3sg_masc,,1,verb,,He worried about the project.,Si è preoccupato del progetto.,si è ansiato,,preoccupare
+verb,emotions,she worried,past completed action,si è preoccupata,see EH preh-ohk-koo-PAH-tah,,past_3sg_fem,,1,verb,,She worried about the project.,Si è preoccupata del progetto.,si è ansiata,,preoccupare
+verb,emotions,we worried,past completed action,ci siamo preoccupati,chee SYAH-mo preh-ohk-koo-PAH-tee,,past_1pl,,1,verb,,We worried about the weather.,Ci siamo preoccupati del tempo.,ci siamo ansiati,,preoccupare
+verb,emotions,they worried,past completed action,si sono preoccupati,see SOH-no preh-ohk-koo-PAH-tee,,past_3pl,,1,verb,,They worried about the weather.,Si sono preoccupati del tempo.,si sono ansiati,,preoccupare
+verb,emotions,worrying,ongoing action,preoccupandomi,preh-ohk-koo-PAN-doh-mee,,gerund,,1,verb,,Worrying doesn’t help.,Preoccupandomi non aiuta.,ansiandomi,,preoccupandomare
+verb,emotions,to relax,become calm,rilassarsi,ree-lahs-SAHR-see,,infinitive,,1,verb,,You can relax at the spa.,Puoi rilassarti alla spa.,distendersi,,rilassarsi
+verb,emotions,I relax,first-person present,mi rilasso,mee ree-LAHS-soh,,present_1sg,,1,verb,,I relax after dinner.,Mi rilasso dopo cena.,mi distendo,,rilassarsi
+verb,emotions,you relax,second-person present,ti rilassi,tee ree-LAHS-see,,present_2sg,,1,verb,,You relax at home.,Ti rilassi a casa.,ti distendi,,rilassarsi
+verb,emotions,you (plural) relax,second-person present,vi rilassate,vee ree-lahs-SAH-teh,,present_2pl,,1,verb,,You relax at home.,Vi rilassate a casa.,vi distendete,,rilassarsi
+verb,emotions,he relaxes,third-person singular,si rilassa,see ree-LAHS-sah,,present_3sg_masc,,1,verb,,He relaxes on weekends.,Si rilassa nei fine settimana.,si distende,,rilassarsi
+verb,emotions,she relaxes,third-person singular,si rilassa,see ree-LAHS-sah,,present_3sg_fem,,1,verb,,She relaxes on weekends.,Si rilassa nei fine settimana.,si distende,,rilassarsi
+verb,emotions,we relax,first-person plural,ci rilassiamo,chee ree-lahs-SYAH-mo,,present_1pl,,1,verb,,We relax at the beach.,Ci rilassiamo in spiaggia.,ci distendiamo,,rilassarsi
+verb,emotions,they relax,third-person plural,si rilassano,see ree-lahs-SAH-noh,,present_3pl,,1,verb,,They relax at the beach.,Si rilassano in spiaggia.,si distendono,,rilassarsi
+verb,emotions,I relaxed,past completed action,mi sono rilassato,mee SOH-no ree-lahs-SA-toh,,past_1sg,,1,verb,,I relaxed on the beach.,Mi sono rilassato in spiaggia.,mi sono disteso,,rilassare
+verb,emotions,you relaxed,past completed action,ti sei rilassato,tee SAY-ee ree-lahs-SA-toh,,past_2sg,,1,verb,,You relaxed at home.,Ti sei rilassato a casa.,ti sei disteso,,rilassare
+verb,emotions,you (plural) relaxed,past completed action,vi siete rilassati,vee SEE-teh ree-lahs-SA-tee,,past_2pl,,1,verb,,You relaxed at home.,Vi siete rilassati a casa.,vi siete distesi,,rilassare
+verb,emotions,he relaxed,past completed action,si è rilassato,see EH ree-lahs-SA-toh,,past_3sg_masc,,1,verb,,He relaxed at the spa.,Si è rilassato alla spa.,si è disteso,,rilassare
+verb,emotions,she relaxed,past completed action,si è rilassata,see EH ree-lahs-SA-tah,,past_3sg_fem,,1,verb,,She relaxed at the spa.,Si è rilassata alla spa.,si è distesa,,rilassare
+verb,emotions,we relaxed,past completed action,ci siamo rilassati,chee SYAH-mo ree-lahs-SA-tee,,past_1pl,,1,verb,,We relaxed at the beach.,Ci siamo rilassati in spiaggia.,ci siamo distesi,,rilassare
+verb,emotions,they relaxed,past completed action,si sono rilassati,see SOH-no ree-lahs-SA-tee,,past_3pl,,1,verb,,They relaxed at the beach.,Si sono rilassati in spiaggia.,si sono distesi,,rilassare
+verb,emotions,relaxing,ongoing action,rilassandomi,ree-lahs-SAN-doh-mee,,gerund,,1,verb,,Relaxing helps reduce stress.,Rilassandomi riduco lo stress.,distendendomi,,rilassandomare
+verb,emotions,to smile,express happiness,sorridere,sohr-REE-deh-reh,,infinitive,,1,verb,,Remember to smile in photos.,Ricorda di sorridere nelle foto.,ridere,,sorridere
+verb,emotions,I smile,first-person present,sorrido,sohr-REE-doh,,present_1sg,,1,verb,,I smile at new friends.,Sorrido ai nuovi amici.,rido,,sorridere
+verb,emotions,you smile,second-person present,sorri,sohr-REE,,present_2sg,,1,verb,,You smile at the camera.,Sorridi alla macchina fotografica.,ridi,,sorridere
+verb,emotions,you (plural) smile,second-person present,sorridete,sohr-ree-DEH-teh,,present_2pl,,1,verb,,You smile at the camera.,Sorridete alla macchina fotografica.,ridete,,sorridere
+verb,emotions,he smiles,third-person singular,sorride,sohr-REE-deh,,present_3sg_masc,,1,verb,,He smiles at the joke.,Sorride alla battuta.,ride,,sorridere
+verb,emotions,she smiles,third-person singular,sorride,sohr-REE-deh,,present_3sg_fem,,1,verb,,She smiles at the joke.,Sorride alla battuta.,ride,,sorridere
+verb,emotions,we smile,first-person plural,sorride,sohr-REE-deh,,present_1pl,,1,verb,,We smile at the sunset.,Sorride al tramonto.,ridiamo,,sorridere
+verb,emotions,they smile,third-person plural,sorridono,sohr-REE-doh-noh,,present_3pl,,1,verb,,They smile at the sunset.,Sorridono al tramonto.,ridono,,sorridere
+verb,emotions,I smiled,past completed action,ho sorriso,oh sohr-REE-zoh,,past_1sg,,1,verb,,I smiled all day.,Ho sorriso tutto il giorno.,ho riso,,sorrisare
+verb,emotions,you smiled,past completed action,hai sorriso,ah-ee sohr-REE-zoh,,past_2sg,,1,verb,,You smiled at the compliment.,Hai sorriso al complimento.,hai riso,,sorrisare
+verb,emotions,you (plural) smiled,past completed action,avete sorriso,ah-VEH-teh sohr-REE-zoh,,past_2pl,,1,verb,,You smiled at the compliment.,Avete sorriso al complimento.,avete riso,,sorrisare
+verb,emotions,he smiled,past completed action,ha sorriso,ah-AH sohr-REE-zoh,,past_3sg_masc,,1,verb,,He smiled at the compliment.,Ha sorriso al complimento.,ha riso,,sorrisare
+verb,emotions,she smiled,past completed action,ha sorriso,ah-AH sohr-REE-zoh,,past_3sg_fem,,1,verb,,She smiled at the compliment.,Ha sorriso al complimento.,ha riso,,sorrisare
+verb,emotions,we smiled,past completed action,abbiamo sorriso,ah-BBYAH-mo sohr-REE-zoh,,past_1pl,,1,verb,,We smiled at the joke.,Abbiamo sorriso alla battuta.,abbiamo riso,,sorrisare
+verb,emotions,they smiled,past completed action,hanno sorriso,AHN-noh sohr-REE-zoh,,past_3pl,,1,verb,,They smiled at the joke.,Hanno sorriso alla battuta.,hanno riso,,sorrisare
+verb,emotions,smiling,ongoing action,sorridendo,sohr-ree-DEN-doh,,gerund,,1,verb,,Smiling makes people happy.,Sorridendo si rende felici.,ridendo,,sorridere
+verb,emotions,to cry,shed tears,piangere,PEE-ahn-jeh-reh,,infinitive,,1,verb,,Try not to cry in public.,Cerca di non piangere in pubblico.,singhiozzare,,piangere
+verb,emotions,I cry,first-person present,piango,PYAHN-goh,,present_1sg,,1,verb,,I cry during sad movies.,Piango durante i film tristi.,singhiozzo,,piangere
+verb,emotions,you cry,second-person present,piangi,PYAHN-jee,,present_2sg,,1,verb,,You cry when you are sad.,Piangi quando sei triste.,singhiozzi,,piangere
+verb,emotions,you (plural) cry,second-person present,piangete,PYAHN-jeh-teh,,present_2pl,,1,verb,,You cry when you are sad.,Piangete quando siete tristi.,singhiozzate,,piangere
+verb,emotions,he cries,third-person singular,piange,PYAHN-jeh,,present_3sg_masc,,1,verb,,He cries when he is sad.,Piange quando è triste.,singhiozza,,piangere
+verb,emotions,she cries,third-person singular,piange,PYAHN-jeh,,present_3sg_fem,,1,verb,,She cries when she is sad.,Piange quando è triste.,singhiozza,,piangere
+verb,emotions,we cry,first-person plural,piangiamo,PYAHN-jah-mo,,present_1pl,,1,verb,,We cry during sad movies.,Piangiamo durante i film tristi.,singhiozziamo,,piangere
+verb,emotions,they cry,third-person plural,piangono,PYAHN-goh-noh,,present_3pl,,1,verb,,They cry during sad movies.,Piangono durante i film tristi.,singhiozzano,,piangere
+verb,emotions,I cried,past completed action,ho pianto,oh PYAHN-toh,,past_1sg,,1,verb,,I cried last night.,Ho pianto ieri notte.,ho singhiozzato,,piantare
+verb,emotions,you cried,past completed action,hai pianto,ah-ee PYAHN-toh,,past_2sg,,1,verb,,You cried during the movie.,Hai pianto durante il film.,hai singhiozzato,,piantare
+verb,emotions,you (plural) cried,past completed action,avete pianto,ah-VEH-teh PYAHN-toh,,past_2pl,,1,verb,,You cried during the movie.,Avete pianto durante il film.,avete singhiozzato,,piantare
+verb,emotions,he cried,past completed action,ha pianto,ah-AH PYAHN-toh,,past_3sg_masc,,1,verb,,He cried during the movie.,Ha pianto durante il film.,ha singhiozzato,,piantare
+verb,emotions,she cried,past completed action,ha pianto,ah-AH PYAHN-toh,,past_3sg_fem,,1,verb,,She cried during the movie.,Ha pianto durante il film.,ha singhiozzato,,piantare
+verb,emotions,we cried,past completed action,abbiamo pianto,ah-BBYAH-mo PYAHN-toh,,past_1pl,,1,verb,,We cried during the movie.,Abbiamo pianto durante il film.,abbiamo singhiozzato,,piantare
+verb,emotions,they cried,past completed action,hanno pianto,AHN-noh PYAHN-toh,,past_3pl,,1,verb,,They cried during the movie.,Hanno pianto durante il film.,hanno singhiozzato,,piantare
+verb,emotions,crying,ongoing action,piangendo,pee-ahn-JEN-doh,,gerund,,1,verb,,Crying can bring relief.,Piangendo ci si sfoga.,singhiozzando,,piangere
+verb,emotions,to enjoy oneself,have fun,divertirsi,dee-vehr-TEER-see,,infinitive,,1,verb,,You should enjoy yourself tonight.,Dovresti divertirti stasera.,svagarsi,,divertirsi
+verb,emotions,I enjoy myself,first-person present,mi diverto,mee dee-VER-toh,,present_1sg,,1,verb,,I enjoy myself at parties.,Mi diverto alle feste.,mi svago,,divertare
+verb,emotions,you enjoy yourself,second-person present,ti diverti,tee dee-VER-tee,,present_2sg,,1,verb,,You enjoy yourself at parties.,Ti diverti alle feste.,ti svaghi,,divertare
+verb,emotions,you (plural) enjoy yourself,second-person present,vi divertite,vee dee-ver-TEE-teh,,present_2pl,,1,verb,,You enjoy yourself at parties.,Vi divertite alle feste.,vi svagate,,divertare
+verb,emotions,he enjoys himself,third-person singular,si diverte,see dee-VER-teh,,present_3sg_masc,,1,verb,,He enjoys himself at parties.,Si diverte alle feste.,si svaga,,divertare
+verb,emotions,she enjoys herself,third-person singular,si diverte,see dee-VER-teh,,present_3sg_fem,,1,verb,,She enjoys herself at parties.,Si diverte alle feste.,si svaga,,divertare
+verb,emotions,we enjoy ourselves,first-person plural,ci divertiamo,chee dee-ver-TYAH-mo,,present_1pl,,1,verb,,We enjoy ourselves at parties.,Ci divertiamo alle feste.,ci svaghiamo,,divertare
+verb,emotions,they enjoy themselves,third-person plural,si divertono,see dee-ver-TOH-noh,,present_3pl,,1,verb,,They enjoy themselves at parties.,Si divertono alle feste.,si svagano,,divertare
+verb,emotions,I enjoyed myself,past completed action,mi sono divertito,mee SOH-no dee-vehr-TEE-toh,,past_1sg,,1,verb,,I enjoyed myself yesterday.,Mi sono divertito ieri.,mi sono svagato,,divertire
+verb,emotions,you enjoyed yourself,past completed action,ti sei divertito,tee SAY-ee dee-vehr-TEE-toh,,past_2sg,,1,verb,,You enjoyed yourself yesterday.,Ti sei divertito ieri.,ti sei svagato,,divertire
+verb,emotions,you (plural) enjoyed yourself,past completed action,vi siete divertiti,vee SEE-teh dee-vehr-TEE-tee,,past_2pl,,1,verb,,You enjoyed yourselves yesterday.,Vi siete divertiti ieri.,vi siete svagati,,divertire
+verb,emotions,he enjoyed himself,past completed action,si è divertito,see EH dee-vehr-TEE-toh,,past_3sg_masc,,1,verb,,He enjoyed himself yesterday.,Si è divertito ieri.,si è svagato,,divertire
+verb,emotions,she enjoyed herself,past completed action,si è divertita,see EH dee-vehr-TEE-tah,,past_3sg_fem,,1,verb,,She enjoyed herself yesterday.,Si è divertita ieri.,si è svagata,,divertire
+verb,emotions,we enjoyed ourselves,past completed action,ci siamo divertiti,chee SYAH-mo dee-vehr-TEE-tee,,past_1pl,,1,verb,,We enjoyed ourselves yesterday.,Ci siamo divertiti ieri.,ci siamo svagati,,divertire
+verb,emotions,they enjoyed themselves,past completed action,si sono divertiti,see SOH-no dee-vehr-TEE-tee,,past_3pl,,1,verb,,They enjoyed themselves yesterday.,Si sono divertiti ieri.,si sono svagati,,divertire
+verb,emotions,enjoying oneself,ongoing action,divertendomi,dee-ver-TEN-doh-mee,,gerund,,1,verb,,Enjoying oneself is important.,Divertendomi mi sento vivo.,svagandomi,,divertendomare
 verb,jewelry and metal working,to solder,join metal with heat,saldare,sahl-DAH-reh,,infinitive,,1,,,I like to solder silver rings.,Mi piace saldare anelli d'argento.,unire,,saldare
 verb,jewelry and metal working,I solder,first-person present,saldo,SAHL-doh,,present_1sg,,1,,,I solder every joint carefully.,Saldo ogni giunzione con cura.,unisco,,saldare
+verb,jewelry and metal working,you solder,second-person present,saldi,SAHL-dee,,present_2sg,,1,,,You solder the pieces together.,Saldii i pezzi insieme.,unisci,,saldare
+verb,jewelry and metal working,she solders,third-person present,salda,SAHL-dah,,present_3sg,,1,,,She solders the bracelet now.,Lei salda il bracciale ora.,unisce,,saldare
+verb,jewelry and metal working,he solders,third-person present,salda,SAHL-dah,,present_3sg,,1,,,He solders the pendant carefully.,Lui salda il pendente con cura.,unisce,,saldare
+verb,jewelry and metal working,we solder,first-person plural,saldiamo,sahl-dee-AH-mo,,present_1pl,,1,,,We solder the necklace together.,Saldiamo la collana insieme.,uniamo,,saldare
+verb,jewelry and metal working,they solder,third-person plural,saldano,sahl-DAH-noh,,present_3pl,,1,,,They solder the earrings now.,Loro saldano gli orecchini ora.,uniscono,,saldare
+verb,jewelry and metal working,you (plural) solder,second-person plural,saldete,sahl-DEH-teh,,present_2pl,,1,,,You (plural) solder the metal pieces.,Voi saldate i pezzi di metallo.,unite,,saldare
 verb,jewelry and metal working,I soldered,past completed action,ho saldato,oh sahl-DAH-toh,,past_1sg,,1,,,I soldered the bezel yesterday.,Ho saldato il castone ieri.,ho unito,,saldare
+verb,jewelry and metal working,you soldered,past completed action,hai saldato,eye sahl-DAH-toh,,past_2sg,,1,,,You soldered the ring last week.,Hai saldato l'anello la settimana scorsa.,hai unito,,saldare
+verb,jewelry and metal working,she soldered,past completed action,ha saldato,ah sahl-DAH-toh,,past_3sg,,1,,,She soldered the pendant last night.,Ha saldato il pendente ieri sera.,ha unito,,saldare
+verb,jewelry and metal working,he soldered,past completed action,ha saldato,ah sahl-DAH-toh,,past_3sg,,1,,,He soldered the bracelet this morning.,Ha saldato il bracciale stamattina.,ha unito,,saldare
+verb,jewelry and metal working,we soldered,past completed action,abbiamo saldato,ah-BYAH-mo sahl-DAH-toh,,past_1pl,,1,,,We soldered the necklace together.,Abbiamo saldato la collana insieme.,abbiamo unito,,saldare
+verb,jewelry and metal working,they soldered,past completed action,hanno saldato,AHN-noh sahl-DAH-toh,,past_3pl,,1,,,They soldered the earrings yesterday.,Hanno saldato gli orecchini ieri.,hanno unito,,saldare
+verb,jewelry and metal working,you (plural) soldered,past completed action,avete saldato,ah-VEH-teh sahl-DAH-toh,,past_2pl,,1,,,You (plural) soldered the metal pieces.,Avete saldato i pezzi di metallo.,avete unito,,saldare
 verb,jewelry and metal working,soldering,ongoing action,saldando,sahl-DAHN-doh,,gerund,,1,,,Soldering takes patience.,Saldando ci vuole pazienza.,unendo,,saldare
 verb,jewelry and metal working,to melt,turn solid to liquid,fondere,FON-deh-reh,,infinitive,,1,,,We need to melt the silver.,Dobbiamo fondere l'argento.,sciogliere,,fondere
 verb,jewelry and metal working,I melt,first-person present,fondo,FON-doh,,present_1sg,,1,,,I melt small ingots for casting.,Fondo piccoli lingotti per la fusione.,sciolgo,,fondare
+verb,jewelry and metal working,you melt,second-person present,fondi,FON-dee,,present_2sg,,1,,,You melt the wax for the mold.,Fondi la cera per lo stampo.,sciogli,,fondere
+verb,jewelry and metal working,she melts,third-person present,fonde,FON-deh,,present_3sg,,1,,,She melts the gold for the pendant.,Lei fonde l'oro per il pendente.,scioglie,,fondere
+verb,jewelry and metal working,he melts,third-person present,fonde,FON-deh,,present_3sg,,1,,,He melts the silver for the ring.,Lui fonde l'argento per l'anello.,scioglie,,fondere
+verb,jewelry and metal working,we melt,first-person plural,fondiamo,fon-DYAH-mo,,present_1pl,,1,,,We melt the metal together.,Fondiamo il metallo insieme.,sciogliamo,,fondere
+verb,jewelry and metal working,they melt,third-person plural,fondono,fon-DOH-noh,,present_3pl,,1,,,They melt the bronze for casting.,Loro fondono il bronzo per la fusione.,sciolgono,,fondere
+verb,jewelry and metal working,you (plural) melt,second-person plural,fondete,fon-DEH-teh,,present_2pl,,1,,,You (plural) melt the scrap metal.,Voi fondete il metallo di recupero.,sciogliete,,fondere
 verb,jewelry and metal working,I melted,past completed action,ho fuso,oh FOO-zoh,,past_1sg,,1,,,I melted scrap gold last night.,Ho fuso oro di recupero ieri sera.,ho sciolto,,fondere
+verb,jewelry and metal working,you melted,past completed action,hai fuso,eye FOO-zoh,,past_2sg,,1,,,You melted the silver yesterday.,Hai fuso l'argento ieri.,hai sciolto,,fondere
+verb,jewelry and metal working,she melted,past completed action,ha fuso,ah FOO-zoh,,past_3sg,,1,,,She melted the bronze this morning.,Ha fuso il bronzo stamattina.,ha sciolto,,fondere
+verb,jewelry and metal working,he melted,past completed action,ha fuso,ah FOO-zoh,,past_3sg,,1,,,He melted the gold for the pendant.,Ha fuso l'oro per il pendente.,ha sciolto,,fondere
+verb,jewelry and metal working,we melted,past completed action,abbiamo fuso,ah-BYAH-mo FOO-zoh,,past_1pl,,1,,,We melted the silver together.,Abbiamo fuso l'argento insieme.,abbiamo sciolto,,fondere
+verb,jewelry and metal working,they melted,past completed action,hanno fuso,AHN-noh FOO-zoh,,past_3pl,,1,,,They melted the bronze yesterday.,Hanno fuso il bronzo ieri.,hanno sciolto,,fondere
+verb,jewelry and metal working,you (plural) melted,past completed action,avete fuso,ah-VEH-teh FOO-zoh,,past_2pl,,1,,,You (plural) melted the scrap metal.,Avete fuso il metallo di recupero.,avete sciolto,,fondere
 verb,jewelry and metal working,melting,ongoing action,fon­dendo,fon-DEN-doh,,gerund,,1,,,Melting requires steady heat.,Fondendo serve calore costante.,sciogliendo,,fondere
 verb,jewelry and metal working,to cast,pour metal into mold,colare,coh-LAH-reh,,infinitive,,1,,,We plan to cast a pendant.,Prevediamo di colare un pendente.,gettare,,colare
 verb,jewelry and metal working,I cast,first-person present,colo,COH-loh,,present_1sg,,1,,,I cast small shapes in sand.,Colo forme piccole nella sabbia.,getto,,colare
+verb,jewelry and metal working,you cast,second-person present,colii,coh-LEE,,present_2sg,,1,,,You cast the ring in bronze.,Coli l'anello in bronzo.,getti,,colare
+verb,jewelry and metal working,she casts,third-person present,cola,COH-lah,,present_3sg,,1,,,She casts the pendant in silver.,Lei cola il pendente in argento.,getta,,colare
+verb,jewelry and metal working,he casts,third-person present,cola,COH-lah,,present_3sg,,1,,,He casts the earrings in gold.,Lui cola gli orecchini in oro.,getta,,colare
+verb,jewelry and metal working,we cast,first-person plural,coliamo,coh-LYAH-mo,,present_1pl,,1,,,We cast the necklace in bronze.,Coliamo la collana in bronzo.,gettiamo,,colare
+verb,jewelry and metal working,they cast,third-person plural,colano,COH-lah-noh,,present_3pl,,1,,,They cast the bracelet in silver.,Loro colano il bracciale in argento.,gettano,,colare
+verb,jewelry and metal working,you (plural) cast,second-person plural,colate,coh-LAH-teh,,present_2pl,,1,,,You (plural) cast the metal pieces.,Voi colate i pezzi di metallo.,gettate,,colare
 verb,jewelry and metal working,I casted,past completed action,ho colato,oh coh-LAH-toh,,past_1sg,,1,,,I casted a bronze coin today.,Ho colato una moneta in bronzo oggi.,ho gettato,,colare
+verb,jewelry and metal working,you casted,past completed action,hai colato,eye coh-LAH-toh,,past_2sg,,1,,,You casted the ring last week.,Hai colato l'anello la settimana scorsa.,hai gettato,,colare
+verb,jewelry and metal working,she casted,past completed action,ha colato,ah coh-LAH-toh,,past_3sg,,1,,,She casted the pendant last night.,Ha colato il pendente ieri sera.,ha gettato,,colare
+verb,jewelry and metal working,he casted,past completed action,ha colato,ah coh-LAH-toh,,past_3sg,,1,,,He casted the bracelet this morning.,Ha colato il bracciale stamattina.,ha gettato,,colare
+verb,jewelry and metal working,we casted,past completed action,abbiamo colato,ah-BYAH-mo coh-LAH-toh,,past_1pl,,1,,,We casted the necklace together.,Abbiamo colato la collana insieme.,abbiamo gettato,,colare
+verb,jewelry and metal working,they casted,past completed action,hanno colato,AHN-noh coh-LAH-toh,,past_3pl,,1,,,They casted the earrings yesterday.,Hanno colato gli orecchini ieri.,hanno gettato,,colare
+verb,jewelry and metal working,you (plural) casted,past completed action,avete colato,ah-VEH-teh coh-LAH-toh,,past_2pl,,1,,,You (plural) casted the metal pieces.,Avete colato i pezzi di metallo.,avete gettato,,colare
 verb,jewelry and metal working,casting,ongoing action,colando,coh-LAHN-doh,,gerund,,1,,,Casting takes careful timing.,Colando serve tempismo preciso.,gettando,,colare
 verb,jewelry and metal working,to polish,make surface shiny,lucidare,loo-chee-DAH-reh,,infinitive,,1,,,I want to polish the ring.,Voglio lucidare l'anello.,brillare,,lucidare
 verb,jewelry and metal working,I polish,first-person present,lucido,LOO-chee-doh,,present_1sg,,1,,,I polish each piece by hand.,Lucido ogni pezzo a mano.,brillo,,lucidare
+verb,jewelry and metal working,you polish,second-person present,lucidi,LOO-chee-dee,,present_2sg,,1,,,You polish the bracelet carefully.,Lucidi il bracciale con cura.,brilli,,lucidare
+verb,jewelry and metal working,she polishes,third-person present,lucida,LOO-chee-dah,,present_3sg,,1,,,She polishes the pendant now.,Lei lucida il pendente ora.,brilla,,lucidare
+verb,jewelry and metal working,he polishes,third-person present,lucida,LOO-chee-dah,,present_3sg,,1,,,He polishes the earrings daily.,Lui lucida gli orecchini ogni giorno.,brilla,,lucidare
+verb,jewelry and metal working,we polish,first-person plural,lucidiamo,loo-chee-DYAH-mo,,present_1pl,,1,,,We polish the necklace together.,Lucidiamo la collana insieme.,brilliamo,,lucidare
+verb,jewelry and metal working,they polish,third-person plural,lucidano,loo-CHEE-dah-noh,,present_3pl,,1,,,They polish the bracelet now.,Loro lucidano il bracciale ora.,brillano,,lucidare
+verb,jewelry and metal working,you (plural) polish,second-person plural,lucidate,loo-chee-DAH-teh,,present_2pl,,1,,,You (plural) polish the metal pieces.,Voi lucidate i pezzi di metallo.,brillate,,lucidare
 verb,jewelry and metal working,I polished,past completed action,ho lucidato,oh loo-chee-DAH-toh,,past_1sg,,1,,,I polished the bracelet yesterday.,Ho lucidato il bracciale ieri.,ho rifinito,,lucidare
+verb,jewelry and metal working,you polished,past completed action,hai lucidato,eye loo-chee-DAH-toh,,past_2sg,,1,,,You polished the ring last week.,Hai lucidato l'anello la settimana scorsa.,hai rifinito,,lucidare
+verb,jewelry and metal working,she polished,past completed action,ha lucidato,ah loo-chee-DAH-toh,,past_3sg,,1,,,She polished the pendant last night.,Ha lucidato il pendente ieri sera.,ha rifinito,,lucidare
+verb,jewelry and metal working,he polished,past completed action,ha lucidato,ah loo-chee-DAH-toh,,past_3sg,,1,,,He polished the earrings this morning.,Ha lucidato gli orecchini stamattina.,ha rifinito,,lucidare
+verb,jewelry and metal working,we polished,past completed action,abbiamo lucidato,ah-BYAH-mo loo-chee-DAH-toh,,past_1pl,,1,,,We polished the necklace together.,Abbiamo lucidato la collana insieme.,abbiamo rifinito,,lucidare
+verb,jewelry and metal working,they polished,past completed action,hanno lucidato,AHN-noh loo-chee-DAH-toh,,past_3pl,,1,,,They polished the bracelet yesterday.,Hanno lucidato il bracciale ieri.,hanno rifinito,,lucidare
+verb,jewelry and metal working,you (plural) polished,past completed action,avete lucidato,ah-VEH-teh loo-chee-DAH-toh,,past_2pl,,1,,,You (plural) polished the metal pieces.,Avete lucidato i pezzi di metallo.,avete rifinito,,lucidare
 verb,jewelry and metal working,polishing,ongoing action,lucidando,loo-chee-DAN-doh,,gerund,,1,,,Polishing removes fine scratches.,Lucidando si eliminano i graffi sottili.,rifinendo,,lucidare
 verb,jewelry and metal working,to hammer,strike with hammer,martellare,mar-tel-LAH-reh,,infinitive,,1,,,We need to hammer the bezel.,Dobbiamo martellare il castone.,battere,,martellare
 verb,jewelry and metal working,I hammer,first-person present,martello,mar-TEL-loh,,present_1sg,,1,,,I hammer the sheet into shape.,Martello la lastra per darle forma.,batto,,martellare
+verb,jewelry and metal working,you hammer,second-person present,martelli,mar-TEL-lee,,present_2sg,,1,,,You hammer the prongs carefully.,Martelli le griffe con cura.,batti,,martellare
+verb,jewelry and metal working,she hammers,third-person present,martella,mar-TEL-lah,,present_3sg,,1,,,She hammers the pendant now.,Lei martella il pendente ora.,batte,,martellare
+verb,jewelry and metal working,he hammers,third-person present,martella,mar-TEL-lah,,present_3sg,,1,,,He hammers the bracelet daily.,Lui martella il bracciale ogni giorno.,batte,,martellare
+verb,jewelry and metal working,we hammer,first-person plural,martelliamo,mar-tel-LYAH-mo,,present_1pl,,1,,,We hammer the necklace together.,Martelliamo la collana insieme.,battiamo,,martellare
+verb,jewelry and metal working,they hammer,third-person plural,martellano,mar-tel-LAH-noh,,present_3pl,,1,,,They hammer the earrings now.,Loro martellano gli orecchini ora.,battono,,martellare
+verb,jewelry and metal working,you (plural) hammer,second-person plural,martellate,mar-tel-LAH-teh,,present_2pl,,1,,,You (plural) hammer the metal pieces.,Voi martellate i pezzi di metallo.,battete,,martellare
 verb,jewelry and metal working,I hammered,past completed action,ho martellato,oh mar-tel-LAH-toh,,past_1sg,,1,,,I hammered the texture this morning.,Ho martellato la texture stamattina.,ho battuto,,martellare
+verb,jewelry and metal working,you hammered,past completed action,hai martellato,eye mar-tel-LAH-toh,,past_2sg,,1,,,You hammered the ring last week.,Hai martellato l'anello la settimana scorsa.,hai battuto,,martellare
+verb,jewelry and metal working,she hammered,past completed action,ha martellato,ah mar-tel-LAH-toh,,past_3sg,,1,,,She hammered the pendant last night.,Ha martellato il pendente ieri sera.,ha battuto,,martellare
+verb,jewelry and metal working,he hammered,past completed action,ha martellato,ah mar-tel-LAH-toh,,past_3sg,,1,,,He hammered the bracelet this morning.,Ha martellato il bracciale stamattina.,ha battuto,,martellare
+verb,jewelry and metal working,we hammered,past completed action,abbiamo martellato,ah-BYAH-mo mar-tel-LAH-toh,,past_1pl,,1,,,We hammered the necklace together.,Abbiamo martellato la collana insieme.,abbiamo battuto,,martellare
+verb,jewelry and metal working,they hammered,past completed action,hanno martellato,AHN-noh mar-tel-LAH-toh,,past_3pl,,1,,,They hammered the earrings yesterday.,Hanno martellato gli orecchini ieri.,hanno battuto,,martellare
+verb,jewelry and metal working,you (plural) hammered,past completed action,avete martellato,ah-VEH-teh mar-tel-LAH-toh,,past_2pl,,1,,,You (plural) hammered the metal pieces.,Avete martellato i pezzi di metallo.,avete battuto,,martellare
 verb,jewelry and metal working,hammering,ongoing action,martellando,mar-tel-LAN-doh,,gerund,,1,,,Hammering hardens the wire.,Martellando si indurisce il filo.,battendo,,martellare
 verb,jewelry and metal working,to saw,cut with jeweler’s saw,segare,seh-GAH-reh,,infinitive,,1,,,I need to saw the outline.,Devo segare il profilo.,tagliare,,segare
 verb,jewelry and metal working,I saw,first-person present,sego,SEH-goh,,present_1sg,,1,,,I saw delicate patterns.,Sego motivi delicati.,taglio,,segare
+verb,jewelry and metal working,you saw,second-person present,seghi,SEH-gee,,present_2sg,,1,,,You saw the metal sheet carefully.,Seghi la lastra di metallo con cura.,tagli,,segare
+verb,jewelry and metal working,she saws,third-person present,sega,SEH-gah,,present_3sg,,1,,,She saws the pendant now.,Lei sega il pendente ora.,taglia,,segare
+verb,jewelry and metal working,he saws,third-person present,sega,SEH-gah,,present_3sg,,1,,,He saws the bracelet daily.,Lui sega il bracciale ogni giorno.,taglia,,segare
+verb,jewelry and metal working,we saw,first-person plural,seghiamo,seh-GYAH-mo,,present_1pl,,1,,,We saw the necklace together.,Seghiamo la collana insieme.,tagliamo,,segare
+verb,jewelry and metal working,they saw,third-person plural,seghano,SEH-gah-noh,,present_3pl,,1,,,They saw the earrings now.,Loro segano gli orecchini ora.,tagliano,,segare
+verb,jewelry and metal working,you (plural) saw,second-person plural,seghiate,seh-GYAH-teh,,present_2pl,,1,,,You (plural) saw the metal pieces.,Voi segate i pezzi di metallo.,tagliate,,segare
 verb,jewelry and metal working,I sawed,past completed action,ho segato,oh seh-GAH-toh,,past_1sg,,1,,,I sawed a slice off the sheet.,Ho segato una fetta dalla lastra.,ho tagliato,,segare
+verb,jewelry and metal working,you sawed,past completed action,hai segato,eye seh-GAH-toh,,past_2sg,,1,,,You sawed the ring last week.,Hai segato l'anello la settimana scorsa.,hai tagliato,,segare
+verb,jewelry and metal working,she sawed,past completed action,ha segato,ah seh-GAH-toh,,past_3sg,,1,,,She sawed the pendant last night.,Ha segato il pendente ieri sera.,ha tagliato,,segare
+verb,jewelry and metal working,he sawed,past completed action,ha segato,ah seh-GAH-toh,,past_3sg,,1,,,He sawed the bracelet this morning.,Ha segato il bracciale stamattina.,ha tagliato,,segare
+verb,jewelry and metal working,we sawed,past completed action,abbiamo segato,ah-BYAH-mo seh-GAH-toh,,past_1pl,,1,,,We sawed the necklace together.,Abbiamo segato la collana insieme.,abbiamo tagliato,,segare
+verb,jewelry and metal working,they sawed,past completed action,hanno segato,AHN-noh seh-GAH-toh,,past_3pl,,1,,,They sawed the earrings yesterday.,Hanno segato gli orecchini ieri.,hanno tagliato,,segare
+verb,jewelry and metal working,you (plural) sawed,past completed action,avete segato,ah-VEH-teh seh-GAH-toh,,past_2pl,,1,,,You (plural) sawed the metal pieces.,Avete segato i pezzi di metallo.,avete tagliato,,segare
 verb,jewelry and metal working,sawing,ongoing action,segando,seh-GAN-doh,,gerund,,1,,,Sawing requires steady hands.,Segando servono mani ferme.,tagliando,,segare
 verb,jewelry and metal working,to file,smooth with file,limare,lee-MAH-reh,,infinitive,,1,,,Remember to file sharp edges.,Ricorda di limare i bordi taglienti.,raspare,,limare
 verb,jewelry and metal working,I file,first-person present,limo,LEE-moh,,present_1sg,,1,,,I file the bezel until flush.,Limo il castone fino a filo.,raspo,,limare
+verb,jewelry and metal working,you file,second-person present,limi,LEE-mee,,present_2sg,,1,,,You file the prongs carefully.,Limii le griffe con cura.,raspi,,limare
+verb,jewelry and metal working,she files,third-person present,limia,LEE-mee-ah,,present_3sg,,1,,,She files the pendant now.,Lei lima il pendente ora.,raspa,,limare
+verb,jewelry and metal working,he files,third-person present,limia,LEE-mee-ah,,present_3sg,,1,,,He files the bracelet daily.,Lui lima il bracciale ogni giorno.,raspa,,limare
+verb,jewelry and metal working,we file,first-person plural,limiamo,lee-MYAH-mo,,present_1pl,,1,,,We file the necklace together.,Limiamo la collana insieme.,raspiamo,,limare
+verb,jewelry and metal working,they file,third-person plural,limiano,lee-MYAH-noh,,present_3pl,,1,,,They file the earrings now.,Loro limiano gli orecchini ora.,raspano,,limare
+verb,jewelry and metal working,you (plural) file,second-person plural,limiate,lee-MYAH-teh,,present_2pl,,1,,,You (plural) file the metal pieces.,Voi limiate i pezzi di metallo.,raspate,,limare
 verb,jewelry and metal working,I filed,past completed action,ho limato,oh lee-MAH-toh,,past_1sg,,1,,,I filed the prongs yesterday.,Ho limato le griffe ieri.,ho rasppato,,limare
+verb,jewelry and metal working,you filed,past completed action,hai limato,eye lee-MAH-toh,,past_2sg,,1,,,You filed the ring last week.,Hai limato l'anello la settimana scorsa.,hai raspato,,limare
+verb,jewelry and metal working,she filed,past completed action,ha limato,ah lee-MAH-toh,,past_3sg,,1,,,She filed the pendant last night.,Ha limato il pendente ieri sera.,ha raspato,,limare
+verb,jewelry and metal working,he filed,past completed action,ha limato,ah lee-MAH-toh,,past_3sg,,1,,,He filed the bracelet this morning.,Ha limato il bracciale stamattina.,ha raspato,,limare
+verb,jewelry and metal working,we filed,past completed action,abbiamo limato,ah-BYAH-mo lee-MAH-toh,,past_1pl,,1,,,We filed the necklace together.,Abbiamo limato la collana insieme.,abbiamo raspato,,limare
+verb,jewelry and metal working,they filed,past completed action,hanno limato,AHN-noh lee-MAH-toh,,past_3pl,,1,,,They filed the earrings yesterday.,Hanno limato gli orecchini ieri.,hanno raspato,,limare
+verb,jewelry and metal working,you (plural) filed,past completed action,avete limato,ah-VEH-teh lee-MAH-toh,,past_2pl,,1,,,You (plural) filed the metal pieces.,Avete limato i pezzi di metallo.,avete raspato,,limare
 verb,jewelry and metal working,filing,ongoing action,limando,lee-MAN-doh,,gerund,,1,,,Filing evens the surface.,Limando si livella la superficie.,raspando,,limare
 verb,jewelry and metal working,to drill,make a hole,forare,foh-RAH-reh,,infinitive,,1,,,We need to drill for the pin.,Dobbiamo forare per lo spillo.,trapanare,,forare
 verb,jewelry and metal working,I drill,first-person present,foro,FOH-roh,,present_1sg,,1,,,I drill tiny holes for rivets.,Foro piccoli fori per i rivetti.,trapano,,forare
+verb,jewelry and metal working,you drill,second-person present,fori,FOH-ree,,present_2sg,,1,,,You drill the plate carefully.,Fori la piastra con cura.,trapi,,forare
+verb,jewelry and metal working,she drills,third-person present,fora,FOH-rah,,present_3sg,,1,,,She drills the pendant now.,Lei fora il pendente ora.,trapa,,forare
+verb,jewelry and metal working,he drills,third-person present,fora,FOH-rah,,present_3sg,,1,,,He drills the bracelet daily.,Lui fora il bracciale ogni giorno.,trapa,,forare
+verb,jewelry and metal working,we drill,first-person plural,foriamo,foh-RYAH-mo,,present_1pl,,1,,,We drill the necklace together.,Foriamo la collana insieme.,trapiamo,,forare
+verb,jewelry and metal working,they drill,third-person plural,forano,foh-RAH-noh,,present_3pl,,1,,,They drill the earrings now.,Loro forano gli orecchini ora.,trapano,,forare
+verb,jewelry and metal working,you (plural) drill,second-person plural,forate,foh-RAH-teh,,present_2pl,,1,,,You (plural) drill the metal pieces.,Voi forate i pezzi di metallo.,trapate,,forare
 verb,jewelry and metal working,I drilled,past completed action,ho forato,oh fo-RAH-toh,,past_1sg,,1,,,I drilled the plate yesterday.,Ho forato la piastra ieri.,ho trapanato,,forare
+verb,jewelry and metal working,you drilled,past completed action,hai forato,eye fo-RAH-toh,,past_2sg,,1,,,You drilled the ring last week.,Hai forato l'anello la settimana scorsa.,hai trapanato,,forare
+verb,jewelry and metal working,she drilled,past completed action,ha forato,ah fo-RAH-toh,,past_3sg,,1,,,She drilled the pendant last night.,Ha forato il pendente ieri sera.,ha trapanato,,forare
+verb,jewelry and metal working,he drilled,past completed action,ha forato,ah fo-RAH-toh,,past_3sg,,1,,,He drilled the bracelet this morning.,Ha forato il bracciale stamattina.,ha trapanato,,forare
+verb,jewelry and metal working,we drilled,past completed action,abbiamo forato,ah-BYAH-mo fo-RAH-toh,,past_1pl,,1,,,We drilled the necklace together.,Abbiamo forato la collana insieme.,abbiamo trapanato,,forare
+verb,jewelry and metal working,they drilled,past completed action,hanno forato,AHN-noh fo-RAH-toh,,past_3pl,,1,,,They drilled the earrings yesterday.,Hanno forato gli orecchini ieri.,hanno trapanato,,forare
+verb,jewelry and metal working,you (plural) drilled,past completed action,avete forato,ah-VEH-teh fo-RAH-toh,,past_2pl,,1,,,You (plural) drilled the metal pieces.,Avete forato i pezzi di metallo.,avete trapanato,,forare
 verb,jewelry and metal working,drilling,ongoing action,forando,foh-RAN-doh,,gerund,,1,,,Drilling must be slow in silver.,Forando serve bassa velocità sull'argento.,trapanando,,forare
 verb,jewelry and metal working,to engrave,carve a design,incidere,in-CHEE-deh-reh,,infinitive,,1,,,I want to engrave initials.,Voglio incidere le iniziali.,graffiare,,incidere
 verb,jewelry and metal working,I engrave,first-person present,incido,in-CHEE-doh,,present_1sg,,1,,,I engrave patterns on copper.,Incido motivi sul rame.,graffio,,incidare
+verb,jewelry and metal working,you engrave,second-person present,incidi,in-CHEE-dee,,present_2sg,,1,,,You engrave the design carefully.,Incidi il disegno con cura.,graffi,,incidere
+verb,jewelry and metal working,she engraves,third-person present,incide,in-CHEE-deh,,present_3sg,,1,,,She engraves the pendant now.,Lei incide il pendente ora.,graffia,,incidere
+verb,jewelry and metal working,he engraves,third-person present,incide,in-CHEE-deh,,present_3sg,,1,,,He engraves the bracelet daily.,Lui incide il bracciale ogni giorno.,graffia,,incidere
+verb,jewelry and metal working,we engrave,first-person plural,incidiamo,in-CHEE-DYAH-mo,,present_1pl,,1,,,We engrave the necklace together.,Incidiamo la collana insieme.,graffiamo,,incidere
+verb,jewelry and metal working,they engrave,third-person plural,incidono,in-CHEE-doh-noh,,present_3pl,,1,,,They engrave the earrings now.,Loro incidono gli orecchini ora.,graffiano,,incidere
+verb,jewelry and metal working,you (plural) engrave,second-person plural,incidete,in-CHEE-deh-teh,,present_2pl,,1,,,You (plural) engrave the metal pieces.,Voi incidete i pezzi di metallo.,graffiate,,incidere
 verb,jewelry and metal working,I engraved,past completed action,ho inciso,oh in-CHEE-zoh,,past_1sg,,1,,,I engraved a floral border.,Ho inciso un bordo floreale.,ho graffiato,,incidere
+verb,jewelry and metal working,you engraved,past completed action,hai inciso,eye in-CHEE-zoh,,past_2sg,,1,,,You engraved the ring last week.,Hai inciso l'anello la settimana scorsa.,hai graffiato,,incidere
+verb,jewelry and metal working,she engraved,past completed action,ha inciso,ah in-CHEE-zoh,,past_3sg,,1,,,She engraved the pendant last night.,Ha inciso il pendente ieri sera.,ha graffiato,,incidere
+verb,jewelry and metal working,he engraved,past completed action,ha inciso,ah in-CHEE-zoh,,past_3sg,,1,,,He engraved the bracelet this morning.,Ha inciso il bracciale stamattina.,ha graffiato,,incidere
+verb,jewelry and metal working,we engraved,past completed action,abbiamo inciso,ah-BYAH-mo in-CHEE-zoh,,past_1pl,,1,,,We engraved the necklace together.,Abbiamo inciso la collana insieme.,abbiamo graffiato,,incidere
+verb,jewelry and metal working,they engraved,past completed action,hanno inciso,AHN-noh in-CHEE-zoh,,past_3pl,,1,,,They engraved the earrings yesterday.,Hanno inciso gli orecchini ieri.,hanno graffiato,,incidere
+verb,jewelry and metal working,you (plural) engraved,past completed action,avete inciso,ah-VEH-teh in-CHEE-zoh,,past_2pl,,1,,,You (plural) engraved the metal pieces.,Avete inciso i pezzi di metallo.,avete graffiato,,incidere
 verb,jewelry and metal working,engraving,ongoing action,incidendo,in-chee-DEN-doh,,gerund,,1,,,Engraving improves with practice.,Incidendo si migliora con la pratica.,graffiando,,incidere
 verb,jewelry and metal working,to set,secure a stone,incastonare,in-kahs-toh-NAH-reh,,infinitive,,1,,,We need to set the ruby.,Dobbiamo incastonare il rubino.,montare,,incastonare
 verb,jewelry and metal working,I set,first-person present,incastono,in-KAS-toh-noh,,present_1sg,,1,,,I set stones every day.,Incastono pietre ogni giorno.,monto,,incastare
+verb,jewelry and metal working,you set,second-person present,incastoni,in-kahs-TOH-nee,,present_2sg,,1,,,You set the opal carefully.,Incastoni l'opale con cura.,monte,,incastonare
+verb,jewelry and metal working,she sets,third-person present,incastona,in-kahs-TOH-nah,,present_3sg,,1,,,She sets the pendant now.,Lei incastona il pendente ora.,monta,,incastonare
+verb,jewelry and metal working,he sets,third-person present,incastona,in-kahs-TOH-nah,,present_3sg,,1,,,He sets the bracelet daily.,Lui incastona il bracciale ogni giorno.,monta,,incastonare
+verb,jewelry and metal working,we set,first-person plural,incastoniamo,in-kahs-toh-NYAH-mo,,present_1pl,,1,,,We set the necklace together.,Incastoniamo la collana insieme.,montiamo,,incastonare
+verb,jewelry and metal working,they set,third-person plural,incastonano,in-kahs-TOH-nah-noh,,present_3pl,,1,,,They set the earrings now.,Loro incastonano gli orecchini ora.,montano,,incastonare
+verb,jewelry and metal working,you (plural) set,second-person plural,incastonate,in-kahs-toh-NAH-teh,,present_2pl,,1,,,You (plural) set the metal pieces.,Voi incastonate i pezzi di metallo.,montate,,incastonare
 verb,jewelry and metal working,I set (past),past completed action,ho incastonato,oh in-kas-toh-NAH-toh,,past_1sg,,1,,,I set an opal last night.,Ho incastonato un opale ieri sera.,ho montato,,incastonare
+verb,jewelry and metal working,you set (past),past completed action,hai incastonato,eye in-kas-toh-NAH-toh,,past_2sg,,1,,,You set the ring last week.,Hai incastonato l'anello la settimana scorsa.,hai montato,,incastonare
+verb,jewelry and metal working,she set (past),past completed action,ha incastonato,ah in-kas-toh-NAH-toh,,past_3sg,,1,,,She set the pendant last night.,Ha incastonato il pendente ieri sera.,ha montato,,incastonare
+verb,jewelry and metal working,he set (past),past completed action,ha incastonato,ah in-kas-toh-NAH-toh,,past_3sg,,1,,,He set the bracelet this morning.,Ha incastonato il bracciale stamattina.,ha montato,,incastonare
+verb,jewelry and metal working,we set (past),past completed action,abbiamo incastonato,ah-BYAH-mo in-kas-toh-NAH-toh,,past_1pl,,1,,,We set the necklace together.,Abbiamo incastonato la collana insieme.,abbiamo montato,,incastonare
+verb,jewelry and metal working,they set (past),past completed action,hanno incastonato,AHN-noh in-kas-toh-NAH-toh,,past_3pl,,1,,,They set the earrings yesterday.,Hanno incastonato gli orecchini ieri.,hanno montato,,incastonare
+verb,jewelry and metal working,you (plural) set (past),past completed action,avete incastonato,ah-VEH-teh in-kas-toh-NAH-toh,,past_2pl,,1,,,You (plural) set the metal pieces.,Avete incastonato i pezzi di metallo.,avete montato,,incastonare
 verb,jewelry and metal working,setting,ongoing action,incastonando,in-kas-toh-NAN-doh,,gerund,,1,,,Setting requires steady pressure.,Incastonando serve pressione costante.,montando,,incastonare
 verb,jewelry and metal working,to anneal,soften metal by heating and slow cooling,ricuocere,ree-KWOH-cheh-reh,,infinitive,,2,,,I need to anneal the sheet.,Devo ricuocere la lastra.,ricottare,,ricuocere
 verb,jewelry and metal working,I anneal,first-person present,ricuocio,ree-KWOH-choh,,present_1sg,,2,,,I anneal the wire before bending.,Ricuocio il filo prima di piegarlo.,ricotto,,ricuociare
+verb,jewelry and metal working,you anneal,second-person present,ricuoci,ree-KWOH-chee,,present_2sg,,2,,,You anneal the metal carefully.,Ricuoci il metallo con cura.,ricotti,,ricuociare
+verb,jewelry and metal working,she anneals,third-person present,ricuoce,ree-KWOH-cheh,,present_3sg,,2,,,She anneals the pendant now.,Lei ricuoce il pendente ora.,ricotta,,ricuociare
+verb,jewelry and metal working,he anneals,third-person present,ricuoce,ree-KWOH-cheh,,present_3sg,,2,,,He anneals the bracelet daily.,Lui ricuoce il bracciale ogni giorno.,ricotta,,ricuociare
+verb,jewelry and metal working,we anneal,first-person plural,ricuociamo,ree-KWOH-chyah-mo,,present_1pl,,2,,,We anneal the necklace together.,Ricuociamo la collana insieme.,ricottiamo,,ricuociare
+verb,jewelry and metal working,they anneal,third-person plural,ricuociono,ree-KWOH-choh-noh,,present_3pl,,2,,,They anneal the earrings now.,Loro ricuociono gli orecchini ora.,ricottano,,ricuociare
+verb,jewelry and metal working,you (plural) anneal,second-person plural,ricuocete,ree-KWOH-cheh-teh,,present_2pl,,2,,,You (plural) anneal the metal pieces.,Voi ricuocete i pezzi di metallo.,ricottate,,ricuociare
 verb,jewelry and metal working,I annealed,past completed action,ho ricotto,oh ree-KOHT-toh,,past_1sg,,2,,,I annealed the silver yesterday.,Ho ricotto l'argento ieri.,ho ammorbidito,,ricuociare
+verb,jewelry and metal working,you annealed,past completed action,hai ricotto,eye ree-KOHT-toh,,past_2sg,,2,,,You annealed the ring last week.,Hai ricotto l'anello la settimana scorsa.,hai ammorbidito,,ricuociare
+verb,jewelry and metal working,she annealed,past completed action,ha ricotto,ah ree-KOHT-toh,,past_3sg,,2,,,She annealed the pendant last night.,Ha ricotto il pendente ieri sera.,ha ammorbidito,,ricuociare
+verb,jewelry and metal working,he annealed,past completed action,ha ricotto,ah ree-KOHT-toh,,past_3sg,,2,,,He annealed the bracelet this morning.,Ha ricotto il bracciale stamattina.,ha ammorbidito,,ricuociare
+verb,jewelry and metal working,we annealed,past completed action,abbiamo ricotto,ah-BYAH-mo ree-KOHT-toh,,past_1pl,,2,,,We annealed the necklace together.,Abbiamo ricotto la collana insieme.,abbiamo ammorbidito,,ricuociare
+verb,jewelry and metal working,they annealed,past completed action,hanno ricotto,AHN-noh ree-KOHT-toh,,past_3pl,,2,,,They annealed the earrings yesterday.,Hanno ricotto gli orecchini ieri.,hanno ammorbidito,,ricuociare
+verb,jewelry and metal working,you (plural) annealed,past completed action,avete ricotto,ah-VEH-teh ree-KOHT-toh,,past_2pl,,2,,,You (plural) annealed the metal pieces.,Avete ricotto i pezzi di metallo.,avete ammorbidito,,ricuociare
 verb,jewelry and metal working,annealing,ongoing action,ricuocendo,ree-kwoh-CHEN-doh,,gerund,,2,,,Annealing relieves stress in metal.,Ricuocendo si elimina la tensione nel metallo.,ammorbidendo,,ricuociare
 verb,jewelry and metal working,to sand,smooth a surface with abrasives,levigare,leh-vee-GAH-reh,,infinitive,,1,,,Remember to sand the edges.,Ricorda di levigare i bordi.,lisciare,,levigare
 verb,jewelry and metal working,I sand,first-person present,levigo,LEH-vee-goh,,present_1sg,,1,,,I sand the bezel until flush.,Levigo il castone a filo.,liscio,,levigare
+verb,jewelry and metal working,you sand,second-person present,levighi,LEH-vee-ghee,,present_2sg,,1,,,You sand the ring carefully.,Levighi l'anello con cura.,lisci,,levigare
+verb,jewelry and metal working,she sands,third-person present,leviga,LEH-vee-gah,,present_3sg,,1,,,She sands the pendant now.,Lei leviga il pendente ora.,liscia,,levigare
+verb,jewelry and metal working,he sands,third-person present,leviga,LEH-vee-gah,,present_3sg,,1,,,He sands the bracelet daily.,Lui leviga il bracciale ogni giorno.,liscia,,levigare
+verb,jewelry and metal working,we sand,first-person plural,levighiamo,leh-vee-GYAH-mo,,present_1pl,,1,,,We sand the necklace together.,Levighiamo la collana insieme.,lisciamo,,levigare
+verb,jewelry and metal working,they sand,third-person plural,levigano,LEH-vee-gah-noh,,present_3pl,,1,,,They sand the earrings now.,Loro levigano gli orecchini ora.,lisciamo,,levigare
+verb,jewelry and metal working,you (plural) sand,second-person plural,levigate,leh-vee-GAH-teh,,present_2pl,,1,,,You (plural) sand the metal pieces.,Voi levigate i pezzi di metallo.,lisciate,,levigare
 verb,jewelry and metal working,I sanded,past completed action,ho levigato,oh leh-vee-GAH-toh,,past_1sg,,1,,,I sanded the pendant this morning.,Ho levigato il pendente stamattina.,ho lisciato,,levigare
+verb,jewelry and metal working,you sanded,past completed action,hai levigato,eye leh-vee-GAH-toh,,past_2sg,,1,,,You sanded the ring last week.,Hai levigato l'anello la settimana scorsa.,hai lisciato,,levigare
+verb,jewelry and metal working,she sanded,past completed action,ha levigato,ah leh-vee-GAH-toh,,past_3sg,,1,,,She sanded the pendant last night.,Ha levigato il pendente ieri sera.,ha lisciato,,levigare
+verb,jewelry and metal working,he sanded,past completed action,ha levigato,ah leh-vee-GAH-toh,,past_3sg,,1,,,He sanded the bracelet this morning.,Ha levigato il bracciale stamattina.,ha lisciato,,levigare
+verb,jewelry and metal working,we sanded,past completed action,abbiamo levigato,ah-BYAH-mo leh-vee-GAH-toh,,past_1pl,,1,,,We sanded the necklace together.,Abbiamo levigato la collana insieme.,abbiamo lisciato,,levigare
+verb,jewelry and metal working,they sanded,past completed action,hanno levigato,AHN-noh leh-vee-GAH-toh,,past_3pl,,1,,,They sanded the earrings yesterday.,Hanno levigato gli orecchini ieri.,hanno lisciato,,levigare
+verb,jewelry and metal working,you (plural) sanded,past completed action,avete levigato,ah-VEH-teh leh-vee-GAH-toh,,past_2pl,,1,,,You (plural) sanded the metal pieces.,Avete levigato i pezzi di metallo.,avete lisciato,,levigare
 verb,jewelry and metal working,sanding,ongoing action,levigando,leh-vee-GAN-doh,,gerund,,1,,,Sanding produces fine dust.,Levigando si produce polvere sottile.,lisciando,,levigare
 verb,jewelry and metal working,to oxidize,create a dark surface layer,ossidare,oh-see-DAH-reh,,infinitive,,1,,,We need to oxidize the brass.,Dobbiamo ossidare l'ottone.,annerire,,ossidare
 verb,jewelry and metal working,I oxidize,first-person present,ossido,OH-see-doh,,present_1sg,,1,,,I oxidize silver for contrast.,Ossido l'argento per contrasto.,annerisco,,ossidare
+verb,jewelry and metal working,you oxidize,second-person present,ossidi,OH-see-dee,,present_2sg,,1,,,You oxidize the copper carefully.,Ossidi il rame con cura.,annerisci,,ossidare
+verb,jewelry and metal working,she oxidizes,third-person present,ossida,OH-see-dah,,present_3sg,,1,,,She oxidizes the pendant now.,Lei ossida il pendente ora.,annerisce,,ossidare
+verb,jewelry and metal working,he oxidizes,third-person present,ossida,OH-see-dah,,present_3sg,,1,,,He oxidizes the bracelet daily.,Lui ossida il bracciale ogni giorno.,annerisce,,ossidare
+verb,jewelry and metal working,we oxidize,first-person plural,ossidiamo,oh-see-DYAH-mo,,present_1pl,,1,,,We oxidize the necklace together.,Ossidiamo la collana insieme.,anneriamo,,ossidare
+verb,jewelry and metal working,they oxidize,third-person plural,ossidano,oh-see-DAH-noh,,present_3pl,,1,,,They oxidize the earrings now.,Loro ossidano gli orecchini ora.,anneriscono,,ossidare
+verb,jewelry and metal working,you (plural) oxidize,second-person plural,ossidate,oh-see-DAH-teh,,present_2pl,,1,,,You (plural) oxidize the metal pieces.,Voi ossidate i pezzi di metallo.,annerite,,ossidare
 verb,jewelry and metal working,I oxidized,past completed action,ho ossidato,oh oh-see-DAH-toh,,past_1sg,,1,,,I oxidized the clasp yesterday.,Ho ossidato la chiusura ieri.,ho annerito,,ossidare
+verb,jewelry and metal working,you oxidized,past completed action,hai ossidato,eye oh-see-DAH-toh,,past_2sg,,1,,,You oxidized the ring last week.,Hai ossidato l'anello la settimana scorsa.,hai annerito,,ossidare
+verb,jewelry and metal working,she oxidized,past completed action,ha ossidato,ah oh-see-DAH-toh,,past_3sg,,1,,,She oxidized the pendant last night.,Ha ossidato il pendente ieri sera.,ha annerito,,ossidare
+verb,jewelry and metal working,he oxidized,past completed action,ha ossidato,ah oh-see-DAH-toh,,past_3sg,,1,,,He oxidized the bracelet this morning.,Ha ossidato il bracciale stamattina.,ha annerito,,ossidare
+verb,jewelry and metal working,we oxidized,past completed action,abbiamo ossidato,ah-BYAH-mo oh-see-DAH-toh,,past_1pl,,1,,,We oxidized the necklace together.,Abbiamo ossidato la collana insieme.,abbiamo annerito,,ossidare
+verb,jewelry and metal working,they oxidized,past completed action,hanno ossidato,AHN-noh oh-see-DAH-toh,,past_3pl,,1,,,They oxidized the earrings yesterday.,Hanno ossidato gli orecchini ieri.,hanno annerito,,ossidare
+verb,jewelry and metal working,you (plural) oxidized,past completed action,avete ossidato,ah-VEH-teh oh-see-DAH-toh,,past_2pl,,1,,,You (plural) oxidized the metal pieces.,Avete ossidato i pezzi di metallo.,avete annerito,,ossidare
 verb,jewelry and metal working,oxidizing,ongoing action,ossidando,oh-see-DAN-doh,,gerund,,1,,,Oxidizing changes the color quickly.,Ossidando il colore cambia velocemente.,annerendo,,ossidare
 verb,jewelry and metal working,to roll,thin metal with a mill,laminare,lah-mee-NAH-reh,,infinitive,,1,,,I want to roll this ingot.,Voglio laminare questo lingotto.,schiacciare,,laminare
 verb,jewelry and metal working,I roll,first-person present,lamino,LAH-mee-noh,,present_1sg,,1,,,I roll sheet every afternoon.,Lamino la lastra ogni pomeriggio.,schiaccio,,laminare
+verb,jewelry and metal working,you roll,second-person present,lamini,LAH-mee-nee,,present_2sg,,1,,,You roll the strip carefully.,Lamini la striscia con cura.,schiacci,,laminare
+verb,jewelry and metal working,she rolls,third-person present,lamina,LAH-mee-nah,,present_3sg,,1,,,She rolls the pendant now.,Lei lamina il pendente ora.,schiaccia,,laminare
+verb,jewelry and metal working,he rolls,third-person present,lamina,LAH-mee-nah,,present_3sg,,1,,,He rolls the bracelet daily.,Lui lamina il bracciale ogni giorno.,schiaccia,,laminare
+verb,jewelry and metal working,we roll,first-person plural,laminiamo,lah-mee-NYAH-mo,,present_1pl,,1,,,We roll the necklace together.,Laminiamo la collana insieme.,schiacciamo,,laminare
+verb,jewelry and metal working,they roll,third-person plural,laminano,LAH-mee-nah-noh,,present_3pl,,1,,,They roll the earrings now.,Loro laminano gli orecchini ora.,schiacciano,,laminare
+verb,jewelry and metal working,you (plural) roll,second-person plural,laminate,lah-mee-NAH-teh,,present_2pl,,1,,,You (plural) roll the metal pieces.,Voi laminate i pezzi di metallo.,schiacciate,,laminare
 verb,jewelry and metal working,I rolled,past completed action,ho laminato,oh lah-mee-NAH-toh,,past_1sg,,1,,,I rolled the strip to 0.5 mm.,Ho laminato la striscia a 0,5 mm.,,laminare
+verb,jewelry and metal working,you rolled,past completed action,hai laminato,eye lah-mee-NAH-toh,,past_2sg,,1,,,You rolled the ring last week.,Hai laminato l'anello la settimana scorsa.,,,laminare
+verb,jewelry and metal working,she rolled,past completed action,ha laminato,ah lah-mee-NAH-toh,,past_3sg,,1,,,She rolled the pendant last night.,Ha laminato il pendente ieri sera.,,,laminare
+verb,jewelry and metal working,he rolled,past completed action,ha laminato,ah lah-mee-NAH-toh,,past_3sg,,1,,,He rolled the bracelet this morning.,Ha laminato il bracciale stamattina.,,,laminare
+verb,jewelry and metal working,we rolled,past completed action,abbiamo laminato,ah-BYAH-mo lah-mee-NAH-toh,,past_1pl,,1,,,We rolled the necklace together.,Abbiamo laminato la collana insieme.,,,laminare
+verb,jewelry and metal working,they rolled,past completed action,hanno laminato,AHN-noh lah-mee-NAH-toh,,past_3pl,,1,,,They rolled the earrings yesterday.,Hanno laminato gli orecchini ieri.,,,laminare
+verb,jewelry and metal working,you (plural) rolled,past completed action,avete laminato,ah-VEH-teh lah-mee-NAH-toh,,past_2pl,,1,,,You (plural) rolled the metal pieces.,Avete laminato i pezzi di metallo.,,,laminare
 verb,jewelry and metal working,rolling,ongoing action,laminando,lah-mee-NAN-doh,,gerund,,1,,,Rolling hardens the metal.,Laminando si incrudisce il metallo.,schiacciando,,laminare
 verb,jewelry and metal working,to draw,reduce wire diameter,trafilare,trah-fee-LAH-reh,,infinitive,,1,,,We need to draw the wire thinner.,Dobbiamo trafilare il filo più sottile.,tirare,,trafilare
 verb,jewelry and metal working,I draw,first-person present,trafilo,TRAH-fee-loh,,present_1sg,,1,,,I draw copper wire daily.,Trafilo filo di rame ogni giorno.,tiro,,trafilare
+verb,jewelry and metal working,you draw,second-person present,trafilini,trah-fee-LEE-nee,,present_2sg,,1,,,You draw the wire carefully.,Trafilini il filo con cura.,tiri,,trafilare
+verb,jewelry and metal working,she draws,third-person present,trafilina,trah-fee-LEE-nah,,present_3sg,,1,,,She draws the pendant wire now.,Lei trafilina il filo del pendente ora.,tira,,trafilare
+verb,jewelry and metal working,he draws,third-person present,trafilina,trah-fee-LEE-nah,,present_3sg,,1,,,He draws the bracelet wire daily.,Lui trafilina il filo del bracciale ogni giorno.,tira,,trafilare
+verb,jewelry and metal working,we draw,first-person plural,trafiliniamo,trah-fee-lee-NYAH-mo,,present_1pl,,1,,,We draw the necklace wire together.,Trafiliniamo il filo della collana insieme.,tiriamo,,trafilare
+verb,jewelry and metal working,they draw,third-person plural,trafilano,trah-fee-LAH-noh,,present_3pl,,1,,,They draw the earrings wire now.,Loro trafilano il filo degli orecchini ora.,tirano,,trafilare
+verb,jewelry and metal working,you (plural) draw,second-person plural,trafilate,trah-fee-LAH-teh,,present_2pl,,1,,,You (plural) draw the metal wire.,Voi trafilate il filo di metallo.,tirate,,trafilare
 verb,jewelry and metal working,I drew (wire),past completed action,ho trafilato,oh trah-fee-LAH-toh,,past_1sg,,1,,,I drew silver wire last night.,Ho trafilato filo d'argento ieri sera.,ho tirato,,trafilare
+verb,jewelry and metal working,you drew (wire),past completed action,hai trafilato,eye trah-fee-LAH-toh,,past_2sg,,1,,,You drew the ring wire last week.,Hai trafilato il filo dell'anello la settimana scorsa.,hai tirato,,trafilare
+verb,jewelry and metal working,she drew (wire),past completed action,ha trafilato,ah trah-fee-LAH-toh,,past_3sg,,1,,,She drew the pendant wire last night.,Ha trafilato il filo del pendente ieri sera.,ha tirato,,trafilare
+verb,jewelry and metal working,he drew (wire),past completed action,ha trafilato,ah trah-fee-LAH-toh,,past_3sg,,1,,,He drew the bracelet wire this morning.,Ha trafilato il filo del bracciale stamattina.,ha tirato,,trafilare
+verb,jewelry and metal working,we drew (wire),past completed action,abbiamo trafilato,ah-BYAH-mo trah-fee-LAH-toh,,past_1pl,,1,,,We drew the necklace wire together.,Abbiamo trafilato il filo della collana insieme.,abbiamo tirato,,trafilare
+verb,jewelry and metal working,they drew (wire),past completed action,hanno trafilato,AHN-noh trah-fee-LAH-toh,,past_3pl,,1,,,They drew the earrings wire yesterday.,Hanno trafilato il filo degli orecchini ieri.,hanno tirato,,trafilare
+verb,jewelry and metal working,you (plural) drew (wire),past completed action,avete trafilato,ah-VEH-teh trah-fee-LAH-toh,,past_2pl,,1,,,You (plural) drew the metal wire.,Avete trafilato il filo di metallo.,avete tirato,,trafilare
 verb,jewelry and metal working,drawing (wire),ongoing action,trafilando,trah-fee-LAN-doh,,gerund,,1,,,Drawing increases wire strength.,Trafilando aumenta la resistenza del filo.,tirando,,trafilare
 verb,jewelry and metal working,to measure,determine size,misurare,mee-zoo-RAH-reh,,infinitive,,1,,,Always measure the ring first.,Misura sempre l'anello prima.,verificare,,misurare
 verb,jewelry and metal working,I measure,first-person present,misuro,mee-ZOO-roh,,present_1sg,,1,,,I measure the stone with calipers.,Misuro la pietra con il calibro.,verifico,,misurare
+verb,jewelry and metal working,you measure,second-person present,misuri,mee-ZOO-ree,,present_2sg,,1,,,You measure the pendant carefully.,Misuri il pendente con cura.,verifichi,,misurare
+verb,jewelry and metal working,she measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,,,She measures the bracelet now.,Lei misura il bracciale ora.,verifica,,misurare
+verb,jewelry and metal working,he measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,,,He measures the necklace daily.,Lui misura la collana ogni giorno.,verifica,,misurare
+verb,jewelry and metal working,we measure,first-person plural,misuriamo,mee-ZOO-ryah-mo,,present_1pl,,1,,,We measure the earrings together.,Misuriamo gli orecchini insieme.,verifichiamo,,misurare
+verb,jewelry and metal working,they measure,third-person plural,misurano,mee-ZOO-rah-noh,,present_3pl,,1,,,They measure the metal pieces now.,Loro misurano i pezzi di metallo ora.,verificano,,misurare
+verb,jewelry and metal working,you (plural) measure,second-person plural,misurate,mee-ZOO-rah-teh,,present_2pl,,1,,,You (plural) measure the wire.,Voi misurate il filo.,verificate,,misurare
 verb,jewelry and metal working,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,,past_1sg,,1,,,I measured the thickness yesterday.,Ho misurato lo spessore ieri.,ho verificato,,misurare
+verb,jewelry and metal working,you measured,past completed action,hai misurato,eye mee-zoo-RAH-toh,,past_2sg,,1,,,You measured the ring last week.,Hai misurato l'anello la settimana scorsa.,hai verificato,,misurare
+verb,jewelry and metal working,she measured,past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,,,She measured the pendant last night.,Ha misurato il pendente ieri sera.,ha verificato,,misurare
+verb,jewelry and metal working,he measured,past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,,,He measured the bracelet this morning.,Ha misurato il bracciale stamattina.,ha verificato,,misurare
+verb,jewelry and metal working,we measured,past completed action,abbiamo misurato,ah-BYAH-mo mee-zoo-RAH-toh,,past_1pl,,1,,,We measured the necklace together.,Abbiamo misurato la collana insieme.,abbiamo verificato,,misurare
+verb,jewelry and metal working,they measured,past completed action,hanno misurato,AHN-noh mee-zoo-RAH-toh,,past_3pl,,1,,,They measured the earrings yesterday.,Hanno misurato gli orecchini ieri.,hanno verificato,,misurare
+verb,jewelry and metal working,you (plural) measured,past completed action,avete misurato,ah-VEH-teh mee-zoo-RAH-toh,,past_2pl,,1,,,You (plural) measured the metal pieces.,Avete misurato i pezzi di metallo.,avete verificato,,misurare
 verb,jewelry and metal working,measuring,ongoing action,misurando,mee-zoo-RAN-doh,,gerund,,1,,,Measuring prevents mistakes.,Misurando si evitano errori.,verificando,,misurare
 verb,jewelry and metal working,to buff,shine with a brush,spazzolare,spah-tsoh-LAH-reh,,infinitive,,2,,,We need to buff the pendant.,Dobbiamo spazzolare il pendente.,lucidare,,spazzolare
 verb,jewelry and metal working,I buff,first-person present,spazzolo,SPAH-tsoh-loh,,present_1sg,,2,,,I buff the chain gently.,Spazzolo la catena con delicatezza.,lucido,,spazzolare
+verb,jewelry and metal working,you buff,second-person present,spazzoli,SPAH-tsoh-lee,,present_2sg,,2,,,You buff the ring carefully.,Spazzoli l'anello con cura.,lucidi,,spazzolare
+verb,jewelry and metal working,she buffs,third-person present,spazzola,SPAH-tsoh-lah,,present_3sg,,2,,,She buffs the bracelet now.,Lei spazzola il bracciale ora.,lucida,,spazzolare
+verb,jewelry and metal working,he buffs,third-person present,spazzola,SPAH-tsoh-lah,,present_3sg,,2,,,He buffs the pendant daily.,Lui spazzola il pendente ogni giorno.,lucida,,spazzolare
+verb,jewelry and metal working,we buff,first-person plural,spazzoliamo,spah-tsoh-LYAH-mo,,present_1pl,,2,,,We buff the necklace together.,Spazzoliamo la collana insieme.,lucidiamo,,spazzolare
+verb,jewelry and metal working,they buff,third-person plural,spazzolano,SPAH-tsoh-lah-noh,,present_3pl,,2,,,They buff the earrings now.,Loro spazzolano gli orecchini ora.,lucidano,,spazzolare
+verb,jewelry and metal working,you (plural) buff,second-person plural,spazzolate,spah-tsoh-LAH-teh,,present_2pl,,2,,,You (plural) buff the metal pieces.,Voi spazzolate i pezzi di metallo.,lucidate,,spazzolare
 verb,jewelry and metal working,I buffed,past completed action,ho spazzolato,oh spah-tsoh-LAH-toh,,past_1sg,,2,,,I buffed the ring yesterday.,Ho spazzolato l'anello ieri.,ho lucidato,,spazzolare
+verb,jewelry and metal working,you buffed,past completed action,hai spazzolato,eye spah-tsoh-LAH-toh,,past_2sg,,2,,,You buffed the pendant last week.,Hai spazzolato il pendente la settimana scorsa.,hai lucidato,,spazzolare
+verb,jewelry and metal working,she buffed,past completed action,ha spazzolato,ah spah-tsoh-LAH-toh,,past_3sg,,2,,,She buffed the bracelet last night.,Ha spazzolato il bracciale ieri sera.,ha lucidato,,spazzolare
+verb,jewelry and metal working,he buffed,past completed action,ha spazzolato,ah spah-tsoh-LAH-toh,,past_3sg,,2,,,He buffed the pendant this morning.,Ha spazzolato il pendente stamattina.,ha lucidato,,spazzolare
+verb,jewelry and metal working,we buffed,past completed action,abbiamo spazzolato,ah-BYAH-mo spah-tsoh-LAH-toh,,past_1pl,,2,,,We buffed the necklace together.,Abbiamo spazzolato la collana insieme.,abbiamo lucidato,,spazzolare
+verb,jewelry and metal working,they buffed,past completed action,hanno spazzolato,AHN-noh spah-tsoh-LAH-toh,,past_3pl,,2,,,They buffed the earrings yesterday.,Hanno spazzolato gli orecchini ieri.,hanno lucidato,,spazzolare
+verb,jewelry and metal working,you (plural) buffed,past completed action,avete spazzolato,ah-VEH-teh spah-tsoh-LAH-toh,,past_2pl,,2,,,You (plural) buffed the metal pieces.,Avete spazzolato i pezzi di metallo.,avete lucidato,,spazzolare
 verb,jewelry and metal working,buffing,ongoing action,spazzolando,spah-tsoh-LAN-doh,,gerund,,2,,,Buffing brings out the shine.,Spazzolando emerge la lucentezza.,lucidando,,spazzolare
 verb,jewelry and metal working,to pickle,remove oxides with acid,decapare,deh-kah-PAH-reh,,infinitive,,2,,,We will pickle the pieces now.,Decaperemo i pezzi adesso.,pulire,,decapare
 verb,jewelry and metal working,I pickle,first-person present,decapo,deh-KAH-poh,,present_1sg,,2,,,I pickle silver after soldering.,Decapo l'argento dopo la saldatura.,pulisco,,decapare
+verb,jewelry and metal working,you pickle,second-person present,decapi,deh-KAH-pee,,present_2sg,,2,,,You pickle the copper carefully.,Decapi il rame con cura.,pulisci,,decapare
+verb,jewelry and metal working,she pickles,third-person present,decapa,deh-KAH-pah,,present_3sg,,2,,,She pickles the pendant now.,Lei decapa il pendente ora.,pulisce,,decapare
+verb,jewelry and metal working,he pickles,third-person present,decapa,deh-KAH-pah,,present_3sg,,2,,,He pickles the bracelet daily.,Lui decapa il bracciale ogni giorno.,pulisce,,decapare
+verb,jewelry and metal working,we pickle,first-person plural,decapiamo,deh-KAH-pyah-mo,,present_1pl,,2,,,We pickle the necklace together.,Decapiamo la collana insieme.,puliamo,,decapare
+verb,jewelry and metal working,they pickle,third-person plural,decapano,deh-KAH-pah-noh,,present_3pl,,2,,,They pickle the earrings now.,Loro decapano gli orecchini ora.,puliamo,,decapare
+verb,jewelry and metal working,you (plural) pickle,second-person plural,decapate,deh-KAH-pah-teh,,present_2pl,,2,,,You (plural) pickle the metal pieces.,Voi decapate i pezzi di metallo.,pulite,,decapare
 verb,jewelry and metal working,I pickled,past completed action,ho decapato,oh deh-kah-PAH-toh,,past_1sg,,2,,,I pickled all the findings.,Ho decapato tutte le minuterie.,ho pulito,,decapare
+verb,jewelry and metal working,you pickled,past completed action,hai decapato,eye deh-kah-PAH-toh,,past_2sg,,2,,,You pickled the ring last week.,Hai decapato l'anello la settimana scorsa.,hai pulito,,decapare
+verb,jewelry and metal working,she pickled,past completed action,ha decapato,ah deh-kah-PAH-toh,,past_3sg,,2,,,She pickled the pendant last night.,Ha decapato il pendente ieri sera.,ha pulito,,decapare
+verb,jewelry and metal working,he pickled,past completed action,ha decapato,ah deh-kah-PAH-toh,,past_3sg,,2,,,He pickled the bracelet this morning.,Ha decapato il bracciale stamattina.,ha pulito,,decapare
+verb,jewelry and metal working,we pickled,past completed action,abbiamo decapato,ah-BYAH-mo deh-kah-PAH-toh,,past_1pl,,2,,,We pickled the necklace together.,Abbiamo decapato la collana insieme.,abbiamo pulito,,decapare
+verb,jewelry and metal working,they pickled,past completed action,hanno decapato,AHN-noh deh-kah-PAH-toh,,past_3pl,,2,,,They pickled the earrings yesterday.,Hanno decapato gli orecchini ieri.,hanno pulito,,decapare
+verb,jewelry and metal working,you (plural) pickled,past completed action,avete decapato,ah-VEH-teh deh-kah-PAH-toh,,past_2pl,,2,,,You (plural) pickled the metal pieces.,Avete decapato i pezzi di metallo.,avete pulito,,decapare
 verb,jewelry and metal working,pickling,ongoing action,decapando,deh-kah-PAN-doh,,gerund,,2,,,Pickling removes surface fire-scale.,Decapando si elimina la colla bruna.,pulendo,,decapare
 verb,jewelry and metal working,to quench,cool hot metal quickly,temprare,tem-PRAH-reh,,infinitive,,2,,,Quench the piece in water.,Temprate il pezzo in acqua.,raffreddare,,temprare
 verb,jewelry and metal working,I quench,first-person present,tempro,TEM-proh,,present_1sg,,2,,,I quench red-hot steel.,Tempro l'acciaio incandescente.,raffreddo,,temprare
+verb,jewelry and metal working,you quench,second-person present,tempri,TEM-pree,,present_2sg,,2,,,You quench the blade carefully.,Tempri la lama con cura.,raffreddi,,temprare
+verb,jewelry and metal working,she quenches,third-person present,tempra,TEM-prah,,present_3sg,,2,,,She quenches the pendant now.,Lei tempra il pendente ora.,raffredda,,temprare
+verb,jewelry and metal workgin,he quenches,third-person present,tempra,TEM-prah,,present_3sg,,2,,,He quenches the bracelet daily.,Lui tempra il bracciale ogni giorno.,raffredda,,temprare
+verb,jewelry and metal working,we quench,first-person plural,tempriamo,tem-PRYAH-mo,,present_1pl,,2,,,We quench the necklace together.,Tempriamo la collana insieme.,raffreddiamo,,temprare
+verb,jewelry and metal working,they quench,third-person plural,temprano,TEM-prah-noh,,present_3pl,,2,,,They quench the earrings now.,Loro temprano gli orecchini ora.,raffreddano,,temprare
+verb,jewelry and metal working,you (plural) quench,second-person plural,temprate,tem-PRAH-teh,,present_2pl,,2,,,You (plural) quench the metal pieces.,Voi temprate i pezzi di metallo.,raffreddate,,temprare
 verb,jewelry and metal working,I quenched,past completed action,ho temprato,oh tem-PRAH-toh,,past_1sg,,2,,,I quenched the blade yesterday.,Ho temprato la lama ieri.,ho raffreddato,,temprare
+verb,jewelry and metal working,you quenched,past completed action,hai temprato,eye tem-PRAH-toh,,past_2sg,,2,,,You quenched the ring last week.,Hai temprato l'anello la settimana scorsa.,hai raffreddato,,temprare
+verb,jewelry and metal working,she quenched,past completed action,ha temprato,ah tem-PRAH-toh,,past_3sg,,2,,,She quenched the pendant last night.,Ha temprato il pendente ieri sera.,ha raffreddato,,temprare
+verb,jewelry and metal working,he quenched,past completed action,ha temprato,ah tem-PRAH-toh,,past_3sg,,2,,,He quenched the bracelet this morning.,Ha temprato il bracciale stamattina.,ha raffreddato,,temprare
+verb,jewelry and metal working,we quenched,past completed action,abbiamo temprato,ah-BYAH-mo tem-PRAH-toh,,past_1pl,,2,,,We quenched the necklace together.,Abbiamo temprato la collana insieme.,abbiamo raffreddato,,temprare
+verb,jewelry and metal working,they quenched,past completed action,hanno temprato,AHN-noh tem-PRAH-toh,,past_3pl,,2,,,They quenched the earrings yesterday.,Hanno temprato gli orecchini ieri.,hanno raffreddato,,temprare
+verb,jewelry and metal working,you (plural) quenched,past completed action,avete temprato,ah-VEH-teh tem-PRAH-toh,,past_2pl,,2,,,You (plural) quenched the metal pieces.,Avete temprato i pezzi di metallo.,avete raffreddato,,temprare
 verb,jewelry and metal working,quenching,ongoing action,temprando,tem-PRAHN-doh,,gerund,,2,,,Quenching produces a hiss.,Temprando si sente un sibilo.,raffreddando,,temprare
 verb,jewelry and metal working,to bend,shape by folding,piegare,pee-eh-GAH-reh,,infinitive,,1,,,We need to bend the wire.,Dobbiamo piegare il filo.,curvare,,piegare
 verb,jewelry and metal working,I bend,first-person present,piego,PYEH-goh,,present_1sg,,1,,,I bend the ring shank.,Piego il gambo dell'anello.,curvo,,piegare
+verb,jewelry and metal working,you bend,second-person present,pieghi,PYEH-gee,,present_2sg,,1,,,You bend the pendant carefully.,Pieghi il pendente con cura.,curvi,,piegare
+verb,jewelry and metal working,she bends,third-person present,piega,PYEH-gah,,present_3sg,,1,,,She bends the bracelet now.,Lei piega il bracciale ora.,curva,,piegare
+verb,jewelry and metal working,he bends,third-person present,piega,PYEH-gah,,present_3sg,,1,,,He bends the necklace daily.,Lui piega la collana ogni giorno.,curva,,piegare
+verb,jewelry and metal working,we bend,first-person plural,pieghiamo,pee-eh-GYAH-mo,,present_1pl,,1,,,We bend the earrings together.,Pieghiamo gli orecchini insieme.,curviamo,,piegare
+verb,jewelry and metal working,they bend,third-person plural,piegano,PYEH-gah-noh,,present_3pl,,1,,,They bend the metal pieces now.,Loro piegano i pezzi di metallo ora.,curvano,,piegare
+verb,jewelry and metal working,you (plural) bend,second-person plural,piegate,PYEH-gah-teh,,present_2pl,,1,,,You (plural) bend the wire.,Voi piegate il filo.,curvate,,piegare
 verb,jewelry and metal working,I bent,past completed action,ho piegato,oh pee-eh-GAH-toh,,past_1sg,,1,,,I bent the sheet yesterday.,Ho piegato la lastra ieri.,ho curvato,,piegare
+verb,jewelry and metal working,you bent,past completed action,hai piegato,eye pee-eh-GAH-toh,,past_2sg,,1,,,You bent the ring last week.,Hai piegato l'anello la settimana scorsa.,hai curvato,,piegare
+verb,jewelry and metal working,she bent,past completed action,ha piegato,ah pee-eh-GAH-toh,,past_3sg,,1,,,She bent the pendant last night.,Ha piegato il pendente ieri sera.,ha curvato,,piegare
+verb,jewelry and metal working,he bent,past completed action,ha piegato,ah pee-eh-GAH-toh,,past_3sg,,1,,,He bent the bracelet this morning.,Ha piegato il bracciale stamattina.,ha curvato,,piegare 
+verb,jewelry and metal working,we bent,past completed action,abbiamo piegato,ah-BYAH-mo pee-eh-GAH-toh,,past_1pl,,1,,,We bent the necklace together.,Abbiamo piegato la collana insieme.,abbiamo curvato,,piegare
+verb,jewelry and metal working,they bent,past completed action,hanno piegato,AHN-noh pee-eh-GAH-toh,,past_3pl,,1,,,They bent the earrings yesterday.,Hanno piegato gli orecchini ieri.,hanno curvato,,piegare
+verb,jewelry and metal working,you (plural) bent,past completed action,avete piegato,ah-VEH-teh pee-eh-GAH-toh,,past_2pl,,1,,,You (plural) bent the metal pieces.,Avete piegato i pezzi di metallo.,avete curvato,,piegare
 verb,jewelry and metal working,bending,ongoing action,piegando,pee-eh-GAN-doh,,gerund,,1,,,Bending work-hardens the metal.,Piegando si incrudisce il metallo.,curvando,,piegare
+verb,shopping,to buy,purchase goods,comprare,kohm-PRAH-reh,,infinitive,,1,verb,,I want to buy a souvenir.,Voglio comprare un souvenir.,acquistare,,comprare
+verb,shopping,I buy,first-person present,compro,KOHM-proh,,present_1sg,,1,verb,,I buy fruit at the market.,Compro frutta al mercato.,acquisto,,comprare
+verb,shopping,you buy,second-person present,compri,KOHM-pree,,present_2sg,,1,verb,,You buy bread at the bakery.,Compri il pane in panetteria.,acquisti,,comprare
+verb,shopping,she buys,third-person present,compra,KOHM-prah,,present_3sg,,1,verb,,She buys a dress at the store.,Lei compra un vestito al negozio.,acquista,,comprare
+verb,shopping,he buys,third-person present,compra,KOHM-prah,,present_3sg,,1,verb,,He buys a book at the bookstore.,Lui compra un libro in libreria.,acquista,,comprare
+verb,shopping,we buy,first-person plural present,compriamo,kohm-PREE-ah-moh,,present_1pl,,1,verb,,We buy groceries every week.,Compriamo la spesa ogni settimana.,acquistiamo,,comprare
+verb,shopping,they buy,third-person plural present,comprano,kohm-PRAH-noh,,present_3pl,,1,verb,,They buy souvenirs in Rome.,Loro comprano souvenir a Roma.,acquistano,,comprare
+verb,shopping,you (plural) buy,second-person plural present,comprate,kohm-PRAH-teh,,present_2pl,,1,verb,,You all buy souvenirs in Rome.,Comprate souvenir a Roma.,acquistate,,comprare
+verb,shopping,I bought,past completed action,ho comprato,oh kohm-PRAH-toh,,past_1sg,,1,verb,,I bought tickets yesterday.,Ho comprato i biglietti ieri.,ho acquistato,,comprare
+verb,shopping,you bought,second-person past completed action,hai comprato,hai kohm-PRAH-toh,,past_2sg,,1,verb,,You bought a gift for her.,Hai comprato un regalo per lei.,hai acquistato,,comprare
+verb,shopping,she bought,third-person past completed action,ha comprato,ah kohm-PRAH-toh,,past_3sg,,1,verb,,She bought a dress last week.,Ha comprato un vestito la settimana scorsa.,ha acquistato,,comprare
+verb,shopping,he bought,third-person past completed action,ha comprato,ah kohm-PRAH-toh,,past_3sg,,1,verb,,He bought a book last month.,Ha comprato un libro il mese scorso.,ha acquistato,,comprare
+verb,shopping,we bought,first-person plural past completed action,abbiamo comprato,ah-BBYAH-mo kohm-PRAH-toh,,past_1pl,,1,verb,,We bought groceries yesterday.,Abbiamo comprato la spesa ieri.,abbiamo acquistato,,comprare
+verb,shopping,they bought,third-person plural past completed action,hanno comprato,AHN-noh kohm-PRAH-toh,,past_3pl,,1,verb,,They bought souvenirs in Rome.,Hanno comprato souvenir a Roma.,hanno acquistato,,comprare
+verb,shopping,you (plural) bought,second-person plural past completed action,avete comprato,ah-VEH-teh kohm-PRAH-toh,,past_2pl,,1,verb,,You all bought souvenirs in Rome.,Avete comprato souvenir a Roma.,avete acquistato,,comprare
+verb,shopping,buying,ongoing action,comprando,kohm-PRAHN-doh,,gerund,,1,verb,,Buying local products saves money.,Comprando prodotti locali si risparmia.,acquistando,,comprare
+verb,shopping,to pay,hand over money,pagare,pah-GAH-reh,,infinitive,,1,verb,,You can pay with card.,Puoi pagare con la carta.,sal­dare,,pagare
+verb,shopping,I pay,first-person present,pago,PAH-goh,,present_1sg,,1,verb,,I pay at the register.,Pago alla cassa.,saldo,,pagare
+verb,shopping,you pay,second-person present,paghi,PAH-gee,,present_2sg,,1,verb,,You pay with cash.,Paghi in contanti.,saldi,,pagare
+verb,shopping,she pays,third-person present,paga,PAH-gah,,present_3sg,,1,verb,,She pays for the groceries.,Lei paga la spesa.,salda,,pagare
+verb,shopping,he pays,third-person present,paga,PAH-gah,,present_3sg,,1,verb,,He pays for the coffee.,Lui paga il caffè.,salda,,pagare
+verb,shopping,we pay,first-person plural present,paghiamo,pah-GYAH-moh,,present_1pl,,1,verb,,We pay for the tickets.,Paghiamo i biglietti.,saldamo,,pagare
+verb,shopping,they pay,third-person plural present,pagano,PAH-gah-noh,,present_3pl,,1,verb,,They pay for the meal.,Loro pagano il pasto.,saldano,,pagare
+verb,shopping,you (plural) pay,second-person plural present,pagate,pah-GAH-teh,,present_2pl,,1,verb,,You all pay for the drinks.,Pagate le bevande.,saldate,,pagare
+verb,shopping,I paid,past completed action,ho pagato,oh pah-GAH-toh,,past_1sg,,1,verb,,I paid the bill already.,Ho pagato il conto già.,ho saldato,,pagare
+verb,shopping,you paid,second-person past completed action,hai pagato,hai pah-GAH-toh,,past_2sg,,1,verb,,You paid for the groceries.,Hai pagato la spesa.,hai saldato,,pagare
+verb,shopping,she paid,third-person past completed action,ha pagato,ah pah-GAH-toh,,past_3sg,,1,verb,,She paid for the dress.,Ha pagato il vestito.,ha saldato,,pagare
+verb,shopping,he paid,third-person past completed action,ha pagato,ah pah-GAH-toh,,past_3sg,,1,verb,,He paid for the book.,Ha pagato il libro.,ha saldato,,pagare
+verb,shopping,we paid,first-person plural past completed action,abbiamo pagato,ah-BBYAH-mo pah-GAH-toh,,past_1pl,,1,verb,,We paid for the tickets.,Abbiamo pagato i biglietti.,abbiamo saldato,,pagare
+verb,shopping,they paid,third-person plural past completed action,hanno pagato,AHN-noh pah-GAH-toh,,past_3pl,,1,verb,,They paid for the meal.,Hanno pagato il pasto.,hanno saldato,,pagare
+verb,shopping,you (plural) paid,second-person plural past completed action,avete pagato,ah-VEH-teh pah-GAH-toh,,past_2pl,,1,verb,,You all paid for the drinks.,Avete pagato le bevande.,avete saldato,,pagare
+verb,shopping,paying,ongoing action,pagando,pah-GAN-doh,,gerund,,1,verb,,Paying in cash is faster.,Pagando in contanti è più veloce.,saldando,,pagare
+verb,shopping,to try on,put clothing on to test,provare,proh-VAH-reh,,infinitive,,1,verb,,May I try on this jacket?,Posso provare questa giacca?,testare,,provare
+verb,shopping,I try on,first-person present,provo,PROH-voh,,present_1sg,,1,verb,,I try on the shoes.,Provo le scarpe.,testo,,provare
+verb,shopping,you try on,second-person present,provi,PROH-vee,,present_2sg,,1,verb,,You try on the dress.,Provi il vestito.,testi,,provare
+verb,shopping,she tries on,third-person present,prova,PROH-vah,,present_3sg,,1,verb,,She tries on the blouse.,Lei prova la camicetta.,testa,,provare
+verb,shopping,he tries on,third-person present,prova,PROH-vah,,present_3sg,,1,verb,,He tries on the jacket.,Lui prova la giacca.,testa,,provare
+verb,shopping,we try on,first-person plural present,proviamo,proh-VYAH-moh,,present_1pl,,1,verb,,We try on the clothes.,Proviamo i vestiti.,testiamo,,provare
+verb,shopping,they try on,third-person plural present,provano,PROH-vah-noh,,present_3pl,,1,verb,,They try on the shoes.,Loro provano le scarpe.,testano,,provare
+verb,shopping,you (plural) try on,second-person plural present,provate,proh-VAH-teh,,present_2pl,,1,verb,,You all try on the dresses.,Provate i vestiti.,testate,,provare
+verb,shopping,I tried on,past completed action,ho provato,oh proh-VAH-toh,,past_1sg,,1,verb,,I tried on three sizes.,Ho provato tre taglie.,ho testato,,provare
+verb,shopping,you tried on,second-person past completed action,hai provato,hai proh-VAH-toh,,past_2sg,,1,verb,,You tried on the jacket.,Hai provato la giacca.,hai testato,,provare
+verb,shopping,she tried on,third-person past completed action,ha provato,ah proh-VAH-toh,,past_3sg,,1,verb,,She tried on the dress.,Ha provato il vestito.,ha testato,,provare
+verb,shopping,he tried on,third-person past completed action,ha provato,ah proh-VAH-toh,,past_3sg,,1,verb,,He tried on the shoes.,Ha provato le scarpe.,ha testato,,provare
+verb,shopping,we tried on,first-person plural past completed action,abbiamo provato,ah-BBYAH-mo proh-VAH-toh,,past_1pl,,1,verb,,We tried on the clothes.,Abbiamo provato i vestiti.,abbiamo testato,,provare
+verb,shopping,they tried on,third-person plural past completed action,hanno provato,AHN-noh proh-VAH-toh,,past_3pl,,1,verb,,They tried on the shoes.,Hanno provato le scarpe.,hanno testato,,provare
+verb,shopping,you (plural) tried on,second-person plural past completed action,avete provato,ah-VEH-teh proh-VAH-toh,,past_2pl,,1,verb,,You all tried on the dresses.,Avete provato i vestiti.,avete testato,,provare
+verb,shopping,trying on,ongoing action,provando,proh-VAN-doh,,gerund,,1,verb,,Trying on clothes takes time.,Provando i vestiti si perde tempo.,testando,,provare
+verb,shopping,to cost,have a price,costare,koh-STAHR-eh,,infinitive,,1,verb,,How much does it cost?,Quanto costa?,valere,,costare
+verb,shopping,costing,ongoing action,costando,koh-STAN-doh,,gerund,,1,verb,,Costing too much I skipped it.,Costando troppo l’ho lasciato.,valendo,,costare
+verb,shopping,to choose,select something,scegliere,SHEL-lyeh-reh,,infinitive,,1,verb,,Choose your favorite flavor.,Scegli il tuo gusto preferito.,selezionare,,scegliere
+verb,shopping,I choose,first-person present,scelgo,SHEL-goh,,present_1sg,,1,verb,,I choose local wines.,Scelgo vini locali.,seleziono,,scegliere
+verb,shopping,you choose,second-person present,scegli,SHEL-yee,,present_2sg,,1,verb,,You choose the best option.,Scegli l'opzione migliore.,selezioni,,scegliere
+verb,shopping,she chooses,third-person present,sceglie,SHEL-yee-eh,,present_3sg,,1,verb,,She chooses the red dress.,Lei sceglie il vestito rosso.,seleziona,,scegliere
+verb,shopping,he chooses,third-person present,sceglie,SHEL-yee-eh,,present_3sg,,1,verb,,He chooses the blue shirt.,Lui sceglie la camicia blu.,seleziona,,scegliere
+verb,shopping,we choose,first-person plural present,scegliamo,SHEL-lyah-moh,,present_1pl,,1,verb,,We choose the best restaurant.,Scegliamo il miglior ristorante.,selezioniamo,,scegliere
+verb,shopping,they choose,third-person plural present,scegono,SHEL-goh-noh,,present_3pl,,1,verb,,They choose the best souvenirs.,Loro scelgono i migliori souvenir.,selezionano,,scegliere
+verb,shopping,you (plural) choose,second-person plural present,scegliete,SHEL-yee-eh-teh,,present_2pl,,1,verb,,You all choose the best souvenirs.,Scegliete i migliori souvenir.,selezionate,,scegliere
+verb,shopping,I chose,past completed action,ho scelto,oh SHEL-toh,,past_1sg,,1,verb,,I chose the blue scarf.,Ho scelto la sciarpa blu.,ho selezionato,,sceltare
+verb,shopping,you chose,second-person past completed action,hai scelto,hai SHEL-toh,,past_2sg,,1,verb,,You chose the red dress.,Hai scelto il vestito rosso.,hai selezionato,,sceltare
+verb,shopping,she chose,third-person past completed action,ha scelto,ah SHEL-toh,,past_3sg,,1,verb,,She chose the green shoes.,Ha scelto le scarpe verdi.,ha selezionato,,sceltare
+verb,shopping,he chose,third-person past completed action,ha scelto,ah SHEL-toh,,past_3sg,,1,verb,,He chose the black jacket.,Ha scelto la giacca nera.,ha selezionato,,sceltare
+verb,shopping,we chose,first-person plural past completed action,abbiamo scelto,ah-BBYAH-mo SHEL-toh,,past_1pl,,1,verb,,We chose the best restaurant.,Abbiamo scelto il miglior ristorante.,abbiamo selezionato,,sceltare
+verb,shopping,they chose,third-person plural past completed action,hanno scelto,AHN-noh SHEL-toh,,past_3pl,,1,verb,,They chose the best souvenirs.,Hanno scelto i migliori souvenir.,hanno selezionato,,sceltare
+verb,shopping,you (plural) chose,second-person plural past completed action,avete scelto,ah-VEH-teh SHEL-toh,,past_2pl,,1,verb,,You all chose the best souvenirs.,Avete scelto i migliori souvenir.,avete selezionato,,sceltare
+verb,shopping,choosing,ongoing action,scegliendo,shel-YEN-doh,,gerund,,1,verb,,Choosing takes me a while.,Scegliendo ci metto un po’.,selezionando,,scegliere
+verb,shopping,to exchange,swap an item,cambiare,kahm-BYAH-reh,,infinitive,,1,verb,,You can exchange within 30 days.,Puoi cambiare entro 30 giorni.,sostituire,,cambiare
+verb,shopping,I exchange,first-person present,cambio,KAHM-byoh,,present_1sg,,1,verb,,I exchange the size.,Cambio la taglia.,sostituisco,,cambiare
+verb,shopping,you exchange,second-person present,cambi,KAHM-bee,,present_2sg,,1,verb,,You exchange the shoes.,Cambi le scarpe.,sostituisci,,cambiare
+verb,shopping,she exchanges,third-person present,cambia,KAHM-byah,,present_3sg,,1,verb,,She exchanges the dress.,Lei cambia il vestito.,sostituisce,,cambiare
+verb,shopping,he exchanges,third-person present,cambia,KAHM-byah,,present_3sg,,1,verb,,He exchanges the jacket.,Lui cambia la giacca.,sostituisce,,cambiare
+verb,shopping,we exchange,first-person plural present,cambiamo,kahm-BYAH-moh,,present_1pl,,1,verb,,We exchange the gifts.,Cambiamo i regali.,sostituiamo,,cambiare
+verb,shopping,they exchange,third-person plural present,cambiano,KAHM-byah-noh,,present_3pl,,1,verb,,They exchange the souvenirs.,Loro cambiano i souvenir.,sostituiscono,,cambiare
+verb,shopping,you (plural) exchange,second-person plural present,cambiate,kahm-BYAH-teh,,present_2pl,,1,verb,,You all exchange the gifts.,Cambiate i regali.,sostituite,,cambiare
+verb,shopping,I exchanged,past completed action,ho cambiato,oh kahm-BYAH-toh,,past_1sg,,1,verb,,I exchanged the shoes yesterday.,Ho cambiato le scarpe ieri.,ho sostituito,,cambiare
+verb,shopping,you exchanged,second-person past completed action,hai cambiato,hai kahm-BYAH-toh,,past_2sg,,1,verb,,You exchanged the jacket.,Hai cambiato la giacca.,hai sostituito,,cambiare
+verb,shopping,she exchanged,third-person past completed action,ha cambiato,ah kahm-BYAH-toh,,past_3sg,,1,verb,,She exchanged the dress.,Ha cambiato il vestito.,ha sostituito,,cambiare
+verb,shopping,he exchanged,third-person past completed action,ha cambiato,ah kahm-BYAH-toh,,past_3sg,,1,verb,,He exchanged the shoes.,Ha cambiato le scarpe.,ha sostituito,,cambiare
+verb,shopping,we exchanged,first-person plural past completed action,abbiamo cambiato,ah-BBYAH-mo kahm-BYAH-toh,,past_1pl,,1,verb,,We exchanged the gifts.,Abbiamo cambiato i regali.,abbiamo sostituito,,cambiare
+verb,shopping,they exchanged,third-person plural past completed action,hanno cambiato,AHN-noh kahm-BYAH-toh,,past_3pl,,1,verb,,They exchanged the souvenirs.,Hanno cambiato i souvenir.,hanno sostituito,,cambiare
+verb,shopping,you (plural) exchanged,second-person plural past completed action,avete cambiato,ah-VEH-teh kahm-BYAH-toh,,past_2pl,,1,verb,,You all exchanged the gifts.,Avete cambiato i regali.,avete sostituito,,cambiare
+verb,shopping,exchanging,ongoing action,cambiando,kahm-BYAN-doh,,gerund,,1,verb,,Exchanging is easy here.,Cambiando qui è facile.,sostituendo,,cambiare
+verb,shopping,to measure,check size,misurare,mee-zoo-RAH-reh,,infinitive,,1,verb,,Please measure my waist.,Per favore misurami la vita.,verificare,,misurare
+verb,shopping,I measure,first-person present,misuro,mee-ZOO-roh,,present_1sg,,1,verb,,I measure the fabric.,Misuro il tessuto.,verifico,,misurare
+verb,shopping,you measure,second-person present,misuri,mee-ZOO-ree,,present_2sg,,1,verb,,You measure the length.,Misuri la lunghezza.,verifichi,,misurare
+verb,shopping,she measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,verb,,She measures the ring size.,Lei misura la misura dell’anello.,verifica,,misurare
+verb,shopping,he measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,verb,,He measures the fabric.,Lui misura il tessuto.,verifica,,misurare
+verb,shopping,we measure,first-person plural present,misuriamo,mee-ZOO-ryah-moh,,present_1pl,,1,verb,,We measure the length.,Misuriamo la lunghezza.,verifichiamo,,misurare
+verb,shopping,they measure,third-person plural present,misurano,mee-ZOO-rah-noh,,present_3pl,,1,verb,,They measure the fabric.,Loro misurano il tessuto.,verificano,,misurare
+verb,shopping,you (plural) measure,second-person plural present,misurate,mee-ZOO-rah-teh,,present_2pl,,1,verb,,You all measure the length.,Misurate la lunghezza.,verificate,,misurare
+verb,shopping,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,,past_1sg,,1,verb,,I measured the ring size.,Ho misurato la misura dell’anello.,ho verificato,,misurare
+verb,shopping,you measured,second-person past completed action,hai misurato,hai mee-zoo-RAH-toh,,past_2sg,,1,verb,,You measured the fabric.,Hai misurato il tessuto.,hai verificato,,misurare
+verb,shopping,she measured,third-person past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,verb,,She measured the length.,Ha misurato la lunghezza.,ha verificato,,misurare
+verb,shopping,he measured,third-person past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,verb,,He measured the fabric.,Ha misurato il tessuto.,ha verificato,,misurare
+verb,shopping,we measured,first-person plural past completed action,abbiamo misurato,ah-BBYAH-mo mee-zoo-RAH-toh,,past_1pl,,1,verb,,We measured the length.,Abbiamo misurato la lunghezza.,abbiamo verificato,,misurare
+verb,shopping,they measured,third-person plural past completed action,hanno misurato,AHN-noh mee-zoo-RAH-toh,,past_3pl,,1,verb,,They measured the fabric.,Hanno misurato il tessuto.,hanno verificato,,misurare
+verb,shopping,you (plural) measured,second-person plural past completed action,avete misurato,ah-VEH-teh mee-zoo-RAH-toh,,past_2pl,,1,verb,,You all measured the length.,Avete misurato la lunghezza.,avete verificato,,misurare
+verb,shopping,measuring,ongoing action,misurando,mee-zoo-RAN-doh,,gerund,,1,verb,,Measuring saves return trips.,Misurando si evitano resi.,verificando,,misurare
+verb,shopping,to return,bring back/reimburse,restituire,reh-stee-too-EE-reh,,infinitive,,1,verb,,I want to return this item.,Voglio restituire questo articolo.,rendere,,restituire
+verb,shopping,I return,first-person present,restituisco,reh-stee-too-EES-koh,,present_1sg,,1,verb,,I return defective goods.,Restituisco merce difettosa.,rendo,,restituire
+verb,shopping,you return,second-person present,restituisci,reh-stee-too-EE-shee,,present_2sg,,1,verb,,You return the shoes.,Restituisci le scarpe.,rendi,,restituire
+verb,shopping,she returns,third-person present,restituisce,reh-stee-too-EE-sheh,,present_3sg,,1,verb,,She returns the dress.,Lei restituisce il vestito.,rende,,restituire
+verb,shopping,he returns,third-person present,restituisce,reh-stee-too-EE-sheh,,present_3sg,,1,verb,,He returns the jacket.,Lui restituisce la giacca.,rende,,restituire
+verb,shopping,we return,first-person plural present,restituiamo,reh-stee-too-YAH-moh,,present_1pl,,1,verb,,We return the gifts.,Restituiamo i regali.,rendiamo,,restituire
+verb,shopping,they return,third-person plural present,restituiscono,reh-stee-too-EE-skoh-noh,,present_3pl,,1,verb,,They return the souvenirs.,Loro restituiscono i souvenir.,rendono,,restituire
+verb,shopping,you (plural) return,second-person plural present,restituite,reh-stee-too-EE-teh,,present_2pl,,1,verb,,You all return the gifts.,Restituite i regali.,rendete,,restituire
+verb,shopping,I returned,past completed action,ho restituito,oh reh-stee-too-EE-toh,,past_1sg,,1,verb,,I returned the shirt yesterday.,Ho restituito la camicia ieri.,ho reso,,restituire
+verb,shopping,you returned,second-person past completed action,hai restituito,hai reh-stee-too-EE-toh,,past_2sg,,1,verb,,You returned the jacket.,Hai restituito la giacca.,hai reso,,restituire
+verb,shopping,she returned,third-person past completed action,ha restituito,ah reh-stee-too-EE-toh,,past_3sg,,1,verb,,She returned the dress.,Ha restituito il vestito.,ha reso,,restituire
+verb,shopping,he returned,third-person past completed action,ha restituito,ah reh-stee-too-EE-toh,,past_3sg,,1,verb,,He returned the shoes.,Ha restituito le scarpe.,ha reso,,restituire
+verb,shopping,we returned,first-person plural past completed action,abbiamo restituito,ah-BBYAH-mo reh-stee-too-EE-toh,,past_1pl,,1,verb,,We returned the gifts.,Abbiamo restituito i regali.,abbiamo reso,,restituire
+verb,shopping,they returned,third-person plural past completed action,hanno restituito,AHN-noh reh-stee-too-EE-toh,,past_3pl,,1,verb,,They returned the souvenirs.,Hanno restituito i souvenir.,hanno reso,,restituire
+verb,shopping,you (plural) returned,second-person plural past completed action,avete restituito,ah-VEH-teh reh-stee-too-EE-toh,,past_2pl,,1,verb,,You all returned the gifts.,Avete restituito i regali.,avete reso,,restituire
+verb,shopping,returning,ongoing action,restituendo,reh-stee-too-EN-doh,,gerund,,1,verb,,Returning items needs the receipt.,Restituendo serve lo scontrino.,rendendo,,restituire
+verb,shopping,to sell,give goods for money,vendere,VEN-deh-reh,,infinitive,,1,verb,,They sell fresh cheese.,Vendono formaggio fresco.,commercializzare,,vendere
+verb,shopping,I sell,first-person present,vendo,VEN-doh,,present_1sg,,1,verb,,I sell postcards in the shop.,Vendo cartoline in negozio.,commercializzo,,vendere
+verb,shopping,you sell,second-person present,vendi,VEN-dee,,present_2sg,,1,verb,,You sell souvenirs in Rome.,Vendi souvenir a Roma.,commercializzi,,vendere
+verb,shopping,she sells,third-person present,vende,VEN-deh,,present_3sg,,1,verb,,She sells handmade jewelry.,Lei vende gioielli fatti a mano.,commercializza,,vendere
+verb,shopping,he sells,third-person present,vende,VEN-deh,,present_3sg,,1,verb,,He sells local wines.,Lui vende vini locali.,commercializza,,vendere
+verb,shopping,we sell,first-person plural present,vendiamo,ven-DYAH-moh,,present_1pl,,1,verb,,We sell handmade crafts.,Vendiamo artigianato fatto a mano.,commercializziamo,,vendere
+verb,shopping,they sell,third-person plural present,vendono,VEN-doh-noh,,present_3pl,,1,verb,,They sell souvenirs in Rome.,Loro vendono souvenir a Roma.,commercializzano,,vendere
+verb,shopping,you (plural) sell,second-person plural present,vendete,ven-DEH-teh,,present_2pl,,1,verb,,You all sell souvenirs in Rome.,Voi vendete souvenir a Roma.,commercializzate,,vendere
+verb,shopping,I sold,past completed action,ho venduto,oh ven-DOO-toh,,past_1sg,,1,verb,,I sold my old camera.,Ho venduto la mia vecchia macchina fotografica.,ho commercializzato,,vendere
+verb,shopping,you sold,second-person past completed action,hai venduto,hai ven-DOO-toh,,past_2sg,,1,verb,,You sold your old phone.,Hai venduto il tuo vecchio telefono.,hai commercializzato,,vendere
+verb,shopping,she sold,third-person past completed action,ha venduto,ah ven-DOO-toh,,past_3sg,,1,verb,,She sold her old dress.,Ha venduto il suo vecchio vestito.,ha commercializzato,,vendere
+verb,shopping,he sold,third-person past completed action,ha venduto,ah ven-DOO-toh,,past_3sg,,1,verb,,He sold his old guitar.,Ha venduto la sua vecchia chitarra.,ha commercializzato,,vendere
+verb,shopping,we sold,first-person plural past completed action,abbiamo venduto,ah-BBYAH-mo ven-DOO-toh,,past_1pl,,1,verb,,We sold our old furniture.,Abbiamo venduto i nostri vecchi mobili.,abbiamo commercializzato,,vendere
+verb,shopping,they sold,third-person plural past completed action,hanno venduto,AHN-noh ven-DOO-toh,,past_3pl,,1,verb,,They sold their old car.,Hanno venduto la loro vecchia auto.,hanno commercializzato,,vendere
+verb,shopping,you (plural) sold,second-person plural past completed action,avete venduto,ah-VEH-teh ven-DOO-toh,,past_2pl,,1,verb,,You all sold your old furniture.,Avete venduto i vostri vecchi mobili.,avete commercializzato,,vendere
+verb,shopping,selling,ongoing action,vendendo,ven-DEN-doh,,gerund,,1,verb,,Selling souvenirs is fun.,Vendendo souvenir ci si diverte.,commercializzando,,vendere
+verb,shopping,to ask for,request,richiedere,ree-kyeh-DEH-reh,,infinitive,,1,verb,,You can ask for a discount.,Puoi richiedere uno sconto.,chiedere,,richiedere
+verb,shopping,I ask for,first-person present,richiedo,ree-KYEH-doh,,present_1sg,,1,verb,,I ask for a bag.,Richiedo una borsa.,chiedo,,richiedere
+verb,shopping,you ask for,second-person present,richiedi,ree-KYEH-dee,,present_2sg,,1,verb,,You ask for a receipt.,Richiedi uno scontrino.,chiedi,,richiedere
+verb,shopping,she asks for,third-person present,richiede,ree-KYEH-deh,,present_3sg,,1,verb,,She asks for a discount.,Lei richiede uno sconto.,chiede,,richiedere
+verb,shopping,he asks for,third-person present,richiede,ree-KYEH-deh,,present_3sg,,1,verb,,He asks for a bag.,Lui richiede una borsa.,chiede,,richiedere
+verb,shopping,we ask for,first-person plural present,richiediamo,ree-kyeh-DYAH-moh,,present_1pl,,1,verb,,We ask for a receipt.,Richiediamo uno scontrino.,chiediamo,,richiedere
+verb,shopping,they ask for,third-person plural present,richiedono,ree-kyeh-DOH-noh,,present_3pl,,1,verb,,They ask for a discount.,Loro richiedono uno sconto.,chiedono,,richiedere
+verb,shopping,you (plural) ask for,second-person plural present,richiedete,ree-kyeh-DEH-teh,,present_2pl,,1,verb,,You all ask for a receipt.,Richiedete uno scontrino.,chiedete,,richiedere
+verb,shopping,I asked for,past completed action,ho richiesto,oh ree-KYEH-stoh,,past_1sg,,1,verb,,I asked for a receipt.,Ho richiesto uno scontrino.,ho chiesto,,richiestare
+verb,shopping,you asked for,second-person past completed action,hai richiesto,hai ree-KYEH-stoh,,past_2sg,,1,verb,,You asked for a bag.,Hai richiesto una borsa.,hai chiesto,,richiestare
+verb,shopping,she asked for,third-person past completed action,ha richiesto,ah ree-KYEH-stoh,,past_3sg,,1,verb,,She asked for a discount.,Ha richiesto uno sconto.,ha chiesto,,richiestare
+verb,shopping,he asked for,third-person past completed action,ha richiesto,ah ree-KYEH-stoh,,past_3sg,,1,verb,,He asked for a bag.,Ha richiesto una borsa.,ha chiesto,,richiestare
+verb,shopping,we asked for,first-person plural past completed action,abbiamo richiesto,ah-BBYAH-mo ree-KYEH-stoh,,past_1pl,,1,verb,,We asked for a receipt.,Abbiamo richiesto uno scontrino.,abbiamo chiesto,,richiestare
+verb,shopping,they asked for,third-person plural past completed action,hanno richiesto,AHN-noh ree-KYEH-stoh,,past_3pl,,1,verb,,They asked for a discount.,Hanno richiesto uno sconto.,hanno chiesto,,richiestare
+verb,shopping,you (plural) asked for,second-person plural past completed action,avete richiesto,ah-VEH-teh ree-KYEH-stoh,,past_2pl,,1,verb,,You all asked for a receipt.,Avete richiesto uno scontrino.,avete chiesto,,richiestare
+verb,shopping,asking for,ongoing action,richiedendo,ree-kyeh-DEN-doh,,gerund,,1,verb,,Asking for help is easy.,Richiedendo aiuto è facile.,chiedendo,,richiedere

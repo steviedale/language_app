@@ -1,41 +1,161 @@
 category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
 verb,directions,to turn,change direction,girare,jee-RAH-reh,,infinitive,,1,,,To reach the museum, you have to turn left.,Per raggiungere il museo devi girare a sinistra.,,girare
 verb,directions,I turn,first-person present,giro,JEE-roh,,present_1sg,,1,,,I turn right at the traffic light.,Giro a destra al semaforo.,svolto,,girare
+verb,directions,you turn,second-person plural present,girate,jee-RAH-teh,,present_2pl,,1,,,You turn at the next corner.,Girate al prossimo angolo.,svoltate,,girare
+verb,directions,you (plural) turn,second-person plural present,girate,jee-RAH-teh,,present_2pl,,1,,,You turn at the next corner.,Girate al prossimo angolo.,svoltate,,girare
+verb,directions,she turns,third-person singular present,gira,JEE-rah,,present_3sg,,1,,,She turns left at the intersection.,Gira a sinistra all'incrocio.,si volta,,girare
+verb,directions,he turns,third-person singular present,gira,JEE-rah,,present_3sg,,1,,,He turns right at the traffic light.,Gira a destra al semaforo.,si volta,,girare
+verb,directions,we turn,first-person plural present,giriamo,jee-RYAH-mo,,present_1pl,,1,,,We turn at the intersection.,Giriamo all'incrocio.,svoltiamo,,girare
+verb,directions,they turn,third-person plural present,girano,JEE-rah-noh,,present_3pl,,1,,,They turn around the corner.,Girano all'angolo.,si voltano,,girare
 verb,directions,I turned,past completed action,ho girato,oh jee-RAH-toh,,past_1sg,,1,,,I turned too early yesterday.,Ho girato troppo presto ieri.,ho svoltato,,girare
+verb,directions,you turned,past completed action,hai girato,AH-ee jee-RAH-toh,,past_2sg,,1,,,You turned at the traffic light.,Hai girato al semaforo.,ti sei voltato,,girare
+verb,directions,she turned,past completed action,ha girato,AH-ah jee-RAH-toh,,past_3sg,,1,,,She turned left at the corner.,Ha girato a sinistra all'angolo.,si è voltata,,girare
+verb,directions,he turned,past completed action,ha girato,AH-ah jee-RAH-toh,,past_3sg,,1,,,He turned right at the intersection.,Ha girato a destra all'incrocio.,si è voltato,,girare
+verb,directions,we turned,past completed action,abbiamo girato,ah-BBYAH-mo jee-RAH-toh,,past_1pl,,1,,,We turned at the corner.,Abbiamo girato all'angolo.,abbiamo svoltato,,girare
+verb,directions,they turned,past completed action,sono girati,SOH-noh jee-RAH-tee,,past_3pl,,1,,,They turned around the block.,Sono girati intorno all'isolato.,si sono voltati,,girare
+verb,directions,you (plural) turned,past completed action,vi siete girati,VEE see-EH-teh jee-RAH-tee,,past_2pl,,1,,,You turned at the intersection.,Vi siete girati all'incrocio.,vi siete voltati,,girare
 verb,directions,turning,ongoing action,girando,jee-RAN-doh,,gerund,,1,,,Turning here you’ll see the river.,Girando qui vedrai il fiume.,svoltando,,girare
 verb,directions,to go,move from one place to another,andare,ahn-DAH-reh,,infinitive,,1,,,You can go straight for two blocks.,Puoi andare dritto per due isolati.,muoversi,,andare
-verb,directions,I go,first-person present,vado,VAH-doh,,present_1sg,,1,,,I go to the station every day.,Vado alla stazione ogni giorno.,mi muovo,,andare
-verb,directions,I went,past completed action,sono andato,SOH-noh ahn-DAH-toh,,past_1sg,,1,,,I went by foot last night.,Sono andato a piedi ieri sera.,mi sono mosso,,andare
-verb,directions,going,ongoing action,andando,ahn-DAN-doh,,gerund,,1,,,Going straight you’ll reach the sea.,Andando sempre dritto arrivi al mare.,muovendosi,,andare
+verb,directions,I go,move from one place to another,vado,VAH-doh,,present_1sg,,1,,,I go to the station every day.,Vado alla stazione ogni giorno.,mi muovo,,andare
+verb,directions,you go,move from one place to another,vai,VAH-ee,,present_2sg,,1,,,You go to the store now.,Vai al negozio adesso.,ti muovi,,andare
+verb,directions,you (plural) go,move from one place to another,andate,ahn-DAH-teh,,present_2pl,,1,,,You go to the museum tomorrow.,Andate al museo domani.,vi muovete,,andare
+verb,directions,she goes,move from one place to another,va,VAH,,present_3sg,,1,,,She goes to the library in the afternoon.,Va in biblioteca nel pomeriggio.,si muove,,andare
+verb,directions,he goes,move from one place to another,va,VAH,,present_3sg,,1,,,He goes to the gym in the evening.,Va in palestra la sera.,si muove,,andare
+verb,directions,we go,move from one place to another,noi andiamo,NOY ahn-DYAH-mo,,present_1pl,,1,,,We go to the cinema tonight.,Noi andiamo al cinema stasera.,ci muoviamo,,andare
+verb,directions,they go,move from one place to another,vanno,VAHN-noh,,present_3pl,,1,,,They go to the park every weekend.,Vanno al parco ogni fine settimana.,si muovono,,andare
+verb,directions,I went,move from one place to another,sono andato,SOH-noh ahn-DAH-toh,,past_1sg,,1,,,I went by foot last night.,Sono andato a piedi ieri sera.,mi sono mosso,,andare
+verb,directions,you went,move from one place to another,sei andato,SEH-ee ahn-DAH-toh,,past_2sg,,1,,,You went to the party last week.,Sei andato alla festa la settimana scorsa.,ti sei mosso,,andare
+verb,directions,she went,move from one place to another,è andata,EH ahn-DAH-tah,,past_3sg,,1,,,She went to the concert last night.,È andata al concerto ieri sera.,si è mossa,,andare
+verb,directions,he went,move from one place to another,è andato,EH ahn-DAH-toh,,past_3sg,,1,,,He went to the meeting yesterday.,È andato alla riunione ieri.,si è mosso,,andare
+verb,directions,we went,move from one place to another,siamo andati,SEE-ah-mo ahn-DAH-tee,,past_1pl,,1,,,We went to the market.,Siamo andati al mercato.,ci siamo mossi,,andare
+verb,directions,they went,move from one place to another,sono andati,SOH-noh ahn-DAH-tee,,past_3pl,,1,,,They went to the beach.,Sono andati alla spiaggia.,si sono mossi,,andare
+verb,directions,you (plural) went,move from one place to another,vi siete andati,VEE see-EH-teh ahn-DAH-tee,,past_2pl,,1,,,You went to the concert.,Vi siete andati al concerto.,vi siete mossi,,andare
+verb,directions,going,move from one place to another,andando,ahn-DAN-doh,,gerund,,1,,,Going straight you’ll reach the sea.,Andando sempre dritto arrivi al mare.,muovendosi,,andare
 verb,directions,to continue,carry on in same direction,continuare,con-tee-nu-AH-reh,,infinitive,,1,,,Continue until you see the arch.,Continua finché vedi l'arco.,proseguire,,continuare
 verb,directions,I continue,first-person present,continuo,con-TEE-nuoh,,present_1sg,,1,,,I continue along this street.,Continuo lungo questa strada.,proseguo,,continuare
+verb,directions,you continue,second-person singular present,continui,con-TEE-nu-ee,,present_2sg,,1,,,You continue to the next intersection.,Continui al prossimo incrocio.,prosegui,,continuare
+verb,directions,you (plural) continue,second-person plural present,continuate,con-TEE-nu-AH-teh,,present_2pl,,1,,,You continue along the path.,Continuate lungo il sentiero.,proseguite,,continuare
+verb,directions,she continues,third-person singular present,continua,con-TEE-nu-ah,,present_3sg,,1,,,She continues to the next street.,Continua alla prossima strada.,prosegue,,continuare
+verb,directions,he continues,third-person singular present,continua,con-TEE-nu-ah,,present_3sg,,1,,,He continues to the next corner.,Continua al prossimo angolo.,prosegue,,continuare
+verb,directions,we continue,first-person plural present,continuiamo,con-TEE-nu-YAH-moh,,present_1pl,,1,,,We continue towards the park.,Continuiamo verso il parco.,proseguiamo,,continuare
+verb,directions,they continue,third-person plural present,continuano,con-TEE-nu-ah-noh,,present_3pl,,1,,,They continue to the next village.,Continuano al prossimo villaggio.,proseguono,,continuare
 verb,directions,I continued,past completed action,ho continuato,oh con-tee-nu-AH-toh,,past_1sg,,1,,,I continued after the bridge.,Ho continuato dopo il ponte.,ho proseguito,,oh
+verb,directions,you continued,past completed action,hai continuato,AH-ee con-tee-nu-AH-toh,,past_2sg,,1,,,You continued to the end of the street.,Hai continuato fino alla fine della strada.,ti sei proseguito,,continuare
+verb,directions,she continued,past completed action,ha continuato,AH-ah con-tee-nu-AH-toh,,past_3sg,,1,,,She continued to the next town.,Ha continuato al prossimo paese.,si è proseguita,,continuare
+verb,directions,he continued,past completed action,ha continuato,AH-ah con-tee-nu-AH-toh,,past_3sg,,1,,,He continued to the next intersection.,Ha continuato al prossimo incrocio.,si è proseguito,,continuare
+verb,directions,we continued,past completed action,abbiamo continuato,ah-BBYAH-mo con-tee-nu-AH-toh,,past_1pl,,1,,,We continued along the river.,Abbiamo continuato lungo il fiume.,abbiamo proseguito,,continuare
+verb,directions,they continued,past completed action,hanno continuato,AHN-no con-tee-nu-AH-toh,,past_3pl,,1,,,They continued to the next town.,Hanno continuato fino al prossimo paese.,hanno proseguito,,continuare
+verb,directions,you (plural) continued,past completed action,vi siete continuati,VEE see-EH-teh con-tee-nu-AH-tee,,past_2pl,,1,,,You continued to the end of the road.,Vi siete continuati fino alla fine della strada.,vi siete proseguiti,,continuare
 verb,directions,continuing,ongoing action,continuando,con-tee-nu-AN-doh,,gerund,,1,,,Continuing you’ll reach the piazza.,Continuando arrivi in piazza.,proseguendo,,continuando
 verb,directions,to cross,go from one side to other,attraversare,ah-tra-ver-SAH-reh,,infinitive,,1,,,Cross the street at the zebra crossing.,Attraversa la strada sulle strisce.,passare,,attraversare
 verb,directions,I cross,first-person present,attraverso,ah-tra-VER-soh,,present_1sg,,1,,,I cross the square every morning.,Attraverso la piazza ogni mattina.,passo,,attraversare
+verb,directions,you cross,second-person singular present,attraversi,ah-tra-VER-see,,present_2sg,,1,,,You cross the street carefully.,Attraversi la strada con attenzione.,passi,,attraversare
+verb,directions,you (plural) cross,second-person plural present,attraversate,ah-tra-ver-ZAH-teh,,present_2pl,,1,,,You cross the bridge at noon.,Attraversate il ponte a mezzogiorno.,passate,,attraversare
+verb,directions,she crosses,third-person singular present,attraversa,ah-tra-VER-sah,,present_3sg,,1,,,She crosses the road quickly.,Attraversa la strada velocemente.,passa,,attraversare
+verb,directions,he crosses,third-person singular present,attraversa,ah-tra-VER-sah,,present_3sg,,1,,,He crosses the square every day.,Attraversa la piazza ogni giorno.,passa,,attraversare
+verb,directions,we cross,first-person plural present,attraversiamo,ah-tra-ver-ZYAH-mo,,present_1pl,,1,,,We cross the river together.,Attraversiamo il fiume insieme.,passiamo,,attraversare
+verb,directions,they cross,third-person plural present,attraversano,ah-tra-VER-zah-noh,,present_3pl,,1,,,They cross the road carefully.,Attraversano la strada con attenzione.,passano,,attraversare
 verb,directions,I crossed,past completed action,ho attraversato,oh ah-tra-ver-SAH-toh,,past_1sg,,1,,,I crossed the bridge yesterday.,Ho attraversato il ponte ieri.,ho passato,,oh
+verb,directions,you crossed,past completed action,hai attraversato,AH-ee ah-tra-ver-SAH-toh,,past_2sg,,1,,,You crossed the street last week.,Hai attraversato la strada la settimana scorsa.,ti sei passato,,attraversare
+verb,directions,she crossed,past completed action,ha attraversato,AH-ah ah-tra-ver-SAH-toh,,past_3sg,,1,,,She crossed the square this morning.,Ha attraversato la piazza questa mattina.,si è passata,,attraversare
+verb,directions,he crossed,past completed action,ha attraversato,AH-ah ah-tra-ver-SAH-toh,,past_3sg,,1,,,He crossed the road yesterday.,Ha attraversato la strada ieri.,si è passato,,attraversare
+verb,directions,we crossed,past completed action,abbiamo attraversato,ah-BBYAH-mo ah-tra-ver-SAH-toh,,past_1pl,,1,,,We crossed the square last week.,Abbiamo attraversato la piazza la settimana scorsa.,abbiamo passato,,attraversare
+verb,directions,they crossed,past completed action,hanno attraversato,AHN-no ah-tra-ver-SAH-toh,,past_3pl,,1,,,They crossed the road carefully.,Hanno attraversato la strada con attenzione.,hanno passato,,attraversare
+verb,directions,you (plural) crossed,past completed action,vi siete attraversati,VEE see-EH-teh ah-tra-ver-SAH-tee,,past_2pl,,1,,,You crossed the park yesterday.,Vi siete attraversati il parco ieri.,vi siete passati,,attraversare
 verb,directions,crossing,ongoing action,attraversando,ah-tra-ver-SAN-doh,,gerund,,1,,,Crossing the park you’ll save time.,Attraversando il parco risparmi tempo.,passando,,attraversando
 verb,directions,to stop,cease movement,fermarsi,fehr-MAHR-see,,infinitive,,1,,,Remember to stop at the sign.,Ricorda di fermarti al cartello.,arrestarsi,,fermarsi
-verb,directions,I stop,first-person present,mi fermo,mee FEHR-moh,,present_1sg,,1,,,I stop in front of the church.,Mi fermo davanti alla chiesa.,mi arresto,,meare
-verb,directions,I stopped,past completed action,mi sono fermato,mee SOH-no fehr-MAH-toh,,past_1sg,,1,,,I stopped here last time.,Mi sono fermato qui l'ultima volta.,mi sono arrestato,,meare
-verb,directions,stopping,ongoing action,fermandomi,fehr-MAN-doh-mee,,gerund,,1,,,Stopping often lets you rest.,Fermandomi spesso riesco a riposare.,arrestandomi,,fermandomi
+verb,directions,I stop,first-person present,mi fermo,mee FEHR-moh,,present_1sg,,1,,,I stop in front of the church.,Mi fermo davanti alla chiesa.,mi arresto,,fermarsi
+verb,directions,you stop,second-person singular present,ti fermi,tee FEHR-mee,,present_2sg,,1,,,You stop at the traffic light.,Ti fermi al semaforo.,ti arresti,,fermarsi
+verb,directions,you (plural) stop,second-person plural present,vi fermate,VEE fehr-MAH-teh,,present_2pl,,1,,,You stop at the traffic light.,Vi fermate al semaforo.,vi arrestate,,fermarsi
+verb,directions,she stops,third-person singular present,si ferma,SEE FEHR-mah,,present_3sg,,1,,,She stops at the corner.,Si ferma all'angolo.,si arresta,,fermarsi
+verb,directions,he stops,third-person singular present,si ferma,SEE FEHR-mah,,present_3sg,,1,,,He stops at the bus stop.,Si ferma alla fermata dell'autobus.,si arresta,,fermarsi
+verb,directions,we stop,first-person plural present,ci fermiamo,chee fehr-MYAH-mo,,present_1pl,,1,,,We stop at the corner.,Ci fermiamo all'angolo.,ci arresteremo,,fermarsi
+verb,directions,they stop,third-person plural present,si fermano,SEE fehr-MAH-noh,,present_3pl,,1,,,They stop at the bus stop.,Si fermano alla fermata dell'autobus.,si arrestano,,fermarsi
+verb,directions,I stopped,past completed action,mi sono fermato,SOH-no fehr-MAH-toh,,past_1sg,,1,,,I stopped at the bus stop.,Mi sono fermato alla fermata dell'autobus.,mi sono arrestato,,fermarsi
+verb,directions,you stopped,past completed action,ti sei fermato,SEH-ee fehr-MAH-toh,,past_2sg,,1,,,You stopped at the traffic light.,Ti sei fermato al semaforo.,ti sei arrestato,,fermarsi
+verb,directions,she stopped,past completed action,si è fermata,SEH eh fehr-MAH-tah,,past_3sg,,1,,,She stopped at the corner.,Si è fermata all'angolo.,si è arrestata,,fermarsi
+verb,directions,he stopped,past completed action,si è fermato,SEH eh fehr-MAH-toh,,past_3sg,,1,,,He stopped at the bus stop.,Si è fermato alla fermata dell'autobus.,si è arrestato,,fermarsi
+verb,directions,we stopped,past completed action,ci siamo fermati,SEE-ah-mo fehr-MAH-tee,,past_1pl,,1,,,We stopped at the fountain.,Ci siamo fermati alla fontana.,ci siamo arrestati,,fermarsi
+verb,directions,they stopped,past completed action,si sono fermati,SEE-soh-no fehr-MAH-tee,,past_3pl,,1,,,They stopped at the entrance.,Si sono fermati all'ingresso.,si sono arrestati,,fermarsi
+verb,directions,you (plural) stopped,past completed action,vi siete fermati,VEE see-EH-teh fehr-MAH-tee,,past_2pl,,1,,,You stopped at the traffic light.,Vi siete fermati al semaforo.,vi siete arrestati,,fermarsi
+verb,directions,stopping,ongoing action,fermandomi,fehr-MAN-doh-mee,,gerund,,1,,,Stopping often lets you rest.,Fermandomi spesso riesco a riposare.,arrestandomi,,fermarsi
 verb,directions,to follow,move behind/follow route,seguire,seh-GWEE-reh,,infinitive,,1,,,Please follow the main road.,Per favore segui la strada principale.,percorre,,seguire
 verb,directions,I follow,first-person present,seguo,SEH-gwoh,,present_1sg,,1,,,I follow the map carefully.,Seguo la mappa con attenzione.,percorro,,seguare
+verb,directions,you follow,second-person singular present,segui,SEH-gwee,,present_2sg,,1,,,You follow the signs to the museum.,Segui i cartelli per il museo.,percorri,,seguire
+verb,directions,you (plural) follow,second-person plural present,seguite,seh-GWEE-teh,,present_2pl,,1,,,You follow the signs to the museum.,Seguite i cartelli per il museo.,percorrete,,seguire
+verb,directions,she follows,third-person singular present,segue,SEH-gweh,,present_3sg,,1,,,She follows the instructions carefully.,Segue le istruzioni con attenzione.,percorre,,seguire
+verb,directions,he follows,third-person singular present,segue,SEH-gweh,,present_3sg,,1,,,He follows the path through the forest.,Segue il sentiero attraverso la foresta.,percorre,,seguire
+verb,directions,we follow,first-person plural present,seguiamo,seh-GWEE-ah-mo,,present_1pl,,1,,,We follow the path through the forest.,Seguiamo il sentiero attraverso la foresta.,percorriamo,,seguire
+verb,directions,they follow,third-person plural present,seguono,SEH-gwoh-noh,,present_3pl,,1,,,They follow the instructions carefully.,Seguono le istruzioni con attenzione.,percorrono,,seguire
 verb,directions,I followed,past completed action,ho seguito,oh seh-GWEE-toh,,past_1sg,,1,,,I followed your instructions.,Ho seguito le tue indicazioni.,ho percorso,,oh
+verb,directions,you followed,past completed action,hai seguito,AH-ee seh-GWEE-toh,,past_2sg,,1,,,You followed the path to the lake.,Hai seguito il sentiero fino al lago.,ti sei percorso,,seguire
+verb,directions,she followed,past completed action,ha seguito,AH-ah seh-GWEE-toh,,past_3sg,,1,,,She followed the signs to the museum.,Ha seguito i cartelli per il museo.,si è percorsa,,seguire
+verb,directions,he followed,past completed action,ha seguito,AH-ah seh-GWEE-toh,,past_3sg,,1,,,He followed the instructions carefully.,Ha seguito le istruzioni con attenzione.,si è percorso,,seguire
+verb,directions,we followed,past completed action,abbiamo seguito,ah-BBYAH-mo seh-GWEE-toh,,past_1pl,,1,,,We followed the river yesterday.,Abbiamo seguito il fiume ieri.,abbiamo percorso,,seguire
+verb,directions,they followed,past completed action,hanno seguito,AHN-no seh-GWEE-toh,,past_3pl,,1,,,They followed the path to the lake.,Hanno seguito il sentiero fino al lago.,hanno percorso,,seguire
+verb,directions,you (plural) followed,past completed action,vi siete seguiti,VEE see-EH-teh seh-GWEE-tee,,past_2pl,,1,,,You followed the road signs.,Vi siete seguiti i segnali stradali.,vi siete percorsi,,seguire
 verb,directions,following,ongoing action,seguendo,seh-GWEN-doh,,gerund,,1,,,Following the river you’ll find the mill.,Seguendo il fiume trovi il mulino.,percorrendo,,seguendo
 verb,directions,to pass,go by something,oltrepassare,ol-treh-pah-SAH-reh,,infinitive,,2,,,Pass the tower and turn right.,Oltrepassa la torre e gira a destra.,superare,,oltrepassare
 verb,directions,I pass,first-person present,oltrepasso,ol-treh-PAH-ssoh,,present_1sg,,2,,,I pass the pharmacy every day.,Oltrepasso la farmacia ogni giorno.,supero,,oltrepassare
+verb,directions,you pass,second-person singular present,oltrepassi,ol-treh-PAH-see,,present_2sg,,2,,,You pass the bakery on the left.,Oltrepassi la panetteria a sinistra.,superi,,oltrepassare
+verb,directions,she passes,third-person singular present,oltrepassa,ol-treh-PAH-sah,,present_3sg,,2,,,She passes the post office every day.,Oltrepassa l'ufficio postale ogni giorno.,supera,,oltrepassare
+verb,directions,he passes,third-person singular present,oltrepassa,ol-treh-PAH-sah,,present_3sg,,2,,,He passes the supermarket on the way.,Oltrepassa il supermercato per strada.,supera,,oltrepassare
+verb,directions,you (plural) pass,second-person plural present,oltrepassate,ol-treh-pah-SAH-teh,,present_2pl,,2,,,You pass the bakery on the left.,Oltrepassate la panetteria a sinistra.,superate,,oltrepassare
+verb,directions,we pass,first-person plural present,oltrepassiamo,ol-treh-pah-SYAH-mo,,present_1pl,,2,,,We pass the supermarket on the way.,Oltrepassiamo il supermercato per strada.,superiamo,,oltrepassare
+verb,directions,they pass,third-person plural present,oltrepassano,ol-treh-PAH-zah-noh,,present_3pl,,2,,,They pass the post office every week.,Oltrepassano l'ufficio postale ogni settimana.,superano,,oltrepassare
 verb,directions,I passed,past completed action,ho oltrepassato,oh ol-treh-pah-SAH-toh,,past_1sg,,2,,,I passed the square yesterday.,Ho oltrepassato la piazza ieri.,ho superato,,oh
+verb,directions,you passed,past completed action,hai oltrepassato,AH-ee ol-treh-pah-SAH-toh,,past_2sg,,2,,,You passed the bakery last week.,Hai oltrepassato la panetteria la settimana scorsa.,ti sei superato,,oltrepassare
+verb,directions,she passed,past completed action,ha oltrepassato,AH-ah ol-treh-pah-SAH-toh,,past_3sg,,2,,,She passed the pharmacy this morning.,Ha oltrepassato la farmacia questa mattina.,si è superata,,oltrepassare
+verb,directions,he passed,past completed action,ha oltrepassato,AH-ah ol-treh-pah-SAH-toh,,past_3sg,,2,,,He passed the post office yesterday.,Ha oltrepassato l'ufficio postale ieri.,si è superato,,oltrepassare
+verb,directions,we followed,past completed action,abbiamo oltrepassato,ah-BBYAH-mo ol-treh-pah-SAH-toh,,past_1pl,,2,,,We passed the bridge last week.,Abbiamo oltrepassato il ponte la settimana scorsa.,abbiamo superato,,oltrepassare
+verb,directions,they passed,past completed action,hanno oltrepassato,AHN-no ol-treh-pah-SAH-toh,,past_3pl,,2,,,They passed the police station.,Hanno oltrepassato la stazione di polizia.,hanno superato,,oltrepassare
+verb,directions,you (plural) passed,past completed action,vi siete oltrepassati,VEE see-EH-teh ol-treh-pah-SAH-tee,,past_2pl,,2,,,You passed the restaurant yesterday.,Vi siete oltrepassati il ristorante ieri.,vi siete superati,,oltrepassare
 verb,directions,passing,ongoing action,oltrepassando,ol-treh-pah-SAN-doh,,gerund,,2,,,Passing the park you’ll see the lake.,Oltrepassando il parco vedrai il lago.,superando,,oltrepassando
 verb,directions,to enter,go inside,entrare,en-TRAH-reh,,infinitive,,1,,,Enter through the side door.,Entra dalla porta laterale.,accedere,,entrare
 verb,directions,I enter,first-person present,entro,EN-troh,,present_1sg,,1,,,I enter the museum at ten.,Entro al museo alle dieci.,accedo,,entrare
+verb,directions,you enter,second-person singular present,entri,EN-tree,,present_2sg,,1,,,You enter the building from the front.,Entri nell'edificio dalla parte anteriore.,accedi,,entrare
+verb,directions,she enters,third-person singular present,entra,EN-trah,,present_3sg,,1,,,She enters the library at eight.,Entra in biblioteca alle otto.,accede,,entrare
+verb,directions,he enters,third-person singular present,entra,EN-trah,,present_3sg,,1,,,He enters the office at nine.,Entra nell'ufficio alle nove.,accede,,entrare
+verb,directions,you (plural) enter,second-person plural present,entrate,en-TRAH-teh,,present_2pl,,1,,,You enter the building from the front.,Entrate nell'edificio dalla parte anteriore.,accedete,,entrare
+verb,directions,we enter,first-person plural present,entriamo,en-TRYAH-mo,,present_1pl,,1,,,We enter the restaurant at eight.,Entriamo al ristorante alle otto.,accediamo,,entrare
+verb,directions,they enter,third-person plural present,entrano,EN-trah-noh,,present_3pl,,1,,,They enter the concert hall together.,Entrano insieme nella sala da concerto.,accedono,,entrare
 verb,directions,I entered,past completed action,sono entrato,SOH-no en-TRAH-toh,,past_1sg,,1,,,I entered the station quickly.,Sono entrato in stazione in fretta.,sono acceduto,,soh-nare
+verb,directions,you entered,past completed action,seI entrato,SEH-ee en-TRAH-toh,,past_2sg,,1,,,You entered the exhibition yesterday.,Sei entrato nell'esposizione ieri.,ti sei acceduto,,entrare
+verb,directions,she entered,past completed action,è entrata,EH en-TRAH-tah,,past_3sg,,1,,,She entered the museum at ten.,È entrata al museo alle dieci.,si è acceduta,,entrare
+verb,directions,he entered,past completed action,è entrato,EH en-TRAH-toh,,past_3sg,,1,,,He entered the office at nine.,È entrato nell'ufficio alle nove.,si è acceduto,,entrare
+verb,directions,we entered,past completed action,siamo entrati,SEE-ah-mo en-TRAH-tee,,past_1pl,,1,,,We entered the exhibition yesterday.,Siamo entrati nell'esposizione ieri.,ci siamo acceduti,,entrare
+verb,directions,they entered,past completed action,sono entrati,SOH-noh en-TRAH-tee,,past_3pl,,1,,,They entered the building at noon.,Sono entrati nell'edificio a mezzogiorno.,si sono acceduti,,entrare
+verb,directions,you (plural) entered,past completed action,vi siete entrati,VEE see-EH-teh en-TRAH-tee,,past_2pl,,1,,,You entered the club last night.,Vi siete entrati nel club ieri sera.,vi siete acceduti,,entrare
 verb,directions,entering,ongoing action,entrando,en-TRAN-doh,,gerund,,1,,,Entering you’ll see the ticket desk.,Entrando vedrai la biglietteria.,accedendo,,entrando
 verb,directions,to exit,go out,uscire,oo-SHEE-reh,,infinitive,,1,,,Exit at the next stop.,Esci alla prossima fermata.,uscir fuori,,uscire
 verb,directions,I exit,first-person present,esco,EH-skoh,,present_1sg,,1,,,I exit the metro here.,Esco qui dalla metro.,vado fuori,,escare
+verb,directions,you exit,second-person singular present,esci,EH-shee,,present_2sg,,1,,,You exit the building at the back.,Esci dall'edificio sul retro.,vai fuori,,uscire
+verb,directions,she exits,third-person singular present,esce,EH-sheh,,present_3sg,,1,,,She exits the cinema at midnight.,Esce dal cinema a mezzanotte.,va fuori,,uscire
+verb,directions,he exits,third-person singular present,esce,EH-sheh,,present_3sg,,1,,,He exits the bus at the next stop.,Esce dall'autobus alla prossima fermata.,va fuori,,uscire
+verb,directions,you (plural) exit,second-person plural present,uscite,oo-SHEE-teh,,present_2pl,,1,,,You exit the building at the back.,Uscite dall'edificio sul retro.,andate fuori,,uscire
+verb,directions,we exit,first-person plural present,usciamo,oo-SHYA-mo,,present_1pl,,1,,,We exit the cinema at midnight.,Usciamo dal cinema a mezzanotte.,andiamo fuori,,uscire
+verb,directions,they exit,third-person plural present,escono,EH-skoh-noh,,present_3pl,,1,,,They exit the bus at the next stop.,Escono dall'autobus alla prossima fermata.,vanno fuori,,uscire
 verb,directions,I exited,past completed action,sono uscito,SOH-no oo-SHEE-toh,,past_1sg,,1,,,I exited on the wrong side.,Sono uscito dal lato sbagliato.,sono andato fuori,,soh-nare
+verb,directions,you exited,past completed action,sei uscito,SEH-ee oo-SHEE-toh,,past_2sg,,1,,,You exited the train at the last station.,Sei uscito dal treno all'ultima stazione.,ti sei andato fuori,,uscire
+verb,directions,she exited,past completed action,è uscita,EH oo-SHEE-tah,,past_3sg,,1,,,She exited the club last night.,È uscita dal club ieri sera.,si è andata fuori,,uscire
+verb,directions,he exited,past completed action,è uscito,EH oo-SHEE-toh,,past_3sg,,1,,,He exited the bus at the next stop.,È uscito dall'autobus alla prossima fermata.,si è andato fuori,,uscire
+verb,directions,we exited,past completed action,siamo usciti,SEE-ah-mo oo-SHEE-tee,,past_1pl,,1,,,We exited the train at the last station.,Siamo usciti dal treno all'ultima stazione.,ci siamo andati fuori,,uscire
+verb,directions,they exited,past completed action,sono usciti,SOH-noh oo-SHEE-tee,,past_3pl,,1,,,They exited the building at noon.,Sono usciti dall'edificio a mezzogiorno.,si sono andati fuori,,uscire
+verb,directions,you (plural) exited,past completed action,vi siete usciti,VEE see-EH-teh oo-SHEE-tee,,past_2pl,,1,,,You exited the club last night.,Vi siete usciti dal club ieri sera.,vi siete andati fuori,,uscire
 verb,directions,exiting,ongoing action,uscendo,oo-SHEN-doh,,gerund,,1,,,Exiting you’ll find the taxi rank.,Uscendo troverai i taxi.,andando fuori,,uscendo
 verb,directions,to look for,search,cercare,cher-KAH-reh,,infinitive,,1,,,We need to look for the sign.,Dobbiamo cercare il cartello.,ricercare,,cercare
 verb,directions,I look for,first-person present,cerco,CHER-koh,,present_1sg,,1,,,I look for the right street.,Cerco la strada giusta.,ricerco,,cercare
+verb,directions,you look for,second-person singular present,cerca,CHER-kah,,present_2sg,,1,,,You look for the bus stop.,Cerchi la fermata dell'autobus.,ricerchi,,cercare
+verb,directions,she looks for,third-person singular present,cerca,CHER-kah,,present_3sg,,1,,,She looks for the nearest pharmacy.,Cerca la farmacia più vicina.,ricerca,,cercare
+verb,directions,he looks for,third-person singular present,cerca,CHER-kah,,present_3sg,,1,,,He looks for the nearest hotel.,Cerca l'hotel più vicino.,ricerca,,cercare
+verb,directions,you (plural) look for,second-person plural present,cercate,cher-KAH-teh,,present_2pl,,1,,,You look for the bus stop.,Cercate la fermata dell'autobus.,ricercate,,cercare
+verb,directions,we look for,first-person plural present,cercamos,cher-KAH-moos,,present_1pl,,1,,,We look for the nearest hotel.,Cerchiamo l'hotel più vicino.,ricerchiamo,,cercare
+verb,directions,they look for,third-person plural present,cercano,CHER-kah-noh,,present_3pl,,1,,,They look for the nearest pharmacy.,Cercano la farmacia più vicina.,ricercano,,cercare
 verb,directions,I looked for,past completed action,ho cercato,oh cher-KAH-toh,,past_1sg,,1,,,I looked for the hotel yesterday.,Ho cercato l'hotel ieri.,ho ricercato,,oh
+verb,directions,you looked for,past completed action,hai cercato,AH-ee cher-KAH-toh,,past_2sg,,1,,,You looked for the bus stop last week.,Hai cercato la fermata dell'autobus la settimana scorsa.,ti sei ricercato,,cercare
+verb,directions,she looked for,past completed action,ha cercato,AH-ah cher-KAH-toh,,past_3sg,,1,,,She looked for the nearest pharmacy.,Ha cercato la farmacia più vicina.,si è ricercata,,cercare
+verb,directions,he looked for,past completed action,ha cercato,AH-ah cher-KAH-toh,,past_3sg,,1,,,He looked for the nearest hotel.,Ha cercato l'hotel più vicino.,si è ricercato,,cercare
+verb,directions,we looked for,past completed action,abbiamo cercato,ah-BBYAH-mo cher-KAH-toh,,past_1pl,,1,,,We looked for the restaurant last night.,Abbiamo cercato il ristorante ieri sera.,abbiamo ricercato,,cercare
+verb,directions,they looked for,past completed action,hanno cercato,AHN-no cher-KAH-toh,,past_3pl,,1,,,They looked for the museum.,Hanno cercato il museo.,hanno ricercato,,cercare
+verb,directions,you (plural) looked for,past completed action,vi siete cercati,VEE see-EH-teh cher-KAH-tee,,past_2pl,,1,,,You looked for the church.,Vi siete cercati la chiesa.,vi siete ricercati,,cercare
 verb,directions,looking for,ongoing action,cercando,cher-KAN-doh,,gerund,,1,,,Looking for the church we got lost.,Cercando la chiesa ci siamo persi.,ricercando,,cercando

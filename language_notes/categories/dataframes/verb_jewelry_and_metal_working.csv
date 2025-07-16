@@ -1,81 +1,321 @@
 category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
 verb,jewelry and metal working,to solder,join metal with heat,saldare,sahl-DAH-reh,,infinitive,,1,,,I like to solder silver rings.,Mi piace saldare anelli d'argento.,unire,,saldare
 verb,jewelry and metal working,I solder,first-person present,saldo,SAHL-doh,,present_1sg,,1,,,I solder every joint carefully.,Saldo ogni giunzione con cura.,unisco,,saldare
+verb,jewelry and metal working,you solder,second-person present,saldi,SAHL-dee,,present_2sg,,1,,,You solder the pieces together.,Saldii i pezzi insieme.,unisci,,saldare
+verb,jewelry and metal working,she solders,third-person present,salda,SAHL-dah,,present_3sg,,1,,,She solders the bracelet now.,Lei salda il bracciale ora.,unisce,,saldare
+verb,jewelry and metal working,he solders,third-person present,salda,SAHL-dah,,present_3sg,,1,,,He solders the pendant carefully.,Lui salda il pendente con cura.,unisce,,saldare
+verb,jewelry and metal working,we solder,first-person plural,saldiamo,sahl-dee-AH-mo,,present_1pl,,1,,,We solder the necklace together.,Saldiamo la collana insieme.,uniamo,,saldare
+verb,jewelry and metal working,they solder,third-person plural,saldano,sahl-DAH-noh,,present_3pl,,1,,,They solder the earrings now.,Loro saldano gli orecchini ora.,uniscono,,saldare
+verb,jewelry and metal working,you (plural) solder,second-person plural,saldete,sahl-DEH-teh,,present_2pl,,1,,,You (plural) solder the metal pieces.,Voi saldate i pezzi di metallo.,unite,,saldare
 verb,jewelry and metal working,I soldered,past completed action,ho saldato,oh sahl-DAH-toh,,past_1sg,,1,,,I soldered the bezel yesterday.,Ho saldato il castone ieri.,ho unito,,saldare
+verb,jewelry and metal working,you soldered,past completed action,hai saldato,eye sahl-DAH-toh,,past_2sg,,1,,,You soldered the ring last week.,Hai saldato l'anello la settimana scorsa.,hai unito,,saldare
+verb,jewelry and metal working,she soldered,past completed action,ha saldato,ah sahl-DAH-toh,,past_3sg,,1,,,She soldered the pendant last night.,Ha saldato il pendente ieri sera.,ha unito,,saldare
+verb,jewelry and metal working,he soldered,past completed action,ha saldato,ah sahl-DAH-toh,,past_3sg,,1,,,He soldered the bracelet this morning.,Ha saldato il bracciale stamattina.,ha unito,,saldare
+verb,jewelry and metal working,we soldered,past completed action,abbiamo saldato,ah-BYAH-mo sahl-DAH-toh,,past_1pl,,1,,,We soldered the necklace together.,Abbiamo saldato la collana insieme.,abbiamo unito,,saldare
+verb,jewelry and metal working,they soldered,past completed action,hanno saldato,AHN-noh sahl-DAH-toh,,past_3pl,,1,,,They soldered the earrings yesterday.,Hanno saldato gli orecchini ieri.,hanno unito,,saldare
+verb,jewelry and metal working,you (plural) soldered,past completed action,avete saldato,ah-VEH-teh sahl-DAH-toh,,past_2pl,,1,,,You (plural) soldered the metal pieces.,Avete saldato i pezzi di metallo.,avete unito,,saldare
 verb,jewelry and metal working,soldering,ongoing action,saldando,sahl-DAHN-doh,,gerund,,1,,,Soldering takes patience.,Saldando ci vuole pazienza.,unendo,,saldare
 verb,jewelry and metal working,to melt,turn solid to liquid,fondere,FON-deh-reh,,infinitive,,1,,,We need to melt the silver.,Dobbiamo fondere l'argento.,sciogliere,,fondere
 verb,jewelry and metal working,I melt,first-person present,fondo,FON-doh,,present_1sg,,1,,,I melt small ingots for casting.,Fondo piccoli lingotti per la fusione.,sciolgo,,fondare
+verb,jewelry and metal working,you melt,second-person present,fondi,FON-dee,,present_2sg,,1,,,You melt the wax for the mold.,Fondi la cera per lo stampo.,sciogli,,fondere
+verb,jewelry and metal working,she melts,third-person present,fonde,FON-deh,,present_3sg,,1,,,She melts the gold for the pendant.,Lei fonde l'oro per il pendente.,scioglie,,fondere
+verb,jewelry and metal working,he melts,third-person present,fonde,FON-deh,,present_3sg,,1,,,He melts the silver for the ring.,Lui fonde l'argento per l'anello.,scioglie,,fondere
+verb,jewelry and metal working,we melt,first-person plural,fondiamo,fon-DYAH-mo,,present_1pl,,1,,,We melt the metal together.,Fondiamo il metallo insieme.,sciogliamo,,fondere
+verb,jewelry and metal working,they melt,third-person plural,fondono,fon-DOH-noh,,present_3pl,,1,,,They melt the bronze for casting.,Loro fondono il bronzo per la fusione.,sciolgono,,fondere
+verb,jewelry and metal working,you (plural) melt,second-person plural,fondete,fon-DEH-teh,,present_2pl,,1,,,You (plural) melt the scrap metal.,Voi fondete il metallo di recupero.,sciogliete,,fondere
 verb,jewelry and metal working,I melted,past completed action,ho fuso,oh FOO-zoh,,past_1sg,,1,,,I melted scrap gold last night.,Ho fuso oro di recupero ieri sera.,ho sciolto,,fondere
+verb,jewelry and metal working,you melted,past completed action,hai fuso,eye FOO-zoh,,past_2sg,,1,,,You melted the silver yesterday.,Hai fuso l'argento ieri.,hai sciolto,,fondere
+verb,jewelry and metal working,she melted,past completed action,ha fuso,ah FOO-zoh,,past_3sg,,1,,,She melted the bronze this morning.,Ha fuso il bronzo stamattina.,ha sciolto,,fondere
+verb,jewelry and metal working,he melted,past completed action,ha fuso,ah FOO-zoh,,past_3sg,,1,,,He melted the gold for the pendant.,Ha fuso l'oro per il pendente.,ha sciolto,,fondere
+verb,jewelry and metal working,we melted,past completed action,abbiamo fuso,ah-BYAH-mo FOO-zoh,,past_1pl,,1,,,We melted the silver together.,Abbiamo fuso l'argento insieme.,abbiamo sciolto,,fondere
+verb,jewelry and metal working,they melted,past completed action,hanno fuso,AHN-noh FOO-zoh,,past_3pl,,1,,,They melted the bronze yesterday.,Hanno fuso il bronzo ieri.,hanno sciolto,,fondere
+verb,jewelry and metal working,you (plural) melted,past completed action,avete fuso,ah-VEH-teh FOO-zoh,,past_2pl,,1,,,You (plural) melted the scrap metal.,Avete fuso il metallo di recupero.,avete sciolto,,fondere
 verb,jewelry and metal working,melting,ongoing action,fon­dendo,fon-DEN-doh,,gerund,,1,,,Melting requires steady heat.,Fondendo serve calore costante.,sciogliendo,,fondere
 verb,jewelry and metal working,to cast,pour metal into mold,colare,coh-LAH-reh,,infinitive,,1,,,We plan to cast a pendant.,Prevediamo di colare un pendente.,gettare,,colare
 verb,jewelry and metal working,I cast,first-person present,colo,COH-loh,,present_1sg,,1,,,I cast small shapes in sand.,Colo forme piccole nella sabbia.,getto,,colare
+verb,jewelry and metal working,you cast,second-person present,colii,coh-LEE,,present_2sg,,1,,,You cast the ring in bronze.,Coli l'anello in bronzo.,getti,,colare
+verb,jewelry and metal working,she casts,third-person present,cola,COH-lah,,present_3sg,,1,,,She casts the pendant in silver.,Lei cola il pendente in argento.,getta,,colare
+verb,jewelry and metal working,he casts,third-person present,cola,COH-lah,,present_3sg,,1,,,He casts the earrings in gold.,Lui cola gli orecchini in oro.,getta,,colare
+verb,jewelry and metal working,we cast,first-person plural,coliamo,coh-LYAH-mo,,present_1pl,,1,,,We cast the necklace in bronze.,Coliamo la collana in bronzo.,gettiamo,,colare
+verb,jewelry and metal working,they cast,third-person plural,colano,COH-lah-noh,,present_3pl,,1,,,They cast the bracelet in silver.,Loro colano il bracciale in argento.,gettano,,colare
+verb,jewelry and metal working,you (plural) cast,second-person plural,colate,coh-LAH-teh,,present_2pl,,1,,,You (plural) cast the metal pieces.,Voi colate i pezzi di metallo.,gettate,,colare
 verb,jewelry and metal working,I casted,past completed action,ho colato,oh coh-LAH-toh,,past_1sg,,1,,,I casted a bronze coin today.,Ho colato una moneta in bronzo oggi.,ho gettato,,colare
+verb,jewelry and metal working,you casted,past completed action,hai colato,eye coh-LAH-toh,,past_2sg,,1,,,You casted the ring last week.,Hai colato l'anello la settimana scorsa.,hai gettato,,colare
+verb,jewelry and metal working,she casted,past completed action,ha colato,ah coh-LAH-toh,,past_3sg,,1,,,She casted the pendant last night.,Ha colato il pendente ieri sera.,ha gettato,,colare
+verb,jewelry and metal working,he casted,past completed action,ha colato,ah coh-LAH-toh,,past_3sg,,1,,,He casted the bracelet this morning.,Ha colato il bracciale stamattina.,ha gettato,,colare
+verb,jewelry and metal working,we casted,past completed action,abbiamo colato,ah-BYAH-mo coh-LAH-toh,,past_1pl,,1,,,We casted the necklace together.,Abbiamo colato la collana insieme.,abbiamo gettato,,colare
+verb,jewelry and metal working,they casted,past completed action,hanno colato,AHN-noh coh-LAH-toh,,past_3pl,,1,,,They casted the earrings yesterday.,Hanno colato gli orecchini ieri.,hanno gettato,,colare
+verb,jewelry and metal working,you (plural) casted,past completed action,avete colato,ah-VEH-teh coh-LAH-toh,,past_2pl,,1,,,You (plural) casted the metal pieces.,Avete colato i pezzi di metallo.,avete gettato,,colare
 verb,jewelry and metal working,casting,ongoing action,colando,coh-LAHN-doh,,gerund,,1,,,Casting takes careful timing.,Colando serve tempismo preciso.,gettando,,colare
 verb,jewelry and metal working,to polish,make surface shiny,lucidare,loo-chee-DAH-reh,,infinitive,,1,,,I want to polish the ring.,Voglio lucidare l'anello.,brillare,,lucidare
 verb,jewelry and metal working,I polish,first-person present,lucido,LOO-chee-doh,,present_1sg,,1,,,I polish each piece by hand.,Lucido ogni pezzo a mano.,brillo,,lucidare
+verb,jewelry and metal working,you polish,second-person present,lucidi,LOO-chee-dee,,present_2sg,,1,,,You polish the bracelet carefully.,Lucidi il bracciale con cura.,brilli,,lucidare
+verb,jewelry and metal working,she polishes,third-person present,lucida,LOO-chee-dah,,present_3sg,,1,,,She polishes the pendant now.,Lei lucida il pendente ora.,brilla,,lucidare
+verb,jewelry and metal working,he polishes,third-person present,lucida,LOO-chee-dah,,present_3sg,,1,,,He polishes the earrings daily.,Lui lucida gli orecchini ogni giorno.,brilla,,lucidare
+verb,jewelry and metal working,we polish,first-person plural,lucidiamo,loo-chee-DYAH-mo,,present_1pl,,1,,,We polish the necklace together.,Lucidiamo la collana insieme.,brilliamo,,lucidare
+verb,jewelry and metal working,they polish,third-person plural,lucidano,loo-CHEE-dah-noh,,present_3pl,,1,,,They polish the bracelet now.,Loro lucidano il bracciale ora.,brillano,,lucidare
+verb,jewelry and metal working,you (plural) polish,second-person plural,lucidate,loo-chee-DAH-teh,,present_2pl,,1,,,You (plural) polish the metal pieces.,Voi lucidate i pezzi di metallo.,brillate,,lucidare
 verb,jewelry and metal working,I polished,past completed action,ho lucidato,oh loo-chee-DAH-toh,,past_1sg,,1,,,I polished the bracelet yesterday.,Ho lucidato il bracciale ieri.,ho rifinito,,lucidare
+verb,jewelry and metal working,you polished,past completed action,hai lucidato,eye loo-chee-DAH-toh,,past_2sg,,1,,,You polished the ring last week.,Hai lucidato l'anello la settimana scorsa.,hai rifinito,,lucidare
+verb,jewelry and metal working,she polished,past completed action,ha lucidato,ah loo-chee-DAH-toh,,past_3sg,,1,,,She polished the pendant last night.,Ha lucidato il pendente ieri sera.,ha rifinito,,lucidare
+verb,jewelry and metal working,he polished,past completed action,ha lucidato,ah loo-chee-DAH-toh,,past_3sg,,1,,,He polished the earrings this morning.,Ha lucidato gli orecchini stamattina.,ha rifinito,,lucidare
+verb,jewelry and metal working,we polished,past completed action,abbiamo lucidato,ah-BYAH-mo loo-chee-DAH-toh,,past_1pl,,1,,,We polished the necklace together.,Abbiamo lucidato la collana insieme.,abbiamo rifinito,,lucidare
+verb,jewelry and metal working,they polished,past completed action,hanno lucidato,AHN-noh loo-chee-DAH-toh,,past_3pl,,1,,,They polished the bracelet yesterday.,Hanno lucidato il bracciale ieri.,hanno rifinito,,lucidare
+verb,jewelry and metal working,you (plural) polished,past completed action,avete lucidato,ah-VEH-teh loo-chee-DAH-toh,,past_2pl,,1,,,You (plural) polished the metal pieces.,Avete lucidato i pezzi di metallo.,avete rifinito,,lucidare
 verb,jewelry and metal working,polishing,ongoing action,lucidando,loo-chee-DAN-doh,,gerund,,1,,,Polishing removes fine scratches.,Lucidando si eliminano i graffi sottili.,rifinendo,,lucidare
 verb,jewelry and metal working,to hammer,strike with hammer,martellare,mar-tel-LAH-reh,,infinitive,,1,,,We need to hammer the bezel.,Dobbiamo martellare il castone.,battere,,martellare
 verb,jewelry and metal working,I hammer,first-person present,martello,mar-TEL-loh,,present_1sg,,1,,,I hammer the sheet into shape.,Martello la lastra per darle forma.,batto,,martellare
+verb,jewelry and metal working,you hammer,second-person present,martelli,mar-TEL-lee,,present_2sg,,1,,,You hammer the prongs carefully.,Martelli le griffe con cura.,batti,,martellare
+verb,jewelry and metal working,she hammers,third-person present,martella,mar-TEL-lah,,present_3sg,,1,,,She hammers the pendant now.,Lei martella il pendente ora.,batte,,martellare
+verb,jewelry and metal working,he hammers,third-person present,martella,mar-TEL-lah,,present_3sg,,1,,,He hammers the bracelet daily.,Lui martella il bracciale ogni giorno.,batte,,martellare
+verb,jewelry and metal working,we hammer,first-person plural,martelliamo,mar-tel-LYAH-mo,,present_1pl,,1,,,We hammer the necklace together.,Martelliamo la collana insieme.,battiamo,,martellare
+verb,jewelry and metal working,they hammer,third-person plural,martellano,mar-tel-LAH-noh,,present_3pl,,1,,,They hammer the earrings now.,Loro martellano gli orecchini ora.,battono,,martellare
+verb,jewelry and metal working,you (plural) hammer,second-person plural,martellate,mar-tel-LAH-teh,,present_2pl,,1,,,You (plural) hammer the metal pieces.,Voi martellate i pezzi di metallo.,battete,,martellare
 verb,jewelry and metal working,I hammered,past completed action,ho martellato,oh mar-tel-LAH-toh,,past_1sg,,1,,,I hammered the texture this morning.,Ho martellato la texture stamattina.,ho battuto,,martellare
+verb,jewelry and metal working,you hammered,past completed action,hai martellato,eye mar-tel-LAH-toh,,past_2sg,,1,,,You hammered the ring last week.,Hai martellato l'anello la settimana scorsa.,hai battuto,,martellare
+verb,jewelry and metal working,she hammered,past completed action,ha martellato,ah mar-tel-LAH-toh,,past_3sg,,1,,,She hammered the pendant last night.,Ha martellato il pendente ieri sera.,ha battuto,,martellare
+verb,jewelry and metal working,he hammered,past completed action,ha martellato,ah mar-tel-LAH-toh,,past_3sg,,1,,,He hammered the bracelet this morning.,Ha martellato il bracciale stamattina.,ha battuto,,martellare
+verb,jewelry and metal working,we hammered,past completed action,abbiamo martellato,ah-BYAH-mo mar-tel-LAH-toh,,past_1pl,,1,,,We hammered the necklace together.,Abbiamo martellato la collana insieme.,abbiamo battuto,,martellare
+verb,jewelry and metal working,they hammered,past completed action,hanno martellato,AHN-noh mar-tel-LAH-toh,,past_3pl,,1,,,They hammered the earrings yesterday.,Hanno martellato gli orecchini ieri.,hanno battuto,,martellare
+verb,jewelry and metal working,you (plural) hammered,past completed action,avete martellato,ah-VEH-teh mar-tel-LAH-toh,,past_2pl,,1,,,You (plural) hammered the metal pieces.,Avete martellato i pezzi di metallo.,avete battuto,,martellare
 verb,jewelry and metal working,hammering,ongoing action,martellando,mar-tel-LAN-doh,,gerund,,1,,,Hammering hardens the wire.,Martellando si indurisce il filo.,battendo,,martellare
 verb,jewelry and metal working,to saw,cut with jeweler’s saw,segare,seh-GAH-reh,,infinitive,,1,,,I need to saw the outline.,Devo segare il profilo.,tagliare,,segare
 verb,jewelry and metal working,I saw,first-person present,sego,SEH-goh,,present_1sg,,1,,,I saw delicate patterns.,Sego motivi delicati.,taglio,,segare
+verb,jewelry and metal working,you saw,second-person present,seghi,SEH-gee,,present_2sg,,1,,,You saw the metal sheet carefully.,Seghi la lastra di metallo con cura.,tagli,,segare
+verb,jewelry and metal working,she saws,third-person present,sega,SEH-gah,,present_3sg,,1,,,She saws the pendant now.,Lei sega il pendente ora.,taglia,,segare
+verb,jewelry and metal working,he saws,third-person present,sega,SEH-gah,,present_3sg,,1,,,He saws the bracelet daily.,Lui sega il bracciale ogni giorno.,taglia,,segare
+verb,jewelry and metal working,we saw,first-person plural,seghiamo,seh-GYAH-mo,,present_1pl,,1,,,We saw the necklace together.,Seghiamo la collana insieme.,tagliamo,,segare
+verb,jewelry and metal working,they saw,third-person plural,seghano,SEH-gah-noh,,present_3pl,,1,,,They saw the earrings now.,Loro segano gli orecchini ora.,tagliano,,segare
+verb,jewelry and metal working,you (plural) saw,second-person plural,seghiate,seh-GYAH-teh,,present_2pl,,1,,,You (plural) saw the metal pieces.,Voi segate i pezzi di metallo.,tagliate,,segare
 verb,jewelry and metal working,I sawed,past completed action,ho segato,oh seh-GAH-toh,,past_1sg,,1,,,I sawed a slice off the sheet.,Ho segato una fetta dalla lastra.,ho tagliato,,segare
+verb,jewelry and metal working,you sawed,past completed action,hai segato,eye seh-GAH-toh,,past_2sg,,1,,,You sawed the ring last week.,Hai segato l'anello la settimana scorsa.,hai tagliato,,segare
+verb,jewelry and metal working,she sawed,past completed action,ha segato,ah seh-GAH-toh,,past_3sg,,1,,,She sawed the pendant last night.,Ha segato il pendente ieri sera.,ha tagliato,,segare
+verb,jewelry and metal working,he sawed,past completed action,ha segato,ah seh-GAH-toh,,past_3sg,,1,,,He sawed the bracelet this morning.,Ha segato il bracciale stamattina.,ha tagliato,,segare
+verb,jewelry and metal working,we sawed,past completed action,abbiamo segato,ah-BYAH-mo seh-GAH-toh,,past_1pl,,1,,,We sawed the necklace together.,Abbiamo segato la collana insieme.,abbiamo tagliato,,segare
+verb,jewelry and metal working,they sawed,past completed action,hanno segato,AHN-noh seh-GAH-toh,,past_3pl,,1,,,They sawed the earrings yesterday.,Hanno segato gli orecchini ieri.,hanno tagliato,,segare
+verb,jewelry and metal working,you (plural) sawed,past completed action,avete segato,ah-VEH-teh seh-GAH-toh,,past_2pl,,1,,,You (plural) sawed the metal pieces.,Avete segato i pezzi di metallo.,avete tagliato,,segare
 verb,jewelry and metal working,sawing,ongoing action,segando,seh-GAN-doh,,gerund,,1,,,Sawing requires steady hands.,Segando servono mani ferme.,tagliando,,segare
 verb,jewelry and metal working,to file,smooth with file,limare,lee-MAH-reh,,infinitive,,1,,,Remember to file sharp edges.,Ricorda di limare i bordi taglienti.,raspare,,limare
 verb,jewelry and metal working,I file,first-person present,limo,LEE-moh,,present_1sg,,1,,,I file the bezel until flush.,Limo il castone fino a filo.,raspo,,limare
+verb,jewelry and metal working,you file,second-person present,limi,LEE-mee,,present_2sg,,1,,,You file the prongs carefully.,Limii le griffe con cura.,raspi,,limare
+verb,jewelry and metal working,she files,third-person present,limia,LEE-mee-ah,,present_3sg,,1,,,She files the pendant now.,Lei lima il pendente ora.,raspa,,limare
+verb,jewelry and metal working,he files,third-person present,limia,LEE-mee-ah,,present_3sg,,1,,,He files the bracelet daily.,Lui lima il bracciale ogni giorno.,raspa,,limare
+verb,jewelry and metal working,we file,first-person plural,limiamo,lee-MYAH-mo,,present_1pl,,1,,,We file the necklace together.,Limiamo la collana insieme.,raspiamo,,limare
+verb,jewelry and metal working,they file,third-person plural,limiano,lee-MYAH-noh,,present_3pl,,1,,,They file the earrings now.,Loro limiano gli orecchini ora.,raspano,,limare
+verb,jewelry and metal working,you (plural) file,second-person plural,limiate,lee-MYAH-teh,,present_2pl,,1,,,You (plural) file the metal pieces.,Voi limiate i pezzi di metallo.,raspate,,limare
 verb,jewelry and metal working,I filed,past completed action,ho limato,oh lee-MAH-toh,,past_1sg,,1,,,I filed the prongs yesterday.,Ho limato le griffe ieri.,ho rasppato,,limare
+verb,jewelry and metal working,you filed,past completed action,hai limato,eye lee-MAH-toh,,past_2sg,,1,,,You filed the ring last week.,Hai limato l'anello la settimana scorsa.,hai raspato,,limare
+verb,jewelry and metal working,she filed,past completed action,ha limato,ah lee-MAH-toh,,past_3sg,,1,,,She filed the pendant last night.,Ha limato il pendente ieri sera.,ha raspato,,limare
+verb,jewelry and metal working,he filed,past completed action,ha limato,ah lee-MAH-toh,,past_3sg,,1,,,He filed the bracelet this morning.,Ha limato il bracciale stamattina.,ha raspato,,limare
+verb,jewelry and metal working,we filed,past completed action,abbiamo limato,ah-BYAH-mo lee-MAH-toh,,past_1pl,,1,,,We filed the necklace together.,Abbiamo limato la collana insieme.,abbiamo raspato,,limare
+verb,jewelry and metal working,they filed,past completed action,hanno limato,AHN-noh lee-MAH-toh,,past_3pl,,1,,,They filed the earrings yesterday.,Hanno limato gli orecchini ieri.,hanno raspato,,limare
+verb,jewelry and metal working,you (plural) filed,past completed action,avete limato,ah-VEH-teh lee-MAH-toh,,past_2pl,,1,,,You (plural) filed the metal pieces.,Avete limato i pezzi di metallo.,avete raspato,,limare
 verb,jewelry and metal working,filing,ongoing action,limando,lee-MAN-doh,,gerund,,1,,,Filing evens the surface.,Limando si livella la superficie.,raspando,,limare
 verb,jewelry and metal working,to drill,make a hole,forare,foh-RAH-reh,,infinitive,,1,,,We need to drill for the pin.,Dobbiamo forare per lo spillo.,trapanare,,forare
 verb,jewelry and metal working,I drill,first-person present,foro,FOH-roh,,present_1sg,,1,,,I drill tiny holes for rivets.,Foro piccoli fori per i rivetti.,trapano,,forare
+verb,jewelry and metal working,you drill,second-person present,fori,FOH-ree,,present_2sg,,1,,,You drill the plate carefully.,Fori la piastra con cura.,trapi,,forare
+verb,jewelry and metal working,she drills,third-person present,fora,FOH-rah,,present_3sg,,1,,,She drills the pendant now.,Lei fora il pendente ora.,trapa,,forare
+verb,jewelry and metal working,he drills,third-person present,fora,FOH-rah,,present_3sg,,1,,,He drills the bracelet daily.,Lui fora il bracciale ogni giorno.,trapa,,forare
+verb,jewelry and metal working,we drill,first-person plural,foriamo,foh-RYAH-mo,,present_1pl,,1,,,We drill the necklace together.,Foriamo la collana insieme.,trapiamo,,forare
+verb,jewelry and metal working,they drill,third-person plural,forano,foh-RAH-noh,,present_3pl,,1,,,They drill the earrings now.,Loro forano gli orecchini ora.,trapano,,forare
+verb,jewelry and metal working,you (plural) drill,second-person plural,forate,foh-RAH-teh,,present_2pl,,1,,,You (plural) drill the metal pieces.,Voi forate i pezzi di metallo.,trapate,,forare
 verb,jewelry and metal working,I drilled,past completed action,ho forato,oh fo-RAH-toh,,past_1sg,,1,,,I drilled the plate yesterday.,Ho forato la piastra ieri.,ho trapanato,,forare
+verb,jewelry and metal working,you drilled,past completed action,hai forato,eye fo-RAH-toh,,past_2sg,,1,,,You drilled the ring last week.,Hai forato l'anello la settimana scorsa.,hai trapanato,,forare
+verb,jewelry and metal working,she drilled,past completed action,ha forato,ah fo-RAH-toh,,past_3sg,,1,,,She drilled the pendant last night.,Ha forato il pendente ieri sera.,ha trapanato,,forare
+verb,jewelry and metal working,he drilled,past completed action,ha forato,ah fo-RAH-toh,,past_3sg,,1,,,He drilled the bracelet this morning.,Ha forato il bracciale stamattina.,ha trapanato,,forare
+verb,jewelry and metal working,we drilled,past completed action,abbiamo forato,ah-BYAH-mo fo-RAH-toh,,past_1pl,,1,,,We drilled the necklace together.,Abbiamo forato la collana insieme.,abbiamo trapanato,,forare
+verb,jewelry and metal working,they drilled,past completed action,hanno forato,AHN-noh fo-RAH-toh,,past_3pl,,1,,,They drilled the earrings yesterday.,Hanno forato gli orecchini ieri.,hanno trapanato,,forare
+verb,jewelry and metal working,you (plural) drilled,past completed action,avete forato,ah-VEH-teh fo-RAH-toh,,past_2pl,,1,,,You (plural) drilled the metal pieces.,Avete forato i pezzi di metallo.,avete trapanato,,forare
 verb,jewelry and metal working,drilling,ongoing action,forando,foh-RAN-doh,,gerund,,1,,,Drilling must be slow in silver.,Forando serve bassa velocità sull'argento.,trapanando,,forare
 verb,jewelry and metal working,to engrave,carve a design,incidere,in-CHEE-deh-reh,,infinitive,,1,,,I want to engrave initials.,Voglio incidere le iniziali.,graffiare,,incidere
 verb,jewelry and metal working,I engrave,first-person present,incido,in-CHEE-doh,,present_1sg,,1,,,I engrave patterns on copper.,Incido motivi sul rame.,graffio,,incidare
+verb,jewelry and metal working,you engrave,second-person present,incidi,in-CHEE-dee,,present_2sg,,1,,,You engrave the design carefully.,Incidi il disegno con cura.,graffi,,incidere
+verb,jewelry and metal working,she engraves,third-person present,incide,in-CHEE-deh,,present_3sg,,1,,,She engraves the pendant now.,Lei incide il pendente ora.,graffia,,incidere
+verb,jewelry and metal working,he engraves,third-person present,incide,in-CHEE-deh,,present_3sg,,1,,,He engraves the bracelet daily.,Lui incide il bracciale ogni giorno.,graffia,,incidere
+verb,jewelry and metal working,we engrave,first-person plural,incidiamo,in-CHEE-DYAH-mo,,present_1pl,,1,,,We engrave the necklace together.,Incidiamo la collana insieme.,graffiamo,,incidere
+verb,jewelry and metal working,they engrave,third-person plural,incidono,in-CHEE-doh-noh,,present_3pl,,1,,,They engrave the earrings now.,Loro incidono gli orecchini ora.,graffiano,,incidere
+verb,jewelry and metal working,you (plural) engrave,second-person plural,incidete,in-CHEE-deh-teh,,present_2pl,,1,,,You (plural) engrave the metal pieces.,Voi incidete i pezzi di metallo.,graffiate,,incidere
 verb,jewelry and metal working,I engraved,past completed action,ho inciso,oh in-CHEE-zoh,,past_1sg,,1,,,I engraved a floral border.,Ho inciso un bordo floreale.,ho graffiato,,incidere
+verb,jewelry and metal working,you engraved,past completed action,hai inciso,eye in-CHEE-zoh,,past_2sg,,1,,,You engraved the ring last week.,Hai inciso l'anello la settimana scorsa.,hai graffiato,,incidere
+verb,jewelry and metal working,she engraved,past completed action,ha inciso,ah in-CHEE-zoh,,past_3sg,,1,,,She engraved the pendant last night.,Ha inciso il pendente ieri sera.,ha graffiato,,incidere
+verb,jewelry and metal working,he engraved,past completed action,ha inciso,ah in-CHEE-zoh,,past_3sg,,1,,,He engraved the bracelet this morning.,Ha inciso il bracciale stamattina.,ha graffiato,,incidere
+verb,jewelry and metal working,we engraved,past completed action,abbiamo inciso,ah-BYAH-mo in-CHEE-zoh,,past_1pl,,1,,,We engraved the necklace together.,Abbiamo inciso la collana insieme.,abbiamo graffiato,,incidere
+verb,jewelry and metal working,they engraved,past completed action,hanno inciso,AHN-noh in-CHEE-zoh,,past_3pl,,1,,,They engraved the earrings yesterday.,Hanno inciso gli orecchini ieri.,hanno graffiato,,incidere
+verb,jewelry and metal working,you (plural) engraved,past completed action,avete inciso,ah-VEH-teh in-CHEE-zoh,,past_2pl,,1,,,You (plural) engraved the metal pieces.,Avete inciso i pezzi di metallo.,avete graffiato,,incidere
 verb,jewelry and metal working,engraving,ongoing action,incidendo,in-chee-DEN-doh,,gerund,,1,,,Engraving improves with practice.,Incidendo si migliora con la pratica.,graffiando,,incidere
 verb,jewelry and metal working,to set,secure a stone,incastonare,in-kahs-toh-NAH-reh,,infinitive,,1,,,We need to set the ruby.,Dobbiamo incastonare il rubino.,montare,,incastonare
 verb,jewelry and metal working,I set,first-person present,incastono,in-KAS-toh-noh,,present_1sg,,1,,,I set stones every day.,Incastono pietre ogni giorno.,monto,,incastare
+verb,jewelry and metal working,you set,second-person present,incastoni,in-kahs-TOH-nee,,present_2sg,,1,,,You set the opal carefully.,Incastoni l'opale con cura.,monte,,incastonare
+verb,jewelry and metal working,she sets,third-person present,incastona,in-kahs-TOH-nah,,present_3sg,,1,,,She sets the pendant now.,Lei incastona il pendente ora.,monta,,incastonare
+verb,jewelry and metal working,he sets,third-person present,incastona,in-kahs-TOH-nah,,present_3sg,,1,,,He sets the bracelet daily.,Lui incastona il bracciale ogni giorno.,monta,,incastonare
+verb,jewelry and metal working,we set,first-person plural,incastoniamo,in-kahs-toh-NYAH-mo,,present_1pl,,1,,,We set the necklace together.,Incastoniamo la collana insieme.,montiamo,,incastonare
+verb,jewelry and metal working,they set,third-person plural,incastonano,in-kahs-TOH-nah-noh,,present_3pl,,1,,,They set the earrings now.,Loro incastonano gli orecchini ora.,montano,,incastonare
+verb,jewelry and metal working,you (plural) set,second-person plural,incastonate,in-kahs-toh-NAH-teh,,present_2pl,,1,,,You (plural) set the metal pieces.,Voi incastonate i pezzi di metallo.,montate,,incastonare
 verb,jewelry and metal working,I set (past),past completed action,ho incastonato,oh in-kas-toh-NAH-toh,,past_1sg,,1,,,I set an opal last night.,Ho incastonato un opale ieri sera.,ho montato,,incastonare
+verb,jewelry and metal working,you set (past),past completed action,hai incastonato,eye in-kas-toh-NAH-toh,,past_2sg,,1,,,You set the ring last week.,Hai incastonato l'anello la settimana scorsa.,hai montato,,incastonare
+verb,jewelry and metal working,she set (past),past completed action,ha incastonato,ah in-kas-toh-NAH-toh,,past_3sg,,1,,,She set the pendant last night.,Ha incastonato il pendente ieri sera.,ha montato,,incastonare
+verb,jewelry and metal working,he set (past),past completed action,ha incastonato,ah in-kas-toh-NAH-toh,,past_3sg,,1,,,He set the bracelet this morning.,Ha incastonato il bracciale stamattina.,ha montato,,incastonare
+verb,jewelry and metal working,we set (past),past completed action,abbiamo incastonato,ah-BYAH-mo in-kas-toh-NAH-toh,,past_1pl,,1,,,We set the necklace together.,Abbiamo incastonato la collana insieme.,abbiamo montato,,incastonare
+verb,jewelry and metal working,they set (past),past completed action,hanno incastonato,AHN-noh in-kas-toh-NAH-toh,,past_3pl,,1,,,They set the earrings yesterday.,Hanno incastonato gli orecchini ieri.,hanno montato,,incastonare
+verb,jewelry and metal working,you (plural) set (past),past completed action,avete incastonato,ah-VEH-teh in-kas-toh-NAH-toh,,past_2pl,,1,,,You (plural) set the metal pieces.,Avete incastonato i pezzi di metallo.,avete montato,,incastonare
 verb,jewelry and metal working,setting,ongoing action,incastonando,in-kas-toh-NAN-doh,,gerund,,1,,,Setting requires steady pressure.,Incastonando serve pressione costante.,montando,,incastonare
 verb,jewelry and metal working,to anneal,soften metal by heating and slow cooling,ricuocere,ree-KWOH-cheh-reh,,infinitive,,2,,,I need to anneal the sheet.,Devo ricuocere la lastra.,ricottare,,ricuocere
 verb,jewelry and metal working,I anneal,first-person present,ricuocio,ree-KWOH-choh,,present_1sg,,2,,,I anneal the wire before bending.,Ricuocio il filo prima di piegarlo.,ricotto,,ricuociare
+verb,jewelry and metal working,you anneal,second-person present,ricuoci,ree-KWOH-chee,,present_2sg,,2,,,You anneal the metal carefully.,Ricuoci il metallo con cura.,ricotti,,ricuociare
+verb,jewelry and metal working,she anneals,third-person present,ricuoce,ree-KWOH-cheh,,present_3sg,,2,,,She anneals the pendant now.,Lei ricuoce il pendente ora.,ricotta,,ricuociare
+verb,jewelry and metal working,he anneals,third-person present,ricuoce,ree-KWOH-cheh,,present_3sg,,2,,,He anneals the bracelet daily.,Lui ricuoce il bracciale ogni giorno.,ricotta,,ricuociare
+verb,jewelry and metal working,we anneal,first-person plural,ricuociamo,ree-KWOH-chyah-mo,,present_1pl,,2,,,We anneal the necklace together.,Ricuociamo la collana insieme.,ricottiamo,,ricuociare
+verb,jewelry and metal working,they anneal,third-person plural,ricuociono,ree-KWOH-choh-noh,,present_3pl,,2,,,They anneal the earrings now.,Loro ricuociono gli orecchini ora.,ricottano,,ricuociare
+verb,jewelry and metal working,you (plural) anneal,second-person plural,ricuocete,ree-KWOH-cheh-teh,,present_2pl,,2,,,You (plural) anneal the metal pieces.,Voi ricuocete i pezzi di metallo.,ricottate,,ricuociare
 verb,jewelry and metal working,I annealed,past completed action,ho ricotto,oh ree-KOHT-toh,,past_1sg,,2,,,I annealed the silver yesterday.,Ho ricotto l'argento ieri.,ho ammorbidito,,ricuociare
+verb,jewelry and metal working,you annealed,past completed action,hai ricotto,eye ree-KOHT-toh,,past_2sg,,2,,,You annealed the ring last week.,Hai ricotto l'anello la settimana scorsa.,hai ammorbidito,,ricuociare
+verb,jewelry and metal working,she annealed,past completed action,ha ricotto,ah ree-KOHT-toh,,past_3sg,,2,,,She annealed the pendant last night.,Ha ricotto il pendente ieri sera.,ha ammorbidito,,ricuociare
+verb,jewelry and metal working,he annealed,past completed action,ha ricotto,ah ree-KOHT-toh,,past_3sg,,2,,,He annealed the bracelet this morning.,Ha ricotto il bracciale stamattina.,ha ammorbidito,,ricuociare
+verb,jewelry and metal working,we annealed,past completed action,abbiamo ricotto,ah-BYAH-mo ree-KOHT-toh,,past_1pl,,2,,,We annealed the necklace together.,Abbiamo ricotto la collana insieme.,abbiamo ammorbidito,,ricuociare
+verb,jewelry and metal working,they annealed,past completed action,hanno ricotto,AHN-noh ree-KOHT-toh,,past_3pl,,2,,,They annealed the earrings yesterday.,Hanno ricotto gli orecchini ieri.,hanno ammorbidito,,ricuociare
+verb,jewelry and metal working,you (plural) annealed,past completed action,avete ricotto,ah-VEH-teh ree-KOHT-toh,,past_2pl,,2,,,You (plural) annealed the metal pieces.,Avete ricotto i pezzi di metallo.,avete ammorbidito,,ricuociare
 verb,jewelry and metal working,annealing,ongoing action,ricuocendo,ree-kwoh-CHEN-doh,,gerund,,2,,,Annealing relieves stress in metal.,Ricuocendo si elimina la tensione nel metallo.,ammorbidendo,,ricuociare
 verb,jewelry and metal working,to sand,smooth a surface with abrasives,levigare,leh-vee-GAH-reh,,infinitive,,1,,,Remember to sand the edges.,Ricorda di levigare i bordi.,lisciare,,levigare
 verb,jewelry and metal working,I sand,first-person present,levigo,LEH-vee-goh,,present_1sg,,1,,,I sand the bezel until flush.,Levigo il castone a filo.,liscio,,levigare
+verb,jewelry and metal working,you sand,second-person present,levighi,LEH-vee-ghee,,present_2sg,,1,,,You sand the ring carefully.,Levighi l'anello con cura.,lisci,,levigare
+verb,jewelry and metal working,she sands,third-person present,leviga,LEH-vee-gah,,present_3sg,,1,,,She sands the pendant now.,Lei leviga il pendente ora.,liscia,,levigare
+verb,jewelry and metal working,he sands,third-person present,leviga,LEH-vee-gah,,present_3sg,,1,,,He sands the bracelet daily.,Lui leviga il bracciale ogni giorno.,liscia,,levigare
+verb,jewelry and metal working,we sand,first-person plural,levighiamo,leh-vee-GYAH-mo,,present_1pl,,1,,,We sand the necklace together.,Levighiamo la collana insieme.,lisciamo,,levigare
+verb,jewelry and metal working,they sand,third-person plural,levigano,LEH-vee-gah-noh,,present_3pl,,1,,,They sand the earrings now.,Loro levigano gli orecchini ora.,lisciamo,,levigare
+verb,jewelry and metal working,you (plural) sand,second-person plural,levigate,leh-vee-GAH-teh,,present_2pl,,1,,,You (plural) sand the metal pieces.,Voi levigate i pezzi di metallo.,lisciate,,levigare
 verb,jewelry and metal working,I sanded,past completed action,ho levigato,oh leh-vee-GAH-toh,,past_1sg,,1,,,I sanded the pendant this morning.,Ho levigato il pendente stamattina.,ho lisciato,,levigare
+verb,jewelry and metal working,you sanded,past completed action,hai levigato,eye leh-vee-GAH-toh,,past_2sg,,1,,,You sanded the ring last week.,Hai levigato l'anello la settimana scorsa.,hai lisciato,,levigare
+verb,jewelry and metal working,she sanded,past completed action,ha levigato,ah leh-vee-GAH-toh,,past_3sg,,1,,,She sanded the pendant last night.,Ha levigato il pendente ieri sera.,ha lisciato,,levigare
+verb,jewelry and metal working,he sanded,past completed action,ha levigato,ah leh-vee-GAH-toh,,past_3sg,,1,,,He sanded the bracelet this morning.,Ha levigato il bracciale stamattina.,ha lisciato,,levigare
+verb,jewelry and metal working,we sanded,past completed action,abbiamo levigato,ah-BYAH-mo leh-vee-GAH-toh,,past_1pl,,1,,,We sanded the necklace together.,Abbiamo levigato la collana insieme.,abbiamo lisciato,,levigare
+verb,jewelry and metal working,they sanded,past completed action,hanno levigato,AHN-noh leh-vee-GAH-toh,,past_3pl,,1,,,They sanded the earrings yesterday.,Hanno levigato gli orecchini ieri.,hanno lisciato,,levigare
+verb,jewelry and metal working,you (plural) sanded,past completed action,avete levigato,ah-VEH-teh leh-vee-GAH-toh,,past_2pl,,1,,,You (plural) sanded the metal pieces.,Avete levigato i pezzi di metallo.,avete lisciato,,levigare
 verb,jewelry and metal working,sanding,ongoing action,levigando,leh-vee-GAN-doh,,gerund,,1,,,Sanding produces fine dust.,Levigando si produce polvere sottile.,lisciando,,levigare
 verb,jewelry and metal working,to oxidize,create a dark surface layer,ossidare,oh-see-DAH-reh,,infinitive,,1,,,We need to oxidize the brass.,Dobbiamo ossidare l'ottone.,annerire,,ossidare
 verb,jewelry and metal working,I oxidize,first-person present,ossido,OH-see-doh,,present_1sg,,1,,,I oxidize silver for contrast.,Ossido l'argento per contrasto.,annerisco,,ossidare
+verb,jewelry and metal working,you oxidize,second-person present,ossidi,OH-see-dee,,present_2sg,,1,,,You oxidize the copper carefully.,Ossidi il rame con cura.,annerisci,,ossidare
+verb,jewelry and metal working,she oxidizes,third-person present,ossida,OH-see-dah,,present_3sg,,1,,,She oxidizes the pendant now.,Lei ossida il pendente ora.,annerisce,,ossidare
+verb,jewelry and metal working,he oxidizes,third-person present,ossida,OH-see-dah,,present_3sg,,1,,,He oxidizes the bracelet daily.,Lui ossida il bracciale ogni giorno.,annerisce,,ossidare
+verb,jewelry and metal working,we oxidize,first-person plural,ossidiamo,oh-see-DYAH-mo,,present_1pl,,1,,,We oxidize the necklace together.,Ossidiamo la collana insieme.,anneriamo,,ossidare
+verb,jewelry and metal working,they oxidize,third-person plural,ossidano,oh-see-DAH-noh,,present_3pl,,1,,,They oxidize the earrings now.,Loro ossidano gli orecchini ora.,anneriscono,,ossidare
+verb,jewelry and metal working,you (plural) oxidize,second-person plural,ossidate,oh-see-DAH-teh,,present_2pl,,1,,,You (plural) oxidize the metal pieces.,Voi ossidate i pezzi di metallo.,annerite,,ossidare
 verb,jewelry and metal working,I oxidized,past completed action,ho ossidato,oh oh-see-DAH-toh,,past_1sg,,1,,,I oxidized the clasp yesterday.,Ho ossidato la chiusura ieri.,ho annerito,,ossidare
+verb,jewelry and metal working,you oxidized,past completed action,hai ossidato,eye oh-see-DAH-toh,,past_2sg,,1,,,You oxidized the ring last week.,Hai ossidato l'anello la settimana scorsa.,hai annerito,,ossidare
+verb,jewelry and metal working,she oxidized,past completed action,ha ossidato,ah oh-see-DAH-toh,,past_3sg,,1,,,She oxidized the pendant last night.,Ha ossidato il pendente ieri sera.,ha annerito,,ossidare
+verb,jewelry and metal working,he oxidized,past completed action,ha ossidato,ah oh-see-DAH-toh,,past_3sg,,1,,,He oxidized the bracelet this morning.,Ha ossidato il bracciale stamattina.,ha annerito,,ossidare
+verb,jewelry and metal working,we oxidized,past completed action,abbiamo ossidato,ah-BYAH-mo oh-see-DAH-toh,,past_1pl,,1,,,We oxidized the necklace together.,Abbiamo ossidato la collana insieme.,abbiamo annerito,,ossidare
+verb,jewelry and metal working,they oxidized,past completed action,hanno ossidato,AHN-noh oh-see-DAH-toh,,past_3pl,,1,,,They oxidized the earrings yesterday.,Hanno ossidato gli orecchini ieri.,hanno annerito,,ossidare
+verb,jewelry and metal working,you (plural) oxidized,past completed action,avete ossidato,ah-VEH-teh oh-see-DAH-toh,,past_2pl,,1,,,You (plural) oxidized the metal pieces.,Avete ossidato i pezzi di metallo.,avete annerito,,ossidare
 verb,jewelry and metal working,oxidizing,ongoing action,ossidando,oh-see-DAN-doh,,gerund,,1,,,Oxidizing changes the color quickly.,Ossidando il colore cambia velocemente.,annerendo,,ossidare
 verb,jewelry and metal working,to roll,thin metal with a mill,laminare,lah-mee-NAH-reh,,infinitive,,1,,,I want to roll this ingot.,Voglio laminare questo lingotto.,schiacciare,,laminare
 verb,jewelry and metal working,I roll,first-person present,lamino,LAH-mee-noh,,present_1sg,,1,,,I roll sheet every afternoon.,Lamino la lastra ogni pomeriggio.,schiaccio,,laminare
+verb,jewelry and metal working,you roll,second-person present,lamini,LAH-mee-nee,,present_2sg,,1,,,You roll the strip carefully.,Lamini la striscia con cura.,schiacci,,laminare
+verb,jewelry and metal working,she rolls,third-person present,lamina,LAH-mee-nah,,present_3sg,,1,,,She rolls the pendant now.,Lei lamina il pendente ora.,schiaccia,,laminare
+verb,jewelry and metal working,he rolls,third-person present,lamina,LAH-mee-nah,,present_3sg,,1,,,He rolls the bracelet daily.,Lui lamina il bracciale ogni giorno.,schiaccia,,laminare
+verb,jewelry and metal working,we roll,first-person plural,laminiamo,lah-mee-NYAH-mo,,present_1pl,,1,,,We roll the necklace together.,Laminiamo la collana insieme.,schiacciamo,,laminare
+verb,jewelry and metal working,they roll,third-person plural,laminano,LAH-mee-nah-noh,,present_3pl,,1,,,They roll the earrings now.,Loro laminano gli orecchini ora.,schiacciano,,laminare
+verb,jewelry and metal working,you (plural) roll,second-person plural,laminate,lah-mee-NAH-teh,,present_2pl,,1,,,You (plural) roll the metal pieces.,Voi laminate i pezzi di metallo.,schiacciate,,laminare
 verb,jewelry and metal working,I rolled,past completed action,ho laminato,oh lah-mee-NAH-toh,,past_1sg,,1,,,I rolled the strip to 0.5 mm.,Ho laminato la striscia a 0,5 mm.,,laminare
+verb,jewelry and metal working,you rolled,past completed action,hai laminato,eye lah-mee-NAH-toh,,past_2sg,,1,,,You rolled the ring last week.,Hai laminato l'anello la settimana scorsa.,,,laminare
+verb,jewelry and metal working,she rolled,past completed action,ha laminato,ah lah-mee-NAH-toh,,past_3sg,,1,,,She rolled the pendant last night.,Ha laminato il pendente ieri sera.,,,laminare
+verb,jewelry and metal working,he rolled,past completed action,ha laminato,ah lah-mee-NAH-toh,,past_3sg,,1,,,He rolled the bracelet this morning.,Ha laminato il bracciale stamattina.,,,laminare
+verb,jewelry and metal working,we rolled,past completed action,abbiamo laminato,ah-BYAH-mo lah-mee-NAH-toh,,past_1pl,,1,,,We rolled the necklace together.,Abbiamo laminato la collana insieme.,,,laminare
+verb,jewelry and metal working,they rolled,past completed action,hanno laminato,AHN-noh lah-mee-NAH-toh,,past_3pl,,1,,,They rolled the earrings yesterday.,Hanno laminato gli orecchini ieri.,,,laminare
+verb,jewelry and metal working,you (plural) rolled,past completed action,avete laminato,ah-VEH-teh lah-mee-NAH-toh,,past_2pl,,1,,,You (plural) rolled the metal pieces.,Avete laminato i pezzi di metallo.,,,laminare
 verb,jewelry and metal working,rolling,ongoing action,laminando,lah-mee-NAN-doh,,gerund,,1,,,Rolling hardens the metal.,Laminando si incrudisce il metallo.,schiacciando,,laminare
 verb,jewelry and metal working,to draw,reduce wire diameter,trafilare,trah-fee-LAH-reh,,infinitive,,1,,,We need to draw the wire thinner.,Dobbiamo trafilare il filo più sottile.,tirare,,trafilare
 verb,jewelry and metal working,I draw,first-person present,trafilo,TRAH-fee-loh,,present_1sg,,1,,,I draw copper wire daily.,Trafilo filo di rame ogni giorno.,tiro,,trafilare
+verb,jewelry and metal working,you draw,second-person present,trafilini,trah-fee-LEE-nee,,present_2sg,,1,,,You draw the wire carefully.,Trafilini il filo con cura.,tiri,,trafilare
+verb,jewelry and metal working,she draws,third-person present,trafilina,trah-fee-LEE-nah,,present_3sg,,1,,,She draws the pendant wire now.,Lei trafilina il filo del pendente ora.,tira,,trafilare
+verb,jewelry and metal working,he draws,third-person present,trafilina,trah-fee-LEE-nah,,present_3sg,,1,,,He draws the bracelet wire daily.,Lui trafilina il filo del bracciale ogni giorno.,tira,,trafilare
+verb,jewelry and metal working,we draw,first-person plural,trafiliniamo,trah-fee-lee-NYAH-mo,,present_1pl,,1,,,We draw the necklace wire together.,Trafiliniamo il filo della collana insieme.,tiriamo,,trafilare
+verb,jewelry and metal working,they draw,third-person plural,trafilano,trah-fee-LAH-noh,,present_3pl,,1,,,They draw the earrings wire now.,Loro trafilano il filo degli orecchini ora.,tirano,,trafilare
+verb,jewelry and metal working,you (plural) draw,second-person plural,trafilate,trah-fee-LAH-teh,,present_2pl,,1,,,You (plural) draw the metal wire.,Voi trafilate il filo di metallo.,tirate,,trafilare
 verb,jewelry and metal working,I drew (wire),past completed action,ho trafilato,oh trah-fee-LAH-toh,,past_1sg,,1,,,I drew silver wire last night.,Ho trafilato filo d'argento ieri sera.,ho tirato,,trafilare
+verb,jewelry and metal working,you drew (wire),past completed action,hai trafilato,eye trah-fee-LAH-toh,,past_2sg,,1,,,You drew the ring wire last week.,Hai trafilato il filo dell'anello la settimana scorsa.,hai tirato,,trafilare
+verb,jewelry and metal working,she drew (wire),past completed action,ha trafilato,ah trah-fee-LAH-toh,,past_3sg,,1,,,She drew the pendant wire last night.,Ha trafilato il filo del pendente ieri sera.,ha tirato,,trafilare
+verb,jewelry and metal working,he drew (wire),past completed action,ha trafilato,ah trah-fee-LAH-toh,,past_3sg,,1,,,He drew the bracelet wire this morning.,Ha trafilato il filo del bracciale stamattina.,ha tirato,,trafilare
+verb,jewelry and metal working,we drew (wire),past completed action,abbiamo trafilato,ah-BYAH-mo trah-fee-LAH-toh,,past_1pl,,1,,,We drew the necklace wire together.,Abbiamo trafilato il filo della collana insieme.,abbiamo tirato,,trafilare
+verb,jewelry and metal working,they drew (wire),past completed action,hanno trafilato,AHN-noh trah-fee-LAH-toh,,past_3pl,,1,,,They drew the earrings wire yesterday.,Hanno trafilato il filo degli orecchini ieri.,hanno tirato,,trafilare
+verb,jewelry and metal working,you (plural) drew (wire),past completed action,avete trafilato,ah-VEH-teh trah-fee-LAH-toh,,past_2pl,,1,,,You (plural) drew the metal wire.,Avete trafilato il filo di metallo.,avete tirato,,trafilare
 verb,jewelry and metal working,drawing (wire),ongoing action,trafilando,trah-fee-LAN-doh,,gerund,,1,,,Drawing increases wire strength.,Trafilando aumenta la resistenza del filo.,tirando,,trafilare
 verb,jewelry and metal working,to measure,determine size,misurare,mee-zoo-RAH-reh,,infinitive,,1,,,Always measure the ring first.,Misura sempre l'anello prima.,verificare,,misurare
 verb,jewelry and metal working,I measure,first-person present,misuro,mee-ZOO-roh,,present_1sg,,1,,,I measure the stone with calipers.,Misuro la pietra con il calibro.,verifico,,misurare
+verb,jewelry and metal working,you measure,second-person present,misuri,mee-ZOO-ree,,present_2sg,,1,,,You measure the pendant carefully.,Misuri il pendente con cura.,verifichi,,misurare
+verb,jewelry and metal working,she measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,,,She measures the bracelet now.,Lei misura il bracciale ora.,verifica,,misurare
+verb,jewelry and metal working,he measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,,,He measures the necklace daily.,Lui misura la collana ogni giorno.,verifica,,misurare
+verb,jewelry and metal working,we measure,first-person plural,misuriamo,mee-ZOO-ryah-mo,,present_1pl,,1,,,We measure the earrings together.,Misuriamo gli orecchini insieme.,verifichiamo,,misurare
+verb,jewelry and metal working,they measure,third-person plural,misurano,mee-ZOO-rah-noh,,present_3pl,,1,,,They measure the metal pieces now.,Loro misurano i pezzi di metallo ora.,verificano,,misurare
+verb,jewelry and metal working,you (plural) measure,second-person plural,misurate,mee-ZOO-rah-teh,,present_2pl,,1,,,You (plural) measure the wire.,Voi misurate il filo.,verificate,,misurare
 verb,jewelry and metal working,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,,past_1sg,,1,,,I measured the thickness yesterday.,Ho misurato lo spessore ieri.,ho verificato,,misurare
+verb,jewelry and metal working,you measured,past completed action,hai misurato,eye mee-zoo-RAH-toh,,past_2sg,,1,,,You measured the ring last week.,Hai misurato l'anello la settimana scorsa.,hai verificato,,misurare
+verb,jewelry and metal working,she measured,past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,,,She measured the pendant last night.,Ha misurato il pendente ieri sera.,ha verificato,,misurare
+verb,jewelry and metal working,he measured,past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,,,He measured the bracelet this morning.,Ha misurato il bracciale stamattina.,ha verificato,,misurare
+verb,jewelry and metal working,we measured,past completed action,abbiamo misurato,ah-BYAH-mo mee-zoo-RAH-toh,,past_1pl,,1,,,We measured the necklace together.,Abbiamo misurato la collana insieme.,abbiamo verificato,,misurare
+verb,jewelry and metal working,they measured,past completed action,hanno misurato,AHN-noh mee-zoo-RAH-toh,,past_3pl,,1,,,They measured the earrings yesterday.,Hanno misurato gli orecchini ieri.,hanno verificato,,misurare
+verb,jewelry and metal working,you (plural) measured,past completed action,avete misurato,ah-VEH-teh mee-zoo-RAH-toh,,past_2pl,,1,,,You (plural) measured the metal pieces.,Avete misurato i pezzi di metallo.,avete verificato,,misurare
 verb,jewelry and metal working,measuring,ongoing action,misurando,mee-zoo-RAN-doh,,gerund,,1,,,Measuring prevents mistakes.,Misurando si evitano errori.,verificando,,misurare
 verb,jewelry and metal working,to buff,shine with a brush,spazzolare,spah-tsoh-LAH-reh,,infinitive,,2,,,We need to buff the pendant.,Dobbiamo spazzolare il pendente.,lucidare,,spazzolare
 verb,jewelry and metal working,I buff,first-person present,spazzolo,SPAH-tsoh-loh,,present_1sg,,2,,,I buff the chain gently.,Spazzolo la catena con delicatezza.,lucido,,spazzolare
+verb,jewelry and metal working,you buff,second-person present,spazzoli,SPAH-tsoh-lee,,present_2sg,,2,,,You buff the ring carefully.,Spazzoli l'anello con cura.,lucidi,,spazzolare
+verb,jewelry and metal working,she buffs,third-person present,spazzola,SPAH-tsoh-lah,,present_3sg,,2,,,She buffs the bracelet now.,Lei spazzola il bracciale ora.,lucida,,spazzolare
+verb,jewelry and metal working,he buffs,third-person present,spazzola,SPAH-tsoh-lah,,present_3sg,,2,,,He buffs the pendant daily.,Lui spazzola il pendente ogni giorno.,lucida,,spazzolare
+verb,jewelry and metal working,we buff,first-person plural,spazzoliamo,spah-tsoh-LYAH-mo,,present_1pl,,2,,,We buff the necklace together.,Spazzoliamo la collana insieme.,lucidiamo,,spazzolare
+verb,jewelry and metal working,they buff,third-person plural,spazzolano,SPAH-tsoh-lah-noh,,present_3pl,,2,,,They buff the earrings now.,Loro spazzolano gli orecchini ora.,lucidano,,spazzolare
+verb,jewelry and metal working,you (plural) buff,second-person plural,spazzolate,spah-tsoh-LAH-teh,,present_2pl,,2,,,You (plural) buff the metal pieces.,Voi spazzolate i pezzi di metallo.,lucidate,,spazzolare
 verb,jewelry and metal working,I buffed,past completed action,ho spazzolato,oh spah-tsoh-LAH-toh,,past_1sg,,2,,,I buffed the ring yesterday.,Ho spazzolato l'anello ieri.,ho lucidato,,spazzolare
+verb,jewelry and metal working,you buffed,past completed action,hai spazzolato,eye spah-tsoh-LAH-toh,,past_2sg,,2,,,You buffed the pendant last week.,Hai spazzolato il pendente la settimana scorsa.,hai lucidato,,spazzolare
+verb,jewelry and metal working,she buffed,past completed action,ha spazzolato,ah spah-tsoh-LAH-toh,,past_3sg,,2,,,She buffed the bracelet last night.,Ha spazzolato il bracciale ieri sera.,ha lucidato,,spazzolare
+verb,jewelry and metal working,he buffed,past completed action,ha spazzolato,ah spah-tsoh-LAH-toh,,past_3sg,,2,,,He buffed the pendant this morning.,Ha spazzolato il pendente stamattina.,ha lucidato,,spazzolare
+verb,jewelry and metal working,we buffed,past completed action,abbiamo spazzolato,ah-BYAH-mo spah-tsoh-LAH-toh,,past_1pl,,2,,,We buffed the necklace together.,Abbiamo spazzolato la collana insieme.,abbiamo lucidato,,spazzolare
+verb,jewelry and metal working,they buffed,past completed action,hanno spazzolato,AHN-noh spah-tsoh-LAH-toh,,past_3pl,,2,,,They buffed the earrings yesterday.,Hanno spazzolato gli orecchini ieri.,hanno lucidato,,spazzolare
+verb,jewelry and metal working,you (plural) buffed,past completed action,avete spazzolato,ah-VEH-teh spah-tsoh-LAH-toh,,past_2pl,,2,,,You (plural) buffed the metal pieces.,Avete spazzolato i pezzi di metallo.,avete lucidato,,spazzolare
 verb,jewelry and metal working,buffing,ongoing action,spazzolando,spah-tsoh-LAN-doh,,gerund,,2,,,Buffing brings out the shine.,Spazzolando emerge la lucentezza.,lucidando,,spazzolare
 verb,jewelry and metal working,to pickle,remove oxides with acid,decapare,deh-kah-PAH-reh,,infinitive,,2,,,We will pickle the pieces now.,Decaperemo i pezzi adesso.,pulire,,decapare
 verb,jewelry and metal working,I pickle,first-person present,decapo,deh-KAH-poh,,present_1sg,,2,,,I pickle silver after soldering.,Decapo l'argento dopo la saldatura.,pulisco,,decapare
+verb,jewelry and metal working,you pickle,second-person present,decapi,deh-KAH-pee,,present_2sg,,2,,,You pickle the copper carefully.,Decapi il rame con cura.,pulisci,,decapare
+verb,jewelry and metal working,she pickles,third-person present,decapa,deh-KAH-pah,,present_3sg,,2,,,She pickles the pendant now.,Lei decapa il pendente ora.,pulisce,,decapare
+verb,jewelry and metal working,he pickles,third-person present,decapa,deh-KAH-pah,,present_3sg,,2,,,He pickles the bracelet daily.,Lui decapa il bracciale ogni giorno.,pulisce,,decapare
+verb,jewelry and metal working,we pickle,first-person plural,decapiamo,deh-KAH-pyah-mo,,present_1pl,,2,,,We pickle the necklace together.,Decapiamo la collana insieme.,puliamo,,decapare
+verb,jewelry and metal working,they pickle,third-person plural,decapano,deh-KAH-pah-noh,,present_3pl,,2,,,They pickle the earrings now.,Loro decapano gli orecchini ora.,puliamo,,decapare
+verb,jewelry and metal working,you (plural) pickle,second-person plural,decapate,deh-KAH-pah-teh,,present_2pl,,2,,,You (plural) pickle the metal pieces.,Voi decapate i pezzi di metallo.,pulite,,decapare
 verb,jewelry and metal working,I pickled,past completed action,ho decapato,oh deh-kah-PAH-toh,,past_1sg,,2,,,I pickled all the findings.,Ho decapato tutte le minuterie.,ho pulito,,decapare
+verb,jewelry and metal working,you pickled,past completed action,hai decapato,eye deh-kah-PAH-toh,,past_2sg,,2,,,You pickled the ring last week.,Hai decapato l'anello la settimana scorsa.,hai pulito,,decapare
+verb,jewelry and metal working,she pickled,past completed action,ha decapato,ah deh-kah-PAH-toh,,past_3sg,,2,,,She pickled the pendant last night.,Ha decapato il pendente ieri sera.,ha pulito,,decapare
+verb,jewelry and metal working,he pickled,past completed action,ha decapato,ah deh-kah-PAH-toh,,past_3sg,,2,,,He pickled the bracelet this morning.,Ha decapato il bracciale stamattina.,ha pulito,,decapare
+verb,jewelry and metal working,we pickled,past completed action,abbiamo decapato,ah-BYAH-mo deh-kah-PAH-toh,,past_1pl,,2,,,We pickled the necklace together.,Abbiamo decapato la collana insieme.,abbiamo pulito,,decapare
+verb,jewelry and metal working,they pickled,past completed action,hanno decapato,AHN-noh deh-kah-PAH-toh,,past_3pl,,2,,,They pickled the earrings yesterday.,Hanno decapato gli orecchini ieri.,hanno pulito,,decapare
+verb,jewelry and metal working,you (plural) pickled,past completed action,avete decapato,ah-VEH-teh deh-kah-PAH-toh,,past_2pl,,2,,,You (plural) pickled the metal pieces.,Avete decapato i pezzi di metallo.,avete pulito,,decapare
 verb,jewelry and metal working,pickling,ongoing action,decapando,deh-kah-PAN-doh,,gerund,,2,,,Pickling removes surface fire-scale.,Decapando si elimina la colla bruna.,pulendo,,decapare
 verb,jewelry and metal working,to quench,cool hot metal quickly,temprare,tem-PRAH-reh,,infinitive,,2,,,Quench the piece in water.,Temprate il pezzo in acqua.,raffreddare,,temprare
 verb,jewelry and metal working,I quench,first-person present,tempro,TEM-proh,,present_1sg,,2,,,I quench red-hot steel.,Tempro l'acciaio incandescente.,raffreddo,,temprare
+verb,jewelry and metal working,you quench,second-person present,tempri,TEM-pree,,present_2sg,,2,,,You quench the blade carefully.,Tempri la lama con cura.,raffreddi,,temprare
+verb,jewelry and metal working,she quenches,third-person present,tempra,TEM-prah,,present_3sg,,2,,,She quenches the pendant now.,Lei tempra il pendente ora.,raffredda,,temprare
+verb,jewelry and metal workgin,he quenches,third-person present,tempra,TEM-prah,,present_3sg,,2,,,He quenches the bracelet daily.,Lui tempra il bracciale ogni giorno.,raffredda,,temprare
+verb,jewelry and metal working,we quench,first-person plural,tempriamo,tem-PRYAH-mo,,present_1pl,,2,,,We quench the necklace together.,Tempriamo la collana insieme.,raffreddiamo,,temprare
+verb,jewelry and metal working,they quench,third-person plural,temprano,TEM-prah-noh,,present_3pl,,2,,,They quench the earrings now.,Loro temprano gli orecchini ora.,raffreddano,,temprare
+verb,jewelry and metal working,you (plural) quench,second-person plural,temprate,tem-PRAH-teh,,present_2pl,,2,,,You (plural) quench the metal pieces.,Voi temprate i pezzi di metallo.,raffreddate,,temprare
 verb,jewelry and metal working,I quenched,past completed action,ho temprato,oh tem-PRAH-toh,,past_1sg,,2,,,I quenched the blade yesterday.,Ho temprato la lama ieri.,ho raffreddato,,temprare
+verb,jewelry and metal working,you quenched,past completed action,hai temprato,eye tem-PRAH-toh,,past_2sg,,2,,,You quenched the ring last week.,Hai temprato l'anello la settimana scorsa.,hai raffreddato,,temprare
+verb,jewelry and metal working,she quenched,past completed action,ha temprato,ah tem-PRAH-toh,,past_3sg,,2,,,She quenched the pendant last night.,Ha temprato il pendente ieri sera.,ha raffreddato,,temprare
+verb,jewelry and metal working,he quenched,past completed action,ha temprato,ah tem-PRAH-toh,,past_3sg,,2,,,He quenched the bracelet this morning.,Ha temprato il bracciale stamattina.,ha raffreddato,,temprare
+verb,jewelry and metal working,we quenched,past completed action,abbiamo temprato,ah-BYAH-mo tem-PRAH-toh,,past_1pl,,2,,,We quenched the necklace together.,Abbiamo temprato la collana insieme.,abbiamo raffreddato,,temprare
+verb,jewelry and metal working,they quenched,past completed action,hanno temprato,AHN-noh tem-PRAH-toh,,past_3pl,,2,,,They quenched the earrings yesterday.,Hanno temprato gli orecchini ieri.,hanno raffreddato,,temprare
+verb,jewelry and metal working,you (plural) quenched,past completed action,avete temprato,ah-VEH-teh tem-PRAH-toh,,past_2pl,,2,,,You (plural) quenched the metal pieces.,Avete temprato i pezzi di metallo.,avete raffreddato,,temprare
 verb,jewelry and metal working,quenching,ongoing action,temprando,tem-PRAHN-doh,,gerund,,2,,,Quenching produces a hiss.,Temprando si sente un sibilo.,raffreddando,,temprare
 verb,jewelry and metal working,to bend,shape by folding,piegare,pee-eh-GAH-reh,,infinitive,,1,,,We need to bend the wire.,Dobbiamo piegare il filo.,curvare,,piegare
 verb,jewelry and metal working,I bend,first-person present,piego,PYEH-goh,,present_1sg,,1,,,I bend the ring shank.,Piego il gambo dell'anello.,curvo,,piegare
+verb,jewelry and metal working,you bend,second-person present,pieghi,PYEH-gee,,present_2sg,,1,,,You bend the pendant carefully.,Pieghi il pendente con cura.,curvi,,piegare
+verb,jewelry and metal working,she bends,third-person present,piega,PYEH-gah,,present_3sg,,1,,,She bends the bracelet now.,Lei piega il bracciale ora.,curva,,piegare
+verb,jewelry and metal working,he bends,third-person present,piega,PYEH-gah,,present_3sg,,1,,,He bends the necklace daily.,Lui piega la collana ogni giorno.,curva,,piegare
+verb,jewelry and metal working,we bend,first-person plural,pieghiamo,pee-eh-GYAH-mo,,present_1pl,,1,,,We bend the earrings together.,Pieghiamo gli orecchini insieme.,curviamo,,piegare
+verb,jewelry and metal working,they bend,third-person plural,piegano,PYEH-gah-noh,,present_3pl,,1,,,They bend the metal pieces now.,Loro piegano i pezzi di metallo ora.,curvano,,piegare
+verb,jewelry and metal working,you (plural) bend,second-person plural,piegate,PYEH-gah-teh,,present_2pl,,1,,,You (plural) bend the wire.,Voi piegate il filo.,curvate,,piegare
 verb,jewelry and metal working,I bent,past completed action,ho piegato,oh pee-eh-GAH-toh,,past_1sg,,1,,,I bent the sheet yesterday.,Ho piegato la lastra ieri.,ho curvato,,piegare
+verb,jewelry and metal working,you bent,past completed action,hai piegato,eye pee-eh-GAH-toh,,past_2sg,,1,,,You bent the ring last week.,Hai piegato l'anello la settimana scorsa.,hai curvato,,piegare
+verb,jewelry and metal working,she bent,past completed action,ha piegato,ah pee-eh-GAH-toh,,past_3sg,,1,,,She bent the pendant last night.,Ha piegato il pendente ieri sera.,ha curvato,,piegare
+verb,jewelry and metal working,he bent,past completed action,ha piegato,ah pee-eh-GAH-toh,,past_3sg,,1,,,He bent the bracelet this morning.,Ha piegato il bracciale stamattina.,ha curvato,,piegare 
+verb,jewelry and metal working,we bent,past completed action,abbiamo piegato,ah-BYAH-mo pee-eh-GAH-toh,,past_1pl,,1,,,We bent the necklace together.,Abbiamo piegato la collana insieme.,abbiamo curvato,,piegare
+verb,jewelry and metal working,they bent,past completed action,hanno piegato,AHN-noh pee-eh-GAH-toh,,past_3pl,,1,,,They bent the earrings yesterday.,Hanno piegato gli orecchini ieri.,hanno curvato,,piegare
+verb,jewelry and metal working,you (plural) bent,past completed action,avete piegato,ah-VEH-teh pee-eh-GAH-toh,,past_2pl,,1,,,You (plural) bent the metal pieces.,Avete piegato i pezzi di metallo.,avete curvato,,piegare
 verb,jewelry and metal working,bending,ongoing action,piegando,pee-eh-GAN-doh,,gerund,,1,,,Bending work-hardens the metal.,Piegando si incrudisce il metallo.,curvando,,piegare

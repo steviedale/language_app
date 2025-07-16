@@ -1,41 +1,147 @@
 category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
 verb,shopping,to buy,purchase goods,comprare,kohm-PRAH-reh,,infinitive,,1,verb,,I want to buy a souvenir.,Voglio comprare un souvenir.,acquistare,,comprare
 verb,shopping,I buy,first-person present,compro,KOHM-proh,,present_1sg,,1,verb,,I buy fruit at the market.,Compro frutta al mercato.,acquisto,,comprare
+verb,shopping,you buy,second-person present,compri,KOHM-pree,,present_2sg,,1,verb,,You buy bread at the bakery.,Compri il pane in panetteria.,acquisti,,comprare
+verb,shopping,she buys,third-person present,compra,KOHM-prah,,present_3sg,,1,verb,,She buys a dress at the store.,Lei compra un vestito al negozio.,acquista,,comprare
+verb,shopping,he buys,third-person present,compra,KOHM-prah,,present_3sg,,1,verb,,He buys a book at the bookstore.,Lui compra un libro in libreria.,acquista,,comprare
+verb,shopping,we buy,first-person plural present,compriamo,kohm-PREE-ah-moh,,present_1pl,,1,verb,,We buy groceries every week.,Compriamo la spesa ogni settimana.,acquistiamo,,comprare
+verb,shopping,they buy,third-person plural present,comprano,kohm-PRAH-noh,,present_3pl,,1,verb,,They buy souvenirs in Rome.,Loro comprano souvenir a Roma.,acquistano,,comprare
+verb,shopping,you (plural) buy,second-person plural present,comprate,kohm-PRAH-teh,,present_2pl,,1,verb,,You all buy souvenirs in Rome.,Comprate souvenir a Roma.,acquistate,,comprare
 verb,shopping,I bought,past completed action,ho comprato,oh kohm-PRAH-toh,,past_1sg,,1,verb,,I bought tickets yesterday.,Ho comprato i biglietti ieri.,ho acquistato,,comprare
+verb,shopping,you bought,second-person past completed action,hai comprato,hai kohm-PRAH-toh,,past_2sg,,1,verb,,You bought a gift for her.,Hai comprato un regalo per lei.,hai acquistato,,comprare
+verb,shopping,she bought,third-person past completed action,ha comprato,ah kohm-PRAH-toh,,past_3sg,,1,verb,,She bought a dress last week.,Ha comprato un vestito la settimana scorsa.,ha acquistato,,comprare
+verb,shopping,he bought,third-person past completed action,ha comprato,ah kohm-PRAH-toh,,past_3sg,,1,verb,,He bought a book last month.,Ha comprato un libro il mese scorso.,ha acquistato,,comprare
+verb,shopping,we bought,first-person plural past completed action,abbiamo comprato,ah-BBYAH-mo kohm-PRAH-toh,,past_1pl,,1,verb,,We bought groceries yesterday.,Abbiamo comprato la spesa ieri.,abbiamo acquistato,,comprare
+verb,shopping,they bought,third-person plural past completed action,hanno comprato,AHN-noh kohm-PRAH-toh,,past_3pl,,1,verb,,They bought souvenirs in Rome.,Hanno comprato souvenir a Roma.,hanno acquistato,,comprare
+verb,shopping,you (plural) bought,second-person plural past completed action,avete comprato,ah-VEH-teh kohm-PRAH-toh,,past_2pl,,1,verb,,You all bought souvenirs in Rome.,Avete comprato souvenir a Roma.,avete acquistato,,comprare
 verb,shopping,buying,ongoing action,comprando,kohm-PRAHN-doh,,gerund,,1,verb,,Buying local products saves money.,Comprando prodotti locali si risparmia.,acquistando,,comprare
 verb,shopping,to pay,hand over money,pagare,pah-GAH-reh,,infinitive,,1,verb,,You can pay with card.,Puoi pagare con la carta.,sal­dare,,pagare
 verb,shopping,I pay,first-person present,pago,PAH-goh,,present_1sg,,1,verb,,I pay at the register.,Pago alla cassa.,saldo,,pagare
+verb,shopping,you pay,second-person present,paghi,PAH-gee,,present_2sg,,1,verb,,You pay with cash.,Paghi in contanti.,saldi,,pagare
+verb,shopping,she pays,third-person present,paga,PAH-gah,,present_3sg,,1,verb,,She pays for the groceries.,Lei paga la spesa.,salda,,pagare
+verb,shopping,he pays,third-person present,paga,PAH-gah,,present_3sg,,1,verb,,He pays for the coffee.,Lui paga il caffè.,salda,,pagare
+verb,shopping,we pay,first-person plural present,paghiamo,pah-GYAH-moh,,present_1pl,,1,verb,,We pay for the tickets.,Paghiamo i biglietti.,saldamo,,pagare
+verb,shopping,they pay,third-person plural present,pagano,PAH-gah-noh,,present_3pl,,1,verb,,They pay for the meal.,Loro pagano il pasto.,saldano,,pagare
+verb,shopping,you (plural) pay,second-person plural present,pagate,pah-GAH-teh,,present_2pl,,1,verb,,You all pay for the drinks.,Pagate le bevande.,saldate,,pagare
 verb,shopping,I paid,past completed action,ho pagato,oh pah-GAH-toh,,past_1sg,,1,verb,,I paid the bill already.,Ho pagato il conto già.,ho saldato,,pagare
+verb,shopping,you paid,second-person past completed action,hai pagato,hai pah-GAH-toh,,past_2sg,,1,verb,,You paid for the groceries.,Hai pagato la spesa.,hai saldato,,pagare
+verb,shopping,she paid,third-person past completed action,ha pagato,ah pah-GAH-toh,,past_3sg,,1,verb,,She paid for the dress.,Ha pagato il vestito.,ha saldato,,pagare
+verb,shopping,he paid,third-person past completed action,ha pagato,ah pah-GAH-toh,,past_3sg,,1,verb,,He paid for the book.,Ha pagato il libro.,ha saldato,,pagare
+verb,shopping,we paid,first-person plural past completed action,abbiamo pagato,ah-BBYAH-mo pah-GAH-toh,,past_1pl,,1,verb,,We paid for the tickets.,Abbiamo pagato i biglietti.,abbiamo saldato,,pagare
+verb,shopping,they paid,third-person plural past completed action,hanno pagato,AHN-noh pah-GAH-toh,,past_3pl,,1,verb,,They paid for the meal.,Hanno pagato il pasto.,hanno saldato,,pagare
+verb,shopping,you (plural) paid,second-person plural past completed action,avete pagato,ah-VEH-teh pah-GAH-toh,,past_2pl,,1,verb,,You all paid for the drinks.,Avete pagato le bevande.,avete saldato,,pagare
 verb,shopping,paying,ongoing action,pagando,pah-GAN-doh,,gerund,,1,verb,,Paying in cash is faster.,Pagando in contanti è più veloce.,saldando,,pagare
 verb,shopping,to try on,put clothing on to test,provare,proh-VAH-reh,,infinitive,,1,verb,,May I try on this jacket?,Posso provare questa giacca?,testare,,provare
 verb,shopping,I try on,first-person present,provo,PROH-voh,,present_1sg,,1,verb,,I try on the shoes.,Provo le scarpe.,testo,,provare
+verb,shopping,you try on,second-person present,provi,PROH-vee,,present_2sg,,1,verb,,You try on the dress.,Provi il vestito.,testi,,provare
+verb,shopping,she tries on,third-person present,prova,PROH-vah,,present_3sg,,1,verb,,She tries on the blouse.,Lei prova la camicetta.,testa,,provare
+verb,shopping,he tries on,third-person present,prova,PROH-vah,,present_3sg,,1,verb,,He tries on the jacket.,Lui prova la giacca.,testa,,provare
+verb,shopping,we try on,first-person plural present,proviamo,proh-VYAH-moh,,present_1pl,,1,verb,,We try on the clothes.,Proviamo i vestiti.,testiamo,,provare
+verb,shopping,they try on,third-person plural present,provano,PROH-vah-noh,,present_3pl,,1,verb,,They try on the shoes.,Loro provano le scarpe.,testano,,provare
+verb,shopping,you (plural) try on,second-person plural present,provate,proh-VAH-teh,,present_2pl,,1,verb,,You all try on the dresses.,Provate i vestiti.,testate,,provare
 verb,shopping,I tried on,past completed action,ho provato,oh proh-VAH-toh,,past_1sg,,1,verb,,I tried on three sizes.,Ho provato tre taglie.,ho testato,,provare
+verb,shopping,you tried on,second-person past completed action,hai provato,hai proh-VAH-toh,,past_2sg,,1,verb,,You tried on the jacket.,Hai provato la giacca.,hai testato,,provare
+verb,shopping,she tried on,third-person past completed action,ha provato,ah proh-VAH-toh,,past_3sg,,1,verb,,She tried on the dress.,Ha provato il vestito.,ha testato,,provare
+verb,shopping,he tried on,third-person past completed action,ha provato,ah proh-VAH-toh,,past_3sg,,1,verb,,He tried on the shoes.,Ha provato le scarpe.,ha testato,,provare
+verb,shopping,we tried on,first-person plural past completed action,abbiamo provato,ah-BBYAH-mo proh-VAH-toh,,past_1pl,,1,verb,,We tried on the clothes.,Abbiamo provato i vestiti.,abbiamo testato,,provare
+verb,shopping,they tried on,third-person plural past completed action,hanno provato,AHN-noh proh-VAH-toh,,past_3pl,,1,verb,,They tried on the shoes.,Hanno provato le scarpe.,hanno testato,,provare
+verb,shopping,you (plural) tried on,second-person plural past completed action,avete provato,ah-VEH-teh proh-VAH-toh,,past_2pl,,1,verb,,You all tried on the dresses.,Avete provato i vestiti.,avete testato,,provare
 verb,shopping,trying on,ongoing action,provando,proh-VAN-doh,,gerund,,1,verb,,Trying on clothes takes time.,Provando i vestiti si perde tempo.,testando,,provare
 verb,shopping,to cost,have a price,costare,koh-STAHR-eh,,infinitive,,1,verb,,How much does it cost?,Quanto costa?,valere,,costare
-verb,shopping,I cost,first-person present,costo,KOH-stoh,,present_1sg,,1,verb,,I cost nothing to enter.,Costo niente per entrare.,valgo,,costare
-verb,shopping,I costed,past completed action,sono costato,SOH-no koh-STA-toh,,past_1sg,,1,verb,,The item I bought costed less online.,L’articolo che ho comprato è costato meno online.,sono valso,,costare
 verb,shopping,costing,ongoing action,costando,koh-STAN-doh,,gerund,,1,verb,,Costing too much I skipped it.,Costando troppo l’ho lasciato.,valendo,,costare
 verb,shopping,to choose,select something,scegliere,SHEL-lyeh-reh,,infinitive,,1,verb,,Choose your favorite flavor.,Scegli il tuo gusto preferito.,selezionare,,scegliere
 verb,shopping,I choose,first-person present,scelgo,SHEL-goh,,present_1sg,,1,verb,,I choose local wines.,Scelgo vini locali.,seleziono,,scegliere
+verb,shopping,you choose,second-person present,scegli,SHEL-yee,,present_2sg,,1,verb,,You choose the best option.,Scegli l'opzione migliore.,selezioni,,scegliere
+verb,shopping,she chooses,third-person present,sceglie,SHEL-yee-eh,,present_3sg,,1,verb,,She chooses the red dress.,Lei sceglie il vestito rosso.,seleziona,,scegliere
+verb,shopping,he chooses,third-person present,sceglie,SHEL-yee-eh,,present_3sg,,1,verb,,He chooses the blue shirt.,Lui sceglie la camicia blu.,seleziona,,scegliere
+verb,shopping,we choose,first-person plural present,scegliamo,SHEL-lyah-moh,,present_1pl,,1,verb,,We choose the best restaurant.,Scegliamo il miglior ristorante.,selezioniamo,,scegliere
+verb,shopping,they choose,third-person plural present,scegono,SHEL-goh-noh,,present_3pl,,1,verb,,They choose the best souvenirs.,Loro scelgono i migliori souvenir.,selezionano,,scegliere
+verb,shopping,you (plural) choose,second-person plural present,scegliete,SHEL-yee-eh-teh,,present_2pl,,1,verb,,You all choose the best souvenirs.,Scegliete i migliori souvenir.,selezionate,,scegliere
 verb,shopping,I chose,past completed action,ho scelto,oh SHEL-toh,,past_1sg,,1,verb,,I chose the blue scarf.,Ho scelto la sciarpa blu.,ho selezionato,,sceltare
+verb,shopping,you chose,second-person past completed action,hai scelto,hai SHEL-toh,,past_2sg,,1,verb,,You chose the red dress.,Hai scelto il vestito rosso.,hai selezionato,,sceltare
+verb,shopping,she chose,third-person past completed action,ha scelto,ah SHEL-toh,,past_3sg,,1,verb,,She chose the green shoes.,Ha scelto le scarpe verdi.,ha selezionato,,sceltare
+verb,shopping,he chose,third-person past completed action,ha scelto,ah SHEL-toh,,past_3sg,,1,verb,,He chose the black jacket.,Ha scelto la giacca nera.,ha selezionato,,sceltare
+verb,shopping,we chose,first-person plural past completed action,abbiamo scelto,ah-BBYAH-mo SHEL-toh,,past_1pl,,1,verb,,We chose the best restaurant.,Abbiamo scelto il miglior ristorante.,abbiamo selezionato,,sceltare
+verb,shopping,they chose,third-person plural past completed action,hanno scelto,AHN-noh SHEL-toh,,past_3pl,,1,verb,,They chose the best souvenirs.,Hanno scelto i migliori souvenir.,hanno selezionato,,sceltare
+verb,shopping,you (plural) chose,second-person plural past completed action,avete scelto,ah-VEH-teh SHEL-toh,,past_2pl,,1,verb,,You all chose the best souvenirs.,Avete scelto i migliori souvenir.,avete selezionato,,sceltare
 verb,shopping,choosing,ongoing action,scegliendo,shel-YEN-doh,,gerund,,1,verb,,Choosing takes me a while.,Scegliendo ci metto un po’.,selezionando,,scegliere
 verb,shopping,to exchange,swap an item,cambiare,kahm-BYAH-reh,,infinitive,,1,verb,,You can exchange within 30 days.,Puoi cambiare entro 30 giorni.,sostituire,,cambiare
 verb,shopping,I exchange,first-person present,cambio,KAHM-byoh,,present_1sg,,1,verb,,I exchange the size.,Cambio la taglia.,sostituisco,,cambiare
+verb,shopping,you exchange,second-person present,cambi,KAHM-bee,,present_2sg,,1,verb,,You exchange the shoes.,Cambi le scarpe.,sostituisci,,cambiare
+verb,shopping,she exchanges,third-person present,cambia,KAHM-byah,,present_3sg,,1,verb,,She exchanges the dress.,Lei cambia il vestito.,sostituisce,,cambiare
+verb,shopping,he exchanges,third-person present,cambia,KAHM-byah,,present_3sg,,1,verb,,He exchanges the jacket.,Lui cambia la giacca.,sostituisce,,cambiare
+verb,shopping,we exchange,first-person plural present,cambiamo,kahm-BYAH-moh,,present_1pl,,1,verb,,We exchange the gifts.,Cambiamo i regali.,sostituiamo,,cambiare
+verb,shopping,they exchange,third-person plural present,cambiano,KAHM-byah-noh,,present_3pl,,1,verb,,They exchange the souvenirs.,Loro cambiano i souvenir.,sostituiscono,,cambiare
+verb,shopping,you (plural) exchange,second-person plural present,cambiate,kahm-BYAH-teh,,present_2pl,,1,verb,,You all exchange the gifts.,Cambiate i regali.,sostituite,,cambiare
 verb,shopping,I exchanged,past completed action,ho cambiato,oh kahm-BYAH-toh,,past_1sg,,1,verb,,I exchanged the shoes yesterday.,Ho cambiato le scarpe ieri.,ho sostituito,,cambiare
+verb,shopping,you exchanged,second-person past completed action,hai cambiato,hai kahm-BYAH-toh,,past_2sg,,1,verb,,You exchanged the jacket.,Hai cambiato la giacca.,hai sostituito,,cambiare
+verb,shopping,she exchanged,third-person past completed action,ha cambiato,ah kahm-BYAH-toh,,past_3sg,,1,verb,,She exchanged the dress.,Ha cambiato il vestito.,ha sostituito,,cambiare
+verb,shopping,he exchanged,third-person past completed action,ha cambiato,ah kahm-BYAH-toh,,past_3sg,,1,verb,,He exchanged the shoes.,Ha cambiato le scarpe.,ha sostituito,,cambiare
+verb,shopping,we exchanged,first-person plural past completed action,abbiamo cambiato,ah-BBYAH-mo kahm-BYAH-toh,,past_1pl,,1,verb,,We exchanged the gifts.,Abbiamo cambiato i regali.,abbiamo sostituito,,cambiare
+verb,shopping,they exchanged,third-person plural past completed action,hanno cambiato,AHN-noh kahm-BYAH-toh,,past_3pl,,1,verb,,They exchanged the souvenirs.,Hanno cambiato i souvenir.,hanno sostituito,,cambiare
+verb,shopping,you (plural) exchanged,second-person plural past completed action,avete cambiato,ah-VEH-teh kahm-BYAH-toh,,past_2pl,,1,verb,,You all exchanged the gifts.,Avete cambiato i regali.,avete sostituito,,cambiare
 verb,shopping,exchanging,ongoing action,cambiando,kahm-BYAN-doh,,gerund,,1,verb,,Exchanging is easy here.,Cambiando qui è facile.,sostituendo,,cambiare
 verb,shopping,to measure,check size,misurare,mee-zoo-RAH-reh,,infinitive,,1,verb,,Please measure my waist.,Per favore misurami la vita.,verificare,,misurare
 verb,shopping,I measure,first-person present,misuro,mee-ZOO-roh,,present_1sg,,1,verb,,I measure the fabric.,Misuro il tessuto.,verifico,,misurare
+verb,shopping,you measure,second-person present,misuri,mee-ZOO-ree,,present_2sg,,1,verb,,You measure the length.,Misuri la lunghezza.,verifichi,,misurare
+verb,shopping,she measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,verb,,She measures the ring size.,Lei misura la misura dell’anello.,verifica,,misurare
+verb,shopping,he measures,third-person present,misura,mee-ZOO-rah,,present_3sg,,1,verb,,He measures the fabric.,Lui misura il tessuto.,verifica,,misurare
+verb,shopping,we measure,first-person plural present,misuriamo,mee-ZOO-ryah-moh,,present_1pl,,1,verb,,We measure the length.,Misuriamo la lunghezza.,verifichiamo,,misurare
+verb,shopping,they measure,third-person plural present,misurano,mee-ZOO-rah-noh,,present_3pl,,1,verb,,They measure the fabric.,Loro misurano il tessuto.,verificano,,misurare
+verb,shopping,you (plural) measure,second-person plural present,misurate,mee-ZOO-rah-teh,,present_2pl,,1,verb,,You all measure the length.,Misurate la lunghezza.,verificate,,misurare
 verb,shopping,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,,past_1sg,,1,verb,,I measured the ring size.,Ho misurato la misura dell’anello.,ho verificato,,misurare
+verb,shopping,you measured,second-person past completed action,hai misurato,hai mee-zoo-RAH-toh,,past_2sg,,1,verb,,You measured the fabric.,Hai misurato il tessuto.,hai verificato,,misurare
+verb,shopping,she measured,third-person past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,verb,,She measured the length.,Ha misurato la lunghezza.,ha verificato,,misurare
+verb,shopping,he measured,third-person past completed action,ha misurato,ah mee-zoo-RAH-toh,,past_3sg,,1,verb,,He measured the fabric.,Ha misurato il tessuto.,ha verificato,,misurare
+verb,shopping,we measured,first-person plural past completed action,abbiamo misurato,ah-BBYAH-mo mee-zoo-RAH-toh,,past_1pl,,1,verb,,We measured the length.,Abbiamo misurato la lunghezza.,abbiamo verificato,,misurare
+verb,shopping,they measured,third-person plural past completed action,hanno misurato,AHN-noh mee-zoo-RAH-toh,,past_3pl,,1,verb,,They measured the fabric.,Hanno misurato il tessuto.,hanno verificato,,misurare
+verb,shopping,you (plural) measured,second-person plural past completed action,avete misurato,ah-VEH-teh mee-zoo-RAH-toh,,past_2pl,,1,verb,,You all measured the length.,Avete misurato la lunghezza.,avete verificato,,misurare
 verb,shopping,measuring,ongoing action,misurando,mee-zoo-RAN-doh,,gerund,,1,verb,,Measuring saves return trips.,Misurando si evitano resi.,verificando,,misurare
 verb,shopping,to return,bring back/reimburse,restituire,reh-stee-too-EE-reh,,infinitive,,1,verb,,I want to return this item.,Voglio restituire questo articolo.,rendere,,restituire
 verb,shopping,I return,first-person present,restituisco,reh-stee-too-EES-koh,,present_1sg,,1,verb,,I return defective goods.,Restituisco merce difettosa.,rendo,,restituire
+verb,shopping,you return,second-person present,restituisci,reh-stee-too-EE-shee,,present_2sg,,1,verb,,You return the shoes.,Restituisci le scarpe.,rendi,,restituire
+verb,shopping,she returns,third-person present,restituisce,reh-stee-too-EE-sheh,,present_3sg,,1,verb,,She returns the dress.,Lei restituisce il vestito.,rende,,restituire
+verb,shopping,he returns,third-person present,restituisce,reh-stee-too-EE-sheh,,present_3sg,,1,verb,,He returns the jacket.,Lui restituisce la giacca.,rende,,restituire
+verb,shopping,we return,first-person plural present,restituiamo,reh-stee-too-YAH-moh,,present_1pl,,1,verb,,We return the gifts.,Restituiamo i regali.,rendiamo,,restituire
+verb,shopping,they return,third-person plural present,restituiscono,reh-stee-too-EE-skoh-noh,,present_3pl,,1,verb,,They return the souvenirs.,Loro restituiscono i souvenir.,rendono,,restituire
+verb,shopping,you (plural) return,second-person plural present,restituite,reh-stee-too-EE-teh,,present_2pl,,1,verb,,You all return the gifts.,Restituite i regali.,rendete,,restituire
 verb,shopping,I returned,past completed action,ho restituito,oh reh-stee-too-EE-toh,,past_1sg,,1,verb,,I returned the shirt yesterday.,Ho restituito la camicia ieri.,ho reso,,restituire
+verb,shopping,you returned,second-person past completed action,hai restituito,hai reh-stee-too-EE-toh,,past_2sg,,1,verb,,You returned the jacket.,Hai restituito la giacca.,hai reso,,restituire
+verb,shopping,she returned,third-person past completed action,ha restituito,ah reh-stee-too-EE-toh,,past_3sg,,1,verb,,She returned the dress.,Ha restituito il vestito.,ha reso,,restituire
+verb,shopping,he returned,third-person past completed action,ha restituito,ah reh-stee-too-EE-toh,,past_3sg,,1,verb,,He returned the shoes.,Ha restituito le scarpe.,ha reso,,restituire
+verb,shopping,we returned,first-person plural past completed action,abbiamo restituito,ah-BBYAH-mo reh-stee-too-EE-toh,,past_1pl,,1,verb,,We returned the gifts.,Abbiamo restituito i regali.,abbiamo reso,,restituire
+verb,shopping,they returned,third-person plural past completed action,hanno restituito,AHN-noh reh-stee-too-EE-toh,,past_3pl,,1,verb,,They returned the souvenirs.,Hanno restituito i souvenir.,hanno reso,,restituire
+verb,shopping,you (plural) returned,second-person plural past completed action,avete restituito,ah-VEH-teh reh-stee-too-EE-toh,,past_2pl,,1,verb,,You all returned the gifts.,Avete restituito i regali.,avete reso,,restituire
 verb,shopping,returning,ongoing action,restituendo,reh-stee-too-EN-doh,,gerund,,1,verb,,Returning items needs the receipt.,Restituendo serve lo scontrino.,rendendo,,restituire
 verb,shopping,to sell,give goods for money,vendere,VEN-deh-reh,,infinitive,,1,verb,,They sell fresh cheese.,Vendono formaggio fresco.,commercializzare,,vendere
 verb,shopping,I sell,first-person present,vendo,VEN-doh,,present_1sg,,1,verb,,I sell postcards in the shop.,Vendo cartoline in negozio.,commercializzo,,vendere
+verb,shopping,you sell,second-person present,vendi,VEN-dee,,present_2sg,,1,verb,,You sell souvenirs in Rome.,Vendi souvenir a Roma.,commercializzi,,vendere
+verb,shopping,she sells,third-person present,vende,VEN-deh,,present_3sg,,1,verb,,She sells handmade jewelry.,Lei vende gioielli fatti a mano.,commercializza,,vendere
+verb,shopping,he sells,third-person present,vende,VEN-deh,,present_3sg,,1,verb,,He sells local wines.,Lui vende vini locali.,commercializza,,vendere
+verb,shopping,we sell,first-person plural present,vendiamo,ven-DYAH-moh,,present_1pl,,1,verb,,We sell handmade crafts.,Vendiamo artigianato fatto a mano.,commercializziamo,,vendere
+verb,shopping,they sell,third-person plural present,vendono,VEN-doh-noh,,present_3pl,,1,verb,,They sell souvenirs in Rome.,Loro vendono souvenir a Roma.,commercializzano,,vendere
+verb,shopping,you (plural) sell,second-person plural present,vendete,ven-DEH-teh,,present_2pl,,1,verb,,You all sell souvenirs in Rome.,Voi vendete souvenir a Roma.,commercializzate,,vendere
 verb,shopping,I sold,past completed action,ho venduto,oh ven-DOO-toh,,past_1sg,,1,verb,,I sold my old camera.,Ho venduto la mia vecchia macchina fotografica.,ho commercializzato,,vendere
+verb,shopping,you sold,second-person past completed action,hai venduto,hai ven-DOO-toh,,past_2sg,,1,verb,,You sold your old phone.,Hai venduto il tuo vecchio telefono.,hai commercializzato,,vendere
+verb,shopping,she sold,third-person past completed action,ha venduto,ah ven-DOO-toh,,past_3sg,,1,verb,,She sold her old dress.,Ha venduto il suo vecchio vestito.,ha commercializzato,,vendere
+verb,shopping,he sold,third-person past completed action,ha venduto,ah ven-DOO-toh,,past_3sg,,1,verb,,He sold his old guitar.,Ha venduto la sua vecchia chitarra.,ha commercializzato,,vendere
+verb,shopping,we sold,first-person plural past completed action,abbiamo venduto,ah-BBYAH-mo ven-DOO-toh,,past_1pl,,1,verb,,We sold our old furniture.,Abbiamo venduto i nostri vecchi mobili.,abbiamo commercializzato,,vendere
+verb,shopping,they sold,third-person plural past completed action,hanno venduto,AHN-noh ven-DOO-toh,,past_3pl,,1,verb,,They sold their old car.,Hanno venduto la loro vecchia auto.,hanno commercializzato,,vendere
+verb,shopping,you (plural) sold,second-person plural past completed action,avete venduto,ah-VEH-teh ven-DOO-toh,,past_2pl,,1,verb,,You all sold your old furniture.,Avete venduto i vostri vecchi mobili.,avete commercializzato,,vendere
 verb,shopping,selling,ongoing action,vendendo,ven-DEN-doh,,gerund,,1,verb,,Selling souvenirs is fun.,Vendendo souvenir ci si diverte.,commercializzando,,vendere
 verb,shopping,to ask for,request,richiedere,ree-kyeh-DEH-reh,,infinitive,,1,verb,,You can ask for a discount.,Puoi richiedere uno sconto.,chiedere,,richiedere
 verb,shopping,I ask for,first-person present,richiedo,ree-KYEH-doh,,present_1sg,,1,verb,,I ask for a bag.,Richiedo una borsa.,chiedo,,richiedere
+verb,shopping,you ask for,second-person present,richiedi,ree-KYEH-dee,,present_2sg,,1,verb,,You ask for a receipt.,Richiedi uno scontrino.,chiedi,,richiedere
+verb,shopping,she asks for,third-person present,richiede,ree-KYEH-deh,,present_3sg,,1,verb,,She asks for a discount.,Lei richiede uno sconto.,chiede,,richiedere
+verb,shopping,he asks for,third-person present,richiede,ree-KYEH-deh,,present_3sg,,1,verb,,He asks for a bag.,Lui richiede una borsa.,chiede,,richiedere
+verb,shopping,we ask for,first-person plural present,richiediamo,ree-kyeh-DYAH-moh,,present_1pl,,1,verb,,We ask for a receipt.,Richiediamo uno scontrino.,chiediamo,,richiedere
+verb,shopping,they ask for,third-person plural present,richiedono,ree-kyeh-DOH-noh,,present_3pl,,1,verb,,They ask for a discount.,Loro richiedono uno sconto.,chiedono,,richiedere
+verb,shopping,you (plural) ask for,second-person plural present,richiedete,ree-kyeh-DEH-teh,,present_2pl,,1,verb,,You all ask for a receipt.,Richiedete uno scontrino.,chiedete,,richiedere
 verb,shopping,I asked for,past completed action,ho richiesto,oh ree-KYEH-stoh,,past_1sg,,1,verb,,I asked for a receipt.,Ho richiesto uno scontrino.,ho chiesto,,richiestare
+verb,shopping,you asked for,second-person past completed action,hai richiesto,hai ree-KYEH-stoh,,past_2sg,,1,verb,,You asked for a bag.,Hai richiesto una borsa.,hai chiesto,,richiestare
+verb,shopping,she asked for,third-person past completed action,ha richiesto,ah ree-KYEH-stoh,,past_3sg,,1,verb,,She asked for a discount.,Ha richiesto uno sconto.,ha chiesto,,richiestare
+verb,shopping,he asked for,third-person past completed action,ha richiesto,ah ree-KYEH-stoh,,past_3sg,,1,verb,,He asked for a bag.,Ha richiesto una borsa.,ha chiesto,,richiestare
+verb,shopping,we asked for,first-person plural past completed action,abbiamo richiesto,ah-BBYAH-mo ree-KYEH-stoh,,past_1pl,,1,verb,,We asked for a receipt.,Abbiamo richiesto uno scontrino.,abbiamo chiesto,,richiestare
+verb,shopping,they asked for,third-person plural past completed action,hanno richiesto,AHN-noh ree-KYEH-stoh,,past_3pl,,1,verb,,They asked for a discount.,Hanno richiesto uno sconto.,hanno chiesto,,richiestare
+verb,shopping,you (plural) asked for,second-person plural past completed action,avete richiesto,ah-VEH-teh ree-KYEH-stoh,,past_2pl,,1,verb,,You all asked for a receipt.,Avete richiesto uno scontrino.,avete chiesto,,richiestare
 verb,shopping,asking for,ongoing action,richiedendo,ree-kyeh-DEN-doh,,gerund,,1,verb,,Asking for help is easy.,Richiedendo aiuto è facile.,chiedendo,,richiedere

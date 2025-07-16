@@ -1,41 +1,161 @@
 category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
 verb,emotions,to love,strong positive feeling,amare,ah-MAH-reh,,infinitive,,1,verb,,It’s easy to love Italy.,È facile amare l’Italia.,adorare,,amare
 verb,emotions,I love,first-person present,amo,AH-moh,,present_1sg,,1,verb,,I love this city.,Amo questa città.,adoro,,amare
+verb,emotions,you love,second-person present,ami,AH-mee,,present_2sg,,1,verb,,You love the mountains.,Ami le montagne.,adori,,amare
+verb,emotions,you (plural) love,second-person present,amate,ah-MAH-teh,,present_2pl,,1,verb,,You love the mountains.,Amate le montagne.,adorate,,amare
+verb,emotions,he loves,third-person singular,ama,AH-mah,,present_3sg_masc,,1,verb,,He loves the beach.,Ama la spiaggia.,adora,,amare
+verb,emotions,she loves,third-person singular,ama,AH-mah,,present_3sg_fem,,1,verb,,She loves the music here.,Ama la musica qui.,adora,,amare
+verb,emotions,we love,first-person plural,amiamo,ah-MYAH-moh,,present_1pl,,1,verb,,We love the sea.,Amiamo il mare.,adoriamo,,amare
+verb,emotions,they love,third-person plural,amano,AH-mah-noh,,present_3pl,,1,verb,,They love the food here.,Amano il cibo qui.,adorano,,amare
 verb,emotions,I loved,past completed action,ho amato,oh ah-MAH-toh,,past_1sg,,1,verb,,I loved the concert yesterday.,Ho amato il concerto ieri.,ho adorato,,amare
+verb,emotions,you loved,past completed action,hai amato,ah-ee ah-MAH-toh,,past_2sg,,1,verb,,You loved the book.,Hai amato il libro.,hai adorato,,amare
+verb,emotions,you (plural) loved,past completed action,avete amato,ah-VEH-teh ah-MAH-toh,,past_2pl,,1,verb,,You loved the movie.,Avete amato il film.,avete adorato,,amare
+verb,emotions,he loved,past completed action,ha amato,ah-AH-mah-toh,,past_3sg_masc,,1,verb,,He loved the opera.,Ha amato l'opera.,ha adorato,,amare
+verb,emotions,she loved,past completed action,ha amato,ah-AH-mah-toh,,past_3sg_fem,,1,verb,,She loved the painting.,Ha amato il dipinto.,ha adorato,,amare
+verb,emotions,we loved,past completed action,abbiamo amato,ah-BBYAH-mo ah-MAH-toh,,past_1pl,,1,verb,,We loved the museum.,Abbiamo amato il museo.,abbiamo adorato,,amare
+verb,emotions,they loved,past completed action,hanno amato,AHN-noh ah-MAH-toh,,past_3pl,,1,verb,,They loved the exhibition.,Hanno amato la mostra.,hanno adorato,,amare
 verb,emotions,loving,ongoing action,amando,ah-MAN-doh,,gerund,,1,verb,,Loving new places is natural.,Amando posti nuovi è naturale.,adorando,,amare
 verb,emotions,to like/appreciate,find pleasant,apprezzare,ah-PRET-tsah-reh,,infinitive,,1,verb,,You will like Italian food.,Amerai apprezzare il cibo italiano.,gradire,,apprezzare
 verb,emotions,I like/appreciate,first-person present,apprezzo,ah-PRET-tsoh,,present_1sg,,1,verb,,I appreciate good coffee.,Apprezzo il buon caffè.,gradisco,,apprezzare
-verb,emotions,I appreciated,past completed action,ho apprezzato,oh ah-PRET-tsah-toh,,past_1sg,,1,verb,,I appreciated your help.,Ho apprezzato il tuo aiuto.,ho gradito,,apprezzare
+verb,emotions,you like/appreciate,second-person present,apprezzi,ah-PRET-tsee,,present_2sg,,1,verb,,You appreciate the view.,Apprezzi la vista.,gradisci,,apprezzare
+verb,emotions,you (plural) like/appreciate,second-person present,apprezzate,ah-PRET-tsah-teh,,present_2pl,,1,verb,,You appreciate the view.,Apprezzate la vista.,gradite,,apprezzare
+verb,emotions,he likes/appreciates,third-person singular,apprezza,ah-PRET-tsah,,present_3sg_masc,,1,verb,,He appreciates the culture.,Apprezza la cultura.,gradisce,,apprezzare
+verb,emotions,she likes/appreciates,third-person singular,apprezza,ah-PRET-tsah,,present_3sg_fem,,1,verb,,She appreciates the culture.,Apprezza la cultura.,gradisce,,apprezzare
+verb,emotions,we like/appreciate,first-person plural,apprezziamo,ah-PRET-tsyah-moh,,present_1pl,,1,verb,,We appreciate the art.,Apprezziamo l'arte.,gradiamo,,apprezzare
+verb,emotions,they like/appreciate,third-person plural,apprezzano,ah-PRET-tsah-noh,,present_3pl,,1,verb,,They appreciate the art.,Apprezzano l'arte.,gradiscono,,apprezzare
+verb,emotions,I liked/appreciated,past completed action,ho apprezzato,oh ah-PRET-tsah-toh,,past_1sg,,1,verb,,I appreciated your help.,Ho apprezzato il tuo aiuto.,ho gradito,,apprezzare
+verb,emotions,you liked/appreciated,past completed action,hai apprezzato,ah-ee ah-PRET-tsah-toh,,past_2sg,,1,verb,,You appreciated the gesture.,Hai apprezzato il gesto.,hai gradito,,apprezzare
+verb,emotions,you (plural) liked/appreciated,past completed action,avete apprezzato,ah-VEH-teh ah-PRET-tsah-toh,,past_2pl,,1,verb,,You appreciated the gesture.,Avete apprezzato il gesto.,avete gradito,,apprezzare
+verb,emotions,he liked/appreciated,past completed action,ha apprezzato,ah-AH-PRET-tsah-toh,,past_3sg_masc,,1,verb,,He appreciated the gesture.,Ha apprezzato il gesto.,ha gradito,,apprezzare
+verb,emotions,she liked/appreciated,past completed action,ha apprezzato,ah-AH-PRET-tsah-toh,,past_3sg_fem,,1,verb,,She appreciated the gesture.,Ha apprezzato il gesto.,ha gradito,,apprezzare
+verb,emotions,we liked/appreciated,past completed action,abbiamo apprezzato,ah-BBYAH-mo ah-PRET-tsah-toh,,past_1pl,,1,verb,,We appreciated the service.,Abbiamo apprezzato il servizio.,abbiamo gradito,,apprezzare
+verb,emotions,they liked/appreciated,past completed action,hanno apprezzato,AHN-noh ah-PRET-tsah-toh,,past_3pl,,1,verb,,They appreciated the service.,Hanno apprezzato il servizio.,hanno gradito,,apprezzare
 verb,emotions,appreciating,ongoing action,apprezzando,ah-PRET-tsan-doh,,gerund,,1,verb,,Appreciating art takes time.,Apprezzando l’arte ci vuole tempo.,gradendo,,apprezzare
 verb,emotions,to feel,experience emotion,sentire,sen-TEE-reh,,infinitive,,1,verb,,You may feel tired after travel.,Potresti sentire stanchezza dopo il viaggio.,provare,,sentire
 verb,emotions,I feel,first-person present,sento,SEN-toh,,present_1sg,,1,verb,,I feel happy today.,Sento felicità oggi.,provo,,sentire
+verb,emotions,you feel,second-person present,senti,SEN-tee,,present_2sg,,1,verb,,You feel excited about the trip.,Senti eccitazione per il viaggio.,provi,,sentire
+verb,emotions,you (plural) feel,second-person present,sentite,sen-TEE-teh,,present_2pl,,1,verb,,You feel excited about the trip.,Sentite eccitazione per il viaggio.,provate,,sentire
+verb,emotions,he feels,third-person singular,sente,SEN-teh,,present_3sg_masc,,1,verb,,He feels relaxed here.,Sente rilassamento qui.,prova,,sentire
+verb,emotions,she feels,third-person singular,sente,SEN-teh,,present_3sg_fem,,1,verb,,She feels relaxed here.,Sente rilassamento qui.,prova,,sentire
+verb,emotions,we feel,first-person plural,sentiamo,sen-TYAH-mo,,present_1pl,,1,verb,,We feel grateful for the experience.,Sentiamo gratitudine per l'esperienza.,proviamo,,sentire
+verb,emotions,they feel,third-person plural,sentono,SEN-toh-noh,,present_3pl,,1,verb,,They feel joy in the moment.,Sentono gioia nel momento.,provano,,sentire
 verb,emotions,I felt,past completed action,ho sentito,oh sen-TEE-toh,,past_1sg,,1,verb,,I felt cold last night.,Ho sentito freddo ieri notte.,ho provato,,sentire
+verb,emotions,you felt,past completed action,hai sentito,ah-ee sen-TEE-toh,,past_2sg,,1,verb,,You felt tired after the hike.,Hai sentito stanchezza dopo l'escursione.,hai provato,,sentire
+verb,emotions,you (plural) felt,past completed action,avete sentito,ah-VEH-teh sen-TEE-toh,,past_2pl,,1,verb,,You felt tired after the hike.,Avete sentito stanchezza dopo l'escursione.,avete provato,,sentire
+verb,emotions,he felt,past completed action,ha sentito,ah-AH sen-TEE-toh,,past_3sg_masc,,1,verb,,He felt happy yesterday.,Ha sentito felicità ieri.,ha provato,,sentire
+verb,emotions,she felt,past completed action,ha sentito,ah-AH sen-TEE-toh,,past_3sg_fem,,1,verb,,She felt happy yesterday.,Ha sentito felicità ieri.,ha provato,,sentire
+verb,emotions,we felt,past completed action,abbiamo sentito,ah-BBYAH-mo sen-TEE-toh,,past_1pl,,1,verb,,We felt excitement before the event.,Abbiamo sentito eccitazione prima dell'evento.,abbiamo provato,,sentire
+verb,emotions,they felt,past completed action,hanno sentito,AHN-noh sen-TEE-toh,,past_3pl,,1,verb,,They felt excitement before the event.,Hanno sentito eccitazione prima dell'evento.,hanno provato,,sentire
 verb,emotions,feeling,ongoing action,sentendo,sen-TEN-doh,,gerund,,1,verb,,Feeling relaxed helps.,Sentendo relax si sta meglio.,provando,,sentire
 verb,emotions,to hope,desire positive outcome,sperare,speh-RAH-reh,,infinitive,,1,verb,,I hope for sunshine.,Spero che ci sia il sole.,augurarsi,,sperare
 verb,emotions,I hope,first-person present,spero,SPEH-roh,,present_1sg,,1,verb,,I hope everything is fine.,Spero che vada tutto bene.,mi auguro,,sperare
-verb,emotions,I hoped,past completed action,ho sperato,oh speh-RAH-toh,,past_1sg,,1,verb,,I hoped for a table outside.,Ho sperato in un tavolo fuori.,ho auspicato,,sperare
+verb,emotions,you hope,second-person present,speri,SPEH-ree,,present_2sg,,1,verb,,You hope for a good meal.,Speri in un buon pasto.,ti auguri,,sperare
+verb,emotions,you (plural) hope,second-person present,sperate,SPEH-rah-teh,,present_2pl,,1,verb,,You hope for a good meal.,Sperate in un buon pasto.,vi augurate,,sperare
+verb,emotions,he hopes,third-person singular,spera,SPEH-rah,,present_3sg_masc,,1,verb,,He hopes for a good vacation.,Spera in una buona vacanza.,augura,,sperare
+verb,emotions,she hopes,third-person singular,spera,SPEH-rah,,present_3sg_fem,,1,verb,,She hopes for a good vacation.,Spera in una buona vacanza.,augura,,sperare
+verb,emotions,we hope,first-person plural,speriamo,SPEH-ree-ah-moh,,present_1pl,,1,verb,,We hope for a good time.,Speriamo di divertirci.,ci auguriamo,,sperare
+verb,emotions,they hope,third-person plural,sperano,SPEH-rah-noh,,present_3pl,,1,verb,,They hope for a good time.,Sperano di divertirsi.,si augurano,,sperare
+verb,emotions,I hoped,past completed action,ho sperato,oh speh-RAH-toh,,past_1sg,,1,verb,,I hoped for a sunny day.,Ho sperato in una giornata di sole.,mi sono augurato,,sperare
+verb,emotions,you hoped,past completed action,hai sperato,ah-ee speh-RAH-toh,,past_2sg,,1,verb,,You hoped for a sunny day.,Hai sperato in una giornata di sole.,ti sei augurato,,sperare
+verb,emotions,you (plural) hoped,past completed action,avete sperato,ah-VEH-teh speh-RAH-toh,,past_2pl,,1,verb,,You hoped for a sunny day.,Avete sperato in una giornata di sole.,vi siete augurati,,sperare
+verb,emotions,he hoped,past completed action,ha sperato,ah-AH speh-RAH-toh,,past_3sg_masc,,1,verb,,He hoped for a sunny day.,Ha sperato in una giornata di sole.,si è augurato,,sperare
+verb,emotions,she hoped,past completed action,ha sperato,ah-AH speh-RAH-toh,,past_3sg_fem,,1,verb,,She hoped for a sunny day.,Ha sperato in una giornata di sole.,si è augurata,,sperare
+verb,emotions,we hoped,past completed action,abbiamo sperato,ah-BBYAH-mo speh-RAH-toh,,past_1pl,,1,verb,,We hoped for a sunny day.,Abbiamo sperato in una giornata di sole.,ci siamo augurati,,sperare
+verb,emotions,they hoped,past completed action,hanno sperato,AHN-noh speh-RAH-toh,,past_3pl,,1,verb,,They hoped for a sunny day.,Hanno sperato in una giornata di sole.,si sono augurati,,sperare
 verb,emotions,hoping,ongoing action,sperando,speh-RAN-doh,,gerund,,1,verb,,Hoping helps you stay positive.,Sperando si resta positivi.,augurandosi,,sperare
 verb,emotions,to fear,feel afraid,temere,teh-MEH-reh,,infinitive,,1,verb,,Don’t fear the narrow streets.,Non temere i vicoli.,avere paura,,temere
 verb,emotions,I fear,first-person present,temo,TEH-moh,,present_1sg,,1,verb,,I fear delays.,Temo ritardi.,ho paura,,temere
+verb,emotions,you fear,second-person present,temi,TEH-mee,,present_2sg,,1,verb,,You fear the dark.,Temi il buio.,hai paura,,temere
+verb,emotions,you (plural) fear,second-person present,temete,teh-MEH-teh,,present_2pl,,1,verb,,You fear the dark.,Temete il buio.,avete paura,,temere
+verb,emotions,he fears,third-person singular,teme,TEH-meh,,present_3sg_masc,,1,verb,,He fears the storm.,Teme la tempesta.,ha paura,,temere
+verb,emotions,she fears,third-person singular,teme,TEH-meh,,present_3sg_fem,,1,verb,,She fears the storm.,Teme la tempesta.,ha paura,,temere
+verb,emotions,we fear,first-person plural,temiamo,teh-MYAH-mo,,present_1pl,,1,verb,,We fear the worst.,Temiamo il peggio.,abbiamo paura,,temere
+verb,emotions,they fear,third-person plural,temono,TEH-moh-noh,,present_3pl,,1,verb,,They fear the worst.,Temono il peggio.,hanno paura,,temere
 verb,emotions,I feared,past completed action,ho temuto,oh teh-MOO-toh,,past_1sg,,1,verb,,I feared bad weather yesterday.,Ho temuto il maltempo ieri.,ho avuto paura,,temere
+verb,emotions,you feared,past completed action,hai temuto,ah-ee teh-MOO-toh,,past_2sg,,1,verb,,You feared the worst.,Hai temuto il peggio.,hai avuto paura,,temere
+verb,emotions,you (plural) feared,past completed action,avete temuto,ah-VEH-teh teh-MOO-toh,,past_2pl,,1,verb,,You feared the worst.,Avete temuto il peggio.,avete avuto paura,,temere
+verb,emotions,he feared,past completed action,ha temuto,ah-AH teh-MOO-toh,,past_3sg_masc,,1,verb,,He feared the storm.,Ha temuto la tempesta.,ha avuto paura,,temere
+verb,emotions,she feared,past completed action,ha temuto,ah-AH teh-MOO-toh,,past_3sg_fem,,1,verb,,She feared the storm.,Ha temuto la tempesta.,ha avuto paura,,temere
+verb,emotions,we feared,past completed action,abbiamo temuto,ah-BBYAH-mo teh-MOO-toh,,past_1pl,,1,verb,,We feared the worst.,Abbiamo temuto il peggio.,abbiamo avuto paura,,temere
+verb,emotions,they feared,past completed action,hanno temuto,AHN-noh teh-MOO-toh,,past_3pl,,1,verb,,They feared the worst.,Hanno temuto il peggio.,hanno avuto paura,,temere
 verb,emotions,fearing,ongoing action,temendo,teh-MEN-doh,,gerund,,1,verb,,Fearing mistakes slows progress.,Temendo errori si rallenta.,avendo paura,,temere
 verb,emotions,to worry,feel concern,preoccuparsi,preh-ohk-koo-PAHR-see,,infinitive,,1,verb,,Try not to worry about traffic.,Cerca di non preoccuparti del traffico.,ansiare,,preoccuparsi
 verb,emotions,I worry,first-person present,mi preoccupo,mee preh-OHK-koo-poh,,present_1sg,,1,verb,,I worry about missing the train.,Mi preoccupo di perdere il treno.,mi ansio,,preoccuparsi
+verb,emotions,you worry,second-person present,ti preoccupi,tee preh-OHK-koo-pee,,present_2sg,,1,verb,,You worry about the weather.,Ti preoccupi del tempo.,ti ansii,,preoccuparsi
+verb,emotions,you (plural) worry,second-person present,vi preoccupate,vee preh-OHK-koo-pah-teh,,present_2pl,,1,verb,,You worry about the weather.,Vi preoccupate del tempo.,vi ansiate,,preoccuparsi
+verb,emotions,he worries,third-person singular,si preoccupa,see preh-OHK-koo-pah,,present_3sg_masc,,1,verb,,He worries about the exam.,Si preoccupa dell'esame.,si ansia,,preoccuparsi
+verb,emotions,she worries,third-person singular,si preoccupa,see preh-OHK-koo-pah,,present_3sg_fem,,1,verb,,She worries about the exam.,Si preoccupa dell'esame.,si ansia,,preoccuparsi
+verb,emotions,we worry,first-person plural,ci preoccupiamo,chee preh-OHK-koo-PYAH-mo,,present_1pl,,1,verb,,We worry about the future.,Ci preoccupiamo del futuro.,ci ansiamo,,preoccuparsi
+verb,emotions,they worry,third-person plural,si preoccupano,see preh-OHK-koo-pah-noh,,present_3pl,,1,verb,,They worry about the future.,Si preoccupano del futuro.,si ansiano,,preoccuparsi
 verb,emotions,I worried,past completed action,mi sono preoccupato,mee SOH-no preh-ohk-koo-PAH-toh,,past_1sg,,1,verb,,I worried yesterday evening.,Mi sono preoccupato ieri sera.,mi sono ansiato,,preoccupare
+verb,emotions,you worried,past completed action,ti sei preoccupato,tee SAY-ee preh-ohk-koo-PAH-toh,,past_2sg,,1,verb,,You worried about the exam.,Ti sei preoccupato dell'esame.,ti sei ansiato,,preoccupare
+verb,emotions,you (plural) worried,past completed action,vi siete preoccupati,vee SEE-teh preh-ohk-koo-PAH-tee,,past_2pl,,1,verb,,You worried about the exam.,Vi siete preoccupati dell'esame.,vi siete ansiati,,preoccupare
+verb,emotions,he worried,past completed action,si è preoccupato,see EH preh-ohk-koo-PAH-toh,,past_3sg_masc,,1,verb,,He worried about the project.,Si è preoccupato del progetto.,si è ansiato,,preoccupare
+verb,emotions,she worried,past completed action,si è preoccupata,see EH preh-ohk-koo-PAH-tah,,past_3sg_fem,,1,verb,,She worried about the project.,Si è preoccupata del progetto.,si è ansiata,,preoccupare
+verb,emotions,we worried,past completed action,ci siamo preoccupati,chee SYAH-mo preh-ohk-koo-PAH-tee,,past_1pl,,1,verb,,We worried about the weather.,Ci siamo preoccupati del tempo.,ci siamo ansiati,,preoccupare
+verb,emotions,they worried,past completed action,si sono preoccupati,see SOH-no preh-ohk-koo-PAH-tee,,past_3pl,,1,verb,,They worried about the weather.,Si sono preoccupati del tempo.,si sono ansiati,,preoccupare
 verb,emotions,worrying,ongoing action,preoccupandomi,preh-ohk-koo-PAN-doh-mee,,gerund,,1,verb,,Worrying doesn’t help.,Preoccupandomi non aiuta.,ansiandomi,,preoccupandomare
 verb,emotions,to relax,become calm,rilassarsi,ree-lahs-SAHR-see,,infinitive,,1,verb,,You can relax at the spa.,Puoi rilassarti alla spa.,distendersi,,rilassarsi
 verb,emotions,I relax,first-person present,mi rilasso,mee ree-LAHS-soh,,present_1sg,,1,verb,,I relax after dinner.,Mi rilasso dopo cena.,mi distendo,,rilassarsi
+verb,emotions,you relax,second-person present,ti rilassi,tee ree-LAHS-see,,present_2sg,,1,verb,,You relax at home.,Ti rilassi a casa.,ti distendi,,rilassarsi
+verb,emotions,you (plural) relax,second-person present,vi rilassate,vee ree-lahs-SAH-teh,,present_2pl,,1,verb,,You relax at home.,Vi rilassate a casa.,vi distendete,,rilassarsi
+verb,emotions,he relaxes,third-person singular,si rilassa,see ree-LAHS-sah,,present_3sg_masc,,1,verb,,He relaxes on weekends.,Si rilassa nei fine settimana.,si distende,,rilassarsi
+verb,emotions,she relaxes,third-person singular,si rilassa,see ree-LAHS-sah,,present_3sg_fem,,1,verb,,She relaxes on weekends.,Si rilassa nei fine settimana.,si distende,,rilassarsi
+verb,emotions,we relax,first-person plural,ci rilassiamo,chee ree-lahs-SYAH-mo,,present_1pl,,1,verb,,We relax at the beach.,Ci rilassiamo in spiaggia.,ci distendiamo,,rilassarsi
+verb,emotions,they relax,third-person plural,si rilassano,see ree-lahs-SAH-noh,,present_3pl,,1,verb,,They relax at the beach.,Si rilassano in spiaggia.,si distendono,,rilassarsi
 verb,emotions,I relaxed,past completed action,mi sono rilassato,mee SOH-no ree-lahs-SA-toh,,past_1sg,,1,verb,,I relaxed on the beach.,Mi sono rilassato in spiaggia.,mi sono disteso,,rilassare
+verb,emotions,you relaxed,past completed action,ti sei rilassato,tee SAY-ee ree-lahs-SA-toh,,past_2sg,,1,verb,,You relaxed at home.,Ti sei rilassato a casa.,ti sei disteso,,rilassare
+verb,emotions,you (plural) relaxed,past completed action,vi siete rilassati,vee SEE-teh ree-lahs-SA-tee,,past_2pl,,1,verb,,You relaxed at home.,Vi siete rilassati a casa.,vi siete distesi,,rilassare
+verb,emotions,he relaxed,past completed action,si è rilassato,see EH ree-lahs-SA-toh,,past_3sg_masc,,1,verb,,He relaxed at the spa.,Si è rilassato alla spa.,si è disteso,,rilassare
+verb,emotions,she relaxed,past completed action,si è rilassata,see EH ree-lahs-SA-tah,,past_3sg_fem,,1,verb,,She relaxed at the spa.,Si è rilassata alla spa.,si è distesa,,rilassare
+verb,emotions,we relaxed,past completed action,ci siamo rilassati,chee SYAH-mo ree-lahs-SA-tee,,past_1pl,,1,verb,,We relaxed at the beach.,Ci siamo rilassati in spiaggia.,ci siamo distesi,,rilassare
+verb,emotions,they relaxed,past completed action,si sono rilassati,see SOH-no ree-lahs-SA-tee,,past_3pl,,1,verb,,They relaxed at the beach.,Si sono rilassati in spiaggia.,si sono distesi,,rilassare
 verb,emotions,relaxing,ongoing action,rilassandomi,ree-lahs-SAN-doh-mee,,gerund,,1,verb,,Relaxing helps reduce stress.,Rilassandomi riduco lo stress.,distendendomi,,rilassandomare
 verb,emotions,to smile,express happiness,sorridere,sohr-REE-deh-reh,,infinitive,,1,verb,,Remember to smile in photos.,Ricorda di sorridere nelle foto.,ridere,,sorridere
 verb,emotions,I smile,first-person present,sorrido,sohr-REE-doh,,present_1sg,,1,verb,,I smile at new friends.,Sorrido ai nuovi amici.,rido,,sorridere
+verb,emotions,you smile,second-person present,sorri,sohr-REE,,present_2sg,,1,verb,,You smile at the camera.,Sorridi alla macchina fotografica.,ridi,,sorridere
+verb,emotions,you (plural) smile,second-person present,sorridete,sohr-ree-DEH-teh,,present_2pl,,1,verb,,You smile at the camera.,Sorridete alla macchina fotografica.,ridete,,sorridere
+verb,emotions,he smiles,third-person singular,sorride,sohr-REE-deh,,present_3sg_masc,,1,verb,,He smiles at the joke.,Sorride alla battuta.,ride,,sorridere
+verb,emotions,she smiles,third-person singular,sorride,sohr-REE-deh,,present_3sg_fem,,1,verb,,She smiles at the joke.,Sorride alla battuta.,ride,,sorridere
+verb,emotions,we smile,first-person plural,sorride,sohr-REE-deh,,present_1pl,,1,verb,,We smile at the sunset.,Sorride al tramonto.,ridiamo,,sorridere
+verb,emotions,they smile,third-person plural,sorridono,sohr-REE-doh-noh,,present_3pl,,1,verb,,They smile at the sunset.,Sorridono al tramonto.,ridono,,sorridere
 verb,emotions,I smiled,past completed action,ho sorriso,oh sohr-REE-zoh,,past_1sg,,1,verb,,I smiled all day.,Ho sorriso tutto il giorno.,ho riso,,sorrisare
+verb,emotions,you smiled,past completed action,hai sorriso,ah-ee sohr-REE-zoh,,past_2sg,,1,verb,,You smiled at the compliment.,Hai sorriso al complimento.,hai riso,,sorrisare
+verb,emotions,you (plural) smiled,past completed action,avete sorriso,ah-VEH-teh sohr-REE-zoh,,past_2pl,,1,verb,,You smiled at the compliment.,Avete sorriso al complimento.,avete riso,,sorrisare
+verb,emotions,he smiled,past completed action,ha sorriso,ah-AH sohr-REE-zoh,,past_3sg_masc,,1,verb,,He smiled at the compliment.,Ha sorriso al complimento.,ha riso,,sorrisare
+verb,emotions,she smiled,past completed action,ha sorriso,ah-AH sohr-REE-zoh,,past_3sg_fem,,1,verb,,She smiled at the compliment.,Ha sorriso al complimento.,ha riso,,sorrisare
+verb,emotions,we smiled,past completed action,abbiamo sorriso,ah-BBYAH-mo sohr-REE-zoh,,past_1pl,,1,verb,,We smiled at the joke.,Abbiamo sorriso alla battuta.,abbiamo riso,,sorrisare
+verb,emotions,they smiled,past completed action,hanno sorriso,AHN-noh sohr-REE-zoh,,past_3pl,,1,verb,,They smiled at the joke.,Hanno sorriso alla battuta.,hanno riso,,sorrisare
 verb,emotions,smiling,ongoing action,sorridendo,sohr-ree-DEN-doh,,gerund,,1,verb,,Smiling makes people happy.,Sorridendo si rende felici.,ridendo,,sorridere
 verb,emotions,to cry,shed tears,piangere,PEE-ahn-jeh-reh,,infinitive,,1,verb,,Try not to cry in public.,Cerca di non piangere in pubblico.,singhiozzare,,piangere
 verb,emotions,I cry,first-person present,piango,PYAHN-goh,,present_1sg,,1,verb,,I cry during sad movies.,Piango durante i film tristi.,singhiozzo,,piangere
+verb,emotions,you cry,second-person present,piangi,PYAHN-jee,,present_2sg,,1,verb,,You cry when you are sad.,Piangi quando sei triste.,singhiozzi,,piangere
+verb,emotions,you (plural) cry,second-person present,piangete,PYAHN-jeh-teh,,present_2pl,,1,verb,,You cry when you are sad.,Piangete quando siete tristi.,singhiozzate,,piangere
+verb,emotions,he cries,third-person singular,piange,PYAHN-jeh,,present_3sg_masc,,1,verb,,He cries when he is sad.,Piange quando è triste.,singhiozza,,piangere
+verb,emotions,she cries,third-person singular,piange,PYAHN-jeh,,present_3sg_fem,,1,verb,,She cries when she is sad.,Piange quando è triste.,singhiozza,,piangere
+verb,emotions,we cry,first-person plural,piangiamo,PYAHN-jah-mo,,present_1pl,,1,verb,,We cry during sad movies.,Piangiamo durante i film tristi.,singhiozziamo,,piangere
+verb,emotions,they cry,third-person plural,piangono,PYAHN-goh-noh,,present_3pl,,1,verb,,They cry during sad movies.,Piangono durante i film tristi.,singhiozzano,,piangere
 verb,emotions,I cried,past completed action,ho pianto,oh PYAHN-toh,,past_1sg,,1,verb,,I cried last night.,Ho pianto ieri notte.,ho singhiozzato,,piantare
+verb,emotions,you cried,past completed action,hai pianto,ah-ee PYAHN-toh,,past_2sg,,1,verb,,You cried during the movie.,Hai pianto durante il film.,hai singhiozzato,,piantare
+verb,emotions,you (plural) cried,past completed action,avete pianto,ah-VEH-teh PYAHN-toh,,past_2pl,,1,verb,,You cried during the movie.,Avete pianto durante il film.,avete singhiozzato,,piantare
+verb,emotions,he cried,past completed action,ha pianto,ah-AH PYAHN-toh,,past_3sg_masc,,1,verb,,He cried during the movie.,Ha pianto durante il film.,ha singhiozzato,,piantare
+verb,emotions,she cried,past completed action,ha pianto,ah-AH PYAHN-toh,,past_3sg_fem,,1,verb,,She cried during the movie.,Ha pianto durante il film.,ha singhiozzato,,piantare
+verb,emotions,we cried,past completed action,abbiamo pianto,ah-BBYAH-mo PYAHN-toh,,past_1pl,,1,verb,,We cried during the movie.,Abbiamo pianto durante il film.,abbiamo singhiozzato,,piantare
+verb,emotions,they cried,past completed action,hanno pianto,AHN-noh PYAHN-toh,,past_3pl,,1,verb,,They cried during the movie.,Hanno pianto durante il film.,hanno singhiozzato,,piantare
 verb,emotions,crying,ongoing action,piangendo,pee-ahn-JEN-doh,,gerund,,1,verb,,Crying can bring relief.,Piangendo ci si sfoga.,singhiozzando,,piangere
 verb,emotions,to enjoy oneself,have fun,divertirsi,dee-vehr-TEER-see,,infinitive,,1,verb,,You should enjoy yourself tonight.,Dovresti divertirti stasera.,svagarsi,,divertirsi
 verb,emotions,I enjoy myself,first-person present,mi diverto,mee dee-VER-toh,,present_1sg,,1,verb,,I enjoy myself at parties.,Mi diverto alle feste.,mi svago,,divertare
+verb,emotions,you enjoy yourself,second-person present,ti diverti,tee dee-VER-tee,,present_2sg,,1,verb,,You enjoy yourself at parties.,Ti diverti alle feste.,ti svaghi,,divertare
+verb,emotions,you (plural) enjoy yourself,second-person present,vi divertite,vee dee-ver-TEE-teh,,present_2pl,,1,verb,,You enjoy yourself at parties.,Vi divertite alle feste.,vi svagate,,divertare
+verb,emotions,he enjoys himself,third-person singular,si diverte,see dee-VER-teh,,present_3sg_masc,,1,verb,,He enjoys himself at parties.,Si diverte alle feste.,si svaga,,divertare
+verb,emotions,she enjoys herself,third-person singular,si diverte,see dee-VER-teh,,present_3sg_fem,,1,verb,,She enjoys herself at parties.,Si diverte alle feste.,si svaga,,divertare
+verb,emotions,we enjoy ourselves,first-person plural,ci divertiamo,chee dee-ver-TYAH-mo,,present_1pl,,1,verb,,We enjoy ourselves at parties.,Ci divertiamo alle feste.,ci svaghiamo,,divertare
+verb,emotions,they enjoy themselves,third-person plural,si divertono,see dee-ver-TOH-noh,,present_3pl,,1,verb,,They enjoy themselves at parties.,Si divertono alle feste.,si svagano,,divertare
 verb,emotions,I enjoyed myself,past completed action,mi sono divertito,mee SOH-no dee-vehr-TEE-toh,,past_1sg,,1,verb,,I enjoyed myself yesterday.,Mi sono divertito ieri.,mi sono svagato,,divertire
+verb,emotions,you enjoyed yourself,past completed action,ti sei divertito,tee SAY-ee dee-vehr-TEE-toh,,past_2sg,,1,verb,,You enjoyed yourself yesterday.,Ti sei divertito ieri.,ti sei svagato,,divertire
+verb,emotions,you (plural) enjoyed yourself,past completed action,vi siete divertiti,vee SEE-teh dee-vehr-TEE-tee,,past_2pl,,1,verb,,You enjoyed yourselves yesterday.,Vi siete divertiti ieri.,vi siete svagati,,divertire
+verb,emotions,he enjoyed himself,past completed action,si è divertito,see EH dee-vehr-TEE-toh,,past_3sg_masc,,1,verb,,He enjoyed himself yesterday.,Si è divertito ieri.,si è svagato,,divertire
+verb,emotions,she enjoyed herself,past completed action,si è divertita,see EH dee-vehr-TEE-tah,,past_3sg_fem,,1,verb,,She enjoyed herself yesterday.,Si è divertita ieri.,si è svagata,,divertire
+verb,emotions,we enjoyed ourselves,past completed action,ci siamo divertiti,chee SYAH-mo dee-vehr-TEE-tee,,past_1pl,,1,verb,,We enjoyed ourselves yesterday.,Ci siamo divertiti ieri.,ci siamo svagati,,divertire
+verb,emotions,they enjoyed themselves,past completed action,si sono divertiti,see SOH-no dee-vehr-TEE-tee,,past_3pl,,1,verb,,They enjoyed themselves yesterday.,Si sono divertiti ieri.,si sono svagati,,divertire
 verb,emotions,enjoying oneself,ongoing action,divertendomi,dee-ver-TEN-doh-mee,,gerund,,1,verb,,Enjoying oneself is important.,Divertendomi mi sento vivo.,svagandomi,,divertendomare
