@@ -1,41 +1,41 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-verb,shopping,to buy,purchase goods,comprare,kohm-PRAH-reh,n/a,infinitive,n/a,1,verb,n/a,I want to buy a souvenir.,Voglio comprare un souvenir.,acquistare,n/a
-verb,shopping,I buy,first-person present,compro,KOHM-proh,n/a,present_1sg,n/a,1,verb,n/a,I buy fruit at the market.,Compro frutta al mercato.,acquisto,n/a
-verb,shopping,I bought,past completed action,ho comprato,oh kohm-PRAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I bought tickets yesterday.,Ho comprato i biglietti ieri.,ho acquistato,n/a
-verb,shopping,buying,ongoing action,comprando,kohm-PRAHN-doh,n/a,gerund,n/a,1,verb,n/a,Buying local products saves money.,Comprando prodotti locali si risparmia.,acquistando,n/a
-verb,shopping,to pay,hand over money,pagare,pah-GAH-reh,n/a,infinitive,n/a,1,verb,n/a,You can pay with card.,Puoi pagare con la carta.,sal­dare,n/a
-verb,shopping,I pay,first-person present,pago,PAH-goh,n/a,present_1sg,n/a,1,verb,n/a,I pay at the register.,Pago alla cassa.,saldo,n/a
-verb,shopping,I paid,past completed action,ho pagato,oh pah-GAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I paid the bill already.,Ho pagato il conto già.,ho saldato,n/a
-verb,shopping,paying,ongoing action,pagando,pah-GAN-doh,n/a,gerund,n/a,1,verb,n/a,Paying in cash is faster.,Pagando in contanti è più veloce.,saldando,n/a
-verb,shopping,to try on,put clothing on to test,provare,proh-VAH-reh,n/a,infinitive,n/a,1,verb,n/a,May I try on this jacket?,Posso provare questa giacca?,testare,n/a
-verb,shopping,I try on,first-person present,provo,PROH-voh,n/a,present_1sg,n/a,1,verb,n/a,I try on the shoes.,Provo le scarpe.,testo,n/a
-verb,shopping,I tried on,past completed action,ho provato,oh proh-VAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I tried on three sizes.,Ho provato tre taglie.,ho testato,n/a
-verb,shopping,trying on,ongoing action,provando,proh-VAN-doh,n/a,gerund,n/a,1,verb,n/a,Trying on clothes takes time.,Provando i vestiti si perde tempo.,testando,n/a
-verb,shopping,to cost,have a price,costare,koh-STAHR-eh,n/a,infinitive,n/a,1,verb,n/a,How much does it cost?,Quanto costa?,valere,n/a
-verb,shopping,I cost,first-person present,costo,KOH-stoh,n/a,present_1sg,n/a,1,verb,n/a,I cost nothing to enter.,Costo niente per entrare.,valgo,n/a
-verb,shopping,I costed,past completed action,sono costato,SOH-no koh-STA-toh,n/a,past_1sg,n/a,1,verb,n/a,The item I bought costed less online.,L’articolo che ho comprato è costato meno online.,sono valso,n/a
-verb,shopping,costing,ongoing action,costando,koh-STAN-doh,n/a,gerund,n/a,1,verb,n/a,Costing too much I skipped it.,Costando troppo l’ho lasciato.,valendo,n/a
-verb,shopping,to choose,select something,scegliere,SHEL-lyeh-reh,n/a,infinitive,n/a,1,verb,n/a,Choose your favorite flavor.,Scegli il tuo gusto preferito.,selezionare,n/a
-verb,shopping,I choose,first-person present,scelgo,SHEL-goh,n/a,present_1sg,n/a,1,verb,n/a,I choose local wines.,Scelgo vini locali.,seleziono,n/a
-verb,shopping,I chose,past completed action,ho scelto,oh SHEL-toh,n/a,past_1sg,n/a,1,verb,n/a,I chose the blue scarf.,Ho scelto la sciarpa blu.,ho selezionato,n/a
-verb,shopping,choosing,ongoing action,scegliendo,shel-YEN-doh,n/a,gerund,n/a,1,verb,n/a,Choosing takes me a while.,Scegliendo ci metto un po’.,selezionando,n/a
-verb,shopping,to exchange,swap an item,cambiare,kahm-BYAH-reh,n/a,infinitive,n/a,1,verb,n/a,You can exchange within 30 days.,Puoi cambiare entro 30 giorni.,sostituire,n/a
-verb,shopping,I exchange,first-person present,cambio,KAHM-byoh,n/a,present_1sg,n/a,1,verb,n/a,I exchange the size.,Cambio la taglia.,sostituisco,n/a
-verb,shopping,I exchanged,past completed action,ho cambiato,oh kahm-BYAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I exchanged the shoes yesterday.,Ho cambiato le scarpe ieri.,ho sostituito,n/a
-verb,shopping,exchanging,ongoing action,cambiando,kahm-BYAN-doh,n/a,gerund,n/a,1,verb,n/a,Exchanging is easy here.,Cambiando qui è facile.,sostituendo,n/a
-verb,shopping,to measure,check size,misurare,mee-zoo-RAH-reh,n/a,infinitive,n/a,1,verb,n/a,Please measure my waist.,Per favore misurami la vita.,verificare,n/a
-verb,shopping,I measure,first-person present,misuro,mee-ZOO-roh,n/a,present_1sg,n/a,1,verb,n/a,I measure the fabric.,Misuro il tessuto.,verifico,n/a
-verb,shopping,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I measured the ring size.,Ho misurato la misura dell’anello.,ho verificato,n/a
-verb,shopping,measuring,ongoing action,misurando,mee-zoo-RAN-doh,n/a,gerund,n/a,1,verb,n/a,Measuring saves return trips.,Misurando si evitano resi.,verificando,n/a
-verb,shopping,to return,bring back/reimburse,restituire,reh-stee-too-EE-reh,n/a,infinitive,n/a,1,verb,n/a,I want to return this item.,Voglio restituire questo articolo.,rendere,n/a
-verb,shopping,I return,first-person present,restituisco,reh-stee-too-EES-koh,n/a,present_1sg,n/a,1,verb,n/a,I return defective goods.,Restituisco merce difettosa.,rendo,n/a
-verb,shopping,I returned,past completed action,ho restituito,oh reh-stee-too-EE-toh,n/a,past_1sg,n/a,1,verb,n/a,I returned the shirt yesterday.,Ho restituito la camicia ieri.,ho reso,n/a
-verb,shopping,returning,ongoing action,restituendo,reh-stee-too-EN-doh,n/a,gerund,n/a,1,verb,n/a,Returning items needs the receipt.,Restituendo serve lo scontrino.,rendendo,n/a
-verb,shopping,to sell,give goods for money,vendere,VEN-deh-reh,n/a,infinitive,n/a,1,verb,n/a,They sell fresh cheese.,Vendono formaggio fresco.,commercializzare,n/a
-verb,shopping,I sell,first-person present,vendo,VEN-doh,n/a,present_1sg,n/a,1,verb,n/a,I sell postcards in the shop.,Vendo cartoline in negozio.,commercializzo,n/a
-verb,shopping,I sold,past completed action,ho venduto,oh ven-DOO-toh,n/a,past_1sg,n/a,1,verb,n/a,I sold my old camera.,Ho venduto la mia vecchia macchina fotografica.,ho commercializzato,n/a
-verb,shopping,selling,ongoing action,vendendo,ven-DEN-doh,n/a,gerund,n/a,1,verb,n/a,Selling souvenirs is fun.,Vendendo souvenir ci si diverte.,commercializzando,n/a
-verb,shopping,to ask for,request,richiedere,ree-kyeh-DEH-reh,n/a,infinitive,n/a,1,verb,n/a,You can ask for a discount.,Puoi richiedere uno sconto.,chiedere,n/a
-verb,shopping,I ask for,first-person present,richiedo,ree-KYEH-doh,n/a,present_1sg,n/a,1,verb,n/a,I ask for a bag.,Richiedo una borsa.,chiedo,n/a
-verb,shopping,I asked for,past completed action,ho richiesto,oh ree-KYEH-stoh,n/a,past_1sg,n/a,1,verb,n/a,I asked for a receipt.,Ho richiesto uno scontrino.,ho chiesto,n/a
-verb,shopping,asking for,ongoing action,richiedendo,ree-kyeh-DEN-doh,n/a,gerund,n/a,1,verb,n/a,Asking for help is easy.,Richiedendo aiuto è facile.,chiedendo,n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+verb,shopping,to buy,purchase goods,comprare,kohm-PRAH-reh,,infinitive,,1,verb,,I want to buy a souvenir.,Voglio comprare un souvenir.,acquistare,,comprare
+verb,shopping,I buy,first-person present,compro,KOHM-proh,,present_1sg,,1,verb,,I buy fruit at the market.,Compro frutta al mercato.,acquisto,,comprare
+verb,shopping,I bought,past completed action,ho comprato,oh kohm-PRAH-toh,,past_1sg,,1,verb,,I bought tickets yesterday.,Ho comprato i biglietti ieri.,ho acquistato,,comprare
+verb,shopping,buying,ongoing action,comprando,kohm-PRAHN-doh,,gerund,,1,verb,,Buying local products saves money.,Comprando prodotti locali si risparmia.,acquistando,,comprare
+verb,shopping,to pay,hand over money,pagare,pah-GAH-reh,,infinitive,,1,verb,,You can pay with card.,Puoi pagare con la carta.,sal­dare,,pagare
+verb,shopping,I pay,first-person present,pago,PAH-goh,,present_1sg,,1,verb,,I pay at the register.,Pago alla cassa.,saldo,,pagare
+verb,shopping,I paid,past completed action,ho pagato,oh pah-GAH-toh,,past_1sg,,1,verb,,I paid the bill already.,Ho pagato il conto già.,ho saldato,,pagare
+verb,shopping,paying,ongoing action,pagando,pah-GAN-doh,,gerund,,1,verb,,Paying in cash is faster.,Pagando in contanti è più veloce.,saldando,,pagare
+verb,shopping,to try on,put clothing on to test,provare,proh-VAH-reh,,infinitive,,1,verb,,May I try on this jacket?,Posso provare questa giacca?,testare,,provare
+verb,shopping,I try on,first-person present,provo,PROH-voh,,present_1sg,,1,verb,,I try on the shoes.,Provo le scarpe.,testo,,provare
+verb,shopping,I tried on,past completed action,ho provato,oh proh-VAH-toh,,past_1sg,,1,verb,,I tried on three sizes.,Ho provato tre taglie.,ho testato,,provare
+verb,shopping,trying on,ongoing action,provando,proh-VAN-doh,,gerund,,1,verb,,Trying on clothes takes time.,Provando i vestiti si perde tempo.,testando,,provare
+verb,shopping,to cost,have a price,costare,koh-STAHR-eh,,infinitive,,1,verb,,How much does it cost?,Quanto costa?,valere,,costare
+verb,shopping,I cost,first-person present,costo,KOH-stoh,,present_1sg,,1,verb,,I cost nothing to enter.,Costo niente per entrare.,valgo,,costare
+verb,shopping,I costed,past completed action,sono costato,SOH-no koh-STA-toh,,past_1sg,,1,verb,,The item I bought costed less online.,L’articolo che ho comprato è costato meno online.,sono valso,,costare
+verb,shopping,costing,ongoing action,costando,koh-STAN-doh,,gerund,,1,verb,,Costing too much I skipped it.,Costando troppo l’ho lasciato.,valendo,,costare
+verb,shopping,to choose,select something,scegliere,SHEL-lyeh-reh,,infinitive,,1,verb,,Choose your favorite flavor.,Scegli il tuo gusto preferito.,selezionare,,scegliere
+verb,shopping,I choose,first-person present,scelgo,SHEL-goh,,present_1sg,,1,verb,,I choose local wines.,Scelgo vini locali.,seleziono,,scegliere
+verb,shopping,I chose,past completed action,ho scelto,oh SHEL-toh,,past_1sg,,1,verb,,I chose the blue scarf.,Ho scelto la sciarpa blu.,ho selezionato,,sceltare
+verb,shopping,choosing,ongoing action,scegliendo,shel-YEN-doh,,gerund,,1,verb,,Choosing takes me a while.,Scegliendo ci metto un po’.,selezionando,,scegliere
+verb,shopping,to exchange,swap an item,cambiare,kahm-BYAH-reh,,infinitive,,1,verb,,You can exchange within 30 days.,Puoi cambiare entro 30 giorni.,sostituire,,cambiare
+verb,shopping,I exchange,first-person present,cambio,KAHM-byoh,,present_1sg,,1,verb,,I exchange the size.,Cambio la taglia.,sostituisco,,cambiare
+verb,shopping,I exchanged,past completed action,ho cambiato,oh kahm-BYAH-toh,,past_1sg,,1,verb,,I exchanged the shoes yesterday.,Ho cambiato le scarpe ieri.,ho sostituito,,cambiare
+verb,shopping,exchanging,ongoing action,cambiando,kahm-BYAN-doh,,gerund,,1,verb,,Exchanging is easy here.,Cambiando qui è facile.,sostituendo,,cambiare
+verb,shopping,to measure,check size,misurare,mee-zoo-RAH-reh,,infinitive,,1,verb,,Please measure my waist.,Per favore misurami la vita.,verificare,,misurare
+verb,shopping,I measure,first-person present,misuro,mee-ZOO-roh,,present_1sg,,1,verb,,I measure the fabric.,Misuro il tessuto.,verifico,,misurare
+verb,shopping,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,,past_1sg,,1,verb,,I measured the ring size.,Ho misurato la misura dell’anello.,ho verificato,,misurare
+verb,shopping,measuring,ongoing action,misurando,mee-zoo-RAN-doh,,gerund,,1,verb,,Measuring saves return trips.,Misurando si evitano resi.,verificando,,misurare
+verb,shopping,to return,bring back/reimburse,restituire,reh-stee-too-EE-reh,,infinitive,,1,verb,,I want to return this item.,Voglio restituire questo articolo.,rendere,,restituire
+verb,shopping,I return,first-person present,restituisco,reh-stee-too-EES-koh,,present_1sg,,1,verb,,I return defective goods.,Restituisco merce difettosa.,rendo,,restituire
+verb,shopping,I returned,past completed action,ho restituito,oh reh-stee-too-EE-toh,,past_1sg,,1,verb,,I returned the shirt yesterday.,Ho restituito la camicia ieri.,ho reso,,restituire
+verb,shopping,returning,ongoing action,restituendo,reh-stee-too-EN-doh,,gerund,,1,verb,,Returning items needs the receipt.,Restituendo serve lo scontrino.,rendendo,,restituire
+verb,shopping,to sell,give goods for money,vendere,VEN-deh-reh,,infinitive,,1,verb,,They sell fresh cheese.,Vendono formaggio fresco.,commercializzare,,vendere
+verb,shopping,I sell,first-person present,vendo,VEN-doh,,present_1sg,,1,verb,,I sell postcards in the shop.,Vendo cartoline in negozio.,commercializzo,,vendere
+verb,shopping,I sold,past completed action,ho venduto,oh ven-DOO-toh,,past_1sg,,1,verb,,I sold my old camera.,Ho venduto la mia vecchia macchina fotografica.,ho commercializzato,,vendere
+verb,shopping,selling,ongoing action,vendendo,ven-DEN-doh,,gerund,,1,verb,,Selling souvenirs is fun.,Vendendo souvenir ci si diverte.,commercializzando,,vendere
+verb,shopping,to ask for,request,richiedere,ree-kyeh-DEH-reh,,infinitive,,1,verb,,You can ask for a discount.,Puoi richiedere uno sconto.,chiedere,,richiedere
+verb,shopping,I ask for,first-person present,richiedo,ree-KYEH-doh,,present_1sg,,1,verb,,I ask for a bag.,Richiedo una borsa.,chiedo,,richiedere
+verb,shopping,I asked for,past completed action,ho richiesto,oh ree-KYEH-stoh,,past_1sg,,1,verb,,I asked for a receipt.,Ho richiesto uno scontrino.,ho chiesto,,richiestare
+verb,shopping,asking for,ongoing action,richiedendo,ree-kyeh-DEN-doh,,gerund,,1,verb,,Asking for help is easy.,Richiedendo aiuto è facile.,chiedendo,,richiedere

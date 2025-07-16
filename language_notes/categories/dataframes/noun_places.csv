@@ -1,52 +1,52 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-noun,places,the city,large urban area,la città,lah chee-TAH,singular,n/a,feminine,1,noun,n/a,The city is beautiful at night.,La città è bellissima di notte.,metropoli,definite
-noun,places,a city,large urban area,una città,OO-nah chee-TAH,singular,n/a,feminine,1,noun,n/a,We visited a city by the sea.,Abbiamo visitato una città sul mare.,metropoli,indefinite
-noun,places,the cities,large urban areas,le città,leh chee-TAH,plural,n/a,feminine,1,noun,n/a,The cities are old and charming.,Le città sono antiche e affascinanti.,metropoli,definite
-noun,places,the town,small town or village,il paese,eel pah-EH-zeh,singular,n/a,masculine,1,noun,n/a,The town is quiet in winter.,Il paese è tranquillo in inverno.,borgo,definite
-noun,places,a town,small town or village,un paese,oon pah-EH-zeh,singular,n/a,masculine,1,noun,n/a,We drove through a town yesterday.,Abbiamo attraversato un paese ieri.,borgo,indefinite
-noun,places,the towns,small towns or villages,i paesi,ee pah-EH-zee,plural,n/a,masculine,1,noun,n/a,The towns celebrate the festival.,I paesi festeggiano la sagra.,borghi,definite
-noun,places,the street,road in a city,la strada,lah STRAH-dah,singular,n/a,feminine,1,noun,n/a,The street is narrow.,La strada è stretta.,via,definite
-noun,places,a street,road in a city,una strada,OO-nah STRAH-dah,singular,n/a,feminine,1,noun,n/a,I found a street with many shops.,Ho trovato una strada con molti negozi.,via,indefinite
-noun,places,the streets,roads in a city,le strade,leh STRAH-deh,plural,n/a,feminine,1,noun,n/a,The streets are crowded today.,Le strade sono affollate oggi.,vie,definite
-noun,places,the square,public town square,la piazza,lah pyaht-TSAH,singular,n/a,feminine,1,noun,n/a,The square is full of people.,La piazza è piena di gente.,piazzetta,definite
-noun,places,a square,public town square,una piazza,OO-nah pyaht-TSAH,singular,n/a,feminine,1,noun,n/a,Let's meet at a square near the river.,Incontriamoci in una piazza vicino al fiume.,piazzetta,indefinite
-noun,places,the squares,public town squares,le piazze,leh pyaht-TSEH,plural,n/a,feminine,1,noun,n/a,The squares host concerts in summer.,Le piazze ospitano concerti in estate.,piazzette,definite
-noun,places,the park,public green area,il parco,eel PAR-koh,singular,n/a,masculine,1,noun,n/a,The park opens at eight.,Il parco apre alle otto.,giardino,definite
-noun,places,a park,public green area,un parco,oon PAR-koh,singular,n/a,masculine,1,noun,n/a,We picnicked in a park.,Abbiamo fatto un picnic in un parco.,giardino,indefinite
-noun,places,the parks,public green areas,i parchi,ee PAR-kee,plural,n/a,masculine,1,noun,n/a,The parks are green and clean.,I parchi sono verdi e puliti.,giardini,definite
-noun,places,the museum,place to see art,il museo,eel moo-ZEH-oh,singular,n/a,masculine,2,noun,n/a,The museum closes on Monday.,Il museo chiude il lunedì.,galleria,definite
-noun,places,a museum,place to see art,un museo,oon moo-ZEH-oh,singular,n/a,masculine,2,noun,n/a,I want to see a museum today.,Voglio vedere un museo oggi.,galleria,indefinite
-noun,places,the museums,places to see art,i musei,ee moo-ZEH-ee,plural,n/a,masculine,2,noun,n/a,The museums are famous worldwide.,I musei sono famosi in tutto il mondo.,gallerie,definite
-noun,places,the church,religious building,la chiesa,lah KYEH-zah,singular,n/a,feminine,1,noun,n/a,The church was built in 1600.,La chiesa è stata costruita nel 1600.,basilica,definite
-noun,places,a church,religious building,una chiesa,OO-nah KYEH-zah,singular,n/a,feminine,1,noun,n/a,We entered a church to admire the frescoes.,Siamo entrati in una chiesa per ammirare gli affreschi.,basilica,indefinite
-noun,places,the churches,religious buildings,le chiese,leh KYEH-zeh,plural,n/a,feminine,1,noun,n/a,The churches ring bells at noon.,Le chiese suonano le campane a mezzogiorno.,basiliche,definite
-noun,places,the station,train or bus station,la stazione,lah stah-TSYOH-neh,singular,n/a,feminine,1,noun,n/a,The station is very busy.,La stazione è molto affollata.,fermata,definite
-noun,places,a station,train or bus station,una stazione,OO-nah stah-TSYOH-neh,singular,n/a,feminine,1,noun,n/a,We waited in a station for the train.,Abbiamo aspettato in una stazione il treno.,fermata,indefinite
-noun,places,the stations,train or bus stations,le stazioni,leh stah-TSYOH-nee,plural,n/a,feminine,1,noun,n/a,The stations have clear signs.,Le stazioni hanno segnaletica chiara.,fermate,definite
-noun,places,the airport,place for planes,l'aeroporto,lah eh-roh-POR-toh,singular,n/a,masculine,1,noun,n/a,The airport is twenty minutes away.,L'aeroporto è a venti minuti.,scalo,definite
-noun,places,an airport,place for planes,un aeroporto,oon ah eh-roh-POR-toh,singular,n/a,masculine,1,noun,n/a,We landed at an airport near Rome.,Siamo atterrati in un aeroporto vicino a Roma.,scalo,indefinite
-noun,places,the airports,places for planes,gli aeroporti,lyee ah eh-roh-POR-tee,plural,n/a,masculine,1,noun,n/a,The airports are modern.,Gli aeroporti sono moderni.,scali,definite
-noun,places,the hotel,place to stay,l'hotel,loh-TEL,singular,n/a,masculine,1,noun,n/a,The hotel overlooks the sea.,L'hotel affaccia sul mare.,albergo,definite
-noun,places,a hotel,place to stay,un hotel,oon oh-TEL,singular,n/a,masculine,1,noun,n/a,They booked a hotel in Florence.,Hanno prenotato un hotel a Firenze.,albergo,indefinite
-noun,places,the hotels,places to stay,gli hotel,lyee oh-TEL,plural,n/a,masculine,1,noun,n/a,The hotels are fully booked.,Gli hotel sono al completo.,alberghi,definite
-noun,places,the restaurant,place to eat,il ristorante,eel ree-sto-RAHN-teh,singular,n/a,masculine,1,noun,n/a,The restaurant opens at seven.,Il ristorante apre alle sette.,trattoria,definite
-noun,places,a restaurant,place to eat,un ristorante,oon ree-sto-RAHN-teh,singular,n/a,masculine,1,noun,n/a,We chose a restaurant near the river.,Abbiamo scelto un ristorante vicino al fiume.,trattoria,indefinite
-noun,places,the restaurants,places to eat,i ristoranti,ee ree-sto-RAHN-tee,plural,n/a,masculine,1,noun,n/a,The restaurants offer local dishes.,I ristoranti offrono piatti locali.,trattorie,definite
-noun,places,the supermarket,large grocery store,il supermercato,eel soo-per-mehr-KAH-toh,singular,n/a,masculine,1,noun,n/a,The supermarket is closed today.,Il supermercato è chiuso oggi.,market,definite
-noun,places,a supermarket,large grocery store,un supermercato,oon soo-per-mehr-KAH-toh,singular,n/a,masculine,1,noun,n/a,I need to find a supermarket.,Devo trovare un supermercato.,market,indefinite
-noun,places,the supermarkets,large grocery stores,i supermercati,ee soo-per-mehr-KAH-tee,plural,n/a,masculine,1,noun,n/a,The supermarkets are open late.,I supermercati sono aperti fino a tardi.,markets,definite
-noun,places,the pharmacy,drugstore,la farmacia,lah far-mah-CHEE-ah,singular,n/a,feminine,1,noun,n/a,The pharmacy opens early.,La farmacia apre presto.,parafarmacia,definite
-noun,places,a pharmacy,drugstore,una farmacia,OO-nah far-mah-CHEE-ah,singular,n/a,feminine,1,noun,n/a,She looked for a pharmacy.,Ha cercato una farmacia.,parafarmacia,indefinite
-noun,places,the pharmacies,drugstores,le farmacie,leh far-mah-CHEE-eh,plural,n/a,feminine,1,noun,n/a,The pharmacies sell sunscreen.,Le farmacie vendono crema solare.,parafarmacie,definite
-noun,places,the hospital,medical facility,l'ospedale,lohs-peh-DAH-leh,singular,n/a,masculine,1,noun,n/a,The hospital is near the center.,L'ospedale è vicino al centro.,clinica,definite
-noun,places,a hospital,medical facility,un ospedale,oon ohs-peh-DAH-leh,singular,n/a,masculine,1,noun,n/a,They built a hospital last year.,Hanno costruito un ospedale l'anno scorso.,clinica,indefinite
-noun,places,the hospitals,medical facilities,gli ospedali,lyee ohs-peh-DAH-lee,plural,n/a,masculine,1,noun,n/a,The hospitals are busy.,Gli ospedali sono affollati.,cliniche,definite
-noun,places,the school,place to learn,la scuola,lah SKWOH-lah,singular,n/a,feminine,1,noun,n/a,The school starts at eight.,La scuola inizia alle otto.,istituto,definite
-noun,places,a school,place to learn,una scuola,OO-nah SKWOH-lah,singular,n/a,feminine,1,noun,n/a,We visited a school during the tour.,Abbiamo visitato una scuola durante il tour.,istituto,indefinite
-noun,places,the schools,places to learn,le scuole,leh SKWOH-leh,plural,n/a,feminine,1,noun,n/a,The schools are closed in August.,Le scuole sono chiuse ad agosto.,istituti,definite
-noun,places,the university,higher education institution,l'università,loo-nee-vehr-see-TAH,singular,n/a,feminine,2,noun,n/a,The university has many students.,L'università ha molti studenti.,ateneo,definite
-noun,places,a university,higher education institution,un'università,oon oo-nee-vehr-see-TAH,singular,n/a,feminine,2,noun,n/a,She studies at a university in Milan.,Studia in un'università a Milano.,ateneo,indefinite
-noun,places,the universities,higher education institutions,le università,leh oo-nee-vehr-see-TAH,plural,n/a,feminine,2,noun,n/a,The universities collaborate.,Le università collaborano.,atenei,definite
-noun,places,the beach,sandy shore,la spiaggia,lah spYAHJ-jah,singular,n/a,feminine,2,noun,n/a,The beach is crowded.,La spiaggia è affollata.,lido,definite
-noun,places,a beach,sandy shore,una spiaggia,OO-nah spYAHJ-jah,singular,n/a,feminine,2,noun,n/a,We relaxed on a beach.,Ci siamo rilassati su una spiaggia.,lido,indefinite
-noun,places,the beaches,sandy shores,le spiagge,leh spYAHJ-jeh,plural,n/a,feminine,2,noun,n/a,The beaches are clean.,Le spiagge sono pulite.,lidi,definite
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+noun,places,the city,large urban area,la città,lah chee-TAH,singular,,feminine,1,noun,,The city is beautiful at night.,La città è bellissima di notte.,metropoli,definite,città
+noun,places,a city,large urban area,una città,OO-nah chee-TAH,singular,,feminine,1,noun,,We visited a city by the sea.,Abbiamo visitato una città sul mare.,metropoli,indefinite,città
+noun,places,the cities,large urban areas,le città,leh chee-TAH,plural,,feminine,1,noun,,The cities are old and charming.,Le città sono antiche e affascinanti.,metropoli,definite,città
+noun,places,the town,small town or village,il paese,eel pah-EH-zeh,singular,,masculine,1,noun,,The town is quiet in winter.,Il paese è tranquillo in inverno.,borgo,definite,paese
+noun,places,a town,small town or village,un paese,oon pah-EH-zeh,singular,,masculine,1,noun,,We drove through a town yesterday.,Abbiamo attraversato un paese ieri.,borgo,indefinite,paese
+noun,places,the towns,small towns or villages,i paesi,ee pah-EH-zee,plural,,masculine,1,noun,,The towns celebrate the festival.,I paesi festeggiano la sagra.,borghi,definite,paese
+noun,places,the street,road in a city,la strada,lah STRAH-dah,singular,,feminine,1,noun,,The street is narrow.,La strada è stretta.,via,definite,strada
+noun,places,a street,road in a city,una strada,OO-nah STRAH-dah,singular,,feminine,1,noun,,I found a street with many shops.,Ho trovato una strada con molti negozi.,via,indefinite,strada
+noun,places,the streets,roads in a city,le strade,leh STRAH-deh,plural,,feminine,1,noun,,The streets are crowded today.,Le strade sono affollate oggi.,vie,definite,strada
+noun,places,the square,public town square,la piazza,lah pyaht-TSAH,singular,,feminine,1,noun,,The square is full of people.,La piazza è piena di gente.,piazzetta,definite,piazza
+noun,places,a square,public town square,una piazza,OO-nah pyaht-TSAH,singular,,feminine,1,noun,,Let's meet at a square near the river.,Incontriamoci in una piazza vicino al fiume.,piazzetta,indefinite,piazza
+noun,places,the squares,public town squares,le piazze,leh pyaht-TSEH,plural,,feminine,1,noun,,The squares host concerts in summer.,Le piazze ospitano concerti in estate.,piazzette,definite,piazza
+noun,places,the park,public green area,il parco,eel PAR-koh,singular,,masculine,1,noun,,The park opens at eight.,Il parco apre alle otto.,giardino,definite,parco
+noun,places,a park,public green area,un parco,oon PAR-koh,singular,,masculine,1,noun,,We picnicked in a park.,Abbiamo fatto un picnic in un parco.,giardino,indefinite,parco
+noun,places,the parks,public green areas,i parchi,ee PAR-kee,plural,,masculine,1,noun,,The parks are green and clean.,I parchi sono verdi e puliti.,giardini,definite,parco
+noun,places,the museum,place to see art,il museo,eel moo-ZEH-oh,singular,,masculine,2,noun,,The museum closes on Monday.,Il museo chiude il lunedì.,galleria,definite,museo
+noun,places,a museum,place to see art,un museo,oon moo-ZEH-oh,singular,,masculine,2,noun,,I want to see a museum today.,Voglio vedere un museo oggi.,galleria,indefinite,museo
+noun,places,the museums,places to see art,i musei,ee moo-ZEH-ee,plural,,masculine,2,noun,,The museums are famous worldwide.,I musei sono famosi in tutto il mondo.,gallerie,definite,museo
+noun,places,the church,religious building,la chiesa,lah KYEH-zah,singular,,feminine,1,noun,,The church was built in 1600.,La chiesa è stata costruita nel 1600.,basilica,definite,chiesa
+noun,places,a church,religious building,una chiesa,OO-nah KYEH-zah,singular,,feminine,1,noun,,We entered a church to admire the frescoes.,Siamo entrati in una chiesa per ammirare gli affreschi.,basilica,indefinite,chiesa
+noun,places,the churches,religious buildings,le chiese,leh KYEH-zeh,plural,,feminine,1,noun,,The churches ring bells at noon.,Le chiese suonano le campane a mezzogiorno.,basiliche,definite,chiesa
+noun,places,the station,train or bus station,la stazione,lah stah-TSYOH-neh,singular,,feminine,1,noun,,The station is very busy.,La stazione è molto affollata.,fermata,definite,stazione
+noun,places,a station,train or bus station,una stazione,OO-nah stah-TSYOH-neh,singular,,feminine,1,noun,,We waited in a station for the train.,Abbiamo aspettato in una stazione il treno.,fermata,indefinite,stazione
+noun,places,the stations,train or bus stations,le stazioni,leh stah-TSYOH-nee,plural,,feminine,1,noun,,The stations have clear signs.,Le stazioni hanno segnaletica chiara.,fermate,definite,stazione
+noun,places,the airport,place for planes,l'aeroporto,lah eh-roh-POR-toh,singular,,masculine,1,noun,,The airport is twenty minutes away.,L'aeroporto è a venti minuti.,scalo,definite,aeroporto
+noun,places,an airport,place for planes,un aeroporto,oon ah eh-roh-POR-toh,singular,,masculine,1,noun,,We landed at an airport near Rome.,Siamo atterrati in un aeroporto vicino a Roma.,scalo,indefinite,aeroporto
+noun,places,the airports,places for planes,gli aeroporti,lyee ah eh-roh-POR-tee,plural,,masculine,1,noun,,The airports are modern.,Gli aeroporti sono moderni.,scali,definite,aeroporto
+noun,places,the hotel,place to stay,l'hotel,loh-TEL,singular,,masculine,1,noun,,The hotel overlooks the sea.,L'hotel affaccia sul mare.,albergo,definite,hotel
+noun,places,a hotel,place to stay,un hotel,oon oh-TEL,singular,,masculine,1,noun,,They booked a hotel in Florence.,Hanno prenotato un hotel a Firenze.,albergo,indefinite,hotel
+noun,places,the hotels,places to stay,gli hotel,lyee oh-TEL,plural,,masculine,1,noun,,The hotels are fully booked.,Gli hotel sono al completo.,alberghi,definite,hotel
+noun,places,the restaurant,place to eat,il ristorante,eel ree-sto-RAHN-teh,singular,,masculine,1,noun,,The restaurant opens at seven.,Il ristorante apre alle sette.,trattoria,definite,ristorante
+noun,places,a restaurant,place to eat,un ristorante,oon ree-sto-RAHN-teh,singular,,masculine,1,noun,,We chose a restaurant near the river.,Abbiamo scelto un ristorante vicino al fiume.,trattoria,indefinite,ristorante
+noun,places,the restaurants,places to eat,i ristoranti,ee ree-sto-RAHN-tee,plural,,masculine,1,noun,,The restaurants offer local dishes.,I ristoranti offrono piatti locali.,trattorie,definite,ristorante
+noun,places,the supermarket,large grocery store,il supermercato,eel soo-per-mehr-KAH-toh,singular,,masculine,1,noun,,The supermarket is closed today.,Il supermercato è chiuso oggi.,market,definite,supermercato
+noun,places,a supermarket,large grocery store,un supermercato,oon soo-per-mehr-KAH-toh,singular,,masculine,1,noun,,I need to find a supermarket.,Devo trovare un supermercato.,market,indefinite,supermercato
+noun,places,the supermarkets,large grocery stores,i supermercati,ee soo-per-mehr-KAH-tee,plural,,masculine,1,noun,,The supermarkets are open late.,I supermercati sono aperti fino a tardi.,markets,definite,supermercato
+noun,places,the pharmacy,drugstore,la farmacia,lah far-mah-CHEE-ah,singular,,feminine,1,noun,,The pharmacy opens early.,La farmacia apre presto.,parafarmacia,definite,farmacia
+noun,places,a pharmacy,drugstore,una farmacia,OO-nah far-mah-CHEE-ah,singular,,feminine,1,noun,,She looked for a pharmacy.,Ha cercato una farmacia.,parafarmacia,indefinite,farmacia
+noun,places,the pharmacies,drugstores,le farmacie,leh far-mah-CHEE-eh,plural,,feminine,1,noun,,The pharmacies sell sunscreen.,Le farmacie vendono crema solare.,parafarmacie,definite,farmacia
+noun,places,the hospital,medical facility,l'ospedale,lohs-peh-DAH-leh,singular,,masculine,1,noun,,The hospital is near the center.,L'ospedale è vicino al centro.,clinica,definite,ospedale
+noun,places,a hospital,medical facility,un ospedale,oon ohs-peh-DAH-leh,singular,,masculine,1,noun,,They built a hospital last year.,Hanno costruito un ospedale l'anno scorso.,clinica,indefinite,ospedale
+noun,places,the hospitals,medical facilities,gli ospedali,lyee ohs-peh-DAH-lee,plural,,masculine,1,noun,,The hospitals are busy.,Gli ospedali sono affollati.,cliniche,definite,ospedale
+noun,places,the school,place to learn,la scuola,lah SKWOH-lah,singular,,feminine,1,noun,,The school starts at eight.,La scuola inizia alle otto.,istituto,definite,scuola
+noun,places,a school,place to learn,una scuola,OO-nah SKWOH-lah,singular,,feminine,1,noun,,We visited a school during the tour.,Abbiamo visitato una scuola durante il tour.,istituto,indefinite,scuola
+noun,places,the schools,places to learn,le scuole,leh SKWOH-leh,plural,,feminine,1,noun,,The schools are closed in August.,Le scuole sono chiuse ad agosto.,istituti,definite,scuola
+noun,places,the university,higher education institution,l'università,loo-nee-vehr-see-TAH,singular,,feminine,2,noun,,The university has many students.,L'università ha molti studenti.,ateneo,definite,università
+noun,places,a university,higher education institution,un'università,oon oo-nee-vehr-see-TAH,singular,,feminine,2,noun,,She studies at a university in Milan.,Studia in un'università a Milano.,ateneo,indefinite,università
+noun,places,the universities,higher education institutions,le università,leh oo-nee-vehr-see-TAH,plural,,feminine,2,noun,,The universities collaborate.,Le università collaborano.,atenei,definite,università
+noun,places,the beach,sandy shore,la spiaggia,lah spYAHJ-jah,singular,,feminine,2,noun,,The beach is crowded.,La spiaggia è affollata.,lido,definite,spiaggia
+noun,places,a beach,sandy shore,una spiaggia,OO-nah spYAHJ-jah,singular,,feminine,2,noun,,We relaxed on a beach.,Ci siamo rilassati su una spiaggia.,lido,indefinite,spiaggia
+noun,places,the beaches,sandy shores,le spiagge,leh spYAHJ-jeh,plural,,feminine,2,noun,,The beaches are clean.,Le spiagge sono pulite.,lidi,definite,spiagga

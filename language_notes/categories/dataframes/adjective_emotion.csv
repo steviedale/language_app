@@ -1,17 +1,17 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-adjective,emotion,happy,feeling joy or pleasure,felice,feh-LEE-cheh,n/a,n/a,n/a,1,adjective,n/a,She is happy today.,Lei è felice oggi.,"contento, allegro",n/a
-adjective,emotion,sad,feeling sorrow or unhappiness,triste,TREE-steh,n/a,n/a,n/a,1,adjective,n/a,He looks sad.,Lui sembra triste.,"infelice, malinconico",n/a
-adjective,emotion,angry,feeling strong annoyance,arrabbiato,ah-rahb-BYAH-toh,singular,n/a,masculine,1,adjective,n/a,The waiter is angry.,Il cameriere è arrabbiato.,"furioso, irritato",n/a
-adjective,emotion,angry,feeling strong annoyance,arrabbiata,ah-rahb-BYAH-tah,singular,n/a,feminine,1,adjective,n/a,She is angry about the delay.,Lei è arrabbiata per il ritardo.,"furiosa, irritata",n/a
-adjective,emotion,excited,enthusiastic and eager,eccitato,eh-chee-TAH-toh,singular,n/a,masculine,2,adjective,n/a,He is excited about the trip.,È eccitato per il viaggio.,"entusiasta, agitato",n/a
-adjective,emotion,excited,enthusiastic and eager,eccitata,eh-chee-TAH-tah,singular,n/a,feminine,2,adjective,n/a,She is excited to see Rome.,Lei è eccitata di vedere Roma.,"entusiasta, agitata",n/a
-adjective,emotion,bored,feeling weary due to lack of interest,annoiato,ahn-noh-YAH-toh,singular,n/a,masculine,2,adjective,n/a,He is bored at the museum.,È annoiato al museo.,"stanco, disinteressato",n/a
-adjective,emotion,bored,feeling weary due to lack of interest,annoiata,ahn-noh-YAH-tah,singular,n/a,feminine,2,adjective,n/a,She is bored during the tour.,Lei è annoiata durante il tour.,"stanca, disinteressata",n/a
-adjective,emotion,nervous,feeling worried or anxious,nervoso,nehr-VOH-zoh,singular,n/a,masculine,2,adjective,n/a,He is nervous about the flight.,È nervoso per il volo.,"ansioso, preoccupato",n/a
-adjective,emotion,nervous,feeling worried or anxious,nervosa,nehr-VOH-zah,singular,n/a,feminine,2,adjective,n/a,She feels nervous before the test.,Lei si sente nervosa prima del test.,"ansiosa, preoccupata",n/a
-adjective,emotion,calm,peaceful and tranquil,calmo,KAHL-moh,singular,n/a,masculine,2,adjective,n/a,The sea is calm today.,Il mare è calmo oggi.,"tranquillo, sereno",n/a
-adjective,emotion,calm,peaceful and tranquil,calma,KAHL-mah,singular,n/a,feminine,2,adjective,n/a,She seems calm now.,Lei sembra calma ora.,"tranquilla, serena",n/a
-adjective,emotion,tired,feeling a need for rest,stanco,STAHN-koh,singular,n/a,masculine,1,adjective,n/a,He is tired after the walk.,È stanco dopo la passeggiata.,"affaticato, esausto",n/a
-adjective,emotion,tired,feeling a need for rest,stanca,STAHN-kah,singular,n/a,feminine,1,adjective,n/a,She feels tired tonight.,Lei si sente stanca stasera.,"affaticata, esausta",n/a
-adjective,emotion,surprised,feeling sudden astonishment,sorpreso,sohr-PREH-zoh,singular,n/a,masculine,2,adjective,n/a,He was surprised by the gift.,È stato sorpreso dal regalo.,"stupito, meravigliato",n/a
-adjective,emotion,surprised,feeling sudden astonishment,sorpresa,sohr-PREH-zah,singular,n/a,feminine,2,adjective,n/a,She is surprised to see him.,Lei è sorpresa di vederlo.,"stupita, meravigliata",n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+adjective,emotion,happy,feeling joy or pleasure,felice,feh-LEE-cheh,,,,1,adjective,,She is happy today.,Lei è felice oggi.,"contento, allegro",,felice
+adjective,emotion,sad,feeling sorrow or unhappiness,triste,TREE-steh,,,,1,adjective,,He looks sad.,Lui sembra triste.,"infelice, malinconico",,triste
+adjective,emotion,angry,feeling strong annoyance,arrabbiato,ah-rahb-BYAH-toh,singular,,masculine,1,adjective,,The waiter is angry.,Il cameriere è arrabbiato.,"furioso, irritato",,arrabbiato
+adjective,emotion,angry,feeling strong annoyance,arrabbiata,ah-rahb-BYAH-tah,singular,,feminine,1,adjective,,She is angry about the delay.,Lei è arrabbiata per il ritardo.,"furiosa, irritata",,arrabbiato
+adjective,emotion,excited,enthusiastic and eager,eccitato,eh-chee-TAH-toh,singular,,masculine,2,adjective,,He is excited about the trip.,È eccitato per il viaggio.,"entusiasta, agitato",,eccitato
+adjective,emotion,excited,enthusiastic and eager,eccitata,eh-chee-TAH-tah,singular,,feminine,2,adjective,,She is excited to see Rome.,Lei è eccitata di vedere Roma.,"entusiasta, agitata",,eccitato
+adjective,emotion,bored,feeling weary due to lack of interest,annoiato,ahn-noh-YAH-toh,singular,,masculine,2,adjective,,He is bored at the museum.,È annoiato al museo.,"stanco, disinteressato",,annoiato
+adjective,emotion,bored,feeling weary due to lack of interest,annoiata,ahn-noh-YAH-tah,singular,,feminine,2,adjective,,She is bored during the tour.,Lei è annoiata durante il tour.,"stanca, disinteressata",,annoiato
+adjective,emotion,nervous,feeling worried or anxious,nervoso,nehr-VOH-zoh,singular,,masculine,2,adjective,,He is nervous about the flight.,È nervoso per il volo.,"ansioso, preoccupato",,nervoso
+adjective,emotion,nervous,feeling worried or anxious,nervosa,nehr-VOH-zah,singular,,feminine,2,adjective,,She feels nervous before the test.,Lei si sente nervosa prima del test.,"ansiosa, preoccupata",,nervoso
+adjective,emotion,calm,peaceful and tranquil,calmo,KAHL-moh,singular,,masculine,2,adjective,,The sea is calm today.,Il mare è calmo oggi.,"tranquillo, sereno",,calmo
+adjective,emotion,calm,peaceful and tranquil,calma,KAHL-mah,singular,,feminine,2,adjective,,She seems calm now.,Lei sembra calma ora.,"tranquilla, serena",,calmo
+adjective,emotion,tired,feeling a need for rest,stanco,STAHN-koh,singular,,masculine,1,adjective,,He is tired after the walk.,È stanco dopo la passeggiata.,"affaticato, esausto",,stanco
+adjective,emotion,tired,feeling a need for rest,stanca,STAHN-kah,singular,,feminine,1,adjective,,She feels tired tonight.,Lei si sente stanca stasera.,"affaticata, esausta",,stanco
+adjective,emotion,surprised,feeling sudden astonishment,sorpreso,sohr-PREH-zoh,singular,,masculine,2,adjective,,He was surprised by the gift.,È stato sorpreso dal regalo.,"stupito, meravigliato",,sorpreso
+adjective,emotion,surprised,feeling sudden astonishment,sorpresa,sohr-PREH-zah,singular,,feminine,2,adjective,,She is surprised to see him.,Lei è sorpresa di vederlo.,"stupita, meravigliata",,sorpreso

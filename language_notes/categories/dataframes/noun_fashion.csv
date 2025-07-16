@@ -1,44 +1,44 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-noun,fashion,the dress,garment for women or formal wear,il vestito,eel vehs-TEE-toh,singular,n/a,masculine,1,noun,n/a,The dress costs fifty euros.,Il vestito costa cinquanta euro.,abito,definite
-noun,fashion,a dress,garment for women or formal wear,un vestito,oon vehs-TEE-toh,singular,n/a,masculine,1,noun,n/a,A dress hangs in the shop window.,Un vestito è appeso in vetrina.,abito,indefinite
-noun,fashion,the dresses,garments for women or formal wear,i vestiti,ee vehs-TEE-tee,plural,n/a,masculine,1,noun,n/a,The dresses are colorful.,I vestiti sono colorati.,abiti,definite
-noun,fashion,the shirt,button-up top,la camicia,lah kah-MEE-chah,singular,n/a,feminine,1,noun,n/a,The shirt is clean.,La camicia è pulita.,camicetta,definite
-noun,fashion,a shirt,button-up top,una camicia,OO-nah kah-MEE-chah,singular,n/a,feminine,1,noun,n/a,He bought a shirt for work.,Ha comprato una camicia per il lavoro.,camicetta,indefinite
-noun,fashion,the shirts,button-up tops,le camicie,leh kah-MEE-cheh,plural,n/a,feminine,1,noun,n/a,The shirts are on sale.,Le camicie sono in saldo.,camicette,definite
-noun,fashion,the t-shirt,casual cotton top,la maglietta,lah mahl-YEHT-tah,singular,n/a,feminine,1,noun,n/a,The t-shirt has a logo.,La maglietta ha un logo.,t-shirt,definite
-noun,fashion,a t-shirt,casual cotton top,una maglietta,OO-nah mahl-YEHT-tah,singular,n/a,feminine,1,noun,n/a,I packed a t-shirt for the gym.,Ho messo una maglietta per la palestra.,t-shirt,indefinite
-noun,fashion,the t-shirts,casual cotton tops,le magliette,leh mahl-YEHT-teh,plural,n/a,feminine,1,noun,n/a,The t-shirts are in the drawer.,Le magliette sono nel cassetto.,t-shirt,definite
-noun,fashion,the pants,long trousers,i pantaloni,ee pahn-tah-LOH-nee,plural,n/a,masculine,1,noun,n/a,The pants are too long.,I pantaloni sono troppo lunghi.,calzoni,definite
-noun,fashion,pants,long trousers,pantaloni,pahn-tah-LOH-nee,plural,n/a,masculine,1,noun,n/a,Pants dry quickly in the sun.,Pantaloni si asciugano in fretta al sole.,calzoni,n/a
-noun,fashion,the jeans,denim trousers,i jeans,ee JEENS,plural,n/a,masculine,1,noun,n/a,The jeans fit well.,I jeans calzano bene.,denim,definite
-noun,fashion,jeans,denim trousers,jeans,JEENS,plural,n/a,masculine,1,noun,n/a,Jeans never go out of style.,Jeans non passano mai di moda.,denim,n/a
-noun,fashion,the skirt,garment for lower body,la gonna,lah GON-nah,singular,n/a,feminine,1,noun,n/a,The skirt moves in the breeze.,La gonna si muove nella brezza.,gonnellina,definite
-noun,fashion,a skirt,garment for lower body,una gonna,OO-nah GON-nah,singular,n/a,feminine,1,noun,n/a,She chose a skirt for the party.,Ha scelto una gonna per la festa.,gonnellina,indefinite
-noun,fashion,the skirts,garments for lower body,le gonne,leh GON-neh,plural,n/a,feminine,1,noun,n/a,The skirts match the blouses.,Le gonne si abbinano alle bluse.,gonne,definite
-noun,fashion,the suit,matching jacket and trousers,il completo,eel kom-PLEH-toh,singular,n/a,masculine,1,noun,n/a,The suit is elegant.,Il completo è elegante.,abito,definite
-noun,fashion,a suit,matching jacket and trousers,un completo,oon kom-PLEH-toh,singular,n/a,masculine,1,noun,n/a,He rented a suit for the wedding.,Ha noleggiato un completo per il matrimonio.,abito,indefinite
-noun,fashion,the suits,matching jackets and trousers,i completi,ee kom-PLEH-tee,plural,n/a,masculine,1,noun,n/a,The suits are ready for pickup.,I completi sono pronti per il ritiro.,abiti,definite
-noun,fashion,the jacket,outer garment,la giacca,lah JAHK-kah,singular,n/a,feminine,1,noun,n/a,The jacket keeps me warm.,La giacca mi tiene caldo.,giubbotto,definite
-noun,fashion,a jacket,outer garment,una giacca,OO-nah JAHK-kah,singular,n/a,feminine,1,noun,n/a,I need a jacket for the evening.,Mi serve una giacca per la sera.,giubbotto,indefinite
-noun,fashion,the jackets,outer garments,le giacche,leh JAHK-keh,plural,n/a,feminine,1,noun,n/a,The jackets are on the rack.,Le giacche sono sull'attaccapanni.,giubbotti,definite
-noun,fashion,the coat,long warm outerwear,il cappotto,eel kahp-POT-toh,singular,n/a,masculine,1,noun,n/a,The coat is wool.,Il cappotto è di lana.,soprabito,definite
-noun,fashion,a coat,long warm outerwear,un cappotto,oon kahp-POT-toh,singular,n/a,masculine,1,noun,n/a,She bought a coat in Milan.,Ha comprato un cappotto a Milano.,soprabito,indefinite
-noun,fashion,the coats,long warm outerwear,i cappotti,ee kahp-POT-tee,plural,n/a,masculine,1,noun,n/a,The coats fill the closet.,I cappotti riempiono l'armadio.,soprabiti,definite
-noun,fashion,the sweater,knitted warm top,il maglione,eel mahl-YOH-neh,singular,n/a,masculine,1,noun,n/a,The sweater is soft.,Il maglione è morbido.,pullover,definite
-noun,fashion,a sweater,knitted warm top,un maglione,oon mahl-YOH-neh,singular,n/a,masculine,1,noun,n/a,I packed a sweater for the trip.,Ho messo un maglione per il viaggio.,pullover,indefinite
-noun,fashion,the sweaters,knitted warm tops,i maglioni,ee mahl-YOH-nee,plural,n/a,masculine,1,noun,n/a,The sweaters are on the shelf.,I maglioni sono sullo scaffale.,pullover,definite
-noun,fashion,the shoe,footwear item,la scarpa,lah SKAHR-pah,singular,n/a,feminine,1,noun,n/a,The shoe feels tight.,La scarpa è stretta.,calzatura,definite
-noun,fashion,a shoe,footwear item,una scarpa,OO-nah SKAHR-pah,singular,n/a,feminine,1,noun,n/a,He lost a shoe on the train.,Ha perso una scarpa sul treno.,calzatura,indefinite
-noun,fashion,the shoes,footwear items,le scarpe,leh SKAHR-peh,plural,n/a,feminine,1,noun,n/a,The shoes are by the door.,Le scarpe sono vicino alla porta.,calzature,definite
-noun,fashion,the boot,high footwear,lo stivale,loh stee-VAH-leh,singular,n/a,masculine,2,noun,n/a,The boot is waterproof.,Lo stivale è impermeabile.,scarponcino,definite
-noun,fashion,a boot,high footwear,uno stivale,OO-noh stee-VAH-leh,singular,n/a,masculine,2,noun,n/a,She tried on a boot.,Ha provato uno stivale.,scarponcino,indefinite
-noun,fashion,the boots,high footwear,gli stivali,lyee stee-VAH-lee,plural,n/a,masculine,2,noun,n/a,The boots are perfect for hiking.,Gli stivali sono perfetti per il trekking.,scarponcini,definite
-noun,fashion,the sandal,open summer shoe,il sandalo,eel SAHN-dah-loh,singular,n/a,masculine,1,noun,n/a,The sandal is comfortable.,Il sandalo è comodo.,infradito,definite
-noun,fashion,a sandal,open summer shoe,un sandalo,oon SAHN-dah-loh,singular,n/a,masculine,1,noun,n/a,He bought a sandal for the beach.,Ha comprato un sandalo per la spiaggia.,infradito,indefinite
-noun,fashion,the sandals,open summer shoes,i sandali,ee SAHN-dah-lee,plural,n/a,masculine,1,noun,n/a,The sandals dry quickly.,I sandali si asciugano velocemente.,infradito,definite
-noun,fashion,the scarf,warm or decorative cloth,la sciarpa,lah SHAR-pah,singular,n/a,feminine,1,noun,n/a,The scarf matches the coat.,La sciarpa si abbina al cappotto.,foulard,definite
-noun,fashion,a scarf,warm or decorative cloth,una sciarpa,OO-nah SHAR-pah,singular,n/a,feminine,1,noun,n/a,I forgot a scarf at the café.,Ho dimenticato una sciarpa al bar.,foulard,indefinite
-noun,fashion,the scarves,warm or decorative cloths,le sciarpe,leh SHAR-peh,plural,n/a,feminine,1,noun,n/a,The scarves are colorful.,Le sciarpe sono colorate.,foulard,definite
-noun,fashion,the hat,headwear,il cappello,eel kahp-PEL-loh,singular,n/a,masculine,1,noun,n/a,The hat protects from the sun.,Il cappello protegge dal sole.,cappellino,definite
-noun,fashion,a hat,headwear,un cappello,oon kahp-PEL-loh,singular,n/a,masculine,1,noun,n/a,She needs a hat for the trip.,Le serve un cappello per il viaggio.,cappellino,indefinite
-noun,fashion,the hats,headwear items,i cappelli,ee kahp-PEL-lee,plural,n/a,masculine,1,noun,n/a,The hats are hanging on the wall.,I
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+noun,fashion,the dress,garment for women or formal wear,il vestito,eel vehs-TEE-toh,singular,,masculine,1,noun,,The dress costs fifty euros.,Il vestito costa cinquanta euro.,abito,definite,vestito
+noun,fashion,a dress,garment for women or formal wear,un vestito,oon vehs-TEE-toh,singular,,masculine,1,noun,,A dress hangs in the shop window.,Un vestito è appeso in vetrina.,abito,indefinite,vestito
+noun,fashion,the dresses,garments for women or formal wear,i vestiti,ee vehs-TEE-tee,plural,,masculine,1,noun,,The dresses are colorful.,I vestiti sono colorati.,abiti,definite,vestito
+noun,fashion,the shirt,button-up top,la camicia,lah kah-MEE-chah,singular,,feminine,1,noun,,The shirt is clean.,La camicia è pulita.,camicetta,definite,camicia
+noun,fashion,a shirt,button-up top,una camicia,OO-nah kah-MEE-chah,singular,,feminine,1,noun,,He bought a shirt for work.,Ha comprato una camicia per il lavoro.,camicetta,indefinite,camicia
+noun,fashion,the shirts,button-up tops,le camicie,leh kah-MEE-cheh,plural,,feminine,1,noun,,The shirts are on sale.,Le camicie sono in saldo.,camicette,definite,camicia
+noun,fashion,the t-shirt,casual cotton top,la maglietta,lah mahl-YEHT-tah,singular,,feminine,1,noun,,The t-shirt has a logo.,La maglietta ha un logo.,t-shirt,definite,maglietta
+noun,fashion,a t-shirt,casual cotton top,una maglietta,OO-nah mahl-YEHT-tah,singular,,feminine,1,noun,,I packed a t-shirt for the gym.,Ho messo una maglietta per la palestra.,t-shirt,indefinite,maglietta
+noun,fashion,the t-shirts,casual cotton tops,le magliette,leh mahl-YEHT-teh,plural,,feminine,1,noun,,The t-shirts are in the drawer.,Le magliette sono nel cassetto.,t-shirt,definite,maglietta
+noun,fashion,the pants,long trousers,i pantaloni,ee pahn-tah-LOH-nee,plural,,masculine,1,noun,,The pants are too long.,I pantaloni sono troppo lunghi.,calzoni,definite,pantaloni
+noun,fashion,pants,long trousers,pantaloni,pahn-tah-LOH-nee,plural,,masculine,1,noun,,Pants dry quickly in the sun.,Pantaloni si asciugano in fretta al sole.,calzoni,,pantaloni
+noun,fashion,the jeans,denim trousers,i jeans,ee JEENS,plural,,masculine,1,noun,,The jeans fit well.,I jeans calzano bene.,denim,definite,jeans
+noun,fashion,jeans,denim trousers,jeans,JEENS,plural,,masculine,1,noun,,Jeans never go out of style.,Jeans non passano mai di moda.,denim,,jeans
+noun,fashion,the skirt,garment for lower body,la gonna,lah GON-nah,singular,,feminine,1,noun,,The skirt moves in the breeze.,La gonna si muove nella brezza.,gonnellina,definite,gonna
+noun,fashion,a skirt,garment for lower body,una gonna,OO-nah GON-nah,singular,,feminine,1,noun,,She chose a skirt for the party.,Ha scelto una gonna per la festa.,gonnellina,indefinite,gonna
+noun,fashion,the skirts,garments for lower body,le gonne,leh GON-neh,plural,,feminine,1,noun,,The skirts match the blouses.,Le gonne si abbinano alle bluse.,gonne,definite,gonna
+noun,fashion,the suit,matching jacket and trousers,il completo,eel kom-PLEH-toh,singular,,masculine,1,noun,,The suit is elegant.,Il completo è elegante.,abito,definite,completo
+noun,fashion,a suit,matching jacket and trousers,un completo,oon kom-PLEH-toh,singular,,masculine,1,noun,,He rented a suit for the wedding.,Ha noleggiato un completo per il matrimonio.,abito,indefinite,completo
+noun,fashion,the suits,matching jackets and trousers,i completi,ee kom-PLEH-tee,plural,,masculine,1,noun,,The suits are ready for pickup.,I completi sono pronti per il ritiro.,abiti,definite,completo
+noun,fashion,the jacket,outer garment,la giacca,lah JAHK-kah,singular,,feminine,1,noun,,The jacket keeps me warm.,La giacca mi tiene caldo.,giubbotto,definite,giacca
+noun,fashion,a jacket,outer garment,una giacca,OO-nah JAHK-kah,singular,,feminine,1,noun,,I need a jacket for the evening.,Mi serve una giacca per la sera.,giubbotto,indefinite,giacca
+noun,fashion,the jackets,outer garments,le giacche,leh JAHK-keh,plural,,feminine,1,noun,,The jackets are on the rack.,Le giacche sono sull'attaccapanni.,giubbotti,definite,giaccha
+noun,fashion,the coat,long warm outerwear,il cappotto,eel kahp-POT-toh,singular,,masculine,1,noun,,The coat is wool.,Il cappotto è di lana.,soprabito,definite,cappotto
+noun,fashion,a coat,long warm outerwear,un cappotto,oon kahp-POT-toh,singular,,masculine,1,noun,,She bought a coat in Milan.,Ha comprato un cappotto a Milano.,soprabito,indefinite,cappotto
+noun,fashion,the coats,long warm outerwear,i cappotti,ee kahp-POT-tee,plural,,masculine,1,noun,,The coats fill the closet.,I cappotti riempiono l'armadio.,soprabiti,definite,cappotto
+noun,fashion,the sweater,knitted warm top,il maglione,eel mahl-YOH-neh,singular,,masculine,1,noun,,The sweater is soft.,Il maglione è morbido.,pullover,definite,maglione
+noun,fashion,a sweater,knitted warm top,un maglione,oon mahl-YOH-neh,singular,,masculine,1,noun,,I packed a sweater for the trip.,Ho messo un maglione per il viaggio.,pullover,indefinite,maglione
+noun,fashion,the sweaters,knitted warm tops,i maglioni,ee mahl-YOH-nee,plural,,masculine,1,noun,,The sweaters are on the shelf.,I maglioni sono sullo scaffale.,pullover,definite,maglione
+noun,fashion,the shoe,footwear item,la scarpa,lah SKAHR-pah,singular,,feminine,1,noun,,The shoe feels tight.,La scarpa è stretta.,calzatura,definite,scarpa
+noun,fashion,a shoe,footwear item,una scarpa,OO-nah SKAHR-pah,singular,,feminine,1,noun,,He lost a shoe on the train.,Ha perso una scarpa sul treno.,calzatura,indefinite,scarpa
+noun,fashion,the shoes,footwear items,le scarpe,leh SKAHR-peh,plural,,feminine,1,noun,,The shoes are by the door.,Le scarpe sono vicino alla porta.,calzature,definite,scarpa
+noun,fashion,the boot,high footwear,lo stivale,loh stee-VAH-leh,singular,,masculine,2,noun,,The boot is waterproof.,Lo stivale è impermeabile.,scarponcino,definite,stivale
+noun,fashion,a boot,high footwear,uno stivale,OO-noh stee-VAH-leh,singular,,masculine,2,noun,,She tried on a boot.,Ha provato uno stivale.,scarponcino,indefinite,stivale
+noun,fashion,the boots,high footwear,gli stivali,lyee stee-VAH-lee,plural,,masculine,2,noun,,The boots are perfect for hiking.,Gli stivali sono perfetti per il trekking.,scarponcini,definite,stivale
+noun,fashion,the sandal,open summer shoe,il sandalo,eel SAHN-dah-loh,singular,,masculine,1,noun,,The sandal is comfortable.,Il sandalo è comodo.,infradito,definite,sandalo
+noun,fashion,a sandal,open summer shoe,un sandalo,oon SAHN-dah-loh,singular,,masculine,1,noun,,He bought a sandal for the beach.,Ha comprato un sandalo per la spiaggia.,infradito,indefinite,sandalo
+noun,fashion,the sandals,open summer shoes,i sandali,ee SAHN-dah-lee,plural,,masculine,1,noun,,The sandals dry quickly.,I sandali si asciugano velocemente.,infradito,definite,sandalo
+noun,fashion,the scarf,warm or decorative cloth,la sciarpa,lah SHAR-pah,singular,,feminine,1,noun,,The scarf matches the coat.,La sciarpa si abbina al cappotto.,foulard,definite,sciarpa
+noun,fashion,a scarf,warm or decorative cloth,una sciarpa,OO-nah SHAR-pah,singular,,feminine,1,noun,,I forgot a scarf at the café.,Ho dimenticato una sciarpa al bar.,foulard,indefinite,sciarpa
+noun,fashion,the scarves,warm or decorative cloths,le sciarpe,leh SHAR-peh,plural,,feminine,1,noun,,The scarves are colorful.,Le sciarpe sono colorate.,foulard,definite,sciarpa
+noun,fashion,the hat,headwear,il cappello,eel kahp-PEL-loh,singular,,masculine,1,noun,,The hat protects from the sun.,Il cappello protegge dal sole.,cappellino,definite,cappello
+noun,fashion,a hat,headwear,un cappello,oon kahp-PEL-loh,singular,,masculine,1,noun,,She needs a hat for the trip.,Le serve un cappello per il viaggio.,cappellino,indefinite,cappello
+noun,fashion,the hats,headwear items,i cappelli,ee kahp-PEL-lee,plural,,masculine,1,noun,,The hats are hanging on the wall.,I,,,cappello

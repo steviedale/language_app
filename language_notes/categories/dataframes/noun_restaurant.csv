@@ -1,61 +1,61 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-noun,restaurant,a table,a piece of furniture where diners sit,un tavolo,oon TAH-voh-lo,singular,n/a,masculine,1,noun,n/a,"We would like a table near the window.","Vorremmo un tavolo vicino alla finestra.","tavolino",indefinite
-noun,restaurant,the table,a piece of furniture where diners sit,il tavolo,eel TAH-voh-lo,singular,n/a,masculine,1,noun,n/a,"The table is ready for you.","Il tavolo è pronto per voi.","tavolino",definite
-noun,restaurant,the tables,pieces of furniture where diners sit,i tavoli,ee TAH-voh-lee,plural,n/a,masculine,1,noun,n/a,"The tables are all occupied tonight.","I tavoli sono tutti occupati stasera.","tavolino",definite
-noun,restaurant,a waiter,male server who takes orders,un cameriere,oon kah-meh-ree-EH-reh,singular,n/a,masculine,1,noun,n/a,"A waiter is coming with the menus.","Un cameriere sta arrivando con i menù.","servitore",indefinite
-noun,restaurant,the waiter,male server who takes orders,il cameriere,eel kah-meh-ree-EH-reh,singular,n/a,masculine,1,noun,n/a,"The waiter speaks good English.","Il cameriere parla bene inglese.","servitore",definite
-noun,restaurant,the waiters,male servers who take orders,i camerieri,ee kah-meh-ree-EH-ree,plural,n/a,masculine,1,noun,n/a,"The waiters are very friendly here.","I camerieri sono molto gentili qui.","servitore",definite
-noun,restaurant,a waitress,female server who takes orders,una cameriera,OO-nah kah-meh-ree-EH-rah,singular,n/a,feminine,1,noun,n/a,"A waitress will bring the bill soon.","Una cameriera porterà presto il conto.","servitrice",indefinite
-noun,restaurant,the waitress,female server who takes orders,la cameriera,lah kah-meh-ree-EH-rah,singular,n/a,feminine,1,noun,n/a,"The waitress recommended the pasta.","La cameriera ha consigliato la pasta.","servitrice",definite
-noun,restaurant,the waitresses,female servers who take orders,le cameriere,leh kah-meh-ree-EH-reh,plural,n/a,feminine,1,noun,n/a,"The waitresses are clearing the tables.","Le cameriere stanno sparecchiando i tavoli.","servitrice",definite
-noun,restaurant,a menu,list of dishes offered,un menù,oon meh-NOO,singular,n/a,masculine,1,noun,n/a,"Could we see a menu, please?","Potremmo avere un menù, per favore?","lista",indefinite
-noun,restaurant,the menu,list of dishes offered,il menù,eel meh-NOO,singular,n/a,masculine,1,noun,n/a,"The menu changes every day.","Il menù cambia ogni giorno.","lista",definite
-noun,restaurant,the menus,lists of dishes offered,i menù,ee meh-NOO,plural,n/a,masculine,1,noun,n/a,"The menus are on the counter.","I menù sono sul bancone.","lista",definite
-noun,restaurant,a bill,a statement of what you must pay,un conto,oon KON-toh,singular,n/a,masculine,1,noun,n/a,"Could I have a bill, please?","Potrei avere un conto, per favore?","fattura",indefinite
-noun,restaurant,the bill,a statement of what you must pay,il conto,eel KON-toh,singular,n/a,masculine,1,noun,n/a,"The bill is on the tray.","Il conto è sul vassoio.","fattura",definite
-noun,restaurant,the bills,statements of what you must pay,i conti,ee KON-tee,plural,n/a,masculine,2,noun,n/a,"The bills are already separated.","I conti sono già separati.","fattura",definite
-noun,restaurant,a reservation,an advance booking for a table,una prenotazione,OO-nah preh-noh-tah-TSYOH-neh,singular,n/a,feminine,1,noun,n/a,"I have a reservation for two.","Ho una prenotazione per due.","riserva",indefinite
-noun,restaurant,the reservation,an advance booking for a table,la prenotazione,lah preh-noh-tah-TSYOH-neh,singular,n/a,feminine,1,noun,n/a,"The reservation is under Smith.","La prenotazione è a nome Smith.","riserva",definite
-noun,restaurant,the reservations,advance bookings for tables,le prenotazioni,leh preh-noh-tah-TSYOH-nee,plural,n/a,feminine,2,noun,n/a,"The reservations are full this evening.","Le prenotazioni sono complete questa sera.","riserva",definite
-noun,restaurant,a glass,a drinking vessel,un bicchiere,oon bee-KYEH-reh,singular,n/a,masculine,1,noun,n/a,"Can I have a glass of water?","Posso avere un bicchiere d’acqua?","calice",indefinite
-noun,restaurant,the glass,a drinking vessel,il bicchiere,eel bee-KYEH-reh,singular,n/a,masculine,1,noun,n/a,"The glass is empty.","Il bicchiere è vuoto.","calice",definite
-noun,restaurant,the glasses,drinking vessels,i bicchieri,ee bee-KYEH-ree,plural,n/a,masculine,1,noun,n/a,"The glasses are on the shelf.","I bicchieri sono sullo scaffale.","calice",definite
-noun,restaurant,a plate,a dish you eat from,un piatto,oon PYAHT-toh,singular,n/a,masculine,1,noun,n/a,"I need a clean plate.","Ho bisogno di un piatto pulito.","portata",indefinite
-noun,restaurant,the plate,a dish you eat from,il piatto,eel PYAHT-toh,singular,n/a,masculine,1,noun,n/a,"The plate is hot.","Il piatto è caldo.","portata",definite
-noun,restaurant,the plates,dishes you eat from,i piatti,ee PYAHT-tee,plural,n/a,masculine,1,noun,n/a,"The plates are in the kitchen.","I piatti sono in cucina.","portata",definite
-noun,restaurant,a fork,utensil for eating,una forchetta,OO-nah for-KEHT-tah,singular,n/a,feminine,1,noun,n/a,"Could I get a fork?","Potrei avere una forchetta?","posata",indefinite
-noun,restaurant,the fork,utensil for eating,la forchetta,lah for-KEHT-tah,singular,n/a,feminine,1,noun,n/a,"The fork fell on the floor.","La forchetta è caduta per terra.","posata",definite
-noun,restaurant,the forks,utensils for eating,le forchette,leh for-KEHT-teh,plural,n/a,feminine,1,noun,n/a,"The forks are clean now.","Le forchette sono pulite adesso.","posata",definite
-noun,restaurant,a knife,cutting utensil,un coltello,oon kol-TEL-lo,singular,n/a,masculine,1,noun,n/a,"Please bring a knife.","Per favore, porti un coltello.","lama",indefinite
-noun,restaurant,the knife,cutting utensil,il coltello,eel kol-TEL-lo,singular,n/a,masculine,1,noun,n/a,"The knife is sharp.","Il coltello è affilato.","lama",definite
-noun,restaurant,the knives,cutting utensils,i coltelli,ee kol-TEL-lee,plural,n/a,masculine,1,noun,n/a,"The knives are on the right.","I coltelli sono a destra.","lama",definite
-noun,restaurant,a spoon,utensil for soups or desserts,un cucchiaio,oon koo-KYA-yoh,singular,n/a,masculine,1,noun,n/a,"Can I have a spoon for the soup?","Posso avere un cucchiaio per la zuppa?","mestolo",indefinite
-noun,restaurant,the spoon,utensil for soups or desserts,il cucchiaio,eel koo-KYA-yoh,singular,n/a,masculine,1,noun,n/a,"The spoon is dirty.","Il cucchiaio è sporco.","mestolo",definite
-noun,restaurant,the spoons,utensils for soups or desserts,i cucchiai,ee koo-KYA-ee,plural,n/a,masculine,1,noun,n/a,"The spoons are next to the plates.","I cucchiai sono accanto ai piatti.","mestolo",definite
-noun,restaurant,a napkin,cloth or paper for wiping,un tovagliolo,oon toh-vahl-YOH-lo,singular,n/a,masculine,2,noun,n/a,"Could I please get a napkin?","Potrei avere un tovagliolo, per favore?","tovaglia",indefinite
-noun,restaurant,the napkin,cloth or paper for wiping,il tovagliolo,eel toh-vahl-YOH-lo,singular,n/a,masculine,2,noun,n/a,"The napkin fell.","Il tovagliolo è caduto.","tovaglia",definite
-noun,restaurant,the napkins,cloths or papers for wiping,i tovaglioli,ee toh-vahl-YOH-lee,plural,n/a,masculine,2,noun,n/a,"The napkins are on the table.","I tovaglioli sono sul tavolo.","tovaglia",definite
-noun,restaurant,a bread,a staple food made of flour and water,un pane,oon PAH-neh,singular,n/a,masculine,1,noun,n/a,"I would like a bread roll.","Vorrei un pane, grazie.","pagnotta",indefinite
-noun,restaurant,the bread,a staple food made of flour and water,il pane,eel PAH-neh,singular,n/a,masculine,1,noun,n/a,"The bread is fresh today.","Il pane è fresco oggi.","pagnotta",definite
-noun,restaurant,the breads,loaves of bread,i pani,ee PAH-nee,plural,n/a,masculine,3,noun,n/a,"The breads are baked every morning.","I pani vengono sfornati ogni mattina.","pagnotta",definite
-noun,restaurant,a wine,alcoholic drink from grapes,un vino,oon VEE-noh,singular,n/a,masculine,1,noun,n/a,"Can you recommend a wine?","Può raccomandare un vino?","vino rosso",indefinite
-noun,restaurant,the wine,alcoholic drink from grapes,il vino,eel VEE-noh,singular,n/a,masculine,1,noun,n/a,"The wine is from Tuscany.","Il vino è della Toscana.","vino rosso",definite
-noun,restaurant,the wines,alcoholic drinks from grapes,i vini,ee VEE-nee,plural,n/a,masculine,1,noun,n/a,"The wines are listed here.","I vini sono elencati qui.","vino rosso",definite
-noun,restaurant,a beer,alcoholic drink made from malt,una birra,OO-nah BEER-rah,singular,n/a,feminine,1,noun,n/a,"I'll have a beer, please.","Prendo una birra, per favore.","bionda",indefinite
-noun,restaurant,the beer,alcoholic drink made from malt,la birra,lah BEER-rah,singular,n/a,feminine,1,noun,n/a,"The beer is cold.","La birra è fredda.","bionda",definite
-noun,restaurant,the beers,alcoholic drinks made from malt,le birre,leh BEER-reh,plural,n/a,feminine,1,noun,n/a,"The beers are on special today.","Le birre sono in offerta oggi.","bionda",definite
-noun,restaurant,a water,plain drinking water,un'acqua,oon AH-kwah,singular,n/a,feminine,1,noun,n/a,"Could I have a water without gas?","Potrei avere un'acqua naturale?","acqua naturale",indefinite
-noun,restaurant,the water,plain drinking water,l'acqua,lah-KO͜O-ah,singular,n/a,feminine,1,noun,n/a,"The water is bottled.","L'acqua è in bottiglia.","acqua naturale",definite
-noun,restaurant,the waters,plain drinking waters,le acque,leh AH-kweh,plural,n/a,feminine,3,noun,n/a,"The waters in Italy taste great.","Le acque in Italia hanno un buon sapore.","acqua naturale",definite
-noun,restaurant,a dessert,sweet course at the end of a meal,un dolce,oon DOL-cheh,singular,n/a,masculine,1,noun,n/a,"I'd like a dessert, please.","Vorrei un dolce, per favore.","dessert",indefinite
-noun,restaurant,the dessert,sweet course at the end of a meal,il dolce,eel DOL-cheh,singular,n/a,masculine,1,noun,n/a,"The dessert is delicious.","Il dolce è delizioso.","dessert",definite
-noun,restaurant,the desserts,sweet courses at the end of meals,i dolci,ee DOL-chee,plural,n/a,masculine,1,noun,n/a,"The desserts look amazing.","I dolci sembrano fantastici.","dessert",definite
-noun,restaurant,a receipt,printed proof of payment,una ricevuta,OO-nah ree-cheh-VOO-tah,singular,n/a,feminine,2,noun,n/a,"Could I have a receipt?","Potrei avere una ricevuta?","scontrino",indefinite
-noun,restaurant,the receipt,printed proof of payment,la ricevuta,lah ree-cheh-VOO-tah,singular,n/a,feminine,2,noun,n/a,"The receipt is inside the folder.","La ricevuta è nella cartellina.","scontrino",definite
-noun,restaurant,the receipts,printed proofs of payment,le ricevute,leh ree-cheh-VOO-teh,plural,n/a,feminine,3,noun,n/a,"The receipts are for accounting.","Le ricevute servono per la contabilità.","scontrino",definite
-noun,restaurant,a tip,small amount of extra money for service,una mancia,OO-nah MAN-chah,singular,n/a,feminine,1,noun,n/a,"Is a tip included?","È inclusa una mancia?","gratifica",indefinite
-noun,restaurant,the tip,small amount of extra money for service,la mancia,lah MAN-chah,singular,n/a,feminine,1,noun,n/a,"The tip is on the table.","La mancia è sul tavolo.","gratifica",definite
-noun,restaurant,the tips,small amounts of extra money for service,le mance,leh MAN-cheh,plural,n/a,feminine,2,noun,n/a,"The tips are generous tonight.","Le mance sono generose stasera.","gratifica",definite
-noun,restaurant,a pasta,Italian dish of noodles,una pasta,OO-nah PAH-stah,singular,n/a,feminine,1,noun,n/a,"I'd like a pasta with tomato sauce.","Vorrei una pasta al pomodoro.","maccheroni",indefinite
-noun,restaurant,the pasta,Italian dish of noodles,la pasta,lah PAH-stah,singular,n/a,feminine,1,noun,n/a,"The pasta is homemade.","La pasta è fatta in casa.","maccheroni",definite
-noun,restaurant,the pastas,various pasta dishes,le paste,leh PAH-steh,plural,n/a,feminine,2,noun,n/a,"The pastas vary by region.","Le paste variano per regione.","maccheroni",definite
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+noun,restaurant,a table,a piece of furniture where diners sit,un tavolo,oon TAH-voh-lo,singular,,masculine,1,noun,,We would like a table near the window.,Vorremmo un tavolo vicino alla finestra.,tavolino,indefinite,tavolo
+noun,restaurant,the table,a piece of furniture where diners sit,il tavolo,eel TAH-voh-lo,singular,,masculine,1,noun,,The table is ready for you.,Il tavolo è pronto per voi.,tavolino,definite,tavolo
+noun,restaurant,the tables,pieces of furniture where diners sit,i tavoli,ee TAH-voh-lee,plural,,masculine,1,noun,,The tables are all occupied tonight.,I tavoli sono tutti occupati stasera.,tavolino,definite,tavolo
+noun,restaurant,a waiter,male server who takes orders,un cameriere,oon kah-meh-ree-EH-reh,singular,,masculine,1,noun,,A waiter is coming with the menus.,Un cameriere sta arrivando con i menù.,servitore,indefinite,cameriere
+noun,restaurant,the waiter,male server who takes orders,il cameriere,eel kah-meh-ree-EH-reh,singular,,masculine,1,noun,,The waiter speaks good English.,Il cameriere parla bene inglese.,servitore,definite,cameriere
+noun,restaurant,the waiters,male servers who take orders,i camerieri,ee kah-meh-ree-EH-ree,plural,,masculine,1,noun,,The waiters are very friendly here.,I camerieri sono molto gentili qui.,servitore,definite,cameriere
+noun,restaurant,a waitress,female server who takes orders,una cameriera,OO-nah kah-meh-ree-EH-rah,singular,,feminine,1,noun,,A waitress will bring the bill soon.,Una cameriera porterà presto il conto.,servitrice,indefinite,cameriere
+noun,restaurant,the waitress,female server who takes orders,la cameriera,lah kah-meh-ree-EH-rah,singular,,feminine,1,noun,,The waitress recommended the pasta.,La cameriera ha consigliato la pasta.,servitrice,definite,cameriere
+noun,restaurant,the waitresses,female servers who take orders,le cameriere,leh kah-meh-ree-EH-reh,plural,,feminine,1,noun,,The waitresses are clearing the tables.,Le cameriere stanno sparecchiando i tavoli.,servitrice,definite,cameriere
+noun,restaurant,a menu,list of dishes offered,un menù,oon meh-NOO,singular,,masculine,1,noun,,"Could we see a menu, please?","Potremmo avere un menù, per favore?",lista,indefinite,menù
+noun,restaurant,the menu,list of dishes offered,il menù,eel meh-NOO,singular,,masculine,1,noun,,The menu changes every day.,Il menù cambia ogni giorno.,lista,definite,menù
+noun,restaurant,the menus,lists of dishes offered,i menù,ee meh-NOO,plural,,masculine,1,noun,,The menus are on the counter.,I menù sono sul bancone.,lista,definite,menù
+noun,restaurant,a bill,a statement of what you must pay,un conto,oon KON-toh,singular,,masculine,1,noun,,"Could I have a bill, please?","Potrei avere un conto, per favore?",fattura,indefinite,conto
+noun,restaurant,the bill,a statement of what you must pay,il conto,eel KON-toh,singular,,masculine,1,noun,,The bill is on the tray.,Il conto è sul vassoio.,fattura,definite,conto
+noun,restaurant,the bills,statements of what you must pay,i conti,ee KON-tee,plural,,masculine,2,noun,,The bills are already separated.,I conti sono già separati.,fattura,definite,conto
+noun,restaurant,a reservation,an advance booking for a table,una prenotazione,OO-nah preh-noh-tah-TSYOH-neh,singular,,feminine,1,noun,,I have a reservation for two.,Ho una prenotazione per due.,riserva,indefinite,prenotazione
+noun,restaurant,the reservation,an advance booking for a table,la prenotazione,lah preh-noh-tah-TSYOH-neh,singular,,feminine,1,noun,,The reservation is under Smith.,La prenotazione è a nome Smith.,riserva,definite,prenotazione
+noun,restaurant,the reservations,advance bookings for tables,le prenotazioni,leh preh-noh-tah-TSYOH-nee,plural,,feminine,2,noun,,The reservations are full this evening.,Le prenotazioni sono complete questa sera.,riserva,definite,prenotazione
+noun,restaurant,a glass,a drinking vessel,un bicchiere,oon bee-KYEH-reh,singular,,masculine,1,noun,,Can I have a glass of water?,Posso avere un bicchiere d’acqua?,calice,indefinite,bicchiere
+noun,restaurant,the glass,a drinking vessel,il bicchiere,eel bee-KYEH-reh,singular,,masculine,1,noun,,The glass is empty.,Il bicchiere è vuoto.,calice,definite,bicchiere
+noun,restaurant,the glasses,drinking vessels,i bicchieri,ee bee-KYEH-ree,plural,,masculine,1,noun,,The glasses are on the shelf.,I bicchieri sono sullo scaffale.,calice,definite,bicchiere
+noun,restaurant,a plate,a dish you eat from,un piatto,oon PYAHT-toh,singular,,masculine,1,noun,,I need a clean plate.,Ho bisogno di un piatto pulito.,portata,indefinite,piatto
+noun,restaurant,the plate,a dish you eat from,il piatto,eel PYAHT-toh,singular,,masculine,1,noun,,The plate is hot.,Il piatto è caldo.,portata,definite,piatto
+noun,restaurant,the plates,dishes you eat from,i piatti,ee PYAHT-tee,plural,,masculine,1,noun,,The plates are in the kitchen.,I piatti sono in cucina.,portata,definite,piatto
+noun,restaurant,a fork,utensil for eating,una forchetta,OO-nah for-KEHT-tah,singular,,feminine,1,noun,,Could I get a fork?,Potrei avere una forchetta?,posata,indefinite,forchetta
+noun,restaurant,the fork,utensil for eating,la forchetta,lah for-KEHT-tah,singular,,feminine,1,noun,,The fork fell on the floor.,La forchetta è caduta per terra.,posata,definite,forchetta
+noun,restaurant,the forks,utensils for eating,le forchette,leh for-KEHT-teh,plural,,feminine,1,noun,,The forks are clean now.,Le forchette sono pulite adesso.,posata,definite,forchetta
+noun,restaurant,a knife,cutting utensil,un coltello,oon kol-TEL-lo,singular,,masculine,1,noun,,Please bring a knife.,"Per favore, porti un coltello.",lama,indefinite,coltello
+noun,restaurant,the knife,cutting utensil,il coltello,eel kol-TEL-lo,singular,,masculine,1,noun,,The knife is sharp.,Il coltello è affilato.,lama,definite,coltello
+noun,restaurant,the knives,cutting utensils,i coltelli,ee kol-TEL-lee,plural,,masculine,1,noun,,The knives are on the right.,I coltelli sono a destra.,lama,definite,coltello
+noun,restaurant,a spoon,utensil for soups or desserts,un cucchiaio,oon koo-KYA-yoh,singular,,masculine,1,noun,,Can I have a spoon for the soup?,Posso avere un cucchiaio per la zuppa?,mestolo,indefinite,cucchiaio
+noun,restaurant,the spoon,utensil for soups or desserts,il cucchiaio,eel koo-KYA-yoh,singular,,masculine,1,noun,,The spoon is dirty.,Il cucchiaio è sporco.,mestolo,definite,cucchiaio
+noun,restaurant,the spoons,utensils for soups or desserts,i cucchiai,ee koo-KYA-ee,plural,,masculine,1,noun,,The spoons are next to the plates.,I cucchiai sono accanto ai piatti.,mestolo,definite,cucchiaio
+noun,restaurant,a napkin,cloth or paper for wiping,un tovagliolo,oon toh-vahl-YOH-lo,singular,,masculine,2,noun,,Could I please get a napkin?,"Potrei avere un tovagliolo, per favore?",tovaglia,indefinite,tovagliolo
+noun,restaurant,the napkin,cloth or paper for wiping,il tovagliolo,eel toh-vahl-YOH-lo,singular,,masculine,2,noun,,The napkin fell.,Il tovagliolo è caduto.,tovaglia,definite,tovagliolo
+noun,restaurant,the napkins,cloths or papers for wiping,i tovaglioli,ee toh-vahl-YOH-lee,plural,,masculine,2,noun,,The napkins are on the table.,I tovaglioli sono sul tavolo.,tovaglia,definite,tovagliolo
+noun,restaurant,a bread,a staple food made of flour and water,un pane,oon PAH-neh,singular,,masculine,1,noun,,I would like a bread roll.,"Vorrei un pane, grazie.",pagnotta,indefinite,pane
+noun,restaurant,the bread,a staple food made of flour and water,il pane,eel PAH-neh,singular,,masculine,1,noun,,The bread is fresh today.,Il pane è fresco oggi.,pagnotta,definite,pane
+noun,restaurant,the breads,loaves of bread,i pani,ee PAH-nee,plural,,masculine,3,noun,,The breads are baked every morning.,I pani vengono sfornati ogni mattina.,pagnotta,definite,pane
+noun,restaurant,a wine,alcoholic drink from grapes,un vino,oon VEE-noh,singular,,masculine,1,noun,,Can you recommend a wine?,Può raccomandare un vino?,vino rosso,indefinite,vino
+noun,restaurant,the wine,alcoholic drink from grapes,il vino,eel VEE-noh,singular,,masculine,1,noun,,The wine is from Tuscany.,Il vino è della Toscana.,vino rosso,definite,vino
+noun,restaurant,the wines,alcoholic drinks from grapes,i vini,ee VEE-nee,plural,,masculine,1,noun,,The wines are listed here.,I vini sono elencati qui.,vino rosso,definite,vino
+noun,restaurant,a beer,alcoholic drink made from malt,una birra,OO-nah BEER-rah,singular,,feminine,1,noun,,"I'll have a beer, please.","Prendo una birra, per favore.",bionda,indefinite,birra
+noun,restaurant,the beer,alcoholic drink made from malt,la birra,lah BEER-rah,singular,,feminine,1,noun,,The beer is cold.,La birra è fredda.,bionda,definite,birra
+noun,restaurant,the beers,alcoholic drinks made from malt,le birre,leh BEER-reh,plural,,feminine,1,noun,,The beers are on special today.,Le birre sono in offerta oggi.,bionda,definite,birra
+noun,restaurant,a water,plain drinking water,un'acqua,oon AH-kwah,singular,,feminine,1,noun,,Could I have a water without gas?,Potrei avere un'acqua naturale?,acqua naturale,indefinite,acqua
+noun,restaurant,the water,plain drinking water,l'acqua,lah-KO͜O-ah,singular,,feminine,1,noun,,The water is bottled.,L'acqua è in bottiglia.,acqua naturale,definite,acqua
+noun,restaurant,the waters,plain drinking waters,le acque,leh AH-kweh,plural,,feminine,3,noun,,The waters in Italy taste great.,Le acque in Italia hanno un buon sapore.,acqua naturale,definite,acqua
+noun,restaurant,a dessert,sweet course at the end of a meal,un dolce,oon DOL-cheh,singular,,masculine,1,noun,,"I'd like a dessert, please.","Vorrei un dolce, per favore.",dessert,indefinite,dolce
+noun,restaurant,the dessert,sweet course at the end of a meal,il dolce,eel DOL-cheh,singular,,masculine,1,noun,,The dessert is delicious.,Il dolce è delizioso.,dessert,definite,dolce
+noun,restaurant,the desserts,sweet courses at the end of meals,i dolci,ee DOL-chee,plural,,masculine,1,noun,,The desserts look amazing.,I dolci sembrano fantastici.,dessert,definite,dolce
+noun,restaurant,a receipt,printed proof of payment,una ricevuta,OO-nah ree-cheh-VOO-tah,singular,,feminine,2,noun,,Could I have a receipt?,Potrei avere una ricevuta?,scontrino,indefinite,ricevuta
+noun,restaurant,the receipt,printed proof of payment,la ricevuta,lah ree-cheh-VOO-tah,singular,,feminine,2,noun,,The receipt is inside the folder.,La ricevuta è nella cartellina.,scontrino,definite,ricevuta
+noun,restaurant,the receipts,printed proofs of payment,le ricevute,leh ree-cheh-VOO-teh,plural,,feminine,3,noun,,The receipts are for accounting.,Le ricevute servono per la contabilità.,scontrino,definite,ricevuta
+noun,restaurant,a tip,small amount of extra money for service,una mancia,OO-nah MAN-chah,singular,,feminine,1,noun,,Is a tip included?,È inclusa una mancia?,gratifica,indefinite,mancia
+noun,restaurant,the tip,small amount of extra money for service,la mancia,lah MAN-chah,singular,,feminine,1,noun,,The tip is on the table.,La mancia è sul tavolo.,gratifica,definite,mancia
+noun,restaurant,the tips,small amounts of extra money for service,le mance,leh MAN-cheh,plural,,feminine,2,noun,,The tips are generous tonight.,Le mance sono generose stasera.,gratifica,definite,mancia
+noun,restaurant,a pasta,Italian dish of noodles,una pasta,OO-nah PAH-stah,singular,,feminine,1,noun,,I'd like a pasta with tomato sauce.,Vorrei una pasta al pomodoro.,maccheroni,indefinite,pasta
+noun,restaurant,the pasta,Italian dish of noodles,la pasta,lah PAH-stah,singular,,feminine,1,noun,,The pasta is homemade.,La pasta è fatta in casa.,maccheroni,definite,pasta
+noun,restaurant,the pastas,various pasta dishes,le paste,leh PAH-steh,plural,,feminine,2,noun,,The pastas vary by region.,Le paste variano per regione.,maccheroni,definite,pasta

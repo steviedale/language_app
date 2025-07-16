@@ -1,5 +1,5 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-pronoun,indefinite,someone,indefinite pronoun for an unspecified person,qualcuno,kwal-KOO-noh,singular,n/a,masculine,2,pronoun,n/a,"Someone is calling you.","Qualcuno ti sta chiamando.","chiunque",n/a
-pronoun,indefinite,something,indefinite pronoun for an unspecified thing,qualcosa,kwal-KOH-zah,singular,n/a,n/a,2,pronoun,n/a,"I need something to eat.","Ho bisogno di qualcosa da mangiare.","qualche cosa",n/a
-pronoun,indefinite,nobody,negative indefinite pronoun,nessuno,neh-SOO-noh,singular,n/a,masculine,2,pronoun,n/a,"Nobody is here.","Non c'è nessuno qui.","alcuno",n/a
-pronoun,indefinite,nothing,negative indefinite pronoun,niente,NYEHN-teh,singular,n/a,n/a,1,pronoun,n/a,"Nothing is impossible.","Niente è impossibile.","nulla",n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+pronoun,indefinite,someone,indefinite pronoun for an unspecified person,qualcuno,kwal-KOO-noh,singular,,masculine,1,pronoun,,Someone is calling you.,Qualcuno ti sta chiamando.,chiunque,,qualcuno
+pronoun,indefinite,something,indefinite pronoun for an unspecified thing,qualcosa,kwal-KOH-zah,singular,,,1,pronoun,,I need something to eat.,Ho bisogno di qualcosa da mangiare.,qualche cosa,,qualcosa
+pronoun,indefinite,nobody,negative indefinite pronoun,nessuno,neh-SOO-noh,singular,,masculine,1,pronoun,,Nobody is here.,Non c'è nessuno qui.,alcuno,,nessuno
+pronoun,indefinite,nothing,negative indefinite pronoun,niente,NYEHN-teh,singular,,,1,pronoun,,Nothing is impossible.,Niente è impossibile.,nulla,,niente

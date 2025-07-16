@@ -1058,7 +1058,7 @@ pronoun,relative,that/which,relative pronoun joining clauses,che,KEH,,,,1,pronou
 pronoun,relative,which/whom,relative pronoun used after a preposition,cui,KOO-ee,,,,1,pronoun,,The hotel in which we stayed.,L'hotel in cui abbiamo soggiornato.,il quale,,cui
 pronoun,subject,I,first-person singular subject pronoun,io,EE-oh,singular,,,1,pronoun,,I speak a little Italian.,Io parlo un po' di italiano.,me,,iare
 pronoun,subject,you,second-person singular subject pronoun,tu,TOO,singular,,,1,pronoun,informal,You are very kind.,Tu sei molto gentile.,te,,tu
-pronoun,subject_formal,you,polite singular form of “you”,Lei,LAY-ee,singular,,,1,pronoun,formal,"Do you need help, sir?","Lei ha bisogno di aiuto, signore?",ella,,Lei
+pronoun,subject,you,polite singular form of “you”,Lei,LAY-ee,singular,,,1,pronoun,formal,"Do you need help, sir?","Lei ha bisogno di aiuto, signore?",ella,,Lei
 pronoun,subject,he,third-person masculine singular subject pronoun,lui,LOO-ee,singular,,masculine,1,pronoun,,He is at the hotel.,Lui è in hotel.,egli,,lui
 pronoun,subject,she,third-person feminine singular subject pronoun,lei,LAY-ee,singular,,feminine,1,pronoun,,She likes coffee.,Lei ama il caffè.,ella,,lei
 pronoun,subject,we,first-person plural subject pronoun,noi,NOY,plural,,,1,pronoun,,We are tourists.,Noi siamo turisti.,ci,,noi

@@ -1,50 +1,50 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-noun,drinks,the water,drinking liquid,l'acqua,LAHK-kwah,singular,n/a,feminine,1,noun,n/a,The water is cold.,L'acqua è fredda.,acqua naturale,definite
-noun,drinks,water,drinking liquid,acqua,AHK-kwah,singular,n/a,feminine,1,noun,n/a,Water is essential.,Acqua è essenziale.,acqua naturale,n/a
-noun,drinks,the still water,non-sparkling water,l'acqua naturale,LAHK-kwah nah-too-RAH-leh,singular,n/a,feminine,1,noun,n/a,The still water is on the table.,L'acqua naturale è sul tavolo.,acqua,definite
-noun,drinks,still water,non-sparkling water,acqua naturale,AHK-kwah nah-too-RAH-leh,singular,n/a,feminine,1,noun,n/a,Still water costs one euro.,Acqua naturale costa un euro.,acqua,n/a
-noun,drinks,the sparkling water,carbonated water,l'acqua frizzante,LAHK-kwah freet-ZAN-teh,singular,n/a,feminine,1,noun,n/a,The sparkling water has fine bubbles.,L'acqua frizzante ha bollicine fini.,acqua gasata,definite
-noun,drinks,sparkling water,carbonated water,acqua frizzante,AHK-kwah freet-ZAN-teh,singular,n/a,feminine,1,noun,n/a,Sparkling water is popular here.,Acqua frizzante è popolare qui.,acqua gasata,n/a
-noun,drinks,the coffee,caffeinated drink,il caffè,EEL kah-FEH,singular,n/a,masculine,1,noun,n/a,The coffee smells strong.,Il caffè ha un aroma intenso.,espresso,definite
-noun,drinks,coffee,caffeinated drink,caffè,kah-FEH,singular,n/a,masculine,1,noun,n/a,Coffee wakes me up.,Caffè mi sveglia.,espresso,n/a
-noun,drinks,a coffee,cup of coffee,un caffè,OON kah-FEH,singular,n/a,masculine,1,noun,n/a,Can I have a coffee?,Posso avere un caffè?,espresso,indefinite
-noun,drinks,the espresso,small strong coffee,l'espresso,leh-SPRESS-soh,singular,n/a,masculine,1,noun,n/a,The espresso is ready.,L'espresso è pronto.,caffè,definite
-noun,drinks,an espresso,small strong coffee,un espresso,OON es-PRESS-soh,singular,n/a,masculine,1,noun,n/a,I ordered an espresso.,Ho ordinato un espresso.,caffè,indefinite
-noun,drinks,the cappuccino,coffee with milk foam,il cappuccino,EEL kahp-poo-CHEE-noh,singular,n/a,masculine,1,noun,n/a,The cappuccino costs two euros.,Il cappuccino costa due euro.,cappuccio,definite
-noun,drinks,a cappuccino,coffee with milk foam,un cappuccino,OON kahp-poo-CHEE-noh,singular,n/a,masculine,1,noun,n/a,She sipped a cappuccino.,Ha sorseggiato un cappuccino.,cappuccio,indefinite
-noun,drinks,the tea,hot brewed drink,il tè,EEL TEH,singular,n/a,masculine,1,noun,n/a,The tea is green.,Il tè è verde.,infuso,definite
-noun,drinks,tea,hot brewed drink,tè,TEH,singular,n/a,masculine,1,noun,n/a,Tea calms me.,Tè mi calma.,infuso,n/a
-noun,drinks,a tea,hot brewed drink,un tè,OON TEH,singular,n/a,masculine,1,noun,n/a,I’d like a tea please.,Vorrei un tè per favore.,infuso,indefinite
-noun,drinks,the herbal tea,caffeine-free infusion,la tisana,LA tee-ZAH-nah,singular,n/a,feminine,2,noun,n/a,The herbal tea helps digestion.,La tisana aiuta la digestione.,infuso,definite
-noun,drinks,an herbal tea,caffeine-free infusion,una tisana,OO-nah tee-ZAH-nah,singular,n/a,feminine,2,noun,n/a,She ordered an herbal tea.,Ha ordinato una tisana.,infuso,indefinite
-noun,drinks,the juice,fruit drink,il succo,EEL SOOK-koh,singular,n/a,masculine,1,noun,n/a,The juice is fresh.,Il succo è fresco.,spremuta,definite
-noun,drinks,a juice,fruit drink,un succo,OON SOOK-koh,singular,n/a,masculine,1,noun,n/a,I want a juice to go.,Voglio un succo da asporto.,spremuta,indefinite
-noun,drinks,the orange juice,citrus juice,il succo d'arancia,EEL SOOK-koh dah-RAHN-chah,singular,n/a,masculine,1,noun,n/a,The orange juice is sweet.,Il succo d'arancia è dolce.,spremuta d'arancia,definite
-noun,drinks,an orange juice,citrus juice,un succo d'arancia,OON SOOK-koh dah-RAHN-chah,singular,n/a,masculine,1,noun,n/a,I ordered an orange juice.,Ho ordinato un succo d'arancia.,spremuta d'arancia,indefinite
-noun,drinks,the wine,alcoholic grape drink,il vino,EEL VEE-noh,singular,n/a,masculine,1,noun,n/a,The wine is from Tuscany.,Il vino è toscano.,rosso,definite
-noun,drinks,wine,alcoholic grape drink,vino,VEE-noh,singular,n/a,masculine,1,noun,n/a,Wine pairs well with cheese.,Vino si abbina al formaggio.,bianco,n/a
-noun,drinks,a glass of wine,serving of wine,un bicchiere di vino,OON bee-KYEH-reh dee VEE-noh,singular,n/a,masculine,1,noun,n/a,I’d like a glass of wine.,Vorrei un bicchiere di vino.,calice,indefinite
-noun,drinks,the red wine,red grape wine,il vino rosso,EEL VEE-noh ROHS-soh,singular,n/a,masculine,1,noun,n/a,The red wine is full-bodied.,Il vino rosso è corposo.,rosso,definite
-noun,drinks,the white wine,white grape wine,il vino bianco,EEL VEE-noh BYAHN-koh,singular,n/a,masculine,1,noun,n/a,The white wine is chilled.,Il vino bianco è fresco.,bianco,definite
-noun,drinks,the beer,fermented barley drink,la birra,LA BEER-rah,singular,n/a,feminine,1,noun,n/a,The beer is cold.,La birra è fredda.,bionda,definite
-noun,drinks,beer,fermented barley drink,birra,BEER-rah,singular,n/a,feminine,1,noun,n/a,Beer is popular in summer.,Birra è popolare in estate.,bionda,n/a
-noun,drinks,a beer,bottle or glass of beer,una birra,OO-nah BEER-rah,singular,n/a,feminine,1,noun,n/a,I’d like a beer please.,Vorrei una birra per favore.,bionda,indefinite
-noun,drinks,the draft beer,beer on tap,la birra alla spina,LA BEER-rah AHL-lah SPEE-nah,singular,n/a,feminine,1,noun,n/a,The draft beer tastes fresh.,La birra alla spina ha un gusto fresco.,spina,definite
-noun,drinks,a draft beer,beer on tap,una birra alla spina,OO-nah BEER-rah AHL-lah SPEE-nah,singular,n/a,feminine,1,noun,n/a,I ordered a draft beer.,Ho ordinato una birra alla spina.,spina,indefinite
-noun,drinks,the cocktail,mixed alcoholic drink,il cocktail,EEL KOHK-teyl,singular,n/a,masculine,2,noun,n/a,The cocktail is strong.,Il cocktail è forte.,bevanda;mista,definite
-noun,drinks,a cocktail,mixed alcoholic drink,un cocktail,OON KOHK-teyl,singular,n/a,masculine,2,noun,n/a,He prepared a cocktail.,Ha preparato un cocktail.,bevanda;mista,indefinite
-noun,drinks,the soda,carbonated soft drink,la bibita gassata,LA BEE-bee-tah gah-SAHT-tah,singular,n/a,feminine,2,noun,n/a,The soda is very sweet.,La bibita gassata è molto dolce.,soda,definite
-noun,drinks,soda,carbonated soft drink,bibita gassata,BEE-bee-tah gah-SAHT-tah,singular,n/a,feminine,2,noun,n/a,Soda isn’t healthy.,Bibita gassata non è salutare.,soda,n/a
-noun,drinks,the cola,cola flavoured soda,la cola,LA KOH-lah,singular,n/a,feminine,2,noun,n/a,The cola has no ice.,La cola è senza ghiaccio.,bibita,definite
-noun,drinks,a cola,cola flavoured soda,una cola,OO-nah KOH-lah,singular,n/a,feminine,2,noun,n/a,He drank a cola.,Ha bevuto una cola.,bibita,indefinite
-noun,drinks,the milk,dairy drink,il latte,EEL LAHT-teh,singular,n/a,masculine,1,noun,n/a,The milk is warm.,Il latte è tiepido.,latte vaccino,definite
-noun,drinks,milk,dairy drink,latte,LAHT-teh,singular,n/a,masculine,1,noun,n/a,Milk foams for cappuccino.,Latte monta per il cappuccino.,latte vaccino,n/a
-noun,drinks,a glass of milk,dairy serving,un bicchiere di latte,OON bee-KYEH-reh dee LAHT-teh,singular,n/a,masculine,1,noun,n/a,The child drinks a glass of milk.,Il bambino beve un bicchiere di latte.,latte,indefinite
-noun,drinks,the hot chocolate,cocoa drink,la cioccolata calda,LA choh-koh-LAH-tah KAHL-dah,singular,n/a,feminine,2,noun,n/a,The hot chocolate is thick.,La cioccolata calda è densa.,cioccolata,definite
-noun,drinks,a hot chocolate,cocoa drink,una cioccolata calda,OO-nah choh-koh-LAH-tah KAHL-dah,singular,n/a,feminine,2,noun,n/a,I’d love a hot chocolate.,Vorrei una cioccolata calda.,cioccolata,indefinite
-noun,drinks,the lemonade,lemon soft drink,la limonata,LA lee-moh-NAH-tah,singular,n/a,feminine,2,noun,n/a,The lemonade is refreshing.,La limonata è rinfrescante.,bevanda,definite
-noun,drinks,a lemonade,lemon soft drink,una limonata,OO-nah lee-moh-NAH-tah,singular,n/a,feminine,2,noun,n/a,She made a lemonade.,Ha preparato una limonata.,bevanda,indefinite
-noun,drinks,the iced tea,cold tea drink,il tè freddo,EEL TEH FRED-doh,singular,n/a,masculine,2,noun,n/a,The iced tea has mint.,Il tè freddo ha la menta.,bevanda,definite
-noun,drinks,an iced tea,cold tea drink,un tè freddo,OON TEH FRED-doh,singular,n/a,masculine,2,noun,n/a,I bought an iced tea.,Ho comprato un tè freddo.,bevanda,indefinite
-noun,drinks,the sparkling mineral water,carbonated mineral water,l'acqua minerale frizzante,LAHK-kwah mee-neh-RAH-leh freet-ZAN-teh,singular,n/a,feminine,2,noun,n/a,Sparkling mineral water costs more.,L'acqua minerale frizzante costa di più.,acqua gasata,definite
-noun,drinks,the still mineral water,non-carbonated mineral water,l'acqua minerale naturale,LAHK-kwah mee-neh-RAH-leh nah-too-RAH-leh,singular,n/a,feminine,2,noun,n/a,The still mineral water is bottled locally.,L'acqua minerale naturale è imbottigliata qui.,acqua naturale,definite
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+noun,drinks,the water,drinking liquid,l'acqua,LAHK-kwah,singular,,feminine,1,noun,,The water is cold.,L'acqua è fredda.,acqua naturale,definite,acqua
+noun,drinks,water,drinking liquid,acqua,AHK-kwah,singular,,feminine,1,noun,,Water is essential.,Acqua è essenziale.,acqua naturale,,acqua
+noun,drinks,the still water,non-sparkling water,l'acqua naturale,LAHK-kwah nah-too-RAH-leh,singular,,feminine,1,noun,,The still water is on the table.,L'acqua naturale è sul tavolo.,acqua,definite,acqua naturale
+noun,drinks,still water,non-sparkling water,acqua naturale,AHK-kwah nah-too-RAH-leh,singular,,feminine,1,noun,,Still water costs one euro.,Acqua naturale costa un euro.,acqua,,acqua naturale
+noun,drinks,the sparkling water,carbonated water,l'acqua frizzante,LAHK-kwah freet-ZAN-teh,singular,,feminine,1,noun,,The sparkling water has fine bubbles.,L'acqua frizzante ha bollicine fini.,acqua gasata,definite,acqua frizzante
+noun,drinks,sparkling water,carbonated water,acqua frizzante,AHK-kwah freet-ZAN-teh,singular,,feminine,1,noun,,Sparkling water is popular here.,Acqua frizzante è popolare qui.,acqua gasata,,acqua frizzante
+noun,drinks,the coffee,caffeinated drink,il caffè,EEL kah-FEH,singular,,masculine,1,noun,,The coffee smells strong.,Il caffè ha un aroma intenso.,espresso,definite,caffè
+noun,drinks,coffee,caffeinated drink,caffè,kah-FEH,singular,,masculine,1,noun,,Coffee wakes me up.,Caffè mi sveglia.,espresso,,caffè
+noun,drinks,a coffee,cup of coffee,un caffè,OON kah-FEH,singular,,masculine,1,noun,,Can I have a coffee?,Posso avere un caffè?,espresso,indefinite,caffè
+noun,drinks,the espresso,small strong coffee,l'espresso,leh-SPRESS-soh,singular,,masculine,1,noun,,The espresso is ready.,L'espresso è pronto.,caffè,definite,espresso
+noun,drinks,an espresso,small strong coffee,un espresso,OON es-PRESS-soh,singular,,masculine,1,noun,,I ordered an espresso.,Ho ordinato un espresso.,caffè,indefinite,espresso
+noun,drinks,the cappuccino,coffee with milk foam,il cappuccino,EEL kahp-poo-CHEE-noh,singular,,masculine,1,noun,,The cappuccino costs two euros.,Il cappuccino costa due euro.,cappuccio,definite,cappuccino
+noun,drinks,a cappuccino,coffee with milk foam,un cappuccino,OON kahp-poo-CHEE-noh,singular,,masculine,1,noun,,She sipped a cappuccino.,Ha sorseggiato un cappuccino.,cappuccio,indefinite,cappuccino
+noun,drinks,the tea,hot brewed drink,il tè,EEL TEH,singular,,masculine,1,noun,,The tea is green.,Il tè è verde.,infuso,definite,tè
+noun,drinks,tea,hot brewed drink,tè,TEH,singular,,masculine,1,noun,,Tea calms me.,Tè mi calma.,infuso,,tè
+noun,drinks,a tea,hot brewed drink,un tè,OON TEH,singular,,masculine,1,noun,,I’d like a tea please.,Vorrei un tè per favore.,infuso,indefinite,tè
+noun,drinks,the herbal tea,caffeine-free infusion,la tisana,LA tee-ZAH-nah,singular,,feminine,2,noun,,The herbal tea helps digestion.,La tisana aiuta la digestione.,infuso,definite,tisana
+noun,drinks,an herbal tea,caffeine-free infusion,una tisana,OO-nah tee-ZAH-nah,singular,,feminine,2,noun,,She ordered an herbal tea.,Ha ordinato una tisana.,infuso,indefinite,tisana
+noun,drinks,the juice,fruit drink,il succo,EEL SOOK-koh,singular,,masculine,1,noun,,The juice is fresh.,Il succo è fresco.,spremuta,definite,succo
+noun,drinks,a juice,fruit drink,un succo,OON SOOK-koh,singular,,masculine,1,noun,,I want a juice to go.,Voglio un succo da asporto.,spremuta,indefinite,succo
+noun,drinks,the orange juice,citrus juice,il succo d'arancia,EEL SOOK-koh dah-RAHN-chah,singular,,masculine,1,noun,,The orange juice is sweet.,Il succo d'arancia è dolce.,spremuta d'arancia,definite,succo d'arancia
+noun,drinks,an orange juice,citrus juice,un succo d'arancia,OON SOOK-koh dah-RAHN-chah,singular,,masculine,1,noun,,I ordered an orange juice.,Ho ordinato un succo d'arancia.,spremuta d'arancia,indefinite,succo d'arancia
+noun,drinks,the wine,alcoholic grape drink,il vino,EEL VEE-noh,singular,,masculine,1,noun,,The wine is from Tuscany.,Il vino è toscano.,rosso,definite,vino
+noun,drinks,wine,alcoholic grape drink,vino,VEE-noh,singular,,masculine,1,noun,,Wine pairs well with cheese.,Vino si abbina al formaggio.,bianco,,vino
+noun,drinks,a glass of wine,serving of wine,un bicchiere di vino,OON bee-KYEH-reh dee VEE-noh,singular,,masculine,1,noun,,I’d like a glass of wine.,Vorrei un bicchiere di vino.,calice,indefinite,bicchiere di vino
+noun,drinks,the red wine,red grape wine,il vino rosso,EEL VEE-noh ROHS-soh,singular,,masculine,1,noun,,The red wine is full-bodied.,Il vino rosso è corposo.,rosso,definite,vino rosso
+noun,drinks,the white wine,white grape wine,il vino bianco,EEL VEE-noh BYAHN-koh,singular,,masculine,1,noun,,The white wine is chilled.,Il vino bianco è fresco.,bianco,definite,vino bianco
+noun,drinks,the beer,fermented barley drink,la birra,LA BEER-rah,singular,,feminine,1,noun,,The beer is cold.,La birra è fredda.,bionda,definite,birra
+noun,drinks,beer,fermented barley drink,birra,BEER-rah,singular,,feminine,1,noun,,Beer is popular in summer.,Birra è popolare in estate.,bionda,,birra
+noun,drinks,a beer,bottle or glass of beer,una birra,OO-nah BEER-rah,singular,,feminine,1,noun,,I’d like a beer please.,Vorrei una birra per favore.,bionda,indefinite,birra
+noun,drinks,the draft beer,beer on tap,la birra alla spina,LA BEER-rah AHL-lah SPEE-nah,singular,,feminine,1,noun,,The draft beer tastes fresh.,La birra alla spina ha un gusto fresco.,spina,definite,birra alla spina
+noun,drinks,a draft beer,beer on tap,una birra alla spina,OO-nah BEER-rah AHL-lah SPEE-nah,singular,,feminine,1,noun,,I ordered a draft beer.,Ho ordinato una birra alla spina.,spina,indefinite,birra alla spina
+noun,drinks,the cocktail,mixed alcoholic drink,il cocktail,EEL KOHK-teyl,singular,,masculine,2,noun,,The cocktail is strong.,Il cocktail è forte.,"bevanda,mista",definite,cocktail
+noun,drinks,a cocktail,mixed alcoholic drink,un cocktail,OON KOHK-teyl,singular,,masculine,2,noun,,He prepared a cocktail.,Ha preparato un cocktail.,"bevanda,mista",indefinite,cocktail
+noun,drinks,the soda,carbonated soft drink,la bibita gassata,LA BEE-bee-tah gah-SAHT-tah,singular,,feminine,2,noun,,The soda is very sweet.,La bibita gassata è molto dolce.,soda,definite,bibita
+noun,drinks,soda,carbonated soft drink,bibita gassata,BEE-bee-tah gah-SAHT-tah,singular,,feminine,2,noun,,Soda isn’t healthy.,Bibita gassata non è salutare.,soda,,bibita
+noun,drinks,the cola,cola flavoured soda,la cola,LA KOH-lah,singular,,feminine,2,noun,,The cola has no ice.,La cola è senza ghiaccio.,bibita,definite,cola
+noun,drinks,a cola,cola flavoured soda,una cola,OO-nah KOH-lah,singular,,feminine,2,noun,,He drank a cola.,Ha bevuto una cola.,bibita,indefinite,cola
+noun,drinks,the milk,dairy drink,il latte,EEL LAHT-teh,singular,,masculine,1,noun,,The milk is warm.,Il latte è tiepido.,latte vaccino,definite,latte
+noun,drinks,milk,dairy drink,latte,LAHT-teh,singular,,masculine,1,noun,,Milk foams for cappuccino.,Latte monta per il cappuccino.,latte vaccino,,latte
+noun,drinks,a glass of milk,dairy serving,un bicchiere di latte,OON bee-KYEH-reh dee LAHT-teh,singular,,masculine,1,noun,,The child drinks a glass of milk.,Il bambino beve un bicchiere di latte.,latte,indefinite,bicchiere di latte
+noun,drinks,the hot chocolate,cocoa drink,la cioccolata calda,LA choh-koh-LAH-tah KAHL-dah,singular,,feminine,2,noun,,The hot chocolate is thick.,La cioccolata calda è densa.,cioccolata,definite,cioccolata calda
+noun,drinks,a hot chocolate,cocoa drink,una cioccolata calda,OO-nah choh-koh-LAH-tah KAHL-dah,singular,,feminine,2,noun,,I’d love a hot chocolate.,Vorrei una cioccolata calda.,cioccolata,indefinite,cioccolata calda
+noun,drinks,the lemonade,lemon soft drink,la limonata,LA lee-moh-NAH-tah,singular,,feminine,2,noun,,The lemonade is refreshing.,La limonata è rinfrescante.,bevanda,definite,limonata
+noun,drinks,a lemonade,lemon soft drink,una limonata,OO-nah lee-moh-NAH-tah,singular,,feminine,2,noun,,She made a lemonade.,Ha preparato una limonata.,bevanda,indefinite,limonata
+noun,drinks,the iced tea,cold tea drink,il tè freddo,EEL TEH FRED-doh,singular,,masculine,2,noun,,The iced tea has mint.,Il tè freddo ha la menta.,bevanda,definite,tè freddo
+noun,drinks,an iced tea,cold tea drink,un tè freddo,OON TEH FRED-doh,singular,,masculine,2,noun,,I bought an iced tea.,Ho comprato un tè freddo.,bevanda,indefinite,tè freddo
+noun,drinks,the sparkling mineral water,carbonated mineral water,l'acqua minerale frizzante,LAHK-kwah mee-neh-RAH-leh freet-ZAN-teh,singular,,feminine,2,noun,,Sparkling mineral water costs more.,L'acqua minerale frizzante costa di più.,acqua gasata,definite,acqua minerale frizzante
+noun,drinks,the still mineral water,non-carbonated mineral water,l'acqua minerale naturale,LAHK-kwah mee-neh-RAH-leh nah-too-RAH-leh,singular,,feminine,2,noun,,The still mineral water is bottled locally.,L'acqua minerale naturale è imbottigliata qui.,acqua naturale,definite,acqua minerale naturale

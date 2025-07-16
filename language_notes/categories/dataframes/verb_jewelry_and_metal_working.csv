@@ -1,81 +1,81 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-verb,jewelry and metal working,to solder,join metal with heat,saldare,sahl-DAH-reh,n/a,infinitive,n/a,1,verb,n/a,I like to solder silver rings.,Mi piace saldare anelli d'argento.,unire,fondere,n/a
-verb,jewelry and metal working,I solder,first-person present,saldo,SAHL-doh,n/a,present_1sg,n/a,1,verb,n/a,I solder every joint carefully.,Saldo ogni giunzione con cura.,unisco,n/a
-verb,jewelry and metal working,I soldered,past completed action,ho saldato,oh sahl-DAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I soldered the bezel yesterday.,Ho saldato il castone ieri.,ho unito,n/a
-verb,jewelry and metal working,soldering,ongoing action,saldando,sahl-DAHN-doh,n/a,gerund,n/a,1,verb,n/a,Soldering takes patience.,Saldando ci vuole pazienza.,unendo,n/a
-verb,jewelry and metal working,to melt,turn solid to liquid,fondere,FON-deh-reh,n/a,infinitive,n/a,1,verb,n/a,We need to melt the silver.,Dobbiamo fondere l'argento.,sciogliere,n/a
-verb,jewelry and metal working,I melt,first-person present,fondo,FON-doh,n/a,present_1sg,n/a,1,verb,n/a,I melt small ingots for casting.,Fondo piccoli lingotti per la fusione.,sciolgo,n/a
-verb,jewelry and metal working,I melted,past completed action,ho fuso,oh FOO-zoh,n/a,past_1sg,n/a,1,verb,n/a,I melted scrap gold last night.,Ho fuso oro di recupero ieri sera.,ho sciolto,n/a
-verb,jewelry and metal working,melting,ongoing action,fon­dendo,fon-DEN-doh,n/a,gerund,n/a,1,verb,n/a,Melting requires steady heat.,Fondendo serve calore costante.,sciogliendo,n/a
-verb,jewelry and metal working,to cast,pour metal into mold,colare,coh-LAH-reh,n/a,infinitive,n/a,1,verb,n/a,We plan to cast a pendant.,Prevediamo di colare un pendente.,gettare,n/a
-verb,jewelry and metal working,I cast,first-person present,colo,COH-loh,n/a,present_1sg,n/a,1,verb,n/a,I cast small shapes in sand.,Colo forme piccole nella sabbia.,getto,n/a
-verb,jewelry and metal working,I casted,past completed action,ho colato,oh coh-LAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I casted a bronze coin today.,Ho colato una moneta in bronzo oggi.,ho gettato,n/a
-verb,jewelry and metal working,casting,ongoing action,colando,coh-LAHN-doh,n/a,gerund,n/a,1,verb,n/a,Casting takes careful timing.,Colando serve tempismo preciso.,gettando,n/a
-verb,jewelry and metal working,to polish,make surface shiny,lucidare,loo-chee-DAH-reh,n/a,infinitive,n/a,1,verb,n/a,I want to polish the ring.,Voglio lucidare l'anello.,brillare,rifinire,n/a
-verb,jewelry and metal working,I polish,first-person present,lucido,LOO-chee-doh,n/a,present_1sg,n/a,1,verb,n/a,I polish each piece by hand.,Lucido ogni pezzo a mano.,brillo,rifinisco,n/a
-verb,jewelry and metal working,I polished,past completed action,ho lucidato,oh loo-chee-DAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I polished the bracelet yesterday.,Ho lucidato il bracciale ieri.,ho rifinito,n/a
-verb,jewelry and metal working,polishing,ongoing action,lucidando,loo-chee-DAN-doh,n/a,gerund,n/a,1,verb,n/a,Polishing removes fine scratches.,Lucidando si eliminano i graffi sottili.,rifinendo,n/a
-verb,jewelry and metal working,to hammer,strike with hammer,martellare,mar-tel-LAH-reh,n/a,infinitive,n/a,1,verb,n/a,We need to hammer the bezel.,Dobbiamo martellare il castone.,battere,n/a
-verb,jewelry and metal working,I hammer,first-person present,martello,mar-TEL-loh,n/a,present_1sg,n/a,1,verb,n/a,I hammer the sheet into shape.,Martello la lastra per darle forma.,batto,n/a
-verb,jewelry and metal working,I hammered,past completed action,ho martellato,oh mar-tel-LAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I hammered the texture this morning.,Ho martellato la texture stamattina.,ho battuto,n/a
-verb,jewelry and metal working,hammering,ongoing action,martellando,mar-tel-LAN-doh,n/a,gerund,n/a,1,verb,n/a,Hammering hardens the wire.,Martellando si indurisce il filo.,battendo,n/a
-verb,jewelry and metal working,to saw,cut with jeweler’s saw,segare,seh-GAH-reh,n/a,infinitive,n/a,1,verb,n/a,I need to saw the outline.,Devo segare il profilo.,tagliare,n/a
-verb,jewelry and metal working,I saw,first-person present,sego,SEH-goh,n/a,present_1sg,n/a,1,verb,n/a,I saw delicate patterns.,Sego motivi delicati.,taglio,n/a
-verb,jewelry and metal working,I sawed,past completed action,ho segato,oh seh-GAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I sawed a slice off the sheet.,Ho segato una fetta dalla lastra.,ho tagliato,n/a
-verb,jewelry and metal working,sawing,ongoing action,segando,seh-GAN-doh,n/a,gerund,n/a,1,verb,n/a,Sawing requires steady hands.,Segando servono mani ferme.,tagliando,n/a
-verb,jewelry and metal working,to file,smooth with file,limare,lee-MAH-reh,n/a,infinitive,n/a,1,verb,n/a,Remember to file sharp edges.,Ricorda di limare i bordi taglienti.,raspare,n/a
-verb,jewelry and metal working,I file,first-person present,limo,LEE-moh,n/a,present_1sg,n/a,1,verb,n/a,I file the bezel until flush.,Limo il castone fino a filo.,raspo,n/a
-verb,jewelry and metal working,I filed,past completed action,ho limato,oh lee-MAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I filed the prongs yesterday.,Ho limato le griffe ieri.,ho rasppato,n/a
-verb,jewelry and metal working,filing,ongoing action,limando,lee-MAN-doh,n/a,gerund,n/a,1,verb,n/a,Filing evens the surface.,Limando si livella la superficie.,raspando,n/a
-verb,jewelry and metal working,to drill,make a hole,forare,foh-RAH-reh,n/a,infinitive,n/a,1,verb,n/a,We need to drill for the pin.,Dobbiamo forare per lo spillo.,trapanare,n/a
-verb,jewelry and metal working,I drill,first-person present,foro,FOH-roh,n/a,present_1sg,n/a,1,verb,n/a,I drill tiny holes for rivets.,Foro piccoli fori per i rivetti.,trapano,n/a
-verb,jewelry and metal working,I drilled,past completed action,ho forato,oh fo-RAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I drilled the plate yesterday.,Ho forato la piastra ieri.,ho trapanato,n/a
-verb,jewelry and metal working,drilling,ongoing action,forando,foh-RAN-doh,n/a,gerund,n/a,1,verb,n/a,Drilling must be slow in silver.,Forando serve bassa velocità sull'argento.,trapanando,n/a
-verb,jewelry and metal working,to engrave,carve a design,incidere,in-CHEE-deh-reh,n/a,infinitive,n/a,1,verb,n/a,I want to engrave initials.,Voglio incidere le iniziali.,graffiare,n/a
-verb,jewelry and metal working,I engrave,first-person present,incido,in-CHEE-doh,n/a,present_1sg,n/a,1,verb,n/a,I engrave patterns on copper.,Incido motivi sul rame.,graffio,n/a
-verb,jewelry and metal working,I engraved,past completed action,ho inciso,oh in-CHEE-zoh,n/a,past_1sg,n/a,1,verb,n/a,I engraved a floral border.,Ho inciso un bordo floreale.,ho graffiato,n/a
-verb,jewelry and metal working,engraving,ongoing action,incidendo,in-chee-DEN-doh,n/a,gerund,n/a,1,verb,n/a,Engraving improves with practice.,Incidendo si migliora con la pratica.,graffiando,n/a
-verb,jewelry and metal working,to set,secure a stone,incastonare,in-kahs-toh-NAH-reh,n/a,infinitive,n/a,1,verb,n/a,We need to set the ruby.,Dobbiamo incastonare il rubino.,montare,n/a
-verb,jewelry and metal working,I set,first-person present,incastono,in-KAS-toh-noh,n/a,present_1sg,n/a,1,verb,n/a,I set stones every day.,Incastono pietre ogni giorno.,monto,n/a
-verb,jewelry and metal working,I set (past),past completed action,ho incastonato,oh in-kas-toh-NAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I set an opal last night.,Ho incastonato un opale ieri sera.,ho montato,n/a
-verb,jewelry and metal working,setting,ongoing action,incastonando,in-kas-toh-NAN-doh,n/a,gerund,n/a,1,verb,n/a,Setting requires steady pressure.,Incastonando serve pressione costante.,montando,n/a
-verb,jewelry and metal working,to anneal,soften metal by heating and slow cooling,ricuocere,ree-KWOH-cheh-reh,n/a,infinitive,n/a,2,verb,n/a,I need to anneal the sheet.,Devo ricuocere la lastra.,ricottare,ammorbidire,n/a
-verb,jewelry and metal working,I anneal,first-person present,ricuocio,ree-KWOH-choh,n/a,present_1sg,n/a,2,verb,n/a,I anneal the wire before bending.,Ricuocio il filo prima di piegarlo.,ricotto,n/a
-verb,jewelry and metal working,I annealed,past completed action,ho ricotto,oh ree-KOHT-toh,n/a,past_1sg,n/a,2,verb,n/a,I annealed the silver yesterday.,Ho ricotto l'argento ieri.,ho ammorbidito,n/a
-verb,jewelry and metal working,annealing,ongoing action,ricuocendo,ree-kwoh-CHEN-doh,n/a,gerund,n/a,2,verb,n/a,Annealing relieves stress in metal.,Ricuocendo si elimina la tensione nel metallo.,ammorbidendo,n/a
-verb,jewelry and metal working,to sand,smooth a surface with abrasives,levigare,leh-vee-GAH-reh,n/a,infinitive,n/a,1,verb,n/a,Remember to sand the edges.,Ricorda di levigare i bordi.,lisciare,n/a
-verb,jewelry and metal working,I sand,first-person present,levigo,LEH-vee-goh,n/a,present_1sg,n/a,1,verb,n/a,I sand the bezel until flush.,Levigo il castone a filo.,liscio,n/a
-verb,jewelry and metal working,I sanded,past completed action,ho levigato,oh leh-vee-GAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I sanded the pendant this morning.,Ho levigato il pendente stamattina.,ho lisciato,n/a
-verb,jewelry and metal working,sanding,ongoing action,levigando,leh-vee-GAN-doh,n/a,gerund,n/a,1,verb,n/a,Sanding produces fine dust.,Levigando si produce polvere sottile.,lisciando,n/a
-verb,jewelry and metal working,to oxidize,create a dark surface layer,ossidare,oh-see-DAH-reh,n/a,infinitive,n/a,1,verb,n/a,We need to oxidize the brass.,Dobbiamo ossidare l'ottone.,annerire,n/a
-verb,jewelry and metal working,I oxidize,first-person present,ossido,OH-see-doh,n/a,present_1sg,n/a,1,verb,n/a,I oxidize silver for contrast.,Ossido l'argento per contrasto.,annerisco,n/a
-verb,jewelry and metal working,I oxidized,past completed action,ho ossidato,oh oh-see-DAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I oxidized the clasp yesterday.,Ho ossidato la chiusura ieri.,ho annerito,n/a
-verb,jewelry and metal working,oxidizing,ongoing action,ossidando,oh-see-DAN-doh,n/a,gerund,n/a,1,verb,n/a,Oxidizing changes the color quickly.,Ossidando il colore cambia velocemente.,annerendo,n/a
-verb,jewelry and metal working,to roll,thin metal with a mill,laminare,lah-mee-NAH-reh,n/a,infinitive,n/a,1,verb,n/a,I want to roll this ingot.,Voglio laminare questo lingotto.,schiacciare,n/a
-verb,jewelry and metal working,I roll,first-person present,lamino,LAH-mee-noh,n/a,present_1sg,n/a,1,verb,n/a,I roll sheet every afternoon.,Lamino la lastra ogni pomeriggio.,schiaccio,n/a
-verb,jewelry and metal working,I rolled,past completed action,ho laminato,oh lah-mee-NAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I rolled the strip to 0.5 mm.,Ho laminato la striscia a 0,5 mm.,ho schiacciato,n/a
-verb,jewelry and metal working,rolling,ongoing action,laminando,lah-mee-NAN-doh,n/a,gerund,n/a,1,verb,n/a,Rolling hardens the metal.,Laminando si incrudisce il metallo.,schiacciando,n/a
-verb,jewelry and metal working,to draw,reduce wire diameter,trafilare,trah-fee-LAH-reh,n/a,infinitive,n/a,1,verb,n/a,We need to draw the wire thinner.,Dobbiamo trafilare il filo più sottile.,tirare,n/a
-verb,jewelry and metal working,I draw,first-person present,trafilo,TRAH-fee-loh,n/a,present_1sg,n/a,1,verb,n/a,I draw copper wire daily.,Trafilo filo di rame ogni giorno.,tiro,n/a
-verb,jewelry and metal working,I drew (wire),past completed action,ho trafilato,oh trah-fee-LAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I drew silver wire last night.,Ho trafilato filo d'argento ieri sera.,ho tirato,n/a
-verb,jewelry and metal working,drawing (wire),ongoing action,trafilando,trah-fee-LAN-doh,n/a,gerund,n/a,1,verb,n/a,Drawing increases wire strength.,Trafilando aumenta la resistenza del filo.,tirando,n/a
-verb,jewelry and metal working,to measure,determine size,misurare,mee-zoo-RAH-reh,n/a,infinitive,n/a,1,verb,n/a,Always measure the ring first.,Misura sempre l'anello prima.,verificare,n/a
-verb,jewelry and metal working,I measure,first-person present,misuro,mee-ZOO-roh,n/a,present_1sg,n/a,1,verb,n/a,I measure the stone with calipers.,Misuro la pietra con il calibro.,verifico,n/a
-verb,jewelry and metal working,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I measured the thickness yesterday.,Ho misurato lo spessore ieri.,ho verificato,n/a
-verb,jewelry and metal working,measuring,ongoing action,misurando,mee-zoo-RAN-doh,n/a,gerund,n/a,1,verb,n/a,Measuring prevents mistakes.,Misurando si evitano errori.,verificando,n/a
-verb,jewelry and metal working,to buff,shine with a brush,spazzolare,spah-tsoh-LAH-reh,n/a,infinitive,n/a,2,verb,n/a,We need to buff the pendant.,Dobbiamo spazzolare il pendente.,lucidare,n/a
-verb,jewelry and metal working,I buff,first-person present,spazzolo,SPAH-tsoh-loh,n/a,present_1sg,n/a,2,verb,n/a,I buff the chain gently.,Spazzolo la catena con delicatezza.,lucido,n/a
-verb,jewelry and metal working,I buffed,past completed action,ho spazzolato,oh spah-tsoh-LAH-toh,n/a,past_1sg,n/a,2,verb,n/a,I buffed the ring yesterday.,Ho spazzolato l'anello ieri.,ho lucidato,n/a
-verb,jewelry and metal working,buffing,ongoing action,spazzolando,spah-tsoh-LAN-doh,n/a,gerund,n/a,2,verb,n/a,Buffing brings out the shine.,Spazzolando emerge la lucentezza.,lucidando,n/a
-verb,jewelry and metal working,to pickle,remove oxides with acid,decapare,deh-kah-PAH-reh,n/a,infinitive,n/a,2,verb,n/a,We will pickle the pieces now.,Decaperemo i pezzi adesso.,pulire,n/a
-verb,jewelry and metal working,I pickle,first-person present,decapo,deh-KAH-poh,n/a,present_1sg,n/a,2,verb,n/a,I pickle silver after soldering.,Decapo l'argento dopo la saldatura.,pulisco,n/a
-verb,jewelry and metal working,I pickled,past completed action,ho decapato,oh deh-kah-PAH-toh,n/a,past_1sg,n/a,2,verb,n/a,I pickled all the findings.,Ho decapato tutte le minuterie.,ho pulito,n/a
-verb,jewelry and metal working,pickling,ongoing action,decapando,deh-kah-PAN-doh,n/a,gerund,n/a,2,verb,n/a,Pickling removes surface fire-scale.,Decapando si elimina la colla bruna.,pulendo,n/a
-verb,jewelry and metal working,to quench,cool hot metal quickly,temprare,tem-PRAH-reh,n/a,infinitive,n/a,2,verb,n/a,Quench the piece in water.,Temprate il pezzo in acqua.,raffreddare,n/a
-verb,jewelry and metal working,I quench,first-person present,tempro,TEM-proh,n/a,present_1sg,n/a,2,verb,n/a,I quench red-hot steel.,Tempro l'acciaio incandescente.,raffreddo,n/a
-verb,jewelry and metal working,I quenched,past completed action,ho temprato,oh tem-PRAH-toh,n/a,past_1sg,n/a,2,verb,n/a,I quenched the blade yesterday.,Ho temprato la lama ieri.,ho raffreddato,n/a
-verb,jewelry and metal working,quenching,ongoing action,temprando,tem-PRAHN-doh,n/a,gerund,n/a,2,verb,n/a,Quenching produces a hiss.,Temprando si sente un sibilo.,raffreddando,n/a
-verb,jewelry and metal working,to bend,shape by folding,piegare,pee-eh-GAH-reh,n/a,infinitive,n/a,1,verb,n/a,We need to bend the wire.,Dobbiamo piegare il filo.,curvare,n/a
-verb,jewelry and metal working,I bend,first-person present,piego,PYEH-goh,n/a,present_1sg,n/a,1,verb,n/a,I bend the ring shank.,Piego il gambo dell'anello.,curvo,n/a
-verb,jewelry and metal working,I bent,past completed action,ho piegato,oh pee-eh-GAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I bent the sheet yesterday.,Ho piegato la lastra ieri.,ho curvato,n/a
-verb,jewelry and metal working,bending,ongoing action,piegando,pee-eh-GAN-doh,n/a,gerund,n/a,1,verb,n/a,Bending work-hardens the metal.,Piegando si incrudisce il metallo.,curvando,n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+verb,jewelry and metal working,to solder,join metal with heat,saldare,sahl-DAH-reh,,infinitive,,1,,,I like to solder silver rings.,Mi piace saldare anelli d'argento.,unire,,saldare
+verb,jewelry and metal working,I solder,first-person present,saldo,SAHL-doh,,present_1sg,,1,,,I solder every joint carefully.,Saldo ogni giunzione con cura.,unisco,,saldare
+verb,jewelry and metal working,I soldered,past completed action,ho saldato,oh sahl-DAH-toh,,past_1sg,,1,,,I soldered the bezel yesterday.,Ho saldato il castone ieri.,ho unito,,saldare
+verb,jewelry and metal working,soldering,ongoing action,saldando,sahl-DAHN-doh,,gerund,,1,,,Soldering takes patience.,Saldando ci vuole pazienza.,unendo,,saldare
+verb,jewelry and metal working,to melt,turn solid to liquid,fondere,FON-deh-reh,,infinitive,,1,,,We need to melt the silver.,Dobbiamo fondere l'argento.,sciogliere,,fondere
+verb,jewelry and metal working,I melt,first-person present,fondo,FON-doh,,present_1sg,,1,,,I melt small ingots for casting.,Fondo piccoli lingotti per la fusione.,sciolgo,,fondare
+verb,jewelry and metal working,I melted,past completed action,ho fuso,oh FOO-zoh,,past_1sg,,1,,,I melted scrap gold last night.,Ho fuso oro di recupero ieri sera.,ho sciolto,,fondere
+verb,jewelry and metal working,melting,ongoing action,fon­dendo,fon-DEN-doh,,gerund,,1,,,Melting requires steady heat.,Fondendo serve calore costante.,sciogliendo,,fondere
+verb,jewelry and metal working,to cast,pour metal into mold,colare,coh-LAH-reh,,infinitive,,1,,,We plan to cast a pendant.,Prevediamo di colare un pendente.,gettare,,colare
+verb,jewelry and metal working,I cast,first-person present,colo,COH-loh,,present_1sg,,1,,,I cast small shapes in sand.,Colo forme piccole nella sabbia.,getto,,colare
+verb,jewelry and metal working,I casted,past completed action,ho colato,oh coh-LAH-toh,,past_1sg,,1,,,I casted a bronze coin today.,Ho colato una moneta in bronzo oggi.,ho gettato,,colare
+verb,jewelry and metal working,casting,ongoing action,colando,coh-LAHN-doh,,gerund,,1,,,Casting takes careful timing.,Colando serve tempismo preciso.,gettando,,colare
+verb,jewelry and metal working,to polish,make surface shiny,lucidare,loo-chee-DAH-reh,,infinitive,,1,,,I want to polish the ring.,Voglio lucidare l'anello.,brillare,,lucidare
+verb,jewelry and metal working,I polish,first-person present,lucido,LOO-chee-doh,,present_1sg,,1,,,I polish each piece by hand.,Lucido ogni pezzo a mano.,brillo,,lucidare
+verb,jewelry and metal working,I polished,past completed action,ho lucidato,oh loo-chee-DAH-toh,,past_1sg,,1,,,I polished the bracelet yesterday.,Ho lucidato il bracciale ieri.,ho rifinito,,lucidare
+verb,jewelry and metal working,polishing,ongoing action,lucidando,loo-chee-DAN-doh,,gerund,,1,,,Polishing removes fine scratches.,Lucidando si eliminano i graffi sottili.,rifinendo,,lucidare
+verb,jewelry and metal working,to hammer,strike with hammer,martellare,mar-tel-LAH-reh,,infinitive,,1,,,We need to hammer the bezel.,Dobbiamo martellare il castone.,battere,,martellare
+verb,jewelry and metal working,I hammer,first-person present,martello,mar-TEL-loh,,present_1sg,,1,,,I hammer the sheet into shape.,Martello la lastra per darle forma.,batto,,martellare
+verb,jewelry and metal working,I hammered,past completed action,ho martellato,oh mar-tel-LAH-toh,,past_1sg,,1,,,I hammered the texture this morning.,Ho martellato la texture stamattina.,ho battuto,,martellare
+verb,jewelry and metal working,hammering,ongoing action,martellando,mar-tel-LAN-doh,,gerund,,1,,,Hammering hardens the wire.,Martellando si indurisce il filo.,battendo,,martellare
+verb,jewelry and metal working,to saw,cut with jeweler’s saw,segare,seh-GAH-reh,,infinitive,,1,,,I need to saw the outline.,Devo segare il profilo.,tagliare,,segare
+verb,jewelry and metal working,I saw,first-person present,sego,SEH-goh,,present_1sg,,1,,,I saw delicate patterns.,Sego motivi delicati.,taglio,,segare
+verb,jewelry and metal working,I sawed,past completed action,ho segato,oh seh-GAH-toh,,past_1sg,,1,,,I sawed a slice off the sheet.,Ho segato una fetta dalla lastra.,ho tagliato,,segare
+verb,jewelry and metal working,sawing,ongoing action,segando,seh-GAN-doh,,gerund,,1,,,Sawing requires steady hands.,Segando servono mani ferme.,tagliando,,segare
+verb,jewelry and metal working,to file,smooth with file,limare,lee-MAH-reh,,infinitive,,1,,,Remember to file sharp edges.,Ricorda di limare i bordi taglienti.,raspare,,limare
+verb,jewelry and metal working,I file,first-person present,limo,LEE-moh,,present_1sg,,1,,,I file the bezel until flush.,Limo il castone fino a filo.,raspo,,limare
+verb,jewelry and metal working,I filed,past completed action,ho limato,oh lee-MAH-toh,,past_1sg,,1,,,I filed the prongs yesterday.,Ho limato le griffe ieri.,ho rasppato,,limare
+verb,jewelry and metal working,filing,ongoing action,limando,lee-MAN-doh,,gerund,,1,,,Filing evens the surface.,Limando si livella la superficie.,raspando,,limare
+verb,jewelry and metal working,to drill,make a hole,forare,foh-RAH-reh,,infinitive,,1,,,We need to drill for the pin.,Dobbiamo forare per lo spillo.,trapanare,,forare
+verb,jewelry and metal working,I drill,first-person present,foro,FOH-roh,,present_1sg,,1,,,I drill tiny holes for rivets.,Foro piccoli fori per i rivetti.,trapano,,forare
+verb,jewelry and metal working,I drilled,past completed action,ho forato,oh fo-RAH-toh,,past_1sg,,1,,,I drilled the plate yesterday.,Ho forato la piastra ieri.,ho trapanato,,forare
+verb,jewelry and metal working,drilling,ongoing action,forando,foh-RAN-doh,,gerund,,1,,,Drilling must be slow in silver.,Forando serve bassa velocità sull'argento.,trapanando,,forare
+verb,jewelry and metal working,to engrave,carve a design,incidere,in-CHEE-deh-reh,,infinitive,,1,,,I want to engrave initials.,Voglio incidere le iniziali.,graffiare,,incidere
+verb,jewelry and metal working,I engrave,first-person present,incido,in-CHEE-doh,,present_1sg,,1,,,I engrave patterns on copper.,Incido motivi sul rame.,graffio,,incidare
+verb,jewelry and metal working,I engraved,past completed action,ho inciso,oh in-CHEE-zoh,,past_1sg,,1,,,I engraved a floral border.,Ho inciso un bordo floreale.,ho graffiato,,incidere
+verb,jewelry and metal working,engraving,ongoing action,incidendo,in-chee-DEN-doh,,gerund,,1,,,Engraving improves with practice.,Incidendo si migliora con la pratica.,graffiando,,incidere
+verb,jewelry and metal working,to set,secure a stone,incastonare,in-kahs-toh-NAH-reh,,infinitive,,1,,,We need to set the ruby.,Dobbiamo incastonare il rubino.,montare,,incastonare
+verb,jewelry and metal working,I set,first-person present,incastono,in-KAS-toh-noh,,present_1sg,,1,,,I set stones every day.,Incastono pietre ogni giorno.,monto,,incastare
+verb,jewelry and metal working,I set (past),past completed action,ho incastonato,oh in-kas-toh-NAH-toh,,past_1sg,,1,,,I set an opal last night.,Ho incastonato un opale ieri sera.,ho montato,,incastonare
+verb,jewelry and metal working,setting,ongoing action,incastonando,in-kas-toh-NAN-doh,,gerund,,1,,,Setting requires steady pressure.,Incastonando serve pressione costante.,montando,,incastonare
+verb,jewelry and metal working,to anneal,soften metal by heating and slow cooling,ricuocere,ree-KWOH-cheh-reh,,infinitive,,2,,,I need to anneal the sheet.,Devo ricuocere la lastra.,ricottare,,ricuocere
+verb,jewelry and metal working,I anneal,first-person present,ricuocio,ree-KWOH-choh,,present_1sg,,2,,,I anneal the wire before bending.,Ricuocio il filo prima di piegarlo.,ricotto,,ricuociare
+verb,jewelry and metal working,I annealed,past completed action,ho ricotto,oh ree-KOHT-toh,,past_1sg,,2,,,I annealed the silver yesterday.,Ho ricotto l'argento ieri.,ho ammorbidito,,ricuociare
+verb,jewelry and metal working,annealing,ongoing action,ricuocendo,ree-kwoh-CHEN-doh,,gerund,,2,,,Annealing relieves stress in metal.,Ricuocendo si elimina la tensione nel metallo.,ammorbidendo,,ricuociare
+verb,jewelry and metal working,to sand,smooth a surface with abrasives,levigare,leh-vee-GAH-reh,,infinitive,,1,,,Remember to sand the edges.,Ricorda di levigare i bordi.,lisciare,,levigare
+verb,jewelry and metal working,I sand,first-person present,levigo,LEH-vee-goh,,present_1sg,,1,,,I sand the bezel until flush.,Levigo il castone a filo.,liscio,,levigare
+verb,jewelry and metal working,I sanded,past completed action,ho levigato,oh leh-vee-GAH-toh,,past_1sg,,1,,,I sanded the pendant this morning.,Ho levigato il pendente stamattina.,ho lisciato,,levigare
+verb,jewelry and metal working,sanding,ongoing action,levigando,leh-vee-GAN-doh,,gerund,,1,,,Sanding produces fine dust.,Levigando si produce polvere sottile.,lisciando,,levigare
+verb,jewelry and metal working,to oxidize,create a dark surface layer,ossidare,oh-see-DAH-reh,,infinitive,,1,,,We need to oxidize the brass.,Dobbiamo ossidare l'ottone.,annerire,,ossidare
+verb,jewelry and metal working,I oxidize,first-person present,ossido,OH-see-doh,,present_1sg,,1,,,I oxidize silver for contrast.,Ossido l'argento per contrasto.,annerisco,,ossidare
+verb,jewelry and metal working,I oxidized,past completed action,ho ossidato,oh oh-see-DAH-toh,,past_1sg,,1,,,I oxidized the clasp yesterday.,Ho ossidato la chiusura ieri.,ho annerito,,ossidare
+verb,jewelry and metal working,oxidizing,ongoing action,ossidando,oh-see-DAN-doh,,gerund,,1,,,Oxidizing changes the color quickly.,Ossidando il colore cambia velocemente.,annerendo,,ossidare
+verb,jewelry and metal working,to roll,thin metal with a mill,laminare,lah-mee-NAH-reh,,infinitive,,1,,,I want to roll this ingot.,Voglio laminare questo lingotto.,schiacciare,,laminare
+verb,jewelry and metal working,I roll,first-person present,lamino,LAH-mee-noh,,present_1sg,,1,,,I roll sheet every afternoon.,Lamino la lastra ogni pomeriggio.,schiaccio,,laminare
+verb,jewelry and metal working,I rolled,past completed action,ho laminato,oh lah-mee-NAH-toh,,past_1sg,,1,,,I rolled the strip to 0.5 mm.,Ho laminato la striscia a 0,5 mm.,,laminare
+verb,jewelry and metal working,rolling,ongoing action,laminando,lah-mee-NAN-doh,,gerund,,1,,,Rolling hardens the metal.,Laminando si incrudisce il metallo.,schiacciando,,laminare
+verb,jewelry and metal working,to draw,reduce wire diameter,trafilare,trah-fee-LAH-reh,,infinitive,,1,,,We need to draw the wire thinner.,Dobbiamo trafilare il filo più sottile.,tirare,,trafilare
+verb,jewelry and metal working,I draw,first-person present,trafilo,TRAH-fee-loh,,present_1sg,,1,,,I draw copper wire daily.,Trafilo filo di rame ogni giorno.,tiro,,trafilare
+verb,jewelry and metal working,I drew (wire),past completed action,ho trafilato,oh trah-fee-LAH-toh,,past_1sg,,1,,,I drew silver wire last night.,Ho trafilato filo d'argento ieri sera.,ho tirato,,trafilare
+verb,jewelry and metal working,drawing (wire),ongoing action,trafilando,trah-fee-LAN-doh,,gerund,,1,,,Drawing increases wire strength.,Trafilando aumenta la resistenza del filo.,tirando,,trafilare
+verb,jewelry and metal working,to measure,determine size,misurare,mee-zoo-RAH-reh,,infinitive,,1,,,Always measure the ring first.,Misura sempre l'anello prima.,verificare,,misurare
+verb,jewelry and metal working,I measure,first-person present,misuro,mee-ZOO-roh,,present_1sg,,1,,,I measure the stone with calipers.,Misuro la pietra con il calibro.,verifico,,misurare
+verb,jewelry and metal working,I measured,past completed action,ho misurato,oh mee-zoo-RAH-toh,,past_1sg,,1,,,I measured the thickness yesterday.,Ho misurato lo spessore ieri.,ho verificato,,misurare
+verb,jewelry and metal working,measuring,ongoing action,misurando,mee-zoo-RAN-doh,,gerund,,1,,,Measuring prevents mistakes.,Misurando si evitano errori.,verificando,,misurare
+verb,jewelry and metal working,to buff,shine with a brush,spazzolare,spah-tsoh-LAH-reh,,infinitive,,2,,,We need to buff the pendant.,Dobbiamo spazzolare il pendente.,lucidare,,spazzolare
+verb,jewelry and metal working,I buff,first-person present,spazzolo,SPAH-tsoh-loh,,present_1sg,,2,,,I buff the chain gently.,Spazzolo la catena con delicatezza.,lucido,,spazzolare
+verb,jewelry and metal working,I buffed,past completed action,ho spazzolato,oh spah-tsoh-LAH-toh,,past_1sg,,2,,,I buffed the ring yesterday.,Ho spazzolato l'anello ieri.,ho lucidato,,spazzolare
+verb,jewelry and metal working,buffing,ongoing action,spazzolando,spah-tsoh-LAN-doh,,gerund,,2,,,Buffing brings out the shine.,Spazzolando emerge la lucentezza.,lucidando,,spazzolare
+verb,jewelry and metal working,to pickle,remove oxides with acid,decapare,deh-kah-PAH-reh,,infinitive,,2,,,We will pickle the pieces now.,Decaperemo i pezzi adesso.,pulire,,decapare
+verb,jewelry and metal working,I pickle,first-person present,decapo,deh-KAH-poh,,present_1sg,,2,,,I pickle silver after soldering.,Decapo l'argento dopo la saldatura.,pulisco,,decapare
+verb,jewelry and metal working,I pickled,past completed action,ho decapato,oh deh-kah-PAH-toh,,past_1sg,,2,,,I pickled all the findings.,Ho decapato tutte le minuterie.,ho pulito,,decapare
+verb,jewelry and metal working,pickling,ongoing action,decapando,deh-kah-PAN-doh,,gerund,,2,,,Pickling removes surface fire-scale.,Decapando si elimina la colla bruna.,pulendo,,decapare
+verb,jewelry and metal working,to quench,cool hot metal quickly,temprare,tem-PRAH-reh,,infinitive,,2,,,Quench the piece in water.,Temprate il pezzo in acqua.,raffreddare,,temprare
+verb,jewelry and metal working,I quench,first-person present,tempro,TEM-proh,,present_1sg,,2,,,I quench red-hot steel.,Tempro l'acciaio incandescente.,raffreddo,,temprare
+verb,jewelry and metal working,I quenched,past completed action,ho temprato,oh tem-PRAH-toh,,past_1sg,,2,,,I quenched the blade yesterday.,Ho temprato la lama ieri.,ho raffreddato,,temprare
+verb,jewelry and metal working,quenching,ongoing action,temprando,tem-PRAHN-doh,,gerund,,2,,,Quenching produces a hiss.,Temprando si sente un sibilo.,raffreddando,,temprare
+verb,jewelry and metal working,to bend,shape by folding,piegare,pee-eh-GAH-reh,,infinitive,,1,,,We need to bend the wire.,Dobbiamo piegare il filo.,curvare,,piegare
+verb,jewelry and metal working,I bend,first-person present,piego,PYEH-goh,,present_1sg,,1,,,I bend the ring shank.,Piego il gambo dell'anello.,curvo,,piegare
+verb,jewelry and metal working,I bent,past completed action,ho piegato,oh pee-eh-GAH-toh,,past_1sg,,1,,,I bent the sheet yesterday.,Ho piegato la lastra ieri.,ho curvato,,piegare
+verb,jewelry and metal working,bending,ongoing action,piegando,pee-eh-GAN-doh,,gerund,,1,,,Bending work-hardens the metal.,Piegando si incrudisce il metallo.,curvando,,piegare

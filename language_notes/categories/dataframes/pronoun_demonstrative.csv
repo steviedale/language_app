@@ -1,9 +1,9 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-pronoun,demonstrative,this (masc.),demonstrative pronoun referring to something near,questo,KWEHS-toh,singular,n/a,masculine,1,pronoun,n/a,"This is delicious.","Questo è delizioso.","codesto",n/a
-pronoun,demonstrative,this (fem.),demonstrative pronoun referring to something near,questa,KWEHS-tah,singular,n/a,feminine,1,pronoun,n/a,"This is beautiful.","Questa è bella.","codesta",n/a
-pronoun,demonstrative,these (masc.),demonstrative pronoun plural near,questi,KWEHS-tee,plural,n/a,masculine,1,pronoun,n/a,"These are new.","Questi sono nuovi.","costoro",n/a
-pronoun,demonstrative,these (fem.),demonstrative pronoun plural near,queste,KWEHS-teh,plural,n/a,feminine,1,pronoun,n/a,"These are heavy.","Queste sono pesanti.","costoro",n/a
-pronoun,demonstrative,that (masc.),demonstrative pronoun referring to something far,quello,KWEL-loh,singular,n/a,masculine,1,pronoun,n/a,"That is expensive.","Quello è costoso.","codesto",n/a
-pronoun,demonstrative,that (fem.),demonstrative pronoun referring to something far,quella,KWEL-lah,singular,n/a,feminine,1,pronoun,n/a,"That is my house.","Quella è casa mia.","codesta",n/a
-pronoun,demonstrative,those (masc.),demonstrative pronoun plural far,quelli,KWEL-lee,plural,n/a,masculine,1,pronoun,n/a,"Those are closed.","Quelli sono chiusi.","coloro",n/a
-pronoun,demonstrative,those (fem.),demonstrative pronoun plural far,quelle,KWEL-leh,plural,n/a,feminine,1,pronoun,n/a,"Those are interesting.","Quelle sono interessanti.","coloro",n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+pronoun,demonstrative,this,demonstrative pronoun referring to something near,questo,KWEHS-toh,singular,,masculine,1,pronoun,,This is delicious.,Questo è delizioso.,codesto,,questo
+pronoun,demonstrative,this,demonstrative pronoun referring to something near,questa,KWEHS-tah,singular,,feminine,1,pronoun,,This is beautiful.,Questa è bella.,codesta,,questo
+pronoun,demonstrative,these,demonstrative pronoun plural near,questi,KWEHS-tee,plural,,masculine,1,pronoun,,These are new.,Questi sono nuovi.,costoro,,questo
+pronoun,demonstrative,these,demonstrative pronoun plural near,queste,KWEHS-teh,plural,,feminine,1,pronoun,,These are heavy.,Queste sono pesanti.,costoro,,questo
+pronoun,demonstrative,that,demonstrative pronoun referring to something far,quello,KWEL-loh,singular,,masculine,1,pronoun,,That is expensive.,Quello è costoso.,codesto,,quello
+pronoun,demonstrative,that,demonstrative pronoun referring to something far,quella,KWEL-lah,singular,,feminine,1,pronoun,,That is my house.,Quella è casa mia.,codesta,,quello
+pronoun,demonstrative,those,demonstrative pronoun plural far,quelli,KWEL-lee,plural,,masculine,1,pronoun,,Those are closed.,Quelli sono chiusi.,coloro,,quello
+pronoun,demonstrative,those,demonstrative pronoun plural far,quelle,KWEL-leh,plural,,feminine,1,pronoun,,Those are interesting.,Quelle sono interessanti.,coloro,,quello

@@ -1,43 +1,43 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-adjective,general,good,high quality,buono,BWOH-noh,singular,n/a,masculine,1,adjective,n/a,The coffee is good.,Il caffè è buono.,ottimo,n/a
-adjective,general,good,high quality,buona,BWOH-nah,singular,n/a,feminine,1,adjective,n/a,The pizza is good.,La pizza è buona.,ottima,n/a
-adjective,general,good,high quality,buoni,BWOH-nee,plural,n/a,masculine,1,adjective,n/a,The cookies are good.,I biscotti sono buoni.,ottimi,n/a
-adjective,general,good,high quality,buone,BWOH-neh,plural,n/a,feminine,1,adjective,n/a,The strawberries are good.,Le fragole sono buone.,ottime,n/a
-adjective,general,bad,low quality,cattivo,kah-TEE-voh,singular,n/a,masculine,1,adjective,n/a,The wine is bad.,Il vino è cattivo.,pessimo,n/a
-adjective,general,bad,low quality,cattiva,kah-TEE-vah,singular,n/a,feminine,1,adjective,n/a,The idea is bad.,L'idea è cattiva.,pessima,n/a
-adjective,general,bad,low quality,cattivi,kah-TEE-vee,plural,n/a,masculine,1,adjective,n/a,The boys are bad.,I ragazzi sono cattivi.,pessimi,n/a
-adjective,general,bad,low quality,cattive,kah-TEE-veh,plural,n/a,feminine,1,adjective,n/a,The roads are bad.,Le strade sono cattive.,pessime,n/a
-adjective,general,big,large size,grande,GRAHN-deh,singular,n/a,n/a,1,adjective,n/a,The square is big.,La piazza è grande.,enorme,n/a
-adjective,general,big,large size,grandi,GRAHN-dee,plural,n/a,n/a,1,adjective,n/a,The cities are big.,Le città sono grandi.,enormi,n/a
-adjective,general,small,of little size,piccolo,PEEK-koh-loh,singular,n/a,masculine,1,adjective,n/a,The table is small.,Il tavolo è piccolo.,minuscolo,n/a
-adjective,general,small,of little size,piccola,PEEK-koh-lah,singular,n/a,feminine,1,adjective,n/a,The bag is small.,La borsa è piccola.,minuscola,n/a
-adjective,general,small,of little size,piccoli,PEEK-koh-lee,plural,n/a,masculine,1,adjective,n/a,The towns are small.,I paesi sono piccoli.,minuscoli,n/a
-adjective,general,small,of little size,piccole,PEEK-koh-leh,plural,n/a,feminine,1,adjective,n/a,The islands are small.,Le isole sono piccole.,minuscole,n/a
-adjective,general,beautiful,pleasing to look at,bello,BEHL-loh,singular,n/a,masculine,1,adjective,n/a,The museum is beautiful.,Il museo è bello.,stupendo,n/a
-adjective,general,beautiful,pleasing to look at,bella,BEHL-lah,singular,n/a,feminine,1,adjective,n/a,The church is beautiful.,La chiesa è bella.,stupenda,n/a
-adjective,general,beautiful,pleasing to look at,belli,BEHL-lee,plural,n/a,masculine,1,adjective,n/a,The parks are beautiful.,I parchi sono belli.,stupendi,n/a
-adjective,general,beautiful,pleasing to look at,belle,BEHL-leh,plural,n/a,feminine,1,adjective,n/a,The beaches are beautiful.,Le spiagge sono belle.,stupende,n/a
-adjective,general,ugly,unpleasant to look at,brutto,BROOT-toh,singular,n/a,masculine,1,adjective,n/a,The weather is ugly.,Il tempo è brutto.,orrendo,n/a
-adjective,general,ugly,unpleasant to look at,brutta,BROOT-tah,singular,n/a,feminine,1,adjective,n/a,The street is ugly.,La strada è brutta.,orrenda,n/a
-adjective,general,ugly,unpleasant to look at,brutti,BROOT-tee,plural,n/a,masculine,1,adjective,n/a,The buildings are ugly.,I palazzi sono brutti.,orrendi,n/a
-adjective,general,ugly,unpleasant to look at,brutte,BROOT-teh,plural,n/a,feminine,1,adjective,n/a,The photos are ugly.,Le foto sono brutte.,orrende,n/a
-adjective,general,new,recent in time,nuovo,NWOH-voh,singular,n/a,masculine,1,adjective,n/a,The phone is new.,Il telefono è nuovo.,recente,n/a
-adjective,general,new,recent in time,nuova,NWOH-vah,singular,n/a,feminine,1,adjective,n/a,The bag is new.,La borsa è nuova.,recente,n/a
-adjective,general,new,recent in time,nuovi,NWOH-vee,plural,n/a,masculine,1,adjective,n/a,The tickets are new.,I biglietti sono nuovi.,recenti,n/a
-adjective,general,new,recent in time,nuove,NWOH-veh,plural,n/a,feminine,1,adjective,n/a,The shoes are new.,Le scarpe sono nuove.,recenti,n/a
-adjective,general,old,not new,vecchio,VEHK-kyoh,singular,n/a,masculine,1,adjective,n/a,The bridge is old.,Il ponte è vecchio.,antico,n/a
-adjective,general,old,not new,vecchia,VEHK-kyah,singular,n/a,feminine,1,adjective,n/a,The house is old.,La casa è vecchia.,antica,n/a
-adjective,general,old,not new,vecchi,VEHK-kyee,plural,n/a,masculine,1,adjective,n/a,The books are old.,I libri sono vecchi.,antichi,n/a
-adjective,general,old,not new,vecchie,VEHK-kyeh,plural,n/a,feminine,1,adjective,n/a,The walls are old.,Le mura sono vecchie.,antiche,n/a
-adjective,general,hot,high temperature,caldo,KAHL-doh,singular,n/a,masculine,1,adjective,n/a,The tea is hot.,Il tè è caldo.,bollente,n/a
-adjective,general,hot,high temperature,calda,KAHL-dah,singular,n/a,feminine,1,adjective,n/a,The pizza is hot.,La pizza è calda.,bollente,n/a
-adjective,general,hot,high temperature,caldi,KAHL-dee,plural,n/a,masculine,1,adjective,n/a,The days are hot.,I giorni sono caldi.,bollenti,n/a
-adjective,general,hot,high temperature,calde,KAHL-deh,plural,n/a,feminine,1,adjective,n/a,The nights are hot.,Le notti sono calde.,bollenti,n/a
-adjective,general,cold,low temperature,freddo,FRED-doh,singular,n/a,masculine,1,adjective,n/a,The milk is cold.,Il latte è freddo.,gelido,n/a
-adjective,general,cold,low temperature,fredda,FRED-dah,singular,n/a,feminine,1,adjective,n/a,The water is cold.,L'acqua è fredda.,gelida,n/a
-adjective,general,cold,low temperature,freddi,FRED-dee,plural,n/a,masculine,1,adjective,n/a,The winds are cold.,I venti sono freddi.,gelidi,n/a
-adjective,general,cold,low temperature,fredde,FRED-deh,plural,n/a,feminine,1,adjective,n/a,The mornings are cold.,Le mattine sono fredde.,gelide,n/a
-adjective,general,happy,feeling joy,felice,feh-LEE-cheh,singular,n/a,n/a,1,adjective,n/a,The child is happy.,Il bambino è felice.,contento,n/a
-adjective,general,happy,feeling joy,felici,feh-LEE-chee,plural,n/a,n/a,1,adjective,n/a,The tourists are happy.,I turisti sono felici.,contenti,n/a
-adjective,general,easy,not difficult,facile,FAH-cheh-leh,singular,n/a,n/a,1,adjective,n/a,The exercise is easy.,L'esercizio è facile.,semplice,n/a
-adjective,general,easy,not difficult,facili,FAH-chee-lee,plural,n/a,n/a,1,adjective,n/a,The questions are easy.,Le domande sono facili.,semplici,n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+adjective,general,good,high quality,buono,BWOH-noh,singular,,masculine,1,adjective,,The coffee is good.,Il caffè è buono.,ottimo,,buono
+adjective,general,good,high quality,buona,BWOH-nah,singular,,feminine,1,adjective,,The pizza is good.,La pizza è buona.,ottima,,buono
+adjective,general,good,high quality,buoni,BWOH-nee,plural,,masculine,1,adjective,,The cookies are good.,I biscotti sono buoni.,ottimi,,buono
+adjective,general,good,high quality,buone,BWOH-neh,plural,,feminine,1,adjective,,The strawberries are good.,Le fragole sono buone.,ottime,,buono
+adjective,general,bad,low quality,cattivo,kah-TEE-voh,singular,,masculine,1,adjective,,The wine is bad.,Il vino è cattivo.,pessimo,,cattivo
+adjective,general,bad,low quality,cattiva,kah-TEE-vah,singular,,feminine,1,adjective,,The idea is bad.,L'idea è cattiva.,pessima,,cattivo
+adjective,general,bad,low quality,cattivi,kah-TEE-vee,plural,,masculine,1,adjective,,The boys are bad.,I ragazzi sono cattivi.,pessimi,,cattivo
+adjective,general,bad,low quality,cattive,kah-TEE-veh,plural,,feminine,1,adjective,,The roads are bad.,Le strade sono cattive.,pessime,,cattivo
+adjective,general,big,large size,grande,GRAHN-deh,singular,,,1,adjective,,The square is big.,La piazza è grande.,enorme,,grande
+adjective,general,big,large size,grandi,GRAHN-dee,plural,,,1,adjective,,The cities are big.,Le città sono grandi.,enormi,,grande
+adjective,general,small,of little size,piccolo,PEEK-koh-loh,singular,,masculine,1,adjective,,The table is small.,Il tavolo è piccolo.,minuscolo,,piccolo
+adjective,general,small,of little size,piccola,PEEK-koh-lah,singular,,feminine,1,adjective,,The bag is small.,La borsa è piccola.,minuscola,,piccolo
+adjective,general,small,of little size,piccoli,PEEK-koh-lee,plural,,masculine,1,adjective,,The towns are small.,I paesi sono piccoli.,minuscoli,,piccolo
+adjective,general,small,of little size,piccole,PEEK-koh-leh,plural,,feminine,1,adjective,,The islands are small.,Le isole sono piccole.,minuscole,,piccolo
+adjective,general,beautiful,pleasing to look at,bello,BEHL-loh,singular,,masculine,1,adjective,,The museum is beautiful.,Il museo è bello.,stupendo,,bello
+adjective,general,beautiful,pleasing to look at,bella,BEHL-lah,singular,,feminine,1,adjective,,The church is beautiful.,La chiesa è bella.,stupenda,,bello
+adjective,general,beautiful,pleasing to look at,belli,BEHL-lee,plural,,masculine,1,adjective,,The parks are beautiful.,I parchi sono belli.,stupendi,,bello
+adjective,general,beautiful,pleasing to look at,belle,BEHL-leh,plural,,feminine,1,adjective,,The beaches are beautiful.,Le spiagge sono belle.,stupende,,bello
+adjective,general,ugly,unpleasant to look at,brutto,BROOT-toh,singular,,masculine,1,adjective,,The weather is ugly.,Il tempo è brutto.,orrendo,,brutto
+adjective,general,ugly,unpleasant to look at,brutta,BROOT-tah,singular,,feminine,1,adjective,,The street is ugly.,La strada è brutta.,orrenda,,brutto
+adjective,general,ugly,unpleasant to look at,brutti,BROOT-tee,plural,,masculine,1,adjective,,The buildings are ugly.,I palazzi sono brutti.,orrendi,,brutto
+adjective,general,ugly,unpleasant to look at,brutte,BROOT-teh,plural,,feminine,1,adjective,,The photos are ugly.,Le foto sono brutte.,orrende,,brutto
+adjective,general,new,recent in time,nuovo,NWOH-voh,singular,,masculine,1,adjective,,The phone is new.,Il telefono è nuovo.,recente,,nuovo
+adjective,general,new,recent in time,nuova,NWOH-vah,singular,,feminine,1,adjective,,The bag is new.,La borsa è nuova.,recente,,nuovo
+adjective,general,new,recent in time,nuovi,NWOH-vee,plural,,masculine,1,adjective,,The tickets are new.,I biglietti sono nuovi.,recenti,,nuovo
+adjective,general,new,recent in time,nuove,NWOH-veh,plural,,feminine,1,adjective,,The shoes are new.,Le scarpe sono nuove.,recenti,,nuovo
+adjective,general,old,not new,vecchio,VEHK-kyoh,singular,,masculine,1,adjective,,The bridge is old.,Il ponte è vecchio.,antico,,vecchio
+adjective,general,old,not new,vecchia,VEHK-kyah,singular,,feminine,1,adjective,,The house is old.,La casa è vecchia.,antica,,vecchio
+adjective,general,old,not new,vecchi,VEHK-kyee,plural,,masculine,1,adjective,,The books are old.,I libri sono vecchi.,antichi,,vecchio
+adjective,general,old,not new,vecchie,VEHK-kyeh,plural,,feminine,1,adjective,,The walls are old.,Le mura sono vecchie.,antiche,,vecchio
+adjective,general,hot,high temperature,caldo,KAHL-doh,singular,,masculine,1,adjective,,The tea is hot.,Il tè è caldo.,bollente,,caldo
+adjective,general,hot,high temperature,calda,KAHL-dah,singular,,feminine,1,adjective,,The pizza is hot.,La pizza è calda.,bollente,,caldo
+adjective,general,hot,high temperature,caldi,KAHL-dee,plural,,masculine,1,adjective,,The days are hot.,I giorni sono caldi.,bollenti,,caldo
+adjective,general,hot,high temperature,calde,KAHL-deh,plural,,feminine,1,adjective,,The nights are hot.,Le notti sono calde.,bollenti,,caldo
+adjective,general,cold,low temperature,freddo,FRED-doh,singular,,masculine,1,adjective,,The milk is cold.,Il latte è freddo.,gelido,,freddo
+adjective,general,cold,low temperature,fredda,FRED-dah,singular,,feminine,1,adjective,,The water is cold.,L'acqua è fredda.,gelida,,freddo
+adjective,general,cold,low temperature,freddi,FRED-dee,plural,,masculine,1,adjective,,The winds are cold.,I venti sono freddi.,gelidi,,freddo
+adjective,general,cold,low temperature,fredde,FRED-deh,plural,,feminine,1,adjective,,The mornings are cold.,Le mattine sono fredde.,gelide,,freddo
+adjective,general,happy,feeling joy,felice,feh-LEE-cheh,singular,,,1,adjective,,The child is happy.,Il bambino è felice.,contento,,felice
+adjective,general,happy,feeling joy,felici,feh-LEE-chee,plural,,,1,adjective,,The tourists are happy.,I turisti sono felici.,contenti,,felice
+adjective,general,easy,not difficult,facile,FAH-cheh-leh,singular,,,1,adjective,,The exercise is easy.,L'esercizio è facile.,semplice,,facile
+adjective,general,easy,not difficult,facili,FAH-chee-lee,plural,,,1,adjective,,The questions are easy.,Le domande sono facili.,semplici,,facile

@@ -1,18 +1,18 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-adjective,cost,cheap,low in price,economico,eh-koh-NOH-mee-koh,singular,n/a,masculine,1,adjective,n/a,The hotel is cheap.,L'hotel è economico.,"conveniente, basso",n/a
-adjective,cost,cheap,low in price,economica,eh-koh-NOH-mee-kah,singular,n/a,feminine,1,adjective,n/a,She bought a cheap bag.,Ha comprato una borsa economica.,"conveniente, bassa",n/a
-adjective,cost,expensive,high in price,caro,KAH-roh,singular,n/a,masculine,1,adjective,n/a,This restaurant is expensive.,Questo ristorante è caro.,"costoso, elevato",n/a
-adjective,cost,expensive,high in price,cara,KAH-rah,singular,n/a,feminine,1,adjective,n/a,She has an expensive purse.,Lei ha una borsa cara.,"costosa, elevata",n/a
-adjective,cost,free,costing nothing,gratuito,grah-TOO-ee-toh,singular,n/a,masculine,1,adjective,n/a,The museum is free today.,Il museo è gratuito oggi.,"gratis, libero",n/a
-adjective,cost,free,costing nothing,gratuita,grah-TOO-ee-tah,singular,n/a,feminine,1,adjective,n/a,The entry is free.,L'entrata è gratuita.,"gratis, libera",n/a
-adjective,cost,affordable,reasonably priced,conveniente,kohn-veh-nee-EN-teh,n/a,n/a,n/a,2,adjective,n/a,The tour is affordable.,Il tour è conveniente.,"economico, abbordabile",n/a
-adjective,cost,costly,expensive or high cost,costoso,koh-STOH-zoh,singular,n/a,masculine,2,adjective,n/a,That hotel is costly.,Quell'hotel è costoso.,"caro, dispendioso",n/a
-adjective,cost,costly,expensive or high cost,costosa,koh-STOH-zah,singular,n/a,feminine,2,adjective,n/a,Her shoes are costly.,Le sue scarpe sono costose.,"cara, dispendiosa",n/a
-adjective,cost,discounted,reduced in price,scontato,skohn-TAH-toh,singular,n/a,masculine,2,adjective,n/a,The jacket is discounted.,La giacca è scontata.,"ridotto, ribassato",n/a
-adjective,cost,discounted,reduced in price,scontata,skohn-TAH-tah,singular,n/a,feminine,2,adjective,n/a,She bought a discounted skirt.,Ha comprato una gonna scontata.,"ridotta, ribassata",n/a
-adjective,cost,luxurious,extremely comfortable and expensive,lussuoso,loos-SWOH-zoh,singular,n/a,masculine,3,adjective,n/a,They stayed in a luxurious hotel.,Hanno soggiornato in un hotel lussuoso.,"ricco, sfarzoso",n/a
-adjective,cost,luxurious,extremely comfortable and expensive,lussuosa,loos-SWOH-zah,singular,n/a,feminine,3,adjective,n/a,The villa is luxurious.,La villa è lussuosa.,"ricca, sfarzosa",n/a
-adjective,cost,priceless,value beyond price,inestimabile,ee-nehs-tee-MAH-bee-leh,n/a,n/a,n/a,3,adjective,n/a,The painting is priceless.,Il dipinto è inestimabile.,"prezioso, unico",n/a
-adjective,cost,reasonable,fair price,ragionevole,rah-joh-NEH-voh-leh,n/a,n/a,n/a,2,adjective,n/a,The price is reasonable.,Il prezzo è ragionevole.,"giusto, moderato",n/a
-adjective,cost,overpriced,costing more than it should,troppo caro,TROH-poh KAH-roh,singular,n/a,masculine,3,adjective,n/a,The coffee is overpriced.,Il caffè è troppo caro.,"esagerato, alto",n/a
-adjective,cost,overpriced,costing more than it should,troppo cara,TROH-poh KAH-rah,singular,n/a,feminine,3,adjective,n/a,The pizza is overpriced.,La pizza è troppo cara.,"esagerata, alta",n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+adjective,cost,cheap,low in price,economico,eh-koh-NOH-mee-koh,singular,,masculine,1,adjective,,The hotel is cheap.,L'hotel è economico.,"conveniente, basso",,economico
+adjective,cost,cheap,low in price,economica,eh-koh-NOH-mee-kah,singular,,feminine,1,adjective,,She bought a cheap bag.,Ha comprato una borsa economica.,"conveniente, bassa",,economico
+adjective,cost,expensive,high in price,caro,KAH-roh,singular,,masculine,1,adjective,,This restaurant is expensive.,Questo ristorante è caro.,"costoso, elevato",,caro
+adjective,cost,expensive,high in price,cara,KAH-rah,singular,,feminine,1,adjective,,She has an expensive purse.,Lei ha una borsa cara.,"costosa, elevata",,caro
+adjective,cost,free,costing nothing,gratuito,grah-TOO-ee-toh,singular,,masculine,1,adjective,,The museum is free today.,Il museo è gratuito oggi.,"gratis, libero",,gratuito
+adjective,cost,free,costing nothing,gratuita,grah-TOO-ee-tah,singular,,feminine,1,adjective,,The entry is free.,L'entrata è gratuita.,"gratis, libera",,gratuito
+adjective,cost,affordable,reasonably priced,conveniente,kohn-veh-nee-EN-teh,,,,2,adjective,,The tour is affordable.,Il tour è conveniente.,"economico, abbordabile",,conveniente
+adjective,cost,costly,expensive or high cost,costoso,koh-STOH-zoh,singular,,masculine,2,adjective,,That hotel is costly.,Quell'hotel è costoso.,"caro, dispendioso",,costoso
+adjective,cost,costly,expensive or high cost,costosa,koh-STOH-zah,singular,,feminine,2,adjective,,Her shoes are costly.,Le sue scarpe sono costose.,"cara, dispendiosa",,costoso
+adjective,cost,discounted,reduced in price,scontato,skohn-TAH-toh,singular,,masculine,2,adjective,,The jacket is discounted.,La giacca è scontata.,"ridotto, ribassato",,scontato
+adjective,cost,discounted,reduced in price,scontata,skohn-TAH-tah,singular,,feminine,2,adjective,,She bought a discounted skirt.,Ha comprato una gonna scontata.,"ridotta, ribassata",,scontato
+adjective,cost,luxurious,extremely comfortable and expensive,lussuoso,loos-SWOH-zoh,singular,,masculine,3,adjective,,They stayed in a luxurious hotel.,Hanno soggiornato in un hotel lussuoso.,"ricco, sfarzoso",,lussuoso
+adjective,cost,luxurious,extremely comfortable and expensive,lussuosa,loos-SWOH-zah,singular,,feminine,3,adjective,,The villa is luxurious.,La villa è lussuosa.,"ricca, sfarzosa",,lussuoso
+adjective,cost,priceless,value beyond price,inestimabile,ee-nehs-tee-MAH-bee-leh,,,,3,adjective,,The painting is priceless.,Il dipinto è inestimabile.,"prezioso, unico",,inestimabile
+adjective,cost,reasonable,fair price,ragionevole,rah-joh-NEH-voh-leh,,,,2,adjective,,The price is reasonable.,Il prezzo è ragionevole.,"giusto, moderato",,ragionevole
+adjective,cost,overpriced,costing more than it should,troppo caro,TROH-poh KAH-roh,singular,,masculine,3,adjective,,The coffee is overpriced.,Il caffè è troppo caro.,"esagerato, alto",,troppo caro
+adjective,cost,overpriced,costing more than it should,troppo cara,TROH-poh KAH-rah,singular,,feminine,3,adjective,,The pizza is overpriced.,La pizza è troppo cara.,"esagerata, alta",,troppo caro

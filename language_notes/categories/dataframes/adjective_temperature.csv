@@ -1,45 +1,45 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-adjective,temperature,hot,having a high temperature,caldo,KAHL-DOH,singular,n/a,masculine,1,adjective,n/a,The coffee is hot.,Il caffè è caldo.,"bollente,rovente",n/a
-adjective,temperature,hot,having a high temperature,calda,KAHL-DAH,singular,n/a,feminine,1,adjective,n/a,The day is hot.,La giornata è calda.,"bollente,rovente",n/a
-adjective,temperature,hot,having a high temperature,caldi,KAHL-DEE,plural,n/a,masculine,1,adjective,n/a,The days are hot.,I giorni sono caldi.,"bollente,rovente",n/a
-adjective,temperature,hot,having a high temperature,calde,KAHL-DEH,plural,n/a,feminine,1,adjective,n/a,The nights are hot.,Le notti sono calde.,"bollente,rovente",n/a
-adjective,temperature,warm,moderately hot,tiepido,TYEH-PEE-DOH,singular,n/a,masculine,1,adjective,n/a,The coffee is warm.,Il caffè è tiepido.,"caldo,temperato",n/a
-adjective,temperature,warm,moderately hot,tiepida,TYEH-PEE-DAH,singular,n/a,feminine,1,adjective,n/a,The day is warm.,La giornata è tiepida.,"caldo,temperato",n/a
-adjective,temperature,warm,moderately hot,tiepidi,TYEH-PEE-DEE,plural,n/a,masculine,1,adjective,n/a,The days are warm.,I giorni sono tiepidi.,"caldo,temperato",n/a
-adjective,temperature,warm,moderately hot,tiepide,TYEH-PEE-DEH,plural,n/a,feminine,1,adjective,n/a,The nights are warm.,Le notti sono tiepide.,"caldo,temperato",n/a
-adjective,temperature,cold,having a low temperature,freddo,FREHD-DOH,singular,n/a,masculine,1,adjective,n/a,The coffee is cold.,Il caffè è freddo.,"gelido,ghiacciato",n/a
-adjective,temperature,cold,having a low temperature,fredda,FREHD-DAH,singular,n/a,feminine,1,adjective,n/a,The day is cold.,La giornata è fredda.,"gelido,ghiacciato",n/a
-adjective,temperature,cold,having a low temperature,freddi,FREHD-DEE,plural,n/a,masculine,1,adjective,n/a,The days are cold.,I giorni sono freddi.,"gelido,ghiacciato",n/a
-adjective,temperature,cold,having a low temperature,fredde,FREHD-DEH,plural,n/a,feminine,1,adjective,n/a,The nights are cold.,Le notti sono fredde.,"gelido,ghiacciato",n/a
-adjective,temperature,cool,slightly cold,fresco,FREHS-KOH,singular,n/a,masculine,1,adjective,n/a,The coffee is cool.,Il caffè è fresco.,"tiepido,temperato",n/a
-adjective,temperature,cool,slightly cold,fresca,FREHS-KAH,singular,n/a,feminine,1,adjective,n/a,The day is cool.,La giornata è fresca.,"tiepido,temperato",n/a
-adjective,temperature,cool,slightly cold,freschi,FREHS-KEE,plural,n/a,masculine,1,adjective,n/a,The days are cool.,I giorni sono freschi.,"tiepido,temperato",n/a
-adjective,temperature,cool,slightly cold,fresche,FREHS-KEH,plural,n/a,feminine,1,adjective,n/a,The nights are cool.,Le notti sono fresche.,"tiepido,temperato",n/a
-adjective,temperature,freezing,extremely cold,gelido,JEH-LEE-DOH,singular,n/a,masculine,2,adjective,n/a,The coffee is freezing.,Il caffè è gelido.,"ghiacciato,glaciale",n/a
-adjective,temperature,freezing,extremely cold,gelida,JEH-LEE-DAH,singular,n/a,feminine,2,adjective,n/a,The day is freezing.,La giornata è gelida.,"ghiacciato,glaciale",n/a
-adjective,temperature,freezing,extremely cold,gelidi,JEH-LEE-DEE,plural,n/a,masculine,2,adjective,n/a,The days are freezing.,I giorni sono gelidi.,"ghiacciato,glaciale",n/a
-adjective,temperature,freezing,extremely cold,gelide,JEH-LEE-DEH,plural,n/a,feminine,2,adjective,n/a,The nights are freezing.,Le notti sono gelide.,"ghiacciato,glaciale",n/a
-adjective,temperature,icy,frozen or very cold,ghiacciato,GEE-AH-CHAH-TOH,singular,n/a,masculine,2,adjective,n/a,The coffee is icy.,Il caffè è ghiacciato.,"gelido,glaciale",n/a
-adjective,temperature,icy,frozen or very cold,ghiacciata,GEE-AH-CHAH-TAH,singular,n/a,feminine,2,adjective,n/a,The day is icy.,La giornata è ghiacciata.,"gelido,glaciale",n/a
-adjective,temperature,icy,frozen or very cold,ghiacciati,GEE-AH-CHAH-TEE,plural,n/a,masculine,2,adjective,n/a,The days are icy.,I giorni sono ghiacciati.,"gelido,glaciale",n/a
-adjective,temperature,icy,frozen or very cold,ghiacciate,GEE-AH-CHAH-TEH,plural,n/a,feminine,2,adjective,n/a,The nights are icy.,Le notti sono ghiacciate.,"gelido,glaciale",n/a
-adjective,temperature,sweltering,uncomfortably hot and humid,afoso,AH-FOH-SOH,singular,n/a,masculine,2,adjective,n/a,The coffee is sweltering.,Il caffè è afoso.,"torrido,rovente",n/a
-adjective,temperature,sweltering,uncomfortably hot and humid,afosa,AH-FOH-SAH,singular,n/a,feminine,2,adjective,n/a,The day is sweltering.,La giornata è afosa.,"torrido,rovente",n/a
-adjective,temperature,sweltering,uncomfortably hot and humid,afosi,AH-FOH-SEE,plural,n/a,masculine,2,adjective,n/a,The days are sweltering.,I giorni sono afosi.,"torrido,rovente",n/a
-adjective,temperature,sweltering,uncomfortably hot and humid,afose,AH-FOH-SEH,plural,n/a,feminine,2,adjective,n/a,The nights are sweltering.,Le notti sono afose.,"torrido,rovente",n/a
-adjective,temperature,blistering,intensely hot,torrido,TOR-REE-DOH,singular,n/a,masculine,3,adjective,n/a,The coffee is blistering.,Il caffè è torrido.,"rovente,bollente",n/a
-adjective,temperature,blistering,intensely hot,torrida,TOR-REE-DAH,singular,n/a,feminine,3,adjective,n/a,The day is blistering.,La giornata è torrida.,"rovente,bollente",n/a
-adjective,temperature,blistering,intensely hot,torridi,TOR-REE-DEE,plural,n/a,masculine,3,adjective,n/a,The days are blistering.,I giorni sono torridi.,"rovente,bollente",n/a
-adjective,temperature,blistering,intensely hot,torride,TOR-REE-DEH,plural,n/a,feminine,3,adjective,n/a,The nights are blistering.,Le notti sono torride.,"rovente,bollente",n/a
-adjective,temperature,temperate,moderate in temperature,temperato,TEM-PEH-RAH-TOH,singular,n/a,masculine,2,adjective,n/a,The coffee is temperate.,Il caffè è temperato.,"mite,tiepido",n/a
-adjective,temperature,temperate,moderate in temperature,temperata,TEM-PEH-RAH-TAH,singular,n/a,feminine,2,adjective,n/a,The day is temperate.,La giornata è temperata.,"mite,tiepido",n/a
-adjective,temperature,temperate,moderate in temperature,temperati,TEM-PEH-RAH-TEE,plural,n/a,masculine,2,adjective,n/a,The days are temperate.,I giorni sono temperati.,"mite,tiepido",n/a
-adjective,temperature,temperate,moderate in temperature,temperate,TEM-PEH-RAH-TEH,plural,n/a,feminine,2,adjective,n/a,The nights are temperate.,Le notti sono temperate.,"mite,tiepido",n/a
-adjective,temperature,mild,neither hot nor cold,mite,MEE-TEH,singular,n/a,n/a,1,adjective,n/a,The water is mild.,L'acqua è mite.,"temperato,tiepido",n/a
-adjective,temperature,mild,neither hot nor cold,miti,MEE-TEE,plural,n/a,n/a,1,adjective,n/a,The liquids are mild.,I liquidi sono miti.,"temperato,tiepido",n/a
-adjective,temperature,boiling,extremely hot (boiling),bollente,BOHL-LEHN-TEH,singular,n/a,n/a,1,adjective,n/a,The water is boiling.,L'acqua è bollente.,"caldissimo,rovente",n/a
-adjective,temperature,boiling,extremely hot (boiling),bollenti,BOHL-LEHN-TEE,plural,n/a,n/a,1,adjective,n/a,The liquids are boiling.,I liquidi sono bollenti.,"caldissimo,rovente",n/a
-adjective,temperature,scorching,extremely hot (scorching),rovente,ROH-VEHN-TEH,singular,n/a,n/a,2,adjective,n/a,The water is scorching.,L'acqua è rovente.,"bollente,torrido",n/a
-adjective,temperature,scorching,extremely hot (scorching),roventi,ROH-VEHN-TEE,plural,n/a,n/a,2,adjective,n/a,The liquids are scorching.,I liquidi sono roventi.,"bollente,torrido",n/a
-adjective,temperature,glacial,extremely cold like ice,glaciale,GLAH-CHAH-LEH,singular,n/a,n/a,3,adjective,n/a,The water is glacial.,L'acqua è glaciale.,"gelido,ghiacciato",n/a
-adjective,temperature,glacial,extremely cold like ice,glaciali,GLAH-CHAH-LEE,plural,n/a,n/a,3,adjective,n/a,The liquids are glacial.,I liquidi sono glaciali.,"gelido,ghiacciato",n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+adjective,temperature,hot,having a high temperature,caldo,KAHL-DOH,singular,,masculine,1,adjective,,The coffee is hot.,Il caffè è caldo.,"bollente,rovente",,caldo
+adjective,temperature,hot,having a high temperature,calda,KAHL-DAH,singular,,feminine,1,adjective,,The day is hot.,La giornata è calda.,"bollente,rovente",,caldo
+adjective,temperature,hot,having a high temperature,caldi,KAHL-DEE,plural,,masculine,1,adjective,,The days are hot.,I giorni sono caldi.,"bollente,rovente",,caldo
+adjective,temperature,hot,having a high temperature,calde,KAHL-DEH,plural,,feminine,1,adjective,,The nights are hot.,Le notti sono calde.,"bollente,rovente",,caldo
+adjective,temperature,warm,moderately hot,tiepido,TYEH-PEE-DOH,singular,,masculine,1,adjective,,The coffee is warm.,Il caffè è tiepido.,"caldo,temperato",,tiepido
+adjective,temperature,warm,moderately hot,tiepida,TYEH-PEE-DAH,singular,,feminine,1,adjective,,The day is warm.,La giornata è tiepida.,"caldo,temperato",,tiepido
+adjective,temperature,warm,moderately hot,tiepidi,TYEH-PEE-DEE,plural,,masculine,1,adjective,,The days are warm.,I giorni sono tiepidi.,"caldo,temperato",,tiepido
+adjective,temperature,warm,moderately hot,tiepide,TYEH-PEE-DEH,plural,,feminine,1,adjective,,The nights are warm.,Le notti sono tiepide.,"caldo,temperato",,tiepido
+adjective,temperature,cold,having a low temperature,freddo,FREHD-DOH,singular,,masculine,1,adjective,,The coffee is cold.,Il caffè è freddo.,"gelido,ghiacciato",,freddo
+adjective,temperature,cold,having a low temperature,fredda,FREHD-DAH,singular,,feminine,1,adjective,,The day is cold.,La giornata è fredda.,"gelido,ghiacciato",,freddo
+adjective,temperature,cold,having a low temperature,freddi,FREHD-DEE,plural,,masculine,1,adjective,,The days are cold.,I giorni sono freddi.,"gelido,ghiacciato",,freddo
+adjective,temperature,cold,having a low temperature,fredde,FREHD-DEH,plural,,feminine,1,adjective,,The nights are cold.,Le notti sono fredde.,"gelido,ghiacciato",,freddo
+adjective,temperature,cool,slightly cold,fresco,FREHS-KOH,singular,,masculine,1,adjective,,The coffee is cool.,Il caffè è fresco.,"tiepido,temperato",,fresco
+adjective,temperature,cool,slightly cold,fresca,FREHS-KAH,singular,,feminine,1,adjective,,The day is cool.,La giornata è fresca.,"tiepido,temperato",,fresco
+adjective,temperature,cool,slightly cold,freschi,FREHS-KEE,plural,,masculine,1,adjective,,The days are cool.,I giorni sono freschi.,"tiepido,temperato",,fresco
+adjective,temperature,cool,slightly cold,fresche,FREHS-KEH,plural,,feminine,1,adjective,,The nights are cool.,Le notti sono fresche.,"tiepido,temperato",,fresco
+adjective,temperature,freezing,extremely cold,gelido,JEH-LEE-DOH,singular,,masculine,2,adjective,,The coffee is freezing.,Il caffè è gelido.,"ghiacciato,glaciale",,gelido
+adjective,temperature,freezing,extremely cold,gelida,JEH-LEE-DAH,singular,,feminine,2,adjective,,The day is freezing.,La giornata è gelida.,"ghiacciato,glaciale",,gelido
+adjective,temperature,freezing,extremely cold,gelidi,JEH-LEE-DEE,plural,,masculine,2,adjective,,The days are freezing.,I giorni sono gelidi.,"ghiacciato,glaciale",,gelido
+adjective,temperature,freezing,extremely cold,gelide,JEH-LEE-DEH,plural,,feminine,2,adjective,,The nights are freezing.,Le notti sono gelide.,"ghiacciato,glaciale",,gelido
+adjective,temperature,icy,frozen or very cold,ghiacciato,GEE-AH-CHAH-TOH,singular,,masculine,2,adjective,,The coffee is icy.,Il caffè è ghiacciato.,"gelido,glaciale",,ghiacciato
+adjective,temperature,icy,frozen or very cold,ghiacciata,GEE-AH-CHAH-TAH,singular,,feminine,2,adjective,,The day is icy.,La giornata è ghiacciata.,"gelido,glaciale",,ghiacciato
+adjective,temperature,icy,frozen or very cold,ghiacciati,GEE-AH-CHAH-TEE,plural,,masculine,2,adjective,,The days are icy.,I giorni sono ghiacciati.,"gelido,glaciale",,ghiacciato
+adjective,temperature,icy,frozen or very cold,ghiacciate,GEE-AH-CHAH-TEH,plural,,feminine,2,adjective,,The nights are icy.,Le notti sono ghiacciate.,"gelido,glaciale",,ghiacciato
+adjective,temperature,sweltering,uncomfortably hot and humid,afoso,AH-FOH-SOH,singular,,masculine,2,adjective,,The coffee is sweltering.,Il caffè è afoso.,"torrido,rovente",,afoso
+adjective,temperature,sweltering,uncomfortably hot and humid,afosa,AH-FOH-SAH,singular,,feminine,2,adjective,,The day is sweltering.,La giornata è afosa.,"torrido,rovente",,afoso
+adjective,temperature,sweltering,uncomfortably hot and humid,afosi,AH-FOH-SEE,plural,,masculine,2,adjective,,The days are sweltering.,I giorni sono afosi.,"torrido,rovente",,afoso
+adjective,temperature,sweltering,uncomfortably hot and humid,afose,AH-FOH-SEH,plural,,feminine,2,adjective,,The nights are sweltering.,Le notti sono afose.,"torrido,rovente",,afoso
+adjective,temperature,blistering,intensely hot,torrido,TOR-REE-DOH,singular,,masculine,3,adjective,,The coffee is blistering.,Il caffè è torrido.,"rovente,bollente",,torrido
+adjective,temperature,blistering,intensely hot,torrida,TOR-REE-DAH,singular,,feminine,3,adjective,,The day is blistering.,La giornata è torrida.,"rovente,bollente",,torrido
+adjective,temperature,blistering,intensely hot,torridi,TOR-REE-DEE,plural,,masculine,3,adjective,,The days are blistering.,I giorni sono torridi.,"rovente,bollente",,torrido
+adjective,temperature,blistering,intensely hot,torride,TOR-REE-DEH,plural,,feminine,3,adjective,,The nights are blistering.,Le notti sono torride.,"rovente,bollente",,torrido
+adjective,temperature,temperate,moderate in temperature,temperato,TEM-PEH-RAH-TOH,singular,,masculine,2,adjective,,The coffee is temperate.,Il caffè è temperato.,"mite,tiepido",,temperato
+adjective,temperature,temperate,moderate in temperature,temperata,TEM-PEH-RAH-TAH,singular,,feminine,2,adjective,,The day is temperate.,La giornata è temperata.,"mite,tiepido",,temperato
+adjective,temperature,temperate,moderate in temperature,temperati,TEM-PEH-RAH-TEE,plural,,masculine,2,adjective,,The days are temperate.,I giorni sono temperati.,"mite,tiepido",,temperato
+adjective,temperature,temperate,moderate in temperature,temperate,TEM-PEH-RAH-TEH,plural,,feminine,2,adjective,,The nights are temperate.,Le notti sono temperate.,"mite,tiepido",,temperato
+adjective,temperature,mild,neither hot nor cold,mite,MEE-TEH,singular,,,1,adjective,,The water is mild.,L'acqua è mite.,"temperato,tiepido",,mite
+adjective,temperature,mild,neither hot nor cold,miti,MEE-TEE,plural,,,1,adjective,,The liquids are mild.,I liquidi sono miti.,"temperato,tiepido",,mite
+adjective,temperature,boiling,extremely hot (boiling),bollente,BOHL-LEHN-TEH,singular,,,1,adjective,,The water is boiling.,L'acqua è bollente.,"caldissimo,rovente",,bollente
+adjective,temperature,boiling,extremely hot (boiling),bollenti,BOHL-LEHN-TEE,plural,,,1,adjective,,The liquids are boiling.,I liquidi sono bollenti.,"caldissimo,rovente",,bollente
+adjective,temperature,scorching,extremely hot (scorching),rovente,ROH-VEHN-TEH,singular,,,2,adjective,,The water is scorching.,L'acqua è rovente.,"bollente,torrido",,rovente
+adjective,temperature,scorching,extremely hot (scorching),roventi,ROH-VEHN-TEE,plural,,,2,adjective,,The liquids are scorching.,I liquidi sono roventi.,"bollente,torrido",,rovente
+adjective,temperature,glacial,extremely cold like ice,glaciale,GLAH-CHAH-LEH,singular,,,3,adjective,,The water is glacial.,L'acqua è glaciale.,"gelido,ghiacciato",,glaciale
+adjective,temperature,glacial,extremely cold like ice,glaciali,GLAH-CHAH-LEE,plural,,,3,adjective,,The liquids are glacial.,I liquidi sono glaciali.,"gelido,ghiacciato",,glaciale

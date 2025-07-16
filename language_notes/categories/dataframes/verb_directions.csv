@@ -1,41 +1,41 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-verb,directions,to turn,change direction,girare,jee-RAH-reh,n/a,infinitive,n/a,1,verb,n/a,To reach the museum, you have to turn left.,Per raggiungere il museo devi girare a sinistra.,svoltare,n/a
-verb,directions,I turn,first-person present,giro,JEE-roh,n/a,present_1sg,n/a,1,verb,n/a,I turn right at the traffic light.,Giro a destra al semaforo.,svolto,n/a
-verb,directions,I turned,past completed action,ho girato,oh jee-RAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I turned too early yesterday.,Ho girato troppo presto ieri.,ho svoltato,n/a
-verb,directions,turning,ongoing action,girando,jee-RAN-doh,n/a,gerund,n/a,1,verb,n/a,Turning here you’ll see the river.,Girando qui vedrai il fiume.,svoltando,n/a
-verb,directions,to go,move from one place to another,andare,ahn-DAH-reh,n/a,infinitive,n/a,1,verb,n/a,You can go straight for two blocks.,Puoi andare dritto per due isolati.,muoversi,n/a
-verb,directions,I go,first-person present,vado,VAH-doh,n/a,present_1sg,n/a,1,verb,n/a,I go to the station every day.,Vado alla stazione ogni giorno.,mi muovo,n/a
-verb,directions,I went,past completed action,sono andato,SOH-noh ahn-DAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I went by foot last night.,Sono andato a piedi ieri sera.,mi sono mosso,n/a
-verb,directions,going,ongoing action,andando,ahn-DAN-doh,n/a,gerund,n/a,1,verb,n/a,Going straight you’ll reach the sea.,Andando sempre dritto arrivi al mare.,muovendosi,n/a
-verb,directions,to continue,carry on in same direction,continuare,con-tee-nu-AH-reh,n/a,infinitive,n/a,1,verb,n/a,Continue until you see the arch.,Continua finché vedi l'arco.,proseguire,n/a
-verb,directions,I continue,first-person present,continuo,con-TEE-nuoh,n/a,present_1sg,n/a,1,verb,n/a,I continue along this street.,Continuo lungo questa strada.,proseguo,n/a
-verb,directions,I continued,past completed action,ho continuato,oh con-tee-nu-AH-toh,n/a,past_1sg,n/a,1,verb,n/a,I continued after the bridge.,Ho continuato dopo il ponte.,ho proseguito,n/a
-verb,directions,continuing,ongoing action,continuando,con-tee-nu-AN-doh,n/a,gerund,n/a,1,verb,n/a,Continuing you’ll reach the piazza.,Continuando arrivi in piazza.,proseguendo,n/a
-verb,directions,to cross,go from one side to other,attraversare,ah-tra-ver-SAH-reh,n/a,infinitive,n/a,1,verb,n/a,Cross the street at the zebra crossing.,Attraversa la strada sulle strisce.,passare,n/a
-verb,directions,I cross,first-person present,attraverso,ah-tra-VER-soh,n/a,present_1sg,n/a,1,verb,n/a,I cross the square every morning.,Attraverso la piazza ogni mattina.,passo,n/a
-verb,directions,I crossed,past completed action,ho attraversato,oh ah-tra-ver-SAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I crossed the bridge yesterday.,Ho attraversato il ponte ieri.,ho passato,n/a
-verb,directions,crossing,ongoing action,attraversando,ah-tra-ver-SAN-doh,n/a,gerund,n/a,1,verb,n/a,Crossing the park you’ll save time.,Attraversando il parco risparmi tempo.,passando,n/a
-verb,directions,to stop,cease movement,fermarsi,fehr-MAHR-see,n/a,infinitive,n/a,1,verb,n/a,Remember to stop at the sign.,Ricorda di fermarti al cartello.,arrestarsi,n/a
-verb,directions,I stop,first-person present,mi fermo,mee FEHR-moh,n/a,present_1sg,n/a,1,verb,n/a,I stop in front of the church.,Mi fermo davanti alla chiesa.,mi arresto,n/a
-verb,directions,I stopped,past completed action,mi sono fermato,mee SOH-no fehr-MAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I stopped here last time.,Mi sono fermato qui l'ultima volta.,mi sono arrestato,n/a
-verb,directions,stopping,ongoing action,fermandomi,fehr-MAN-doh-mee,n/a,gerund,n/a,1,verb,n/a,Stopping often lets you rest.,Fermandomi spesso riesco a riposare.,arrestandomi,n/a
-verb,directions,to follow,move behind/follow route,seguire,seh-GWEE-reh,n/a,infinitive,n/a,1,verb,n/a,Please follow the main road.,Per favore segui la strada principale.,percorre,n/a
-verb,directions,I follow,first-person present,seguo,SEH-gwoh,n/a,present_1sg,n/a,1,verb,n/a,I follow the map carefully.,Seguo la mappa con attenzione.,percorro,n/a
-verb,directions,I followed,past completed action,ho seguito,oh seh-GWEE-toh,n/a,past_1sg,n/a,1,verb,n/a,I followed your instructions.,Ho seguito le tue indicazioni.,ho percorso,n/a
-verb,directions,following,ongoing action,seguendo,seh-GWEN-doh,n/a,gerund,n/a,1,verb,n/a,Following the river you’ll find the mill.,Seguendo il fiume trovi il mulino.,percorrendo,n/a
-verb,directions,to pass,go by something,oltrepassare,ol-treh-pah-SAH-reh,n/a,infinitive,n/a,2,verb,n/a,Pass the tower and turn right.,Oltrepassa la torre e gira a destra.,superare,n/a
-verb,directions,I pass,first-person present,oltrepasso,ol-treh-PAH-ssoh,n/a,present_1sg,n/a,2,verb,n/a,I pass the pharmacy every day.,Oltrepasso la farmacia ogni giorno.,supero,n/a
-verb,directions,I passed,past completed action,ho oltrepassato,oh ol-treh-pah-SAH-toh,n/a,past_1sg,n/a,2,verb,n/a,I passed the square yesterday.,Ho oltrepassato la piazza ieri.,ho superato,n/a
-verb,directions,passing,ongoing action,oltrepassando,ol-treh-pah-SAN-doh,n/a,gerund,n/a,2,verb,n/a,Passing the park you’ll see the lake.,Oltrepassando il parco vedrai il lago.,superando,n/a
-verb,directions,to enter,go inside,entrare,en-TRAH-reh,n/a,infinitive,n/a,1,verb,n/a,Enter through the side door.,Entra dalla porta laterale.,accedere,n/a
-verb,directions,I enter,first-person present,entro,EN-troh,n/a,present_1sg,n/a,1,verb,n/a,I enter the museum at ten.,Entro al museo alle dieci.,accedo,n/a
-verb,directions,I entered,past completed action,sono entrato,SOH-no en-TRAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I entered the station quickly.,Sono entrato in stazione in fretta.,sono acceduto,n/a
-verb,directions,entering,ongoing action,entrando,en-TRAN-doh,n/a,gerund,n/a,1,verb,n/a,Entering you’ll see the ticket desk.,Entrando vedrai la biglietteria.,accedendo,n/a
-verb,directions,to exit,go out,uscire,oo-SHEE-reh,n/a,infinitive,n/a,1,verb,n/a,Exit at the next stop.,Esci alla prossima fermata.,uscir fuori,n/a
-verb,directions,I exit,first-person present,esco,EH-skoh,n/a,present_1sg,n/a,1,verb,n/a,I exit the metro here.,Esco qui dalla metro.,vado fuori,n/a
-verb,directions,I exited,past completed action,sono uscito,SOH-no oo-SHEE-toh,n/a,past_1sg,n/a,1,verb,n/a,I exited on the wrong side.,Sono uscito dal lato sbagliato.,sono andato fuori,n/a
-verb,directions,exiting,ongoing action,uscendo,oo-SHEN-doh,n/a,gerund,n/a,1,verb,n/a,Exiting you’ll find the taxi rank.,Uscendo troverai i taxi.,andando fuori,n/a
-verb,directions,to look for,search,cercare,cher-KAH-reh,n/a,infinitive,n/a,1,verb,n/a,We need to look for the sign.,Dobbiamo cercare il cartello.,ricercare,n/a
-verb,directions,I look for,first-person present,cerco,CHER-koh,n/a,present_1sg,n/a,1,verb,n/a,I look for the right street.,Cerco la strada giusta.,ricerco,n/a
-verb,directions,I looked for,past completed action,ho cercato,oh cher-KAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I looked for the hotel yesterday.,Ho cercato l'hotel ieri.,ho ricercato,n/a
-verb,directions,looking for,ongoing action,cercando,cher-KAN-doh,n/a,gerund,n/a,1,verb,n/a,Looking for the church we got lost.,Cercando la chiesa ci siamo persi.,ricercando,n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+verb,directions,to turn,change direction,girare,jee-RAH-reh,,infinitive,,1,,,To reach the museum, you have to turn left.,Per raggiungere il museo devi girare a sinistra.,,girare
+verb,directions,I turn,first-person present,giro,JEE-roh,,present_1sg,,1,,,I turn right at the traffic light.,Giro a destra al semaforo.,svolto,,girare
+verb,directions,I turned,past completed action,ho girato,oh jee-RAH-toh,,past_1sg,,1,,,I turned too early yesterday.,Ho girato troppo presto ieri.,ho svoltato,,girare
+verb,directions,turning,ongoing action,girando,jee-RAN-doh,,gerund,,1,,,Turning here you’ll see the river.,Girando qui vedrai il fiume.,svoltando,,girare
+verb,directions,to go,move from one place to another,andare,ahn-DAH-reh,,infinitive,,1,,,You can go straight for two blocks.,Puoi andare dritto per due isolati.,muoversi,,andare
+verb,directions,I go,first-person present,vado,VAH-doh,,present_1sg,,1,,,I go to the station every day.,Vado alla stazione ogni giorno.,mi muovo,,andare
+verb,directions,I went,past completed action,sono andato,SOH-noh ahn-DAH-toh,,past_1sg,,1,,,I went by foot last night.,Sono andato a piedi ieri sera.,mi sono mosso,,andare
+verb,directions,going,ongoing action,andando,ahn-DAN-doh,,gerund,,1,,,Going straight you’ll reach the sea.,Andando sempre dritto arrivi al mare.,muovendosi,,andare
+verb,directions,to continue,carry on in same direction,continuare,con-tee-nu-AH-reh,,infinitive,,1,,,Continue until you see the arch.,Continua finché vedi l'arco.,proseguire,,continuare
+verb,directions,I continue,first-person present,continuo,con-TEE-nuoh,,present_1sg,,1,,,I continue along this street.,Continuo lungo questa strada.,proseguo,,continuare
+verb,directions,I continued,past completed action,ho continuato,oh con-tee-nu-AH-toh,,past_1sg,,1,,,I continued after the bridge.,Ho continuato dopo il ponte.,ho proseguito,,oh
+verb,directions,continuing,ongoing action,continuando,con-tee-nu-AN-doh,,gerund,,1,,,Continuing you’ll reach the piazza.,Continuando arrivi in piazza.,proseguendo,,continuando
+verb,directions,to cross,go from one side to other,attraversare,ah-tra-ver-SAH-reh,,infinitive,,1,,,Cross the street at the zebra crossing.,Attraversa la strada sulle strisce.,passare,,attraversare
+verb,directions,I cross,first-person present,attraverso,ah-tra-VER-soh,,present_1sg,,1,,,I cross the square every morning.,Attraverso la piazza ogni mattina.,passo,,attraversare
+verb,directions,I crossed,past completed action,ho attraversato,oh ah-tra-ver-SAH-toh,,past_1sg,,1,,,I crossed the bridge yesterday.,Ho attraversato il ponte ieri.,ho passato,,oh
+verb,directions,crossing,ongoing action,attraversando,ah-tra-ver-SAN-doh,,gerund,,1,,,Crossing the park you’ll save time.,Attraversando il parco risparmi tempo.,passando,,attraversando
+verb,directions,to stop,cease movement,fermarsi,fehr-MAHR-see,,infinitive,,1,,,Remember to stop at the sign.,Ricorda di fermarti al cartello.,arrestarsi,,fermarsi
+verb,directions,I stop,first-person present,mi fermo,mee FEHR-moh,,present_1sg,,1,,,I stop in front of the church.,Mi fermo davanti alla chiesa.,mi arresto,,meare
+verb,directions,I stopped,past completed action,mi sono fermato,mee SOH-no fehr-MAH-toh,,past_1sg,,1,,,I stopped here last time.,Mi sono fermato qui l'ultima volta.,mi sono arrestato,,meare
+verb,directions,stopping,ongoing action,fermandomi,fehr-MAN-doh-mee,,gerund,,1,,,Stopping often lets you rest.,Fermandomi spesso riesco a riposare.,arrestandomi,,fermandomi
+verb,directions,to follow,move behind/follow route,seguire,seh-GWEE-reh,,infinitive,,1,,,Please follow the main road.,Per favore segui la strada principale.,percorre,,seguire
+verb,directions,I follow,first-person present,seguo,SEH-gwoh,,present_1sg,,1,,,I follow the map carefully.,Seguo la mappa con attenzione.,percorro,,seguare
+verb,directions,I followed,past completed action,ho seguito,oh seh-GWEE-toh,,past_1sg,,1,,,I followed your instructions.,Ho seguito le tue indicazioni.,ho percorso,,oh
+verb,directions,following,ongoing action,seguendo,seh-GWEN-doh,,gerund,,1,,,Following the river you’ll find the mill.,Seguendo il fiume trovi il mulino.,percorrendo,,seguendo
+verb,directions,to pass,go by something,oltrepassare,ol-treh-pah-SAH-reh,,infinitive,,2,,,Pass the tower and turn right.,Oltrepassa la torre e gira a destra.,superare,,oltrepassare
+verb,directions,I pass,first-person present,oltrepasso,ol-treh-PAH-ssoh,,present_1sg,,2,,,I pass the pharmacy every day.,Oltrepasso la farmacia ogni giorno.,supero,,oltrepassare
+verb,directions,I passed,past completed action,ho oltrepassato,oh ol-treh-pah-SAH-toh,,past_1sg,,2,,,I passed the square yesterday.,Ho oltrepassato la piazza ieri.,ho superato,,oh
+verb,directions,passing,ongoing action,oltrepassando,ol-treh-pah-SAN-doh,,gerund,,2,,,Passing the park you’ll see the lake.,Oltrepassando il parco vedrai il lago.,superando,,oltrepassando
+verb,directions,to enter,go inside,entrare,en-TRAH-reh,,infinitive,,1,,,Enter through the side door.,Entra dalla porta laterale.,accedere,,entrare
+verb,directions,I enter,first-person present,entro,EN-troh,,present_1sg,,1,,,I enter the museum at ten.,Entro al museo alle dieci.,accedo,,entrare
+verb,directions,I entered,past completed action,sono entrato,SOH-no en-TRAH-toh,,past_1sg,,1,,,I entered the station quickly.,Sono entrato in stazione in fretta.,sono acceduto,,soh-nare
+verb,directions,entering,ongoing action,entrando,en-TRAN-doh,,gerund,,1,,,Entering you’ll see the ticket desk.,Entrando vedrai la biglietteria.,accedendo,,entrando
+verb,directions,to exit,go out,uscire,oo-SHEE-reh,,infinitive,,1,,,Exit at the next stop.,Esci alla prossima fermata.,uscir fuori,,uscire
+verb,directions,I exit,first-person present,esco,EH-skoh,,present_1sg,,1,,,I exit the metro here.,Esco qui dalla metro.,vado fuori,,escare
+verb,directions,I exited,past completed action,sono uscito,SOH-no oo-SHEE-toh,,past_1sg,,1,,,I exited on the wrong side.,Sono uscito dal lato sbagliato.,sono andato fuori,,soh-nare
+verb,directions,exiting,ongoing action,uscendo,oo-SHEN-doh,,gerund,,1,,,Exiting you’ll find the taxi rank.,Uscendo troverai i taxi.,andando fuori,,uscendo
+verb,directions,to look for,search,cercare,cher-KAH-reh,,infinitive,,1,,,We need to look for the sign.,Dobbiamo cercare il cartello.,ricercare,,cercare
+verb,directions,I look for,first-person present,cerco,CHER-koh,,present_1sg,,1,,,I look for the right street.,Cerco la strada giusta.,ricerco,,cercare
+verb,directions,I looked for,past completed action,ho cercato,oh cher-KAH-toh,,past_1sg,,1,,,I looked for the hotel yesterday.,Ho cercato l'hotel ieri.,ho ricercato,,oh
+verb,directions,looking for,ongoing action,cercando,cher-KAN-doh,,gerund,,1,,,Looking for the church we got lost.,Cercando la chiesa ci siamo persi.,ricercando,,cercando

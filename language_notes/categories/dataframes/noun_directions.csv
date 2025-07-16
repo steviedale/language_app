@@ -1,60 +1,58 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-noun,directions,a corner,a point where two streets meet,un angolo,oon AN-goh-lo,singular,n/a,masculine,1,noun,n/a,"There's a corner just ahead.","C'è un angolo proprio avanti.","spigolo",indefinite
-noun,directions,the corner,a point where two streets meet,l'angolo,LAN-goh-lo,singular,n/a,masculine,1,noun,n/a,"The corner is very sharp.","L'angolo è molto stretto.","spigolo",definite
-noun,directions,the corners,points where two streets meet,gli angoli,lyee AN-goh-lee,plural,n/a,masculine,1,noun,n/a,"The corners of the building are rounded.","Gli angoli dell’edificio sono arrotondati.","spigolo",definite
-noun,directions,an intersection,a place where roads cross,un incrocio,oon in-KROH-cho,singular,n/a,masculine,1,noun,n/a,"Meet me at an intersection near the station.","Incontrami a un incrocio vicino alla stazione.","bivio",indefinite
-noun,directions,the intersection,a place where roads cross,l'incrocio,lin-KROH-cho,singular,n/a,masculine,1,noun,n/a,"The intersection has a traffic light.","L'incrocio ha un semaforo.","bivio",definite
-noun,directions,the intersections,places where roads cross,gli incroci,lyee in-KROH-chee,plural,n/a,masculine,1,noun,n/a,"The intersections are marked clearly.","Gli incroci sono segnalati chiaramente.","bivio",definite
-noun,directions,a roundabout,a circular intersection,una rotonda,OO-nah roh-TON-dah,singular,n/a,feminine,2,noun,n/a,"Take the first exit at a roundabout.","Prendi la prima uscita a una rotonda.","rotatoria",indefinite
-noun,directions,the roundabout,a circular intersection,la rotonda,lah roh-TON-dah,singular,n/a,feminine,2,noun,n/a,"The roundabout is busy at rush hour.","La rotonda è affollata nell'ora di punta.","rotatoria",definite
-noun,directions,the roundabouts,circular intersections,le rotonde,leh roh-TON-deh,plural,n/a,feminine,3,noun,n/a,"The roundabouts in Rome can be tricky.","Le rotonde a Roma possono essere complicate.","rotatoria",definite
-noun,directions,a bridge,a structure over water or road,un ponte,oon PON-teh,singular,n/a,masculine,1,noun,n/a,"There's a bridge over the river.","C'è un ponte sul fiume.","viadotto",indefinite
-noun,directions,the bridge,a structure over water or road,il ponte,eel PON-teh,singular,n/a,masculine,1,noun,n/a,"The bridge is closed tonight.","Il ponte è chiuso stasera.","viadotto",definite
-noun,directions,the bridges,structures over water or roads,i ponti,ee PON-tee,plural,n/a,masculine,1,noun,n/a,"The bridges are lit at night.","I ponti sono illuminati di notte.","viadotto",definite
-noun,directions,a tunnel,an underground passage,un tunnel,oon TOON-nel,singular,n/a,masculine,2,noun,n/a,"We will pass through a tunnel.","Passeremo attraverso un tunnel.","galleria",indefinite
-noun,directions,the tunnel,an underground passage,il tunnel,eel TOON-nel,singular,n/a,masculine,2,noun,n/a,"The tunnel is very long.","Il tunnel è molto lungo.","galleria",definite
-noun,directions,the tunnels,underground passages,i tunnel,ee TOON-nel,plural,n/a,masculine,2,noun,n/a,"The tunnels were built in the 60s.","I tunnel sono stati costruiti negli anni Sessanta.","galleria",definite
-noun,directions,a street,a public road in a city,una strada,OO-nah STRAH-dah,singular,n/a,feminine,1,noun,n/a,"We walked down a narrow street.","Abbiamo camminato in una strada stretta.","via",indefinite
-noun,directions,the street,a public road in a city,la strada,lah STRAH-dah,singular,n/a,feminine,1,noun,n/a,"The street is closed for the market.","La strada è chiusa per il mercato.","via",definite
-noun,directions,the streets,public roads in a city,le strade,leh STRAH-deh,plural,n/a,feminine,1,noun,n/a,"The streets are crowded today.","Le strade sono affollate oggi.","via",definite
-noun,directions,an avenue,a wide city street,un viale,oon vee-AH-leh,singular,n/a,masculine,2,noun,n/a,"We are staying on an avenue with trees.","Alloggiamo in un viale alberato.","corso",indefinite
-noun,directions,the avenue,a wide city street,il viale,eel vee-AH-leh,singular,n/a,masculine,2,noun,n/a,"The avenue leads to the park.","Il viale porta al parco.","corso",definite
-noun,directions,the avenues,wide city streets,i viali,ee vee-AH-lee,plural,n/a,masculine,3,noun,n/a,"The avenues are beautifully lit at night.","I viali sono splendidamente illuminati di notte.","corso",definite
-noun,directions,a square,an open public space,una piazza,OO-nah PYAHT-tsah,singular,n/a,feminine,1,noun,n/a,"Let's meet at a square in the center.","Incontriamoci in una piazza del centro.","largo",indefinite
-noun,directions,the square,an open public space,la piazza,lah PYAHT-tsah,singular,n/a,feminine,1,noun,n/a,"The square is full of cafés.","La piazza è piena di caffè.","largo",definite
-noun,directions,the squares,open public spaces,le piazze,leh PYAHT-tseh,plural,n/a,feminine,1,noun,n/a,"The squares are lively at night.","Le piazze sono vivaci di notte.","largo",definite
-noun,directions,a block,an area between streets,un isolato,oon ee-zo-LAH-toh,singular,n/a,masculine,2,noun,n/a,"The hotel is a block away.","L'hotel è a un isolato di distanza.","quartiere",indefinite
-noun,directions,the block,an area between streets,l'isolato,lee-zo-LAH-toh,singular,n/a,masculine,2,noun,n/a,"The block is quiet at night.","L'isolato è tranquillo di notte.","quartiere",definite
-noun,directions,the blocks,areas between streets,gli isolati,lyee ee-zo-LAH-tee,plural,n/a,masculine,2,noun,n/a,"The blocks here are small.","Gli isolati qui sono piccoli.","quartiere",definite
-noun,directions,a sign,a posted direction or instruction,un segnale,oon seh-NYAH-leh,singular,n/a,masculine,1,noun,n/a,"I don't see a sign for the museum.","Non vedo un segnale per il museo.","cartello",indefinite
-noun,directions,the sign,a posted direction or instruction,il segnale,eel seh-NYAH-leh,singular,n/a,masculine,1,noun,n/a,"The sign is very clear.","Il segnale è molto chiaro.","cartello",definite
-noun,directions,the signs,posted directions or instructions,i segnali,ee seh-NYAH-lee,plural,n/a,masculine,1,noun,n/a,"The signs point to the center.","I segnali indicano il centro.","cartello",definite
-noun,directions,a stop,a designated stopping point,una fermata,OO-nah fehr-MAH-tah,singular,n/a,feminine,1,noun,n/a,"Is there a stop nearby?","C'è una fermata qui vicino?","capolinea",indefinite
-noun,directions,the stop,a designated stopping point,la fermata,lah fehr-MAH-tah,singular,n/a,feminine,1,noun,n/a,"The stop is in front of the hotel.","La fermata è davanti all'hotel.","capolinea",definite
-noun,directions,the stops,designated stopping points,le fermate,leh fehr-MAH-teh,plural,n/a,feminine,1,noun,n/a,"The stops are well marked.","Le fermate sono ben segnalate.","capolinea",definite
-noun,directions,an entrance,way into a place,un ingresso,oon een-GRES-soh,singular,n/a,masculine,1,noun,n/a,"We found an entrance on the side.","Abbiamo trovato un ingresso sul lato.","entrata",indefinite
-noun,directions,the entrance,way into a place,l'ingresso,leen-GRES-soh,singular,n/a,masculine,1,noun,n/a,"The entrance is at the front.","L'ingresso è sul davanti.","entrata",definite
-noun,directions,the entrances,ways into a place,gli ingressi,lyee in-GRES-see,plural,n/a,masculine,2,noun,n/a,"The entrances are closed at night.","Gli ingressi sono chiusi di notte.","entrata",definite
-noun,directions,an exit,way out of a place,un'uscita,oon oo-SHEE-tah,singular,n/a,feminine,1,noun,n/a,"Look for an exit sign.","Cerca un'uscita.","uscita di sicurezza",indefinite
-noun,directions,the exit,way out of a place,l'uscita,lo͜o-SHEE-tah,singular,n/a,feminine,1,noun,n/a,"The exit is to the right.","L'uscita è a destra.","uscita di sicurezza",definite
-noun,directions,the exits,ways out of a place,le uscite,leh oo-SHEE-teh,plural,n/a,feminine,2,noun,n/a,"The exits are clearly marked.","Le uscite sono chiaramente indicate.","uscita di sicurezza",definite
-noun,directions,a traffic light,a road signal with colored lights,un semaforo,oon seh-MAH-foh-roh,singular,n/a,masculine,1,noun,n/a,"Stop at a traffic light.","Fermati a un semaforo.","luce",indefinite
-noun,directions,the traffic light,a road signal with colored lights,il semaforo,eel seh-MAH-foh-roh,singular,n/a,masculine,1,noun,n/a,"The traffic light is red.","Il semaforo è rosso.","luce",definite
-noun,directions,the traffic lights,road signals with colored lights,i semafori,ee seh-MAH-foh-ree,plural,n/a,masculine,1,noun,n/a,"The traffic lights are synchronized.","I semafori sono sincronizzati.","luce",definite
-noun,directions,a turn,a change of direction,una svolta,OO-nah SVOL-tah,singular,n/a,feminine,2,noun,n/a,"Take a turn after the pharmacy.","Fai una svolta dopo la farmacia.","curva",indefinite
-noun,directions,the turn,a change of direction,la svolta,lah SVOL-tah,singular,n/a,feminine,2,noun,n/a,"The turn is very sharp.","La svolta è molto stretta.","curva",definite
-noun,directions,the turns,changes of direction,le svolte,leh SVOL-teh,plural,n/a,feminine,3,noun,n/a,"The turns on this road are dangerous.","Le svolte su questa strada sono pericolose.","curva",definite
-noun,directions,the north,the direction toward the top of maps,il nord,EEL NORD,singular,n/a,masculine,1,noun,n/a,"The north is colder.","Il nord è più freddo.","settentrione",definite
-noun,directions,a north,any northern direction,un nord,oon NORD,singular,n/a,masculine,3,noun,n/a,"A north wind is blowing.","Soffia un nord.","settentrione",indefinite
-noun,directions,the south,the direction opposite north,il sud,EEL SOOD,singular,n/a,masculine,1,noun,n/a,"The south is warmer.","Il sud è più caldo.","meridione",definite
-noun,directions,a south,any southern direction,un sud,oon SOOD,singular,n/a,masculine,3,noun,n/a,"They drove toward a south.","Hanno guidato verso un sud.","meridione",indefinite
-noun,directions,the east,the direction where the sun rises,l'est,LEST,singular,n/a,masculine,1,noun,n/a,"The east gets morning light.","L'est prende la luce del mattino.","oriente",definite
-noun,directions,an east,any eastern direction,un est,oon EHST,singular,n/a,masculine,3,noun,n/a,"A soft breeze came from an east.","Arrivava una brezza da un est.","oriente",indefinite
-noun,directions,the west,the direction opposite east,l'ovest,LOH-vest,singular,n/a,masculine,1,noun,n/a,"The west shows beautiful sunsets.","L'ovest mostra splendidi tramonti.","occidente",definite
-noun,directions,a west,any western direction,un ovest,oon OH-vest,singular,n/a,masculine,3,noun,n/a,"Clouds move from a west.","Le nuvole arrivano da un ovest.","occidente",indefinite
-noun,directions,a left,the direction opposite right,una sinistra,OO-nah see-NEE-strah,singular,n/a,feminine,2,noun,n/a,"Take a left after the bank.","Prendi una sinistra dopo la banca.","mancina",indefinite
-noun,directions,the left,the direction opposite right,la sinistra,lah see-NEE-strah,singular,n/a,feminine,1,noun,n/a,"The left is blocked.","La sinistra è bloccata.","mancina",definite
-noun,directions,the lefts,left sides or directions,le sinistre,leh see-NEE-streh,plural,n/a,feminine,3,noun,n/a,"The lefts on this map are marked in red.","Le sinistre su questa mappa sono segnate in rosso.","mancina",definite
-noun,directions,a right,the direction opposite left,una destra,OO-nah DES-trah,singular,n/a,feminine,2,noun,n/a,"Take a right at the church.","Prendi una destra alla chiesa.","manodextra",indefinite
-noun,directions,the right,the direction opposite left,la destra,lah DES-trah,singular,n/a,feminine,1,noun,n/a,"The right is clear.","La destra è libera.","manodextra",definite
-noun,directions,the rights,right sides or directions,le destre,leh DES-treh,plural,n/a,feminine,3,noun,n/a,"The rights are easier to navigate.","Le destre sono più facili da percorrere.","manodextra",definite
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+noun,directions,a corner,a point where two streets meet,un angolo,oon AN-goh-lo,singular,,masculine,1,noun,,There's a corner just ahead.,C'è un angolo proprio avanti.,spigolo,indefinite,angolo
+noun,directions,the corner,a point where two streets meet,l'angolo,LAN-goh-lo,singular,,masculine,1,noun,,The corner is very sharp.,L'angolo è molto stretto.,spigolo,definite,angolo
+noun,directions,the corners,points where two streets meet,gli angoli,lyee AN-goh-lee,plural,,masculine,1,noun,,The corners of the building are rounded.,Gli angoli dell’edificio sono arrotondati.,spigolo,definite,angolo
+noun,directions,an intersection,a place where roads cross,un incrocio,oon in-KROH-cho,singular,,masculine,1,noun,,Meet me at an intersection near the station.,Incontrami a un incrocio vicino alla stazione.,bivio,indefinite,incrocio
+noun,directions,the intersection,a place where roads cross,l'incrocio,lin-KROH-cho,singular,,masculine,1,noun,,The intersection has a traffic light.,L'incrocio ha un semaforo.,bivio,definite,incrocio
+noun,directions,the intersections,places where roads cross,gli incroci,lyee in-KROH-chee,plural,,masculine,1,noun,,The intersections are marked clearly.,Gli incroci sono segnalati chiaramente.,bivio,definite,incroci
+noun,directions,a roundabout,a circular intersection,una rotonda,OO-nah roh-TON-dah,singular,,feminine,2,noun,,Take the first exit at a roundabout.,Prendi la prima uscita a una rotonda.,rotatoria,indefinite,rotonda
+noun,directions,the roundabout,a circular intersection,la rotonda,lah roh-TON-dah,singular,,feminine,2,noun,,The roundabout is busy at rush hour.,La rotonda è affollata nell'ora di punta.,rotatoria,definite,rotonda
+noun,directions,the roundabouts,circular intersections,le rotonde,leh roh-TON-deh,plural,,feminine,3,noun,,The roundabouts in Rome can be tricky.,Le rotonde a Roma possono essere complicate.,rotatoria,definite,rotonde
+noun,directions,a bridge,a structure over water or road,un ponte,oon PON-teh,singular,,masculine,1,noun,,There's a bridge over the river.,C'è un ponte sul fiume.,viadotto,indefinite,ponte
+noun,directions,the bridge,a structure over water or road,il ponte,eel PON-teh,singular,,masculine,1,noun,,The bridge is closed tonight.,Il ponte è chiuso stasera.,viadotto,definite,ponte
+noun,directions,the bridges,structures over water or roads,i ponti,ee PON-tee,plural,,masculine,1,noun,,The bridges are lit at night.,I ponti sono illuminati di notte.,viadotto,definite,ponti
+noun,directions,a tunnel,an underground passage,un tunnel,oon TOON-nel,singular,,masculine,2,noun,,We will pass through a tunnel.,Passeremo attraverso un tunnel.,galleria,indefinite,tunnel
+noun,directions,the tunnel,an underground passage,il tunnel,eel TOON-nel,singular,,masculine,2,noun,,The tunnel is very long.,Il tunnel è molto lungo.,galleria,definite,tunnel
+noun,directions,the tunnels,underground passages,i tunnel,ee TOON-nel,plural,,masculine,2,noun,,The tunnels were built in the 60s.,I tunnel sono stati costruiti negli anni Sessanta.,galleria,definite,tunnel
+noun,directions,a street,a public road in a city,una strada,OO-nah STRAH-dah,singular,,feminine,1,noun,,We walked down a narrow street.,Abbiamo camminato in una strada stretta.,via,indefinite,strada
+noun,directions,the street,a public road in a city,la strada,lah STRAH-dah,singular,,feminine,1,noun,,The street is closed for the market.,La strada è chiusa per il mercato.,via,definite,strada
+noun,directions,the streets,public roads in a city,le strade,leh STRAH-deh,plural,,feminine,1,noun,,The streets are crowded today.,Le strade sono affollate oggi.,via,definite,strada
+noun,directions,an avenue,a wide city street,un viale,oon vee-AH-leh,singular,,masculine,2,noun,,We are staying on an avenue with trees.,Alloggiamo in un viale alberato.,corso,indefinite,viale
+noun,directions,the avenue,a wide city street,il viale,eel vee-AH-leh,singular,,masculine,2,noun,,The avenue leads to the park.,Il viale porta al parco.,corso,definite,viale
+noun,directions,the avenues,wide city streets,i viali,ee vee-AH-lee,plural,,masculine,3,noun,,The avenues are beautifully lit at night.,I viali sono splendidamente illuminati di notte.,corso,definite,viali
+noun,directions,a square,an open public space,una piazza,OO-nah PYAHT-tsah,singular,,feminine,1,noun,,Let's meet at a square in the center.,Incontriamoci in una piazza del centro.,largo,indefinite,piazza
+noun,directions,the square,an open public space,la piazza,lah PYAHT-tsah,singular,,feminine,1,noun,,The square is full of cafés.,La piazza è piena di caffè.,largo,definite,piazza
+noun,directions,the squares,open public spaces,le piazze,leh PYAHT-tseh,plural,,feminine,1,noun,,The squares are lively at night.,Le piazze sono vivaci di notte.,largo,definite,piazza
+noun,directions,a block,an area between streets,un isolato,oon ee-zo-LAH-toh,singular,,masculine,2,noun,,The hotel is a block away.,L'hotel è a un isolato di distanza.,quartiere,indefinite,isolato
+noun,directions,the block,an area between streets,l'isolato,lee-zo-LAH-toh,singular,,masculine,2,noun,,The block is quiet at night.,L'isolato è tranquillo di notte.,quartiere,definite,isolato
+noun,directions,the blocks,areas between streets,gli isolati,lyee ee-zo-LAH-tee,plural,,masculine,2,noun,,The blocks here are small.,Gli isolati qui sono piccoli.,quartiere,definite,isolato
+noun,directions,a sign,a posted direction or instruction,un segnale,oon seh-NYAH-leh,singular,,masculine,1,noun,,I don't see a sign for the museum.,Non vedo un segnale per il museo.,cartello,indefinite,segnale
+noun,directions,the sign,a posted direction or instruction,il segnale,eel seh-NYAH-leh,singular,,masculine,1,noun,,The sign is very clear.,Il segnale è molto chiaro.,cartello,definite,segnale
+noun,directions,the signs,posted directions or instructions,i segnali,ee seh-NYAH-lee,plural,,masculine,1,noun,,The signs point to the center.,I segnali indicano il centro.,cartello,definite,segnale
+noun,directions,a stop,a designated stopping point,una fermata,OO-nah fehr-MAH-tah,singular,,feminine,1,noun,,Is there a stop nearby?,C'è una fermata qui vicino?,capolinea,indefinite,fermata
+noun,directions,the stop,a designated stopping point,la fermata,lah fehr-MAH-tah,singular,,feminine,1,noun,,The stop is in front of the hotel.,La fermata è davanti all'hotel.,capolinea,definite,fermata
+noun,directions,the stops,designated stopping points,le fermate,leh fehr-MAH-teh,plural,,feminine,1,noun,,The stops are well marked.,Le fermate sono ben segnalate.,capolinea,definite,fermata
+noun,directions,an entrance,way into a place,un ingresso,oon een-GRES-soh,singular,,masculine,1,noun,,We found an entrance on the side.,Abbiamo trovato un ingresso sul lato.,entrata,indefinite,ingresso
+noun,directions,the entrance,way into a place,l'ingresso,leen-GRES-soh,singular,,masculine,1,noun,,The entrance is at the front.,L'ingresso è sul davanti.,entrata,definite,ingresso
+noun,directions,the entrances,ways into a place,gli ingressi,lyee in-GRES-see,plural,,masculine,2,noun,,The entrances are closed at night.,Gli ingressi sono chiusi di notte.,entrata,definite,ingresso
+noun,directions,an exit,way out of a place,un'uscita,oon oo-SHEE-tah,singular,,feminine,1,noun,,Look for an exit sign.,Cerca un'uscita.,uscita di sicurezza,indefinite,uscita
+noun,directions,the exit,way out of a place,l'uscita,lo͜o-SHEE-tah,singular,,feminine,1,noun,,The exit is to the right.,L'uscita è a destra.,uscita di sicurezza,definite,uscita
+noun,directions,the exits,ways out of a place,le uscite,leh oo-SHEE-teh,plural,,feminine,2,noun,,The exits are clearly marked.,Le uscite sono chiaramente indicate.,uscita di sicurezza,definite,uscita
+noun,directions,a traffic light,a road signal with colored lights,un semaforo,oon seh-MAH-foh-roh,singular,,masculine,1,noun,,Stop at a traffic light.,Fermati a un semaforo.,luce,indefinite,semaforo
+noun,directions,the traffic light,a road signal with colored lights,il semaforo,eel seh-MAH-foh-roh,singular,,masculine,1,noun,,The traffic light is red.,Il semaforo è rosso.,luce,definite,semaforo
+noun,directions,the traffic lights,road signals with colored lights,i semafori,ee seh-MAH-foh-ree,plural,,masculine,1,noun,,The traffic lights are synchronized.,I semafori sono sincronizzati.,luce,definite,semaforo
+noun,directions,a turn,a change of direction,una svolta,OO-nah SVOL-tah,singular,,feminine,2,noun,,Take a turn after the pharmacy.,Fai una svolta dopo la farmacia.,curva,indefinite,svolta
+noun,directions,the turn,a change of direction,la svolta,lah SVOL-tah,singular,,feminine,2,noun,,The turn is very sharp.,La svolta è molto stretta.,curva,definite,svolta
+noun,directions,the turns,changes of direction,le svolte,leh SVOL-teh,plural,,feminine,3,noun,,The turns on this road are dangerous.,Le svolte su questa strada sono pericolose.,curva,definite,svolta
+noun,directions,the north,the direction toward the top of maps,il nord,EEL NORD,singular,,masculine,1,noun,,The north is colder.,Il nord è più freddo.,settentrione,definite,nord
+noun,directions,a north,any northern direction,un nord,oon NORD,singular,,masculine,3,noun,,A north wind is blowing.,Soffia un nord.,settentrione,indefinite,nord
+noun,directions,the south,the direction opposite north,il sud,EEL SOOD,singular,,masculine,1,noun,,The south is warmer.,Il sud è più caldo.,meridione,definite,sud
+noun,directions,a south,any southern direction,un sud,oon SOOD,singular,,masculine,3,noun,,They drove toward a south.,Hanno guidato verso un sud.,meridione,indefinite,sud
+noun,directions,the east,the direction where the sun rises,l'est,LEST,singular,,masculine,1,noun,,The east gets morning light.,L'est prende la luce del mattino.,oriente,definite,est
+noun,directions,an east,any eastern direction,un est,oon EHST,singular,,masculine,3,noun,,A soft breeze came from an east.,Arrivava una brezza da un est.,oriente,indefinite,est
+noun,directions,the west,the direction opposite east,l'ovest,LOH-vest,singular,,masculine,1,noun,,The west shows beautiful sunsets.,L'ovest mostra splendidi tramonti.,occidente,definite,ovest
+noun,directions,a west,any western direction,un ovest,oon OH-vest,singular,,masculine,3,noun,,Clouds move from a west.,Le nuvole arrivano da un ovest.,occidente,indefinite,ovest
+noun,directions,a left,the direction opposite right,una sinistra,OO-nah see-NEE-strah,singular,,feminine,2,noun,,Take a left after the bank.,Prendi una sinistra dopo la banca.,mancina,indefinite,sinistra
+noun,directions,the left,the direction opposite right,la sinistra,lah see-NEE-strah,singular,,feminine,1,noun,,The left is blocked.,La sinistra è bloccata.,mancina,definite,sinistra
+noun,directions,a right,the direction opposite left,una destra,OO-nah DES-trah,singular,,feminine,2,noun,,Take a right at the church.,Prendi una destra alla chiesa.,manodextra,indefinite,destra
+noun,directions,the right,the direction opposite left,la destra,lah DES-trah,singular,,feminine,1,noun,,The right is clear.,La destra è libera.,manodextra,definite,destra

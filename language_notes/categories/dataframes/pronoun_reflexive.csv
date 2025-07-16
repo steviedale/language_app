@@ -1,8 +1,8 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-pronoun,reflexive,myself,first-person singular reflexive pronoun,mi,MEE,singular,n/a,n/a,1,pronoun,n/a,"I wash my hands.","Mi lavo le mani.","me",n/a
-pronoun,reflexive,yourself (informal sing.),second-person singular informal reflexive pronoun,ti,TEE,singular,n/a,n/a,1,pronoun,informal,"You wake up early.","Ti svegli presto.","te",n/a
-pronoun,reflexive,himself/herself/itself,third-person singular reflexive pronoun,si,SEE,singular,n/a,n/a,1,pronoun,n/a,"He dresses quickly.","Si veste velocemente.","sé",n/a
-pronoun,reflexive,yourself (formal sing.),formal singular reflexive pronoun,si,SEE,singular,n/a,n/a,1,pronoun,formal,"Please make yourself comfortable.","Si accomodi, per favore.","sé",n/a
-pronoun,reflexive,ourselves,first-person plural reflexive pronoun,ci,CEE,plural,n/a,n/a,1,pronoun,n/a,"We are enjoying ourselves at the museum.","Ci divertiamo al museo.","noi",n/a
-pronoun,reflexive,yourselves (plural),second-person plural reflexive pronoun,vi,VEE,plural,n/a,n/a,1,pronoun,n/a,"Sit here, please.","Vi sedete qui, per favore.","voi",n/a
-pronoun,reflexive,themselves,third-person plural reflexive pronoun,si,SEE,plural,n/a,n/a,1,pronoun,n/a,"They relax in the garden.","Si rilassano in giardino.","sé",n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+pronoun,reflexive,myself,first-person singular reflexive pronoun,mi,MEE,singular,,,1,pronoun,,I wash my hands.,Mi lavo le mani.,me,,me
+pronoun,reflexive,yourself,second-person singular informal reflexive pronoun,ti,TEE,singular,,,1,pronoun,informal,You wake up early.,Ti svegli presto.,te,,ti
+pronoun,reflexive,himself/herself/itself,third-person singular reflexive pronoun,si,SEE,singular,,,1,pronoun,,He dresses quickly.,Si veste velocemente.,sé,,sé
+pronoun,reflexive,yourself,formal singular reflexive pronoun,si,SEE,singular,,,1,pronoun,formal,Please make yourself comfortable.,"Si accomodi, per favore.",sé,,sé
+pronoun,reflexive,ourselves,first-person plural reflexive pronoun,ci,CEE,plural,,,1,pronoun,,We are enjoying ourselves at the museum.,Ci divertiamo al museo.,noi,,ci
+pronoun,reflexive,yourselves,second-person plural reflexive pronoun,vi,VEE,plural,,,1,pronoun,,"Sit here, please.","Vi sedete qui, per favore.",voi,,vi
+pronoun,reflexive,themselves,third-person plural reflexive pronoun,si,SEE,plural,,,1,pronoun,,They relax in the garden.,Si rilassano in giardino.,sé,,si

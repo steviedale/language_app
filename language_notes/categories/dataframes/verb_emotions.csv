@@ -1,41 +1,41 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-verb,emotions,to love,strong positive feeling,amare,ah-MAH-reh,n/a,infinitive,n/a,1,verb,n/a,It’s easy to love Italy.,È facile amare l’Italia.,adorare,n/a
-verb,emotions,I love,first-person present,amo,AH-moh,n/a,present_1sg,n/a,1,verb,n/a,I love this city.,Amo questa città.,adoro,n/a
-verb,emotions,I loved,past completed action,ho amato,oh ah-MAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I loved the concert yesterday.,Ho amato il concerto ieri.,ho adorato,n/a
-verb,emotions,loving,ongoing action,amando,ah-MAN-doh,n/a,gerund,n/a,1,verb,n/a,Loving new places is natural.,Amando posti nuovi è naturale.,adorando,n/a
-verb,emotions,to like/appreciate,find pleasant,apprezzare,ah-PRET-tsah-reh,n/a,infinitive,n/a,1,verb,n/a,You will like Italian food.,Amerai apprezzare il cibo italiano.,gradire,n/a
-verb,emotions,I like/appreciate,first-person present,apprezzo,ah-PRET-tsoh,n/a,present_1sg,n/a,1,verb,n/a,I appreciate good coffee.,Apprezzo il buon caffè.,gradisco,n/a
-verb,emotions,I appreciated,past completed action,ho apprezzato,oh ah-PRET-tsah-toh,n/a,past_1sg,n/a,1,verb,n/a,I appreciated your help.,Ho apprezzato il tuo aiuto.,ho gradito,n/a
-verb,emotions,appreciating,ongoing action,apprezzando,ah-PRET-tsan-doh,n/a,gerund,n/a,1,verb,n/a,Appreciating art takes time.,Apprezzando l’arte ci vuole tempo.,gradendo,n/a
-verb,emotions,to feel,experience emotion,sentire,sen-TEE-reh,n/a,infinitive,n/a,1,verb,n/a,You may feel tired after travel.,Potresti sentire stanchezza dopo il viaggio.,provare,n/a
-verb,emotions,I feel,first-person present,sento,SEN-toh,n/a,present_1sg,n/a,1,verb,n/a,I feel happy today.,Sento felicità oggi.,provo,n/a
-verb,emotions,I felt,past completed action,ho sentito,oh sen-TEE-toh,n/a,past_1sg,n/a,1,verb,n/a,I felt cold last night.,Ho sentito freddo ieri notte.,ho provato,n/a
-verb,emotions,feeling,ongoing action,sentendo,sen-TEN-doh,n/a,gerund,n/a,1,verb,n/a,Feeling relaxed helps.,Sentendo relax si sta meglio.,provando,n/a
-verb,emotions,to hope,desire positive outcome,sperare,speh-RAH-reh,n/a,infinitive,n/a,1,verb,n/a,I hope for sunshine.,Spero che ci sia il sole.,augurarsi,n/a
-verb,emotions,I hope,first-person present,spero,SPEH-roh,n/a,present_1sg,n/a,1,verb,n/a,I hope everything is fine.,Spero che vada tutto bene.,mi auguro,n/a
-verb,emotions,I hoped,past completed action,ho sperato,oh speh-RAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I hoped for a table outside.,Ho sperato in un tavolo fuori.,ho auspicato,n/a
-verb,emotions,hoping,ongoing action,sperando,speh-RAN-doh,n/a,gerund,n/a,1,verb,n/a,Hoping helps you stay positive.,Sperando si resta positivi.,augurandosi,n/a
-verb,emotions,to fear,feel afraid,temere,teh-MEH-reh,n/a,infinitive,n/a,1,verb,n/a,Don’t fear the narrow streets.,Non temere i vicoli.,avere paura,n/a
-verb,emotions,I fear,first-person present,temo,TEH-moh,n/a,present_1sg,n/a,1,verb,n/a,I fear delays.,Temo ritardi.,ho paura,n/a
-verb,emotions,I feared,past completed action,ho temuto,oh teh-MOO-toh,n/a,past_1sg,n/a,1,verb,n/a,I feared bad weather yesterday.,Ho temuto il maltempo ieri.,ho avuto paura,n/a
-verb,emotions,fearing,ongoing action,temendo,teh-MEN-doh,n/a,gerund,n/a,1,verb,n/a,Fearing mistakes slows progress.,Temendo errori si rallenta.,avendo paura,n/a
-verb,emotions,to worry,feel concern,preoccuparsi,preh-ohk-koo-PAHR-see,n/a,infinitive,n/a,1,verb,n/a,Try not to worry about traffic.,Cerca di non preoccuparti del traffico.,ansiare,n/a
-verb,emotions,I worry,first-person present,mi preoccupo,mee preh-OHK-koo-poh,n/a,present_1sg,n/a,1,verb,n/a,I worry about missing the train.,Mi preoccupo di perdere il treno.,mi ansio,n/a
-verb,emotions,I worried,past completed action,mi sono preoccupato,mee SOH-no preh-ohk-koo-PAH-toh,n/a,past_1sg,n/a,1,verb,n/a,I worried yesterday evening.,Mi sono preoccupato ieri sera.,mi sono ansiato,n/a
-verb,emotions,worrying,ongoing action,preoccupandomi,preh-ohk-koo-PAN-doh-mee,n/a,gerund,n/a,1,verb,n/a,Worrying doesn’t help.,Preoccupandomi non aiuta.,ansiandomi,n/a
-verb,emotions,to relax,become calm,rilassarsi,ree-lahs-SAHR-see,n/a,infinitive,n/a,1,verb,n/a,You can relax at the spa.,Puoi rilassarti alla spa.,distendersi,n/a
-verb,emotions,I relax,first-person present,mi rilasso,mee ree-LAHS-soh,n/a,present_1sg,n/a,1,verb,n/a,I relax after dinner.,Mi rilasso dopo cena.,mi distendo,n/a
-verb,emotions,I relaxed,past completed action,mi sono rilassato,mee SOH-no ree-lahs-SA-toh,n/a,past_1sg,n/a,1,verb,n/a,I relaxed on the beach.,Mi sono rilassato in spiaggia.,mi sono disteso,n/a
-verb,emotions,relaxing,ongoing action,rilassandomi,ree-lahs-SAN-doh-mee,n/a,gerund,n/a,1,verb,n/a,Relaxing helps reduce stress.,Rilassandomi riduco lo stress.,distendendomi,n/a
-verb,emotions,to smile,express happiness,sorridere,sohr-REE-deh-reh,n/a,infinitive,n/a,1,verb,n/a,Remember to smile in photos.,Ricorda di sorridere nelle foto.,ridere,n/a
-verb,emotions,I smile,first-person present,sorrido,sohr-REE-doh,n/a,present_1sg,n/a,1,verb,n/a,I smile at new friends.,Sorrido ai nuovi amici.,rido,n/a
-verb,emotions,I smiled,past completed action,ho sorriso,oh sohr-REE-zoh,n/a,past_1sg,n/a,1,verb,n/a,I smiled all day.,Ho sorriso tutto il giorno.,ho riso,n/a
-verb,emotions,smiling,ongoing action,sorridendo,sohr-ree-DEN-doh,n/a,gerund,n/a,1,verb,n/a,Smiling makes people happy.,Sorridendo si rende felici.,ridendo,n/a
-verb,emotions,to cry,shed tears,piangere,PEE-ahn-jeh-reh,n/a,infinitive,n/a,1,verb,n/a,Try not to cry in public.,Cerca di non piangere in pubblico.,singhiozzare,n/a
-verb,emotions,I cry,first-person present,piango,PYAHN-goh,n/a,present_1sg,n/a,1,verb,n/a,I cry during sad movies.,Piango durante i film tristi.,singhiozzo,n/a
-verb,emotions,I cried,past completed action,ho pianto,oh PYAHN-toh,n/a,past_1sg,n/a,1,verb,n/a,I cried last night.,Ho pianto ieri notte.,ho singhiozzato,n/a
-verb,emotions,crying,ongoing action,piangendo,pee-ahn-JEN-doh,n/a,gerund,n/a,1,verb,n/a,Crying can bring relief.,Piangendo ci si sfoga.,singhiozzando,n/a
-verb,emotions,to enjoy oneself,have fun,divertirsi,dee-vehr-TEER-see,n/a,infinitive,n/a,1,verb,n/a,You should enjoy yourself tonight.,Dovresti divertirti stasera.,svagarsi,n/a
-verb,emotions,I enjoy myself,first-person present,mi diverto,mee dee-VER-toh,n/a,present_1sg,n/a,1,verb,n/a,I enjoy myself at parties.,Mi diverto alle feste.,mi svago,n/a
-verb,emotions,I enjoyed myself,past completed action,mi sono divertito,mee SOH-no dee-vehr-TEE-toh,n/a,past_1sg,n/a,1,verb,n/a,I enjoyed myself yesterday.,Mi sono divertito ieri.,mi sono svagato,n/a
-verb,emotions,enjoying oneself,ongoing action,divertendomi,dee-ver-TEN-doh-mee,n/a,gerund,n/a,1,verb,n/a,Enjoying oneself is important.,Divertendomi mi sento vivo.,svagandomi,n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+verb,emotions,to love,strong positive feeling,amare,ah-MAH-reh,,infinitive,,1,verb,,It’s easy to love Italy.,È facile amare l’Italia.,adorare,,amare
+verb,emotions,I love,first-person present,amo,AH-moh,,present_1sg,,1,verb,,I love this city.,Amo questa città.,adoro,,amare
+verb,emotions,I loved,past completed action,ho amato,oh ah-MAH-toh,,past_1sg,,1,verb,,I loved the concert yesterday.,Ho amato il concerto ieri.,ho adorato,,amare
+verb,emotions,loving,ongoing action,amando,ah-MAN-doh,,gerund,,1,verb,,Loving new places is natural.,Amando posti nuovi è naturale.,adorando,,amare
+verb,emotions,to like/appreciate,find pleasant,apprezzare,ah-PRET-tsah-reh,,infinitive,,1,verb,,You will like Italian food.,Amerai apprezzare il cibo italiano.,gradire,,apprezzare
+verb,emotions,I like/appreciate,first-person present,apprezzo,ah-PRET-tsoh,,present_1sg,,1,verb,,I appreciate good coffee.,Apprezzo il buon caffè.,gradisco,,apprezzare
+verb,emotions,I appreciated,past completed action,ho apprezzato,oh ah-PRET-tsah-toh,,past_1sg,,1,verb,,I appreciated your help.,Ho apprezzato il tuo aiuto.,ho gradito,,apprezzare
+verb,emotions,appreciating,ongoing action,apprezzando,ah-PRET-tsan-doh,,gerund,,1,verb,,Appreciating art takes time.,Apprezzando l’arte ci vuole tempo.,gradendo,,apprezzare
+verb,emotions,to feel,experience emotion,sentire,sen-TEE-reh,,infinitive,,1,verb,,You may feel tired after travel.,Potresti sentire stanchezza dopo il viaggio.,provare,,sentire
+verb,emotions,I feel,first-person present,sento,SEN-toh,,present_1sg,,1,verb,,I feel happy today.,Sento felicità oggi.,provo,,sentire
+verb,emotions,I felt,past completed action,ho sentito,oh sen-TEE-toh,,past_1sg,,1,verb,,I felt cold last night.,Ho sentito freddo ieri notte.,ho provato,,sentire
+verb,emotions,feeling,ongoing action,sentendo,sen-TEN-doh,,gerund,,1,verb,,Feeling relaxed helps.,Sentendo relax si sta meglio.,provando,,sentire
+verb,emotions,to hope,desire positive outcome,sperare,speh-RAH-reh,,infinitive,,1,verb,,I hope for sunshine.,Spero che ci sia il sole.,augurarsi,,sperare
+verb,emotions,I hope,first-person present,spero,SPEH-roh,,present_1sg,,1,verb,,I hope everything is fine.,Spero che vada tutto bene.,mi auguro,,sperare
+verb,emotions,I hoped,past completed action,ho sperato,oh speh-RAH-toh,,past_1sg,,1,verb,,I hoped for a table outside.,Ho sperato in un tavolo fuori.,ho auspicato,,sperare
+verb,emotions,hoping,ongoing action,sperando,speh-RAN-doh,,gerund,,1,verb,,Hoping helps you stay positive.,Sperando si resta positivi.,augurandosi,,sperare
+verb,emotions,to fear,feel afraid,temere,teh-MEH-reh,,infinitive,,1,verb,,Don’t fear the narrow streets.,Non temere i vicoli.,avere paura,,temere
+verb,emotions,I fear,first-person present,temo,TEH-moh,,present_1sg,,1,verb,,I fear delays.,Temo ritardi.,ho paura,,temere
+verb,emotions,I feared,past completed action,ho temuto,oh teh-MOO-toh,,past_1sg,,1,verb,,I feared bad weather yesterday.,Ho temuto il maltempo ieri.,ho avuto paura,,temere
+verb,emotions,fearing,ongoing action,temendo,teh-MEN-doh,,gerund,,1,verb,,Fearing mistakes slows progress.,Temendo errori si rallenta.,avendo paura,,temere
+verb,emotions,to worry,feel concern,preoccuparsi,preh-ohk-koo-PAHR-see,,infinitive,,1,verb,,Try not to worry about traffic.,Cerca di non preoccuparti del traffico.,ansiare,,preoccuparsi
+verb,emotions,I worry,first-person present,mi preoccupo,mee preh-OHK-koo-poh,,present_1sg,,1,verb,,I worry about missing the train.,Mi preoccupo di perdere il treno.,mi ansio,,preoccuparsi
+verb,emotions,I worried,past completed action,mi sono preoccupato,mee SOH-no preh-ohk-koo-PAH-toh,,past_1sg,,1,verb,,I worried yesterday evening.,Mi sono preoccupato ieri sera.,mi sono ansiato,,preoccupare
+verb,emotions,worrying,ongoing action,preoccupandomi,preh-ohk-koo-PAN-doh-mee,,gerund,,1,verb,,Worrying doesn’t help.,Preoccupandomi non aiuta.,ansiandomi,,preoccupandomare
+verb,emotions,to relax,become calm,rilassarsi,ree-lahs-SAHR-see,,infinitive,,1,verb,,You can relax at the spa.,Puoi rilassarti alla spa.,distendersi,,rilassarsi
+verb,emotions,I relax,first-person present,mi rilasso,mee ree-LAHS-soh,,present_1sg,,1,verb,,I relax after dinner.,Mi rilasso dopo cena.,mi distendo,,rilassarsi
+verb,emotions,I relaxed,past completed action,mi sono rilassato,mee SOH-no ree-lahs-SA-toh,,past_1sg,,1,verb,,I relaxed on the beach.,Mi sono rilassato in spiaggia.,mi sono disteso,,rilassare
+verb,emotions,relaxing,ongoing action,rilassandomi,ree-lahs-SAN-doh-mee,,gerund,,1,verb,,Relaxing helps reduce stress.,Rilassandomi riduco lo stress.,distendendomi,,rilassandomare
+verb,emotions,to smile,express happiness,sorridere,sohr-REE-deh-reh,,infinitive,,1,verb,,Remember to smile in photos.,Ricorda di sorridere nelle foto.,ridere,,sorridere
+verb,emotions,I smile,first-person present,sorrido,sohr-REE-doh,,present_1sg,,1,verb,,I smile at new friends.,Sorrido ai nuovi amici.,rido,,sorridere
+verb,emotions,I smiled,past completed action,ho sorriso,oh sohr-REE-zoh,,past_1sg,,1,verb,,I smiled all day.,Ho sorriso tutto il giorno.,ho riso,,sorrisare
+verb,emotions,smiling,ongoing action,sorridendo,sohr-ree-DEN-doh,,gerund,,1,verb,,Smiling makes people happy.,Sorridendo si rende felici.,ridendo,,sorridere
+verb,emotions,to cry,shed tears,piangere,PEE-ahn-jeh-reh,,infinitive,,1,verb,,Try not to cry in public.,Cerca di non piangere in pubblico.,singhiozzare,,piangere
+verb,emotions,I cry,first-person present,piango,PYAHN-goh,,present_1sg,,1,verb,,I cry during sad movies.,Piango durante i film tristi.,singhiozzo,,piangere
+verb,emotions,I cried,past completed action,ho pianto,oh PYAHN-toh,,past_1sg,,1,verb,,I cried last night.,Ho pianto ieri notte.,ho singhiozzato,,piantare
+verb,emotions,crying,ongoing action,piangendo,pee-ahn-JEN-doh,,gerund,,1,verb,,Crying can bring relief.,Piangendo ci si sfoga.,singhiozzando,,piangere
+verb,emotions,to enjoy oneself,have fun,divertirsi,dee-vehr-TEER-see,,infinitive,,1,verb,,You should enjoy yourself tonight.,Dovresti divertirti stasera.,svagarsi,,divertirsi
+verb,emotions,I enjoy myself,first-person present,mi diverto,mee dee-VER-toh,,present_1sg,,1,verb,,I enjoy myself at parties.,Mi diverto alle feste.,mi svago,,divertare
+verb,emotions,I enjoyed myself,past completed action,mi sono divertito,mee SOH-no dee-vehr-TEE-toh,,past_1sg,,1,verb,,I enjoyed myself yesterday.,Mi sono divertito ieri.,mi sono svagato,,divertire
+verb,emotions,enjoying oneself,ongoing action,divertendomi,dee-ver-TEN-doh-mee,,gerund,,1,verb,,Enjoying oneself is important.,Divertendomi mi sento vivo.,svagandomi,,divertendomare

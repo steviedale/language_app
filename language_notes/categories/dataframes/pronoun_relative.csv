@@ -1,3 +1,3 @@
-category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type
-pronoun,relative,that/which (rel.),relative pronoun joining clauses,che,KEH,n/a,n/a,n/a,1,pronoun,n/a,"The book that I read was good.","Il libro che ho letto era buono.","il quale",n/a
-pronoun,relative,which/whom (rel.),relative pronoun used after a preposition,cui,KOO-ee,n/a,n/a,n/a,1,pronoun,n/a,"The hotel in which we stayed.","L'hotel in cui abbiamo soggiornato.","il quale",n/a
+category,sub_category,english,definition_en,italian,pronunciation,singular_plural,tense,gender,commonness,part_of_speech,formal_informal,example_sentence_en,example_sentence_it,related_words_it,article_type,base_word
+pronoun,relative,that/which,relative pronoun joining clauses,che,KEH,,,,1,pronoun,,The book that I read was good.,Il libro che ho letto era buono.,il quale,,che
+pronoun,relative,which/whom,relative pronoun used after a preposition,cui,KOO-ee,,,,1,pronoun,,The hotel in which we stayed.,L'hotel in cui abbiamo soggiornato.,il quale,,cui
