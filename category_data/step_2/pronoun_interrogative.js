@@ -1,0 +1,147 @@
+samples = [
+  {
+    "english": {
+      "text": "who",
+      "hash": "e52acc3a54a549918e4703f6d1c8e45060dd7dbfa1d808e1ca1fbdafa1a8c505",
+      "audio_file": require("./audio/individual/e52acc3a54a549918e4703f6d1c8e45060dd7dbfa1d808e1ca1fbdafa1a8c505.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 672
+    },
+    "italian": {
+      "text": "chi",
+      "hash": "9ed007804e18b9e1a0e8156ce37cacd4242cf1b2356658dc2be5ec03506bc086",
+      "audio_file": require("./audio/individual/9ed007804e18b9e1a0e8156ce37cacd4242cf1b2356658dc2be5ec03506bc086.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 600
+    },
+    "category": "pronoun",
+    "sub_category": "interrogative",
+    "definition_en": "interrogative pronoun asking about a person",
+    "pronunciation": "KEE",
+    "singular_plural": "singular",
+    "tense": "",
+    "gender": "",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "Who is at the door?",
+    "example_sentence_it": "Chi è alla porta?",
+    "related_words_it": "chiunque",
+    "article_type": "",
+    "base_word": "chi",
+    "combined_audio_file": require("./audio/combined/0.mp3")
+  },
+  {
+    "english": {
+      "text": "what",
+      "hash": "678ce9c83b6dc98914d96f9365f427948eb7a46fb4c02bc889b0aa5396271335",
+      "audio_file": require("./audio/individual/678ce9c83b6dc98914d96f9365f427948eb7a46fb4c02bc889b0aa5396271335.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 624
+    },
+    "italian": {
+      "text": "che cosa",
+      "hash": "ca431dad92c0dedc3ed5470e2e4b3ebb3602ace9d809ec7993bff4be9960f7cf",
+      "audio_file": require("./audio/individual/ca431dad92c0dedc3ed5470e2e4b3ebb3602ace9d809ec7993bff4be9960f7cf.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1080
+    },
+    "category": "pronoun",
+    "sub_category": "interrogative",
+    "definition_en": "interrogative pronoun asking about a thing",
+    "pronunciation": "KEH KOH-zah",
+    "singular_plural": "singular",
+    "tense": "",
+    "gender": "",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "What is that?",
+    "example_sentence_it": "Che cosa è quello?",
+    "related_words_it": "cosa",
+    "article_type": "",
+    "base_word": "che",
+    "combined_audio_file": require("./audio/combined/1.mp3")
+  },
+  {
+    "english": {
+      "text": "which",
+      "hash": "d4fca6e882b550b7896c981e13afb660318e1a183c5751cea96259b44e3e37cf",
+      "audio_file": require("./audio/individual/d4fca6e882b550b7896c981e13afb660318e1a183c5751cea96259b44e3e37cf.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 768
+    },
+    "italian": {
+      "text": "quale",
+      "hash": "7c9da026c40a85de7a274038395ec225671adc0cfc2dea101198432067927788",
+      "audio_file": require("./audio/individual/7c9da026c40a85de7a274038395ec225671adc0cfc2dea101198432067927788.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 864
+    },
+    "category": "pronoun",
+    "sub_category": "interrogative",
+    "definition_en": "interrogative pronoun singular",
+    "pronunciation": "KWAH-leh",
+    "singular_plural": "singular",
+    "tense": "",
+    "gender": "",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "Which do you prefer?",
+    "example_sentence_it": "Quale preferisci?",
+    "related_words_it": "che",
+    "article_type": "",
+    "base_word": "quale",
+    "combined_audio_file": require("./audio/combined/2.mp3")
+  },
+  {
+    "english": {
+      "text": "which",
+      "hash": "d4fca6e882b550b7896c981e13afb660318e1a183c5751cea96259b44e3e37cf",
+      "audio_file": require("./audio/individual/d4fca6e882b550b7896c981e13afb660318e1a183c5751cea96259b44e3e37cf.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 768
+    },
+    "italian": {
+      "text": "quali",
+      "hash": "1ebf681a8bcb14f45f0c5943756bed009ba38c91da034ebec82afd86fcf9ddd9",
+      "audio_file": require("./audio/individual/1ebf681a8bcb14f45f0c5943756bed009ba38c91da034ebec82afd86fcf9ddd9.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 888
+    },
+    "category": "pronoun",
+    "sub_category": "interrogative",
+    "definition_en": "interrogative pronoun plural",
+    "pronunciation": "KWAH-lee",
+    "singular_plural": "plural",
+    "tense": "",
+    "gender": "",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "Which are yours?",
+    "example_sentence_it": "Quali sono i tuoi?",
+    "related_words_it": "che",
+    "article_type": "",
+    "base_word": "quale",
+    "combined_audio_file": require("./audio/combined/3.mp3")
+  }
+];
+export default samples;

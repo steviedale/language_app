@@ -1,53 +1,108 @@
 english,italian
-a moment,un momento
-a day,un giorno
-a week,una settimana
-a month,un mese
-a year,un anno
-today,oggi
-tomorrow,domani
-yesterday,ieri
-now,ora / adesso
-not now,non ora / non adesso
-not yet,non ancora
-this year,quest'anno
-the next year,l'anno prossimo
-the last year,l'anno scorso / lanno passato
-the other day,l'altro giorno
-in two days,fra due giorni / tra due giorni
-within two days,entro due giorni
-two days ago, due giorni fa
-two times,due volte
-three times,tre volte
-one more time / another time,un'altra volta
-another time,ancora / di nuovo
-in time,cotempo
-on time / on schedule,in orario
-who,chi
-who is it,chi è
-what,che / che cosa
-what is it,che cos'è
-what is this,che cos'è questo
-what is that,che cos'è quello
-what is that over there,che cos'è quello laggiù
-what did you say,che cosa hai detto
-when,quando
-when does the train leave,quando parte il treno
-where, dove
-where is the subway,dove la metropolitana
-which,quale
-which is the bus for venice,quale l'autobus per venezia
-why,perché
-why not,perché no
-how,come
-how are you (familiar),come stai
-how much,quanto
-how many,quanti
-how many kilometers,quanti chilometri
-how far is it,quanto lontano / quanto dista
-do you want (polite),vuole
-do you want (familiar),vuoi
-do you want (plural),volete
+I,io
+you (familiar),tu
+you (polite),Lei
+he,lui
+she,lei
+this,questo / questa
+we,noi
+you (plural),voi
+they,loro
+good morning / good day,buongiorno
+good evening,buonasera
+good night,buonanotte
+goodbye,arrivederci
+hello / goodbye,ciao
+please,per favore / per piacere
+thank you,grazie
+you're welcome / please,prego
+yes,sì
+no,no
+good,buono
+bad,cativo
+sir / mister,signore
+madam / misses,signora
+miss,signorina
+I want,io voglio
+I don't want,io non voglio
+where,dove
+where is / where is it,dove è
+where is the toilet / where is the bathroom,dove è il bagno
+how much does it cost,quanto costa
+time / hour,ora
+what time / which hour,che ora
+at what time,a che ora
+you have (polite),Lei ha
+do you have (polite),ha
+I understand,io capisco
+I don't understand,io non capisco
+do you understand,Lei capisce
+it is,è
+is it?,è?
+train,treno
+a train,un treno
+the train,il treno
+the trains,i treni
+an automobile,una macchina
+the automobile,la macchina
+the automobiles,le macchine
+a taxi,un taxi
+the taxi,il taxi
+a ship,una nave
+the ship,la nave
+an airplain,un aereo
+the airplain,l'aereo
+the bus,l'autobus
+a bus,un autobus
+the bus stop,la fermata dell'autobus
+a bus stop,una fermata dell'autobus
+a ticket,un biglietto
+the ticket,il biglietto
+the ticket window / the ticket office,la biglietteria
+an airport,un aeroporto
+the airport,l'aeroporto
+the flight,il volo
+a connection,una coincidenza
+the connection,la coincidenza
+the connections,le coincidenze
+the gate,l'uscita
+the railway,la ferrovia
+the station,la stazione
+the railway station,la stazione ferroviaria
+the bus terminal,il capolinea dell'autobus
+the platform,il marciapiede
+which platform,quale marciapiede
+which track,quale binario
+which traincar,quale carrozza
+where is the train station,dov'è la stazione ferroviaria
+to the train station please,alla stazione ferroviaria per favore
+to the airport please,all'aeroporto per favore
+I want a taxi,vorrei un taxi
+I would like,vorrei
+I would like a ticket,vorrei un biglietto
+a ticket to / a ticket for,un biglietto per
+the train to Rome / the train for Rome,il treno per Roma
+the train from Naples,il treno da Napoli
+the train from Naples to Rome,il treno da Napoli a Roma
+first,primo / prima
+first class,prima classe
+second class,seconda classe
+a one way ticket,un biglietto di andata
+round trip ticket,un biglietto di andata e ritorno
+to smoke,fumare
+no smoking,vietato fumare
+non-smokers,non fumatori
+at what time does the train leave,a che ora parte il treno
+at what time does the train arrive,a che ora arriva il treno
+where is the bus to Milan,dov'è l'autobus per Milano
+which number,quale numero
+which seat,quale posto
+seat number five,posto numero cinque
+a time table / a schedule,un orario
+the first train,il primo treno
+the second train,il secondo treno
+the next train,il prossimo treno
+the last train,l'ultimo treno
 the money,il denaro / i soldi
 European money,euro
 the coin,la moneta
@@ -68,6 +123,69 @@ a check,un assegno
 to travel,viaggiare
 credit,credito
 a credit card,una carta di credito
+a hotel,un albergo / un hotel
+a hostel,un ostello
+a room,una stanza / una camera
+a better room,una camera migliore
+I would like a better room,vorrei una camera migliore
+a bathroom,un bagno
+with bathroom,con bagno
+without bathroom,senza bagno
+a shower,una doccia
+a toilet,una toilette / un gabinetto
+a wash basin,un lavandino
+I would like a room with a bathroom and a shower,vorrei una camera con bagno e una doccia
+expensive,caro / costoso
+very expensive,molto caro
+too much,troppo
+too expensive,troppo caro
+it's too expensive,è troppo caro
+cheap,economico / a buon mercato
+cheaper / more cheap,più economico
+do you have a less expensive room (polite),ha una camera meno cara
+do you have the key? (polite),ha la chiave?
+the week,la settimana
+per week,per settimana / a settimana
+per night,per notte
+air conditioning,aria condizionata
+vacancy / rooms available,stanze libere
+no vacancy / all occupied,tutto occupato
+it works,funziona
+it does not work,non funziona
+the shower does not work,la doccia non funziona
+the shower is broken,la doccia è rotta
+to make,fare
+I would like to make a reservation,vorrei fare una prenotazione
+the water,l'acqua
+drinking water,acqua potabile
+the luggage,i bagagli
+my luggage,i miei bagagli
+the suitcase,la valigia
+the suitcases,le valigie
+my suitcase,la mia valigia
+my suitcases,le mie valigie
+this suitcase,questa valigia
+that suitcase,quella valigia
+that one,quella / quello
+that one over there,quella là / quella lì
+this ticket,questo biglietto
+a backpack,uno zaino
+the counter,il banco
+the baggage claim,il ritiro bagagli
+the key,la chiave
+a locker,un armadietto
+the railroad,la ferrovia
+the little town,la piazza
+the village,il villaggio
+the city,la città
+a map,una cartina
+a map of the city,una cartina della città
+open,aperto / aperta
+close,chiuso / chiusa
+the passport,il passaporto
+a ticket book / a block of tickets,un blocchetto di biglietti
+the police,la polizia
+a police officer,un poliziotto / una guardia
 to the right,a destra
 to the left,a sinistra
 turn to the right,gira a destra
@@ -106,59 +224,59 @@ seven,sette
 eight,otto
 nine,nove
 ten,dieci
-where is the train station,dov'è la stazione ferroviaria
-to the train station please,alla stazione ferroviaria per favore
-to the airport please,all'aeroporto per favore
-I want a taxi,vorrei un taxi
-I would like,vorrei
-I would like a ticket,vorrei un biglietto
-a ticket to / a ticket for,un biglietto per
-the train to Rome / the train for Rome,il treno per Roma
-the train from Naples,il treno da Napoli
-the train from Naples to Rome,il treno da Napoli a Roma
-first,primo / prima
-first class,prima classe
-second class,seconda classe
-a one way ticket,un biglietto di andata
-round trip ticket,un biglietto di andata e ritorno
-to smoke,fumare
-no smoking,vietato fumare
-non-smokers,non fumatori
-at what time does the train leave,a che ora parte il treno
-at what time does the train arrive,a che ora arriva il treno
-where is the bus to Milan,dov'è l'autobus per Milano
-which number,quale numero
-which seat,quale posto
-seat number five,posto numero cinque
-a time table / a schedule,un orario
-the first train,il primo treno
-the second train,il secondo treno
-the next train,il prossimo treno
-the last train,l'ultimo treno
-I,io
-you (familiar),tu
-you (polite),Lei
-he,lui
-she,lei
-this,questo / questa
-we,noi
-you (plural),voi
-they,loro
-good morning / good day,buongiorno
-good evening,buonasera
-good night,buonanotte
-goodbye,arrivederci
-hello / goodbye,ciao
-please,per favore / per piacere
-thank you,grazie
-you're welcome / please,prego
-yes,sì
-no,no
-good,buono
-bad,cativo
-sir / mister,signore
-madam / misses,signora
-miss,signorina
+eleven,undici
+twelve,dodici
+thirteen,tredici
+fourteen,quattordici
+fifteen,quindici
+sixteen,sedici
+seventeen,diciassette
+eighteen,diciotto
+nineteen,diciannove
+twenty,venti
+twenty one,ventuno
+twenty two,ventidue
+twenty three,ventitre
+twenty four,ventiquattro
+twenty five,venticinque
+twenty six,ventisei
+twenty seven,ventisette
+twenty eight,ventotto
+twenty nine,ventinove
+thirty,trenta
+thirty one,trentuno
+thirty two,trentadue
+thirty three,trentatre
+forty,quaranta
+forty one,quarantuno
+forty two,quarantadue
+fifty,cinquanta
+sixty,sessanta
+seventy,settanta
+eighty,ottanta
+ninety,novanta
+one hundred,cento
+one hundred one,cento uno
+one hundred two,cento due
+one hundred fifteen,cento quindici
+two hundred,duecento
+two hundred twenty,duecentoventi
+three hundred,trecento
+four hundred,quattrocento
+five hundred,cinquecento
+six hundred,seicento
+seven hundred,settecento
+eight hundred,ottocento
+nine hundred,novecento
+one thousand,mille
+one thousand one hundred,millecento
+one thousand two hundred,milleduecento
+one thousand five hundred,millecinquecento
+one thousand seven hundred,millesettecento
+ten thousand,diecimila
+twenty thousand,ventimila
+one hundred thousand,centomila
+one million,un milione
 a table,un tavolo
 for how many persons,per quante persone
 we would like a table for two,vorremmo un tavolo per due
@@ -192,44 +310,6 @@ to pay,pagare
 I would like to pay,vorrei pagare
 two coffees please, due caffè per piacere
 do you want dessert, vuole dessert
-one hundred,cento
-one hundred one,cento uno
-one hundred two,cento due
-one hundred fifteen,cento quindici
-two hundred,duecento
-two hundred twenty,duecentoventi
-three hundred,trecento
-four hundred,quattrocento
-five hundred,cinquecento
-six hundred,seicento
-seven hundred,settecento
-eight hundred,ottocento
-nine hundred,novecento
-one thousand,mille
-one thousand one hundred,millecento
-one thousand two hundred,milleduecento
-one thousand five hundred,millecinquecento
-one thousand seven hundred,millesettecento
-ten thousand,diecimila
-twenty thousand,ventimila
-one hundred thousand,centomila
-one million,un milione
-I want,io voglio
-I don't want,io non voglio
-where,dove
-where is / where is it,dove è
-where is the toilet / where is the bathroom,dove è il bagno
-how much does it cost,quanto costa
-time / hour,ora
-what time / which hour,che ora
-at what time,a che ora
-you have (polite),Lei ha
-do you have (polite),ha
-I understand,io capisco
-I don't understand,io non capisco
-do you understand,Lei capisce
-it is,è
-is it?,è?
 how much is it,quante
 this one (masculine),questo
 that one (masculine),quello
@@ -249,7 +329,6 @@ like this one but bigger,come questo ma più grande
 better,meglio
 more expensive,più caro
 less expensive,meno caro
-too expensive,troppo caro
 cheap, poco caro
 something,qualcosa
 I would like something more or less like this,vorrei qualcosa più meno così
@@ -257,50 +336,30 @@ I would like something less expensive,vorrei qualcosa di meno caro
 I'm looking for,cerco
 no not like that,no non così
 Thank you sir,grazie signore
-the store / the shop,il negozio
-a bakery,un panificio / una panetteria
-the butcher,il macellaio
-a pharmacy,una farmacia
-the supermarket,il supermercato
-the pastry shop,la pasticceria
-the office,l'ufficio
-the post office,l'ufficio postale / la posta
-a laundry,una lavanderia
-the barber,il barbiere
-the hair dresser,il parrucchiere
-a beauty salon,un salone di bellezza
-a book shop,una libreria
-the department store,il grande magazzino
-a market,un mercato
-the police station,la stazione di polizia
-a restaurant,un ristorante
-the cafe / the coffee house,il caffè / il bar
-an agency,un'agenzia
-a travel agency,un'agenzia viaggi
-the deli,la salumeria
-an ice cream parlor,una gelateria
-twenty,venti
-twenty one,ventuno
-twenty two,ventidue
-twenty three,ventitre
-twenty four,ventiquattro
-twenty five,venticinque
-twenty six,ventisei
-twenty seven,ventisette
-twenty eight,ventotto
-twenty nine,ventinove
-thirty,trenta
-thirty one,trentuno
-thirty two,trentadue
-thirty three,trentatre
-forty,quaranta
-forty one,quarantuno
-forty two,quarantadue
-fifty,cinquanta
-sixty,sessanta
-seventy,settanta
-eighty,ottanta
-ninety,novanta
+a moment,un momento
+a day,un giorno
+a week,una settimana
+a month,un mese
+a year,un anno
+today,oggi
+tomorrow,domani
+yesterday,ieri
+now,ora / adesso
+not now,non ora / non adesso
+not yet,non ancora
+this year,quest'anno
+the next year,l'anno prossimo
+the last year,l'anno scorso / lanno passato
+the other day,l'altro giorno
+in two days,fra due giorni / tra due giorni
+within two days,entro due giorni
+two days ago, due giorni fa
+two times,due volte
+three times,tre volte
+one more time / another time,un'altra volta
+another time,ancora / di nuovo
+in time,cotempo
+on time / on schedule,in orario
 the time,il tempo / l'ora
 how long / how much time,quanto tempo
 what time is it,che ore e
@@ -326,112 +385,89 @@ eight o'clock in the morning,le otto dela mattino
 four o'clock in the afternoon,le quattro del pomeriggio
 eight o'clock at night,le otto di sera
 sixteen twenty,le sedici e venti
-train,treno
-a train,un treno
-the train,il treno
-the trains,i treni
-an automobile,una macchina
-the automobile,la macchina
-the automobiles,le macchine
-a taxi,un taxi
-the taxi,il taxi
-a ship,una nave
-the ship,la nave
-an airplain,un aereo
-the airplain,l'aereo
-the bus,l'autobus
-a bus,un autobus
-the bus stop,la fermata dell'autobus
-a bus stop,una fermata dell'autobus
-a ticket,un biglietto
-the ticket,il biglietto
-the ticket window / the ticket office,la biglietteria
-an airport,un aeroporto
-the airport,l'aeroporto
-the flight,il volo
-a connection,una coincidenza
-the connection,la coincidenza
-the connections,le coincidenze
-the gate,l'uscita
-the railway,la ferrovia
-the station,la stazione
-the railway station,la stazione ferroviaria
-the bus terminal,il capolinea dell'autobus
-the platform,il marciapiede
-which platform,quale marciapiede
-which track,quale binario
-which traincar,quale carrozza
-the water,l'acqua
-drinking water,acqua potabile
-the luggage,i bagagli
-my luggage,i miei bagagli
-the suitcase,la valigia
-the suitcases,le valigie
-my suitcase,la mia valigia
-my suitcases,le mie valigie
-this suitcase,questa valigia
-that suitcase,quella valigia
-that one,quella / quello
-that one over there,quella là / quella lì
-this ticket,questo biglietto
-a backpack,uno zaino
-the counter,il banco
-the baggage claim,il ritiro bagagli
-the key,la chiave
-a locker,un armadietto
-the railroad,la ferrovia
-the little town,la piazza
-the village,il villaggio
-the city,la città
-a map,una cartina
-a map of the city,una cartina della città
-open,aperto / aperta
-close,chiuso / chiusa
-the passport,il passaporto
-a ticket book / a block of tickets,un blocchetto di biglietti
-the police,la polizia
-a police officer,un poliziotto / una guardia
-a hotel,un albergo / un hotel
-a hostel,un ostello
-a room,una stanza / una camera
-a better room,una camera migliore
-I would like a better room,vorrei una camera migliore
-a bathroom,un bagno
-with bathroom,con bagno
-without bathroom,senza bagno
-a shower,una doccia
-a toilet,una toilette / un gabinetto
-a wash basin,un lavandino
-I would like a room with a bathroom and a shower,vorrei una camera con bagno e una doccia
-expensive,caro / costoso
-very expensive,molto caro
-too much,troppo
-it's too expensive,è troppo caro
-cheap,economico / a buon mercato
-cheaper / more cheap,più economico
-do you have a less expensive room (polite),ha una camera meno cara
-do you have the key? (polite),ha la chiave?
-the week,la settimana
-per week,per settimana / a settimana
-per night,per notte
-air conditioning,aria condizionata
-vacancy / rooms available,stanze libere
-no vacancy / all occupied,tutto occupato
-it works,funziona
-it does not work,non funziona
-the shower does not work,la doccia non funziona
-the shower is broken,la doccia è rotta
-to make,fare
-I would like to make a reservation,vorrei fare una prenotazione
-eleven,undici
-twelve,dodici
-thirteen,tredici
-fourteen,quattordici
-fifteen,quindici
-sixteen,sedici
-seventeen,diciassette
-eighteen,diciotto
-nineteen,diciannove
+who,chi
+who is it,chi è
+what,che / che cosa
+what is it,che cos'è
+what is this,che cos'è questo
+what is that,che cos'è quello
+what is that over there,che cos'è quello laggiù
+what did you say,che cosa hai detto
+when,quando
+when does the train leave,quando parte il treno
+where, dove
+where is the subway,dove la metropolitana
+which,quale
+which is the bus for venice,quale l'autobus per venezia
+why,perché
+why not,perché no
+how,come
+how are you (familiar),come stai
+how much,quanto
+how many,quanti
+how many kilometers,quanti chilometri
+how far is it,quanto lontano / quanto dista
+do you want (polite),vuole
+do you want (familiar),vuoi
+do you want (plural),volete
+the store / the shop,il negozio
+a bakery,un panificio / una panetteria
+the butcher,il macellaio
+a pharmacy,una farmacia
+the supermarket,il supermercato
+the pastry shop,la pasticceria
+the office,l'ufficio
+the post office,l'ufficio postale / la posta
+a laundry,una lavanderia
+the barber,il barbiere
+the hair dresser,il parrucchiere
+a beauty salon,un salone di bellezza
+a book shop,una libreria
+the department store,il grande magazzino
+a market,un mercato
+the police station,la stazione di polizia
+a restaurant,un ristorante
+the cafe / the coffee house,il caffè / il bar
+an agency,un'agenzia
+a travel agency,un'agenzia viaggi
+the deli,la salumeria
+an ice cream parlor,una gelateria
+the town / the city,la città
+a country,un paese
+the name,il nome
+the food,il cibo
+a state,uno stato
+the united states,gli stati uniti
+a gift,un regalo
+a male friend,un amico
+a female friend,una amica
+the postage stamp,il francobollo
+an entrance,un'entrata
+the exit,l'uscita
+the clothes,i vestiti
+my things / my stuff,la mia roba
+the dirty laundry,la roba sporca
+a thing,una cosa
+some,qualche
+sometimes,talora / qualche volta
+the other / the other one,l'altro / l'altra
+nothing,niente / nulla
+a man,un uomo
+a woman,una donna
+a wife,una moglie
+the husband,il marito
+a child,un bambino / una bambina
+the weather,il tempo
+a word,una parola
+the consulate,il consolato
+the beach,la spiaggia
+the problem,il problema
+a piece,un pezzo
+the cashier's desk,la cassa
+a delay,un ritardo
+the opposite,il contrario
+a house,una casa
+a little boat,una barca
 big / tall / great,grande
 big / thick / heavy,grosso / grossa
 small,piccolo / piccola
@@ -489,39 +525,34 @@ British,britannico / britannica
 Italian,italiano / italiana
 tall / high,alto / alta
 short / low,basso / bassa
-the town / the city,la città
-a country,un paese
-the name,il nome
-the food,il cibo
-a state,uno stato
-the united states,gli stati uniti
-a gift,un regalo
-a male friend,un amico
-a female friend,una amica
-the postage stamp,il francobollo
-an entrance,un'entrata
-the exit,l'uscita
-the clothes,i vestiti
-my things / my stuff,la mia roba
-the dirty laundry,la roba sporca
-a thing,una cosa
-some,qualche
-sometimes,talora / qualche volta
-the other / the other one,l'altro / l'altra
-nothing,niente / nulla
-a man,un uomo
-a woman,una donna
-a wife,una moglie
-the husband,il marito
-a child,un bambino / una bambina
-the weather,il tempo
-a word,una parola
-the consulate,il consolato
-the beach,la spiaggia
-the problem,il problema
-a piece,un pezzo
-the cashier's desk,la cassa
-a delay,un ritardo
-the opposite,il contrario
-a house,una casa
-a little boat,una barca
+to / at,a
+from,da
+of,di
+with,con
+without,senza
+for / intended for,per
+by,da / presso 
+per,per
+on / over,su / sopra
+on top of,in cima a
+under / below,sotto
+in / into,in
+inside,dentro
+within,entro
+outside,fuori
+in front of / ahead of,davanti a
+in back of / behind,dietro a
+before,prima di
+after,dopo di
+near to / next to,vicino a
+far from,lontano da
+beside,accanto a
+around,intorno a
+against,contro
+between,tra / fra
+during,durante
+since / ever since,da / fin da
+in the middle of,nel mezzo di / in mezzo a
+through / across,attraverso
+across from / on the other side of,del l'altro lato di
+at the house of,alla casa di

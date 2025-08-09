@@ -1,0 +1,147 @@
+samples = [
+  {
+    "english": {
+      "text": "someone",
+      "hash": "49b8fe2aaab54683b409d1aeee24bc2c452330532b71a108eeb391362010fb6f",
+      "audio_file": require("./audio/individual/49b8fe2aaab54683b409d1aeee24bc2c452330532b71a108eeb391362010fb6f.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 840
+    },
+    "italian": {
+      "text": "qualcuno",
+      "hash": "907de06f637d726864f4f788fec842d4843aaa394ae0b909bffc72560b53d51b",
+      "audio_file": require("./audio/individual/907de06f637d726864f4f788fec842d4843aaa394ae0b909bffc72560b53d51b.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1128
+    },
+    "category": "pronoun",
+    "sub_category": "indefinite",
+    "definition_en": "indefinite pronoun for an unspecified person",
+    "pronunciation": "kwal-KOO-noh",
+    "singular_plural": "singular",
+    "tense": "",
+    "gender": "masculine",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "Someone is calling you.",
+    "example_sentence_it": "Qualcuno ti sta chiamando.",
+    "related_words_it": "chiunque",
+    "article_type": "",
+    "base_word": "qualcuno",
+    "combined_audio_file": require("./audio/combined/0.mp3")
+  },
+  {
+    "english": {
+      "text": "something",
+      "hash": "8f369b258bf5284108303b4e3fe27531293cc1bbc630757b7918bf1a52143b22",
+      "audio_file": require("./audio/individual/8f369b258bf5284108303b4e3fe27531293cc1bbc630757b7918bf1a52143b22.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 840
+    },
+    "italian": {
+      "text": "qualcosa",
+      "hash": "7163b1778b4dcb7067b906c0801f25195e4491a297e5bdc89c7585657beeea59",
+      "audio_file": require("./audio/individual/7163b1778b4dcb7067b906c0801f25195e4491a297e5bdc89c7585657beeea59.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1176
+    },
+    "category": "pronoun",
+    "sub_category": "indefinite",
+    "definition_en": "indefinite pronoun for an unspecified thing",
+    "pronunciation": "kwal-KOH-zah",
+    "singular_plural": "singular",
+    "tense": "",
+    "gender": "",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "I need something to eat.",
+    "example_sentence_it": "Ho bisogno di qualcosa da mangiare.",
+    "related_words_it": "qualche cosa",
+    "article_type": "",
+    "base_word": "qualcosa",
+    "combined_audio_file": require("./audio/combined/1.mp3")
+  },
+  {
+    "english": {
+      "text": "nobody",
+      "hash": "b8e2b139f4bf67d2e69dc129d24d0bb652fec336556c2fd6e504444f21b86b9a",
+      "audio_file": require("./audio/individual/b8e2b139f4bf67d2e69dc129d24d0bb652fec336556c2fd6e504444f21b86b9a.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 912
+    },
+    "italian": {
+      "text": "nessuno",
+      "hash": "4f8413369d08af9220aaba7fd4754557c868a15ef0a559644769afd7b8b5b476",
+      "audio_file": require("./audio/individual/4f8413369d08af9220aaba7fd4754557c868a15ef0a559644769afd7b8b5b476.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1152
+    },
+    "category": "pronoun",
+    "sub_category": "indefinite",
+    "definition_en": "negative indefinite pronoun",
+    "pronunciation": "neh-SOO-noh",
+    "singular_plural": "singular",
+    "tense": "",
+    "gender": "masculine",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "Nobody is here.",
+    "example_sentence_it": "Non c'è nessuno qui.",
+    "related_words_it": "alcuno",
+    "article_type": "",
+    "base_word": "nessuno",
+    "combined_audio_file": require("./audio/combined/2.mp3")
+  },
+  {
+    "english": {
+      "text": "nothing",
+      "hash": "d237b8046cf3fbe70860ee725dede5f5b554048fbb9a76647621ea3af7bd8d42",
+      "audio_file": require("./audio/individual/d237b8046cf3fbe70860ee725dede5f5b554048fbb9a76647621ea3af7bd8d42.mp3"),
+      "voice_name": "en-US-Wavenet-D",
+      "speaking_rate": 1.0,
+      "pitch": 0,
+      "duration_ms": 840
+    },
+    "italian": {
+      "text": "niente",
+      "hash": "2f60e61655c563eda86858477d3e7c8e7d2908bca5debb6379f3e547f0b1bf3b",
+      "audio_file": require("./audio/individual/2f60e61655c563eda86858477d3e7c8e7d2908bca5debb6379f3e547f0b1bf3b.mp3"),
+      "voice_name": "it-IT-Wavenet-D",
+      "speaking_rate": 0.75,
+      "pitch": 0,
+      "duration_ms": 1032
+    },
+    "category": "pronoun",
+    "sub_category": "indefinite",
+    "definition_en": "negative indefinite pronoun",
+    "pronunciation": "NYEHN-teh",
+    "singular_plural": "singular",
+    "tense": "",
+    "gender": "",
+    "commonness": 1,
+    "part_of_speech": "pronoun",
+    "formal_informal": "",
+    "example_sentence_en": "Nothing is impossible.",
+    "example_sentence_it": "Niente è impossibile.",
+    "related_words_it": "nulla",
+    "article_type": "",
+    "base_word": "niente",
+    "combined_audio_file": require("./audio/combined/3.mp3")
+  }
+];
+export default samples;

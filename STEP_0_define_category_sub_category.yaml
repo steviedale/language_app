@@ -1,0 +1,41 @@
+# category: verb
+
+# sub_category: directions
+# sub_category: emotions
+# sub_category: shopping
+# sub_category: jewelry_and_metal_working
+
+# category: noun
+# sub_category: directions
+# sub_category: drinks
+# sub_category: fashion
+# sub_category: food
+# sub_category: general
+# sub_category: jewelry_and_metal_working
+# sub_category: people
+# sub_category: places
+# sub_category: restaurant
+# sub_category: time
+# sub_category: travel
+# sub_category: weather
+
+# category: adjective
+# sub_category: color
+# sub_category: cost
+# sub_category: emotion
+# sub_category: general
+# sub_category: quality
+# sub_category: quantity
+# sub_category: shopping
+# sub_category: size
+# sub_category: temperature
+
+category: pronoun
+# sub_category: demonstrative
+# sub_category: indefinite
+# sub_category: interrogative
+# sub_category: object
+# sub_category: possessive
+# sub_category: reflexive
+# sub_category: relative
+sub_category: subject
