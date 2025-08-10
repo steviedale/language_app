@@ -1,7 +1,6 @@
 english,italian
 
 ### Nouns ###
-train,treno,train
 a train,un treno,train
 the train,il treno,train
 the trains,i treni,train
@@ -42,16 +41,25 @@ an airport,un aeroporto,airport
 the airport,l'aeroporto,airport
 the airports,gli aeroporti,airport
 
+flight,
 a flight,un volo,flight
 the flight,il volo,flight
 the flights,i voli,flight
 
+connection,
 a connection,una coincidenza,connection
 the connection,la coincidenza,connection
 the connections,le coincidenze,conection
 
-the gate,l'uscita
+gate,
+a gate,
+the gate,l'uscita,gate
+the gates,
+
+a railway,
 the railway,la ferrovia
+the railways,
+
 the station,la stazione
 the railway station,la stazione ferroviaria
 the bus terminal,il capolinea dell'autobus
